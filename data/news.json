@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T05:57:00.934850+00:00",
+  "generated_at": "2026-09-08T05:58:01.861719+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -124,14 +124,6 @@
           "source_scope": "Internacional"
         },
         {
-          "title": "Inflation, Apple, Adobe, Oracle, Macy’s, and More to Watch This Week",
-          "link": "https://www.barrons.com/articles/inflation-apple-adobe-oracle-macys-and-more-to-watch-this-week-23a2c022?siteid=yhoof2&yptr=yahoo",
-          "summary": "",
-          "published": "2026-09-06T18:00:00+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
           "title": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
           "link": "https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html",
           "summary": "These are some of the stocks posting the largest moves midday.",
@@ -209,30 +201,6 @@
           "summary": "",
           "published": "2026-09-06T22:19:35+00:00",
           "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ADBE",
-      "name": "Adobe",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Inflation, Apple, Adobe, Oracle, Macy’s, and More to Watch This Week",
-          "link": "https://www.barrons.com/articles/inflation-apple-adobe-oracle-macys-and-more-to-watch-this-week-23a2c022?siteid=yhoof2&yptr=yahoo",
-          "summary": "",
-          "published": "2026-09-06T18:00:00+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: AMC, USA Rare Earth, Lululemon, Adobe & more",
-          "link": "https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-premarket-.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-09-04T13:52:56+00:00",
-          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -414,22 +382,6 @@
       ]
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Inflation, Apple, Adobe, Oracle, Macy’s, and More to Watch This Week",
-          "link": "https://www.barrons.com/articles/inflation-apple-adobe-oracle-macys-and-more-to-watch-this-week-23a2c022?siteid=yhoof2&yptr=yahoo",
-          "summary": "",
-          "published": "2026-09-06T18:00:00+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "PEMEX",
       "name": "Pemex",
       "exchange": "Estatal (deuda)",
@@ -528,6 +480,22 @@
           "link": "https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-midday-sndk-tsla-nx-amc.html",
           "summary": "These are the stocks posting the largest moves midday.",
           "published": "2026-09-04T19:07:16+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: AMC, USA Rare Earth, Lululemon, Adobe & more",
+          "link": "https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-premarket-.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-09-04T13:52:56+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -1290,7 +1258,7 @@
   ],
   "totales": {
     "articulos": 230,
-    "acciones_con_noticias": 38,
+    "acciones_con_noticias": 37,
     "sin_accion": 40
   }
 }
