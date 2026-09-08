@@ -2,42 +2,57 @@
 <html lang="es-MX">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Radar de Noticias Financieras</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0b0f17" media="(prefers-color-scheme: dark)" />
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+  <meta name="description" content="Noticias financieras recientes agrupadas por acción y ticker." />
+  <title>Radar Financiero</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
   <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
-  <header class="site-header">
-    <div class="container">
-      <h1>Radar de Noticias Financieras</h1>
-      <p class="subtitle">Noticias recientes agrupadas por acción / ticker</p>
-      <p class="meta" id="meta-info">Cargando...</p>
+  <header class="hero">
+    <h1>Radar Financiero</h1>
+    <p class="hero-meta" id="hero-meta">Cargando…</p>
+    <div class="stats" id="stats" hidden>
+      <div class="stat"><span class="stat-num" id="stat-acciones">—</span><span class="stat-lbl">acciones</span></div>
+      <div class="stat"><span class="stat-num" id="stat-notas">—</span><span class="stat-lbl">notas</span></div>
+      <div class="stat"><span class="stat-num" id="stat-fuentes">—</span><span class="stat-lbl">fuentes</span></div>
     </div>
   </header>
 
-  <main class="container">
-    <section class="controls">
-      <input type="search" id="filter-input" placeholder="Buscar por ticker o nombre de empresa (ej. Cemex, WALMEX.MX)..." />
+  <div class="sticky-bar">
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 21l-4.35-4.35M11 19a8 8 0 1 1 0-16 8 8 0 0 1 0 16z"/></svg>
+      <input type="search" id="buscador" placeholder="Buscar acción, empresa o noticia…" autocomplete="off" />
+    </div>
+    <div class="tabs" role="tablist">
+      <button class="tab is-active" id="tab-acciones" role="tab" aria-selected="true" aria-controls="panel-acciones">
+        Por acción <span class="tab-count" id="count-acciones">0</span>
+      </button>
+      <button class="tab" id="tab-general" role="tab" aria-selected="false" aria-controls="panel-general">
+        Sin acción <span class="tab-count" id="count-general">0</span>
+      </button>
+    </div>
+  </div>
+
+  <main>
+    <section id="panel-acciones" role="tabpanel" aria-labelledby="tab-acciones">
+      <div class="chips" id="chips" aria-label="Filtrar por mercado o sector"></div>
+      <div class="cards" id="grid-acciones"></div>
+      <p class="vacio" id="vacio-acciones" hidden>Ninguna acción coincide con la búsqueda.</p>
     </section>
 
-    <section id="latest-section">
-      <h2>Últimas noticias</h2>
-      <div id="latest-list" class="latest-list"></div>
+    <section id="panel-general" role="tabpanel" aria-labelledby="tab-general" hidden>
+      <p class="nota-seccion">Noticias que no se pudieron ligar a ninguna acción del radar: macro, política económica y mercado en general.</p>
+      <div class="feed" id="lista-general"></div>
+      <p class="vacio" id="vacio-general" hidden>Ninguna noticia coincide con la búsqueda.</p>
     </section>
-
-    <section id="tickers-section">
-      <h2>Por acción</h2>
-      <div id="tickers-grid" class="tickers-grid"></div>
-    </section>
-
-    <p id="empty-state" class="empty-state" hidden>No hay noticias que coincidan con tu búsqueda.</p>
   </main>
 
-  <footer class="site-footer">
-    <div class="container">
-      <p>Fuentes: <span id="sources-list"></span></p>
-      <p class="disclaimer">Este sitio enlaza y resume noticias públicas; para leer el artículo completo visita la fuente original. No es asesoría de inversión.</p>
-    </div>
+  <footer>
+    <p id="fuentes-pie"></p>
+    <p class="disclaimer">Resúmenes y enlaces a la fuente original. No es asesoría de inversión.</p>
   </footer>
 
   <script src="assets/app.js"></script>

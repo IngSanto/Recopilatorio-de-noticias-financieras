@@ -1,319 +1,647 @@
 {
-  "generated_at": "2026-09-08T05:19:05.829639+00:00",
+  "generated_at": "2026-09-08T05:57:00.934850+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
-      "name": "Bloomberg Línea (México)",
+      "name": "Bloomberg Línea",
+      "short_name": "BB Línea",
+      "scope": "México",
+      "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
-      "article_count": 100
-    }
-  ],
-  "latest": [
-    {
-      "title": "Sheinbaum garantiza continuidad de programas sociales en su sexenio",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-garantiza-continuidad-de-programas-sociales-en-su-sexenio/",
-      "summary": "La presidenta de México descartó la creación de nuevos apoyos en su Gobierno.",
-      "published": "2026-09-07T21:16:30+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
+      "article_count": 100,
+      "ventana_horas": 1509.8,
+      "ok": true
     },
     {
-      "title": "Gobierno cuadruplica subsidio a gasolina para autos de lujo en México",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gobierno-cuadruplica-subsidio-a-gasolina-para-autos-de-lujo-en-mexico/",
-      "summary": "La Secretaría de Hacienda y Crédito Público incrementó el subsidio de 6% a 23,9% por cada litro de gasolina premium.",
-      "published": "2026-09-05T17:30:25+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
+      "id": "investing-es-acciones",
+      "name": "Investing.com España",
+      "short_name": "Investing",
+      "scope": "Internacional",
+      "lang": "es",
+      "site_url": "https://es.investing.com/news/stock-market-news",
+      "article_count": 10,
+      "ventana_horas": 14.1,
+      "ok": true
     },
     {
-      "title": "Pronóstico de crecimiento para México sube marginalmente previo a Paquete Económico 2027",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pronostico-de-crecimiento-para-mexico-sube-marginalmente-previo-a-paquete-economico-2027/",
-      "summary": "Las proyecciones para el peso mexicano se fortalecieron y para la inflación se mantienen estables hacia cierre de 2026, de acuerdo con la Encuesta Citi de Expectativas.",
-      "published": "2026-09-05T02:08:43+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
+      "id": "cnbc-markets",
+      "name": "CNBC Markets",
+      "short_name": "CNBC",
+      "scope": "Internacional",
+      "lang": "en",
+      "site_url": "https://www.cnbc.com/markets/",
+      "article_count": 30,
+      "ventana_horas": 445.2,
+      "ok": true
     },
     {
-      "title": "Pemex y Sindicato pactan aumento salarial 2026-2027 por encima de la inflación",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-y-sindicato-pactan-aumento-salarial-2026-2027-por-encima-de-la-inflacion/",
-      "summary": "Juan Carlos Carpio, director general de Pemex, y el líder sindical Luis Ricardo Aldana Prieto encabezaron la firma del acuerdo salarial para el periodo 2026-2027.",
-      "published": "2026-09-04T22:59:37+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": [
-        "PEMEX"
-      ]
+      "id": "cnbc-finance",
+      "name": "CNBC Finance",
+      "short_name": "CNBC",
+      "scope": "Internacional",
+      "lang": "en",
+      "site_url": "https://www.cnbc.com/finance/",
+      "article_count": 30,
+      "ventana_horas": 251.7,
+      "ok": true
     },
     {
-      "title": "Paquete Económico 2027: ¿habrá más impuestos en México? Esto dicen los aliados de Sheinbaum",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/paquete-economico-2027-habra-mas-impuestos-en-mexico-en-2027-esto-dicen-los-aliados-de-sheinbaum/",
-      "summary": "La presidenta Claudia Sheinbaum pidió esperar al 8 de septiembre para conocer el contenido del Paquete Económico 2027.",
-      "published": "2026-09-04T13:32:40+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
+      "id": "yahoo-finance",
+      "name": "Yahoo Finance",
+      "short_name": "Yahoo",
+      "scope": "Internacional",
+      "lang": "en",
+      "site_url": "https://finance.yahoo.com/news/",
+      "article_count": 50,
+      "ventana_horas": 22840.9,
+      "ok": true
     },
     {
-      "title": "CFE emite deuda de MXN$20.000 millones por refinanciamiento y proyectos eléctricos",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-emite-deuda-de-mxn20000-millones-por-refinanciamiento-y-proyectos-electricos/",
-      "summary": "La mitad del monto se destinará a refinanciar  deuda y el resto a proyectos de inversión como centrales fotovoltaicas.",
-      "published": "2026-09-04T05:45:49+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": [
-        "CFE"
-      ]
-    },
-    {
-      "title": "Regalías altas de México al fracking limitan el interés de las petroleras privadas",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/regalias-altas-de-mexico-al-fracking-limitan-el-interes-de-las-petroleras-privadas/",
-      "summary": "México tiene las regalías más altas en comparación con el resto del continente.",
-      "published": "2026-09-03T22:39:04+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
-    },
-    {
-      "title": "CFE presenta denuncia por vandalismo ante la Fiscalía de México",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-denuncia-por-vandalismo-ante-la-fiscalia-de-mexico/",
-      "summary": "La empresa eléctrica señaló que el vandalismo fue similar a los ataques registrados en el mismo corredor eléctrico el 3 de junio de 2026.",
-      "published": "2026-09-03T03:52:03+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": [
-        "CFE"
-      ]
-    },
-    {
-      "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-      "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-      "published": "2026-09-03T02:59:17+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
-    },
-    {
-      "title": "Director de Pemex busca acelerar nuevas alianzas con empresas privadas",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/director-de-pemex-busca-acelerar-nuevas-alianzas-con-empresas-privadas/",
-      "summary": "La colaboración con empresas privadas busca ampliar la capacidad de inversión de Pemex.",
-      "published": "2026-09-03T00:03:33+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": [
-        "PEMEX"
-      ]
-    },
-    {
-      "title": "Contratos petroleros de Peña Nieto ayudan a sostener la producción de México: Segundo Informe de Sheinbaum",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/contratos-petroleros-de-pena-nieto-ayudan-a-sostener-la-produccion-de-mexico-segundo-informe-de-sheinbaum/",
-      "summary": "Las empresas privadas en México producen aproximadamente 102.000 barriles diarios equivalente al 5,7% del total.",
-      "published": "2026-09-02T01:43:38+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
-    },
-    {
-      "title": "Sheinbaum anticipa que consolidación fiscal será “paulatina” en Paquete Económico 2027",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-anticipa-que-consolidacion-fiscal-sera-paulatina-en-paquete-economico-2027/",
-      "summary": "La presidenta de México sostuvo en su Segundo Informe de Gobierno que la economía mexicana permanece estable pese a las dificultades de los aranceles de EE.UU.",
-      "published": "2026-09-01T20:16:11+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
-    },
-    {
-      "title": "Sheinbaum reconoce dificultades para México por aranceles de EE.UU. pero destaca nuevas inversiones",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-reconoce-dificultades-para-mexico-por-aranceles-de-eeuu-pero-destaca-nuevas-inversiones/",
-      "summary": "La complicada relación con su principal socio comercial no ha impedido generar nuevas inversiones en el país.",
-      "published": "2026-09-01T19:33:02+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
-    },
-    {
-      "title": "Pemex actualiza datos de desempeño operativo tras casi una semana de retraso",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-retrasa-la-publicacion-del-desempeno-de-la-produccion-de-julio/",
-      "summary": "Después del mediodía de este martes, tras el segundo informe de Gobierno de la presidenta, Pemex actualizó las estadísticas petroleras de julio.",
-      "published": "2026-09-01T12:59:10+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": [
-        "PEMEX"
-      ]
-    },
-    {
-      "title": "México va por mayor escrutinio a inversión extranjera por seguridad nacional en línea con EE.UU.",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-va-por-mayor-escrutinio-a-inversion-extranjera-por-seguridad-nacional-en-linea-con-eeuu/",
-      "summary": "La presidenta Claudia Sheinbaum envió al Senado una reforma a la Ley de Inversión Extranjera previo a la cuarta ronda de negociación bilateral del T-MEC.",
-      "published": "2026-09-01T12:15:45+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
-    },
-    {
-      "title": "CFE reporta apagón eléctrico por vandalismo en el sureste de México",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-reporta-apagon-electrico-en-el-sureste-de-mexico/",
-      "summary": "La compañía eléctrica sufrió un corte de suministro eléctrico que afectó a 745.500 clientes en los estados de Chiapas, Campeche, Quintana Roo y Yucatán.",
-      "published": "2026-09-01T05:21:45+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": [
-        "CFE"
-      ]
-    },
-    {
-      "title": "México habilita solicitudes para permisos de biocombustibles",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-habilita-solicitudes-para-permisos-de-biocombustibles/",
-      "summary": "La Secretaría de Energía emitió este lunes un acuerdo con los formatos de solicitud para ocho tipos de permisos.",
-      "published": "2026-09-01T03:04:21+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
-    },
-    {
-      "title": "Ebrard niega que escándalos políticos en México afecten negociación comercial con Estados Unidos",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/ebrard-niega-que-escandalos-politicos-en-mexico-afecten-negociacion-comercial-con-estados-unidos/",
-      "summary": "El titular de la Secretaría de Economía mexicana viajará el 1 de septiembre a Miami por el foro del G-20 y se reunirá con el Secretario de Comercio estadounidense, Howard Lutnick.",
-      "published": "2026-08-30T20:24:23+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
-    },
-    {
-      "title": "México aumenta subsidios a gasolinas y baja el de diésel mientras guerra en Irán cumple seis meses",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aumenta-subsidios-a-gasolinas-y-baja-el-de-diesel-mientras-guerra-en-iran-cumple-seis-meses/",
-      "summary": "El conflicto armado, que inició el 28 de febrero de este año, ha convulsionado a los mercados por el cierre iraní del estrecho de Ormuz y México no ha sido la excepción.",
-      "published": "2026-08-29T05:23:53+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
-    },
-    {
-      "title": "Peso mexicano cierra semana con pérdidas tras advertencia de Warsh contra la inflación en EE.UU.",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-cierra-semana-con-perdidas-tras-advertencia-de-warsh-contra-la-inflacion-en-eeuu/",
-      "summary": "La moneda mexicana concluyó la semana con una depreciación semanal de 0,7% tras un mensaje del presidente del banco central estadounidense.",
-      "published": "2026-08-29T01:34:54+00:00",
-      "source_name": "Bloomberg Línea (México)",
-      "tickers": []
+      "id": "marketwatch",
+      "name": "MarketWatch",
+      "short_name": "MarketW",
+      "scope": "Internacional",
+      "lang": "en",
+      "site_url": "https://www.marketwatch.com/",
+      "article_count": 10,
+      "ventana_horas": 15.9,
+      "ok": true
     }
   ],
   "tickers": [
     {
+      "ticker": "ARAMCO",
+      "name": "Saudi Aramco",
+      "exchange": "Tadawul",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
+          "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+          "summary": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.",
+          "published": "2026-09-08T03:09:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Apple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S.",
+          "link": "https://finance.yahoo.com/media-advertising/articles/apple-aapl-raises-apple-tv-224834727.html",
+          "summary": "",
+          "published": "2026-09-06T22:48:34+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
+          "summary": "",
+          "published": "2026-09-06T22:31:47+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus",
+          "link": "https://finance.yahoo.com/technology/articles/apple-aapl-sets-iphone-launch-221225248.html",
+          "summary": "",
+          "published": "2026-09-06T22:12:25+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Apple (AAPL)’s New Mac Mini and Studio Bet Big on On-Device AI",
+          "link": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-mac-mini-studio-201609665.html",
+          "summary": "",
+          "published": "2026-09-06T20:16:09+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Inflation, Apple, Adobe, Oracle, Macy’s, and More to Watch This Week",
+          "link": "https://www.barrons.com/articles/inflation-apple-adobe-oracle-macys-and-more-to-watch-this-week-23a2c022?siteid=yhoof2&yptr=yahoo",
+          "summary": "",
+          "published": "2026-09-06T18:00:00+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
+          "link": "https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-08-31T19:49:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
+          "summary": "",
+          "published": "2026-09-06T22:31:47+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
+          "summary": "",
+          "published": "2026-09-06T20:21:05+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "NVIDIA (NVDA)’s $20 Billion Groq Bet Goes Live This Year With New AI Racks",
+          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-20-billion-groq-190737433.html",
+          "summary": "",
+          "published": "2026-09-06T19:07:37+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Nvidia, Robinhood, Novartis & more",
+          "link": "https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-premarket-nvda-hood-nvs.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-01T11:41:08+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GPS",
+      "name": "Gap Inc.",
+      "exchange": "NYSE",
+      "sector": "Retail",
+      "news": [
+        {
+          "title": "Gap closed 350 stores and now has an Old Navy problem",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/gap-closed-350-stores-now-233354471.html",
+          "summary": "",
+          "published": "2026-09-06T23:33:54+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Gap Taps New Old Navy CEO to Turn Around Sluggish Sales",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/gap-taps-old-navy-ceo-221935372.html",
+          "summary": "",
+          "published": "2026-09-06T22:19:35+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Inflation, Apple, Adobe, Oracle, Macy’s, and More to Watch This Week",
+          "link": "https://www.barrons.com/articles/inflation-apple-adobe-oracle-macys-and-more-to-watch-this-week-23a2c022?siteid=yhoof2&yptr=yahoo",
+          "summary": "",
+          "published": "2026-09-06T18:00:00+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: AMC, USA Rare Earth, Lululemon, Adobe & more",
+          "link": "https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-premarket-.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-09-04T13:52:56+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco",
+      "exchange": "NASDAQ",
+      "sector": "Retail",
+      "news": [
+        {
+          "title": "Loss of Costco deal helps push beverage brand into Chapter 11",
+          "link": "https://finance.yahoo.com/healthcare/articles/loss-costco-deal-helps-push-150700837.html",
+          "summary": "",
+          "published": "2026-09-07T15:07:00+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "LTM",
+      "name": "LATAM Airlines",
+      "exchange": "NYSE",
+      "sector": "Aerolíneas",
+      "news": [
+        {
+          "title": "Latam Airlines comprimida en nube Ichimoku: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/latam-airlines-comprimida-en-nube-ichimoku-niveles-en-vivo-93CH-3824486",
+          "summary": "",
+          "published": "2026-09-07T14:05:34+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "F",
+      "name": "Ford Motor Company",
+      "exchange": "NYSE",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Ford (F)’s Third Recall in a Week Hits Nearly 149,000 Mustangs",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/ford-f-third-recall-week-005311235.html",
+          "summary": "",
+          "published": "2026-09-07T00:53:11+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Microsoft (MSFT)’s Outlook and OpenAI’s ChatGPT Work Both Broke the Same Day",
+          "link": "https://finance.yahoo.com/technology/articles/microsoft-msft-outlook-openai-chatgpt-002934990.html",
+          "summary": "",
+          "published": "2026-09-07T00:29:34+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "RIVN",
+      "name": "Rivian",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Rivian (RIVN) Loses its CFO to GE Vernova (GEV) Right in the Middle of its Biggest Bet Yet",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-rivn-loses-cfo-ge-001507183.html",
+          "summary": "",
+          "published": "2026-09-07T00:15:07+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GM",
+      "name": "General Motors",
+      "exchange": "NYSE",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "General Motors (GM) Commits Over C$1 Billion to Canadian Plants as Workers Ratify New Deal",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-commits-over-235735367.html",
+          "summary": "",
+          "published": "2026-09-06T23:57:35+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "HD",
+      "name": "Home Depot",
+      "exchange": "NYSE",
+      "sector": "Retail",
+      "news": [
+        {
+          "title": "Retailers are Handling Tariff Refunds in Very Different Ways: Walmart and Home Depot",
+          "link": "https://finance.yahoo.com/economy/policy/articles/retailers-handling-tariff-refunds-very-225628436.html",
+          "summary": "",
+          "published": "2026-09-06T22:56:28+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Goldman Sachs (GS) Partner: AI Risks Leaving the Next Generation of Bankers Unable to Think for Themselves",
+          "link": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-gs-partner-ai-224114353.html",
+          "summary": "",
+          "published": "2026-09-06T22:41:14+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
+          "summary": "",
+          "published": "2026-09-06T22:31:47+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Salesforce (CRM)’s AI Numbers Just Gave Benioff His Swagger Back",
+          "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-ai-numbers-just-205654689.html",
+          "summary": "",
+          "published": "2026-09-06T20:56:54+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BLK",
+      "name": "BlackRock",
+      "exchange": "NYSE",
+      "sector": "Finanzas",
+      "news": [
+        {
+          "title": "How BlackRock (BLK) is Quietly Turning Bitcoin Whales Into Wall Street Clients",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/blackrock-blk-quietly-turning-bitcoin-203223849.html",
+          "summary": "",
+          "published": "2026-09-06T20:32:23+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Inflation, Apple, Adobe, Oracle, Macy’s, and More to Watch This Week",
+          "link": "https://www.barrons.com/articles/inflation-apple-adobe-oracle-macys-and-more-to-watch-this-week-23a2c022?siteid=yhoof2&yptr=yahoo",
+          "summary": "",
+          "published": "2026-09-06T18:00:00+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "PEMEX",
-      "name": "Pemex (empresa estatal, cotiza deuda no acciones)",
-      "exchange": "N/A",
-      "aliases": [
-        "Pemex",
-        "Petróleos Mexicanos"
-      ],
+      "name": "Pemex",
+      "exchange": "Estatal (deuda)",
+      "sector": "Energía",
       "news": [
         {
           "title": "Pemex y Sindicato pactan aumento salarial 2026-2027 por encima de la inflación",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-y-sindicato-pactan-aumento-salarial-2026-2027-por-encima-de-la-inflacion/",
           "summary": "Juan Carlos Carpio, director general de Pemex, y el líder sindical Luis Ricardo Aldana Prieto encabezaron la firma del acuerdo salarial para el periodo 2026-2027.",
           "published": "2026-09-04T22:59:37+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "Director de Pemex busca acelerar nuevas alianzas con empresas privadas",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/director-de-pemex-busca-acelerar-nuevas-alianzas-con-empresas-privadas/",
           "summary": "La colaboración con empresas privadas busca ampliar la capacidad de inversión de Pemex.",
           "published": "2026-09-03T00:03:33+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "Pemex actualiza datos de desempeño operativo tras casi una semana de retraso",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-retrasa-la-publicacion-del-desempeno-de-la-produccion-de-julio/",
           "summary": "Después del mediodía de este martes, tras el segundo informe de Gobierno de la presidenta, Pemex actualizó las estadísticas petroleras de julio.",
           "published": "2026-09-01T12:59:10+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "Sheinbaum publica decreto para ampliar transparencia del Gobierno, filiales de Pemex y CFE",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-publica-decreto-para-ampliar-transparencia-del-gobierno-filiales-de-pemex-y-cfe/",
           "summary": "La disposiciones establecidas en el decreto publicado la tarde de este martes se incorporarán en una próxima reforma a la Ley General de Transparencia.",
           "published": "2026-08-05T03:39:02+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "Pemex duplica quema de gas natural por falta de infraestructura",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-duplica-quema-de-gas-natural-por-falta-de-infraestructura/",
           "summary": "El venteo de gas equivale a 19% de la producción total de gas de Pemex.",
           "published": "2026-08-04T10:00:00+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "Pemex y Petrobras evalúan activos en aguas profundas y capa presalina en el Golfo de México",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-y-petrobras-evaluan-activos-en-aguas-profundas-y-capa-presalina-en-el-golfo-de-mexico/",
           "summary": "El objetivo con Petrobras es reducir la incertidumbre y generar nuevas oportunidades en el portafolio de exploración de Pemex.",
           "published": "2026-07-31T19:34:50+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "Impuestos y costo de la deuda de Pemex presionan ganancias por altos precios del crudo",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/impuestos-y-costo-de-la-deuda-de-pemex-presionan-ganancias-por-altos-precios-del-crudo/",
           "summary": "Pemex reportó un beneficio de US$1.000 millones, unos MXN$18.000 millones, después de una pérdida el año pasado de US$3.400 millones.",
           "published": "2026-07-31T16:56:52+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "Petrobras, Pemex, Ecopetrol, YPF: ¿qué empresas nacionales ganarán con el alza del petróleo, según Moody’s?",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petrobras-pemex-ecopetrol-ypf-que-empresas-nacionales-ganaran-con-el-alza-del-petroleo-segun-moodys/",
           "summary": "La intervención de los Gobiernos en la fijación de precios de los combustibles, subsidios o mecanismos compensatorios para proteger a los consumidores supone riesgos para las petroleras nacionales.",
           "published": "2026-07-22T00:56:52+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Pemex reporta fuga de petróleo y fuego en refinería Dos Bocas",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-reporta-fuga-de-petroleo-y-fuego-en-refineria-dos-bocas/",
+          "summary": "La empresa mexicana Pemex aplicó procedimientos operativos y el personal contraincendios extinguió la flama sin registrar personas lesionadas.",
+          "published": "2026-07-20T19:52:47+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Esta es la refinería de Pemex más productiva en lo que va de 2026",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/esta-es-la-refineria-de-pemex-mas-productiva-en-lo-que-va-de-2026/",
+          "summary": "El complejo industrial ubicado en el estado de Hidalgo aporta una quinta parte de la producción total de combustibles de Pemex.",
+          "published": "2026-07-16T14:25:23+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: Sandisk, Tesla, Lululemon, Quanex, AMC & more",
+          "link": "https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-midday-sndk-tsla-nx-amc.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-09-04T19:07:16+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
     {
       "ticker": "CFE",
-      "name": "Comisión Federal de Electricidad (estatal, no cotiza)",
-      "exchange": "N/A",
-      "aliases": [
-        "Comisión Federal de Electricidad",
-        "CFE,"
-      ],
+      "name": "Comisión Federal de Electricidad",
+      "exchange": "Estatal (deuda)",
+      "sector": "Energía",
       "news": [
         {
           "title": "CFE emite deuda de MXN$20.000 millones por refinanciamiento y proyectos eléctricos",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-emite-deuda-de-mxn20000-millones-por-refinanciamiento-y-proyectos-electricos/",
-          "summary": "La mitad del monto se destinará a refinanciar  deuda y el resto a proyectos de inversión como centrales fotovoltaicas.",
+          "summary": "La mitad del monto se destinará a refinanciar deuda y el resto a proyectos de inversión como centrales fotovoltaicas.",
           "published": "2026-09-04T05:45:49+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "CFE presenta denuncia por vandalismo ante la Fiscalía de México",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-denuncia-por-vandalismo-ante-la-fiscalia-de-mexico/",
           "summary": "La empresa eléctrica señaló que el vandalismo fue similar a los ataques registrados en el mismo corredor eléctrico el 3 de junio de 2026.",
           "published": "2026-09-03T03:52:03+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "CFE reporta apagón eléctrico por vandalismo en el sureste de México",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-reporta-apagon-electrico-en-el-sureste-de-mexico/",
           "summary": "La compañía eléctrica sufrió un corte de suministro eléctrico que afectó a 745.500 clientes en los estados de Chiapas, Campeche, Quintana Roo y Yucatán.",
           "published": "2026-09-01T05:21:45+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "CFE dependerá del sector privado para financiar la mayoría de sus inversiones con Sheinbaum",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-dependera-del-sector-privado-para-financiar-la-mayoria-de-sus-inversiones-con-sheinbaum/",
           "summary": "La empresa eléctrica prevé inversiones por US$37.500 millones para nuevas centrales, redes eléctricas y ductos durante el sexenio de la presidenta mexicana.",
           "published": "2026-08-28T11:52:59+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "IFC del Banco Mundial evalúa compra de US$80 millones en nueva emisión de capital de la CFE Fibra E",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/ifc-del-banco-mundial-evalua-compra-de-us80-millones-en-nueva-emision-de-capital-de-la-cfe-fibra-e/",
           "summary": "CFE tendrá que cumplir con los requisitos de IFC en materia ambiental, social, de prevención del lavado de dinero, de lucha contra la corrupción y de sanciones.",
           "published": "2026-08-19T21:12:42+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "Filial de CFE solicita permiso para nueva emisión de capital de Fibra E",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/filial-de-cfe-solicita-permiso-para-nueva-emision-de-capital-de-fibra-e/",
           "summary": "Los recursos netos de la oferta global tienen como objeto final continuar financiando la expansión y modernización de la red eléctrica.",
           "published": "2026-08-11T21:14:36+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "Exclusiva: CFE busca emitir nueva Fibra E con portafolio de centrales eléctricas",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/exclusiva-cfe-busca-emitir-nueva-fibra-e-con-portafolio-de-centrales-electricas/",
           "summary": "En entrevista exclusiva con Bloomberg Línea, el director de finanzas de CFE detalló que la compañía busca financiamiento de inversiones a través de una nueva Fibra.",
           "published": "2026-08-05T16:53:14+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "Sheinbaum publica decreto para ampliar transparencia del Gobierno, filiales de Pemex y CFE",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-publica-decreto-para-ampliar-transparencia-del-gobierno-filiales-de-pemex-y-cfe/",
           "summary": "La disposiciones establecidas en el decreto publicado la tarde de este martes se incorporarán en una próxima reforma a la Ley General de Transparencia.",
           "published": "2026-08-05T03:39:02+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Ganancias de CFE se desploman por el dólar débil",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/ganancias-de-cfe-se-desploman-por-el-dolar-debil/",
+          "summary": "CFE reportó utilidad neta por MXN$48.000 millones (US$2.770 millones), una caída anual de 43% durante el segundo trimestre del año.",
+          "published": "2026-07-30T21:11:00+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Fibra de CFE financiará inversiones en redes eléctricas hasta por US$3.500 millones",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fibra-de-cfe-financiara-inversiones-en-redes-electricas-hasta-por-us3500-millones/",
+          "summary": "CFE busca conectar los nuevos proyectos de generación con los consumidores a través de las redes eléctricas.",
+          "published": "2026-07-29T22:51:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "PBR",
+      "name": "Petrobras",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Pemex y Petrobras evalúan activos en aguas profundas y capa presalina en el Golfo de México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-y-petrobras-evaluan-activos-en-aguas-profundas-y-capa-presalina-en-el-golfo-de-mexico/",
+          "summary": "El objetivo con Petrobras es reducir la incertidumbre y generar nuevas oportunidades en el portafolio de exploración de Pemex.",
+          "published": "2026-07-31T19:34:50+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Petrobras, Pemex, Ecopetrol, YPF: ¿qué empresas nacionales ganarán con el alza del petróleo, según Moody’s?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petrobras-pemex-ecopetrol-ypf-que-empresas-nacionales-ganaran-con-el-alza-del-petroleo-segun-moodys/",
+          "summary": "La intervención de los Gobiernos en la fijación de precios de los combustibles, subsidios o mecanismos compensatorios para proteger a los consumidores supone riesgos para las petroleras nacionales.",
+          "published": "2026-07-22T00:56:52+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -321,23 +649,167 @@
       "ticker": "GCARSOA1.MX",
       "name": "Grupo Carso",
       "exchange": "BMV",
-      "aliases": [
-        "Grupo Carso"
-      ],
+      "sector": "Industria",
       "news": [
         {
           "title": "Grupo Carso, de Carlos Slim, pone el éxito de su producción petrolera en dos negocios",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-carso-de-carlos-slim-pone-el-exito-de-su-produccion-petrolera-en-dos-negocios/",
           "summary": "La compañía del empresario mexicano prevé una mejora de la producción petrolera a partir de 2027 y un mayor impulso en 2028.",
           "published": "2026-07-28T21:26:32+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
           "title": "Slim compra participación en campo petrolero de México a TotalEnergies",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/slim-compra-participacion-en-campo-petrolero-de-mexico-a-totalenergies/",
           "summary": "Grupo Carso comprará el 30% del Bloque 30 que contiene el yacimiento KAN, activo operado por la petrolera inglesa Harbour Energy.",
           "published": "2026-07-17T01:29:58+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more",
+          "link": "https://www.cnbc.com/2026/09/03/stocks-making-the-biggest-moves-premarket-snow-mrna-avgo.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-03T11:35:07+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway",
+      "exchange": "NYSE",
+      "sector": "Finanzas",
+      "news": [
+        {
+          "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
+          "link": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
+          "summary": "In an appearance on CNBC's \"Squawk Box,\" Greg Abel said that yields in the country are still relatively low.",
+          "published": "2026-09-02T11:09:15+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly",
+      "exchange": "NYSE",
+      "sector": "Salud",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
+          "link": "https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-08-31T19:49:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Chevron, PG&E, GameStop and more",
+          "link": "https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-premarket-cvx-pcg-gme-more.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-08-31T11:35:09+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PayPal",
+      "exchange": "NASDAQ",
+      "sector": "Pagos",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: PayPal, Affirm Holdings, Gap, Marvell Technology & more",
+          "link": "https://www.cnbc.com/2026/08/28/stocks-making-the-biggest-moves-premarket-pypl-afrm-gap-mrvl.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-08-28T11:43:00+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NSANY",
+      "name": "Nissan",
+      "exchange": "OTC",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Nissan confía en su posicionamiento en México frente a nuevos competidores: CEO",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/nissan-confia-en-su-posicionamiento-en-mexico-frente-a-nuevos-competidores-ceo/",
+          "summary": "La automotriz japonesa puede defenderse ante nuevos jugadores en México, dijo Iván Espinosa, líder global de la automotriz.",
+          "published": "2026-08-20T20:32:12+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "BP",
+      "name": "BP",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Angélica Ruiz deja la presidencia de BP en México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/angelica-ruiz-deja-la-presidencia-de-bp-en-mexico/",
+          "summary": "La economista mexicana también dejó su cargo como vicepresidenta senior de BP en Latinoamérica.",
+          "published": "2026-08-18T03:23:57+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup / Banamex",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Ignacio Deschamps deja el rol de presidente del Consejo de Administración de Banamex",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/ignacio-deschamps-deja-el-rol-de-presidente-del-consejo-de-administracion-de-banamex/",
+          "summary": "Deschamps tiene intenciones de participar en otros proyectos relacionados con tecnología en el sector financiero.",
+          "published": "2026-07-29T22:12:25+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "BBVA",
+      "name": "BBVA",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "BBVA México nomina a Eduardo Osuna como presidente ante el retiro de Jaime Serra",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/bbva-mexico-nomina-a-eduardo-osuna-como-presidente-ante-el-retiro-de-jaime-serra/",
+          "summary": "El banco de mayor tamaño del país anunció cambios en su cúpula directiva.",
+          "published": "2026-07-29T21:30:56+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -345,17 +817,31 @@
       "ticker": "GMEXICOB.MX",
       "name": "Grupo México",
       "exchange": "BMV",
-      "aliases": [
-        "Grupo México",
-        "Grupo Mexico"
-      ],
+      "sector": "Minería",
       "news": [
         {
           "title": "Inversiones de Grupo México en Argentina y Brasil dependen de regulaciones y precios",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/inversiones-de-grupo-mexico-en-argentina-y-brasil-dependen-de-regulaciones-y-precios/",
           "summary": "Los mercados argentino y brasileño podrían ser igual o más grandes que el mercado mexicano en el que actualmente opera la empresa industrial.",
           "published": "2026-07-22T21:53:54+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "EC",
+      "name": "Ecopetrol",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Petrobras, Pemex, Ecopetrol, YPF: ¿qué empresas nacionales ganarán con el alza del petróleo, según Moody’s?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petrobras-pemex-ecopetrol-ypf-que-empresas-nacionales-ganaran-con-el-alza-del-petroleo-segun-moodys/",
+          "summary": "La intervención de los Gobiernos en la fijación de precios de los combustibles, subsidios o mecanismos compensatorios para proteger a los consumidores supone riesgos para las petroleras nacionales.",
+          "published": "2026-07-22T00:56:52+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -363,16 +849,47 @@
       "ticker": "ALSEA.MX",
       "name": "Alsea",
       "exchange": "BMV",
-      "aliases": [
-        "Alsea"
-      ],
+      "sector": "Consumo",
       "news": [
         {
           "title": "Starbucks se torna desafiante para Alsea en México",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/starbucks-se-torna-desafiante-para-alsea-en-mexico/",
           "summary": "La operadora de las cafeterías en el país siente los efectos de la debilidad en el consumo y vigila las ventas.",
           "published": "2026-07-21T01:10:44+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "SBUX",
+      "name": "Starbucks",
+      "exchange": "NASDAQ",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "Starbucks se torna desafiante para Alsea en México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/starbucks-se-torna-desafiante-para-alsea-en-mexico/",
+          "summary": "La operadora de las cafeterías en el país siente los efectos de la debilidad en el consumo y vigila las ventas.",
+          "published": "2026-07-21T01:10:44+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "TTE",
+      "name": "TotalEnergies",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Slim compra participación en campo petrolero de México a TotalEnergies",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/slim-compra-participacion-en-campo-petrolero-de-mexico-a-totalenergies/",
+          "summary": "Grupo Carso comprará el 30% del Bloque 30 que contiene el yacimiento KAN, activo operado por la petrolera inglesa Harbour Energy.",
+          "published": "2026-07-17T01:29:58+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -380,19 +897,400 @@
       "ticker": "AEROMEX.MX",
       "name": "Aeroméxico",
       "exchange": "BMV",
-      "aliases": [
-        "Aeroméxico",
-        "Aeromexico"
-      ],
+      "sector": "Aerolíneas",
       "news": [
         {
           "title": "Aeroméxico registra ingresos récord pese a menor tráfico por el Mundial",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/aeromexico-registra-ingresos-record-pese-a-menor-trafico-por-el-mundial/",
           "summary": "Andrés Conesa, CEO de la aerolínea, dijo que el efecto del torneo fue “ligeramente negativo” en ingresos durante junio ante la caída en los viajes de negocios.",
           "published": "2026-07-15T03:26:45+00:00",
-          "source_name": "Bloomberg Línea (México)"
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber",
+      "exchange": "NYSE",
+      "sector": "Transporte y logística",
+      "news": [
+        {
+          "title": "Trabajadores de Uber y DiDi alivian empleo formal en México ante demanda por Mundial 2026",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/trabajadores-de-uber-y-didi-alivian-empleo-formal-en-mexico-ante-demanda-por-mundial-2026/",
+          "summary": "En junio se registró un crecimiento mensual de 61.023 empleos formales, equivalente a un aumento de 0,3% respecto del mes anterior, de acuerdo con el IMSS.",
+          "published": "2026-07-10T02:13:44+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     }
-  ]
+  ],
+  "sin_accion": [
+    {
+      "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
+      "link": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
+      "summary": "China's exports and imports gathered momentum in August, as the world's second-largest economy faces mounting pressure to rebalance trade.",
+      "published": "2026-09-08T04:45:07+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Shenzhen Longsys Electronics debuta plana en Hong Kong tras OPV de 903 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/shenzhen-longsys-electronics-debuta-plana-en-hong-kong-tras-opv-de-903-millones-de-dolares-3824600",
+      "summary": "",
+      "published": "2026-09-08T03:17:24+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El banco central de China aumenta sus reservas de oro al mayor ritmo desde 2023",
+      "link": "https://es.investing.com/news/stock-market-news/el-banco-central-de-china-aumenta-sus-reservas-de-oro-al-mayor-ritmo-desde-2023-93CH-3824594",
+      "summary": "",
+      "published": "2026-09-08T03:10:16+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Anthropic descarta la adquisición de la startup de IA Decart",
+      "link": "https://es.investing.com/news/stock-market-news/anthropic-descarta-la-adquisicion-de-la-startup-de-ia-decart-3824587",
+      "summary": "",
+      "published": "2026-09-08T01:59:16+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los futuros del Dow caen por apuestas de subida de la Fed y el petróleo",
+      "link": "https://es.investing.com/news/stock-market-news/los-futuros-del-dow-caen-por-apuestas-de-subida-de-la-fed-y-el-petroleo-3824582",
+      "summary": "",
+      "published": "2026-09-08T01:13:33+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
+      "link": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+      "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.",
+      "published": "2026-09-07T23:23:10+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
+      "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+      "summary": "“I’d rather leave my estate to people who spent time with me because they genuinely valued my company.”",
+      "published": "2026-09-07T22:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?”",
+      "published": "2026-09-07T22:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Sheinbaum garantiza continuidad de programas sociales en su sexenio",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-garantiza-continuidad-de-programas-sociales-en-su-sexenio/",
+      "summary": "La presidenta de México descartó la creación de nuevos apoyos en su Gobierno.",
+      "published": "2026-09-07T21:16:30+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+      "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "summary": "“It always baffled me how some people managed to retire with significant wealth.”",
+      "published": "2026-09-07T19:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Nasdaq 100 comprime en rango clave al 61,8% Fib: Niveles en vivo",
+      "link": "https://es.investing.com/news/stock-market-news/nasdaq-100-en-rango-lateral-sin-conviccion-niveles-en-vivo-93CH-3824487",
+      "summary": "",
+      "published": "2026-09-07T19:07:09+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Trump exige a Bombardier que deje de vender en EE.UU. o fabrique allí",
+      "link": "https://es.investing.com/news/stock-market-news/trump-exige-a-bombardier-fabricar-en-eeuu-o-abandonar-el-mercado-3824548",
+      "summary": "",
+      "published": "2026-09-07T18:36:08+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
+      "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
+      "summary": "“Roth assets would provide our children with tax-free distributions.”",
+      "published": "2026-09-07T16:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+      "summary": "“We currently live in a relatively low-cost, lower-tax Northwest state.”",
+      "published": "2026-09-07T16:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
+      "link": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
+      "summary": "U.S. stock investors have reason to pay attention to the currency market for signs of how money may be flowing in and out of chip stocks.",
+      "published": "2026-09-07T16:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
+      "link": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
+      "summary": "Finance ministry data showed that Japan's official foreign reserves stand at $1.207 trillion, down from July's figure of $1.287 trillion.",
+      "published": "2026-09-07T07:38:42+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "VinFast Auto (VFS) Quietly Pumps the Brakes on Its India Manufacturing Plans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vinfast-auto-vfs-quietly-pumps-005526359.html",
+      "summary": "",
+      "published": "2026-09-07T00:55:26+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Keurig Dr Pepper (KDP) Cashes Out of Chobani to Clean Up its Books Before a Split",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-kdp-cashes-004308853.html",
+      "summary": "",
+      "published": "2026-09-07T00:43:08+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "GoPro (GPRO) Trades its Camera Story for an AI Data Center One, and Investors Cheer",
+      "link": "https://finance.yahoo.com/technology/ai/articles/gopro-gpro-trades-camera-story-003754602.html",
+      "summary": "",
+      "published": "2026-09-07T00:37:54+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Lucid (LCID)’s Biggest-Ever Recall Hits More Cars Than it Sold All Last Year",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-biggest-ever-recall-000921192.html",
+      "summary": "",
+      "published": "2026-09-07T00:09:21+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "United Airlines (UAL)’s Kirby Wants Back into JFK and is Already Bracing for What AI Does to the Industry",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-ual-kirby-wants-235155529.html",
+      "summary": "",
+      "published": "2026-09-06T23:51:55+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "American Airlines (AAL) Leans on its Smallest Long-Haul Jet to Chase Higher-Margin Routes",
+      "link": "https://finance.yahoo.com/small-business/articles/american-airlines-aal-leans-smallest-232642341.html",
+      "summary": "",
+      "published": "2026-09-06T23:26:42+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
+      "link": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
+      "summary": "The sweetener's prices surged last week, reflecting a sharp deterioration in the global supply outlook.",
+      "published": "2026-09-06T13:19:01+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
+      "link": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
+      "summary": "Despite rising prices and the travel industry focusing on the luxury segment, budget-minded vacationers are still finding ways to get away.",
+      "published": "2026-09-05T23:55:52+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+      "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+      "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
+      "published": "2026-09-05T19:12:53+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Gobierno cuadruplica subsidio a gasolina para autos de lujo en México",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gobierno-cuadruplica-subsidio-a-gasolina-para-autos-de-lujo-en-mexico/",
+      "summary": "La Secretaría de Hacienda y Crédito Público incrementó el subsidio de 6% a 23,9% por cada litro de gasolina premium.",
+      "published": "2026-09-05T17:30:25+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Pronóstico de crecimiento para México sube marginalmente previo a Paquete Económico 2027",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pronostico-de-crecimiento-para-mexico-sube-marginalmente-previo-a-paquete-economico-2027/",
+      "summary": "Las proyecciones para el peso mexicano se fortalecieron y para la inflación se mantienen estables hacia cierre de 2026, de acuerdo con la Encuesta Citi de Expectativas.",
+      "published": "2026-09-05T02:08:43+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Women accounted for almost all of job gains in August. Here's why",
+      "link": "https://www.cnbc.com/2026/09/04/jobs-report-women-payrolls.html",
+      "summary": "Women accounted for virtually all of August's payroll gains, the latest sign of their growing power in the labor market.",
+      "published": "2026-09-04T18:27:39+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled",
+      "link": "https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html",
+      "summary": "Filling open commissioner positions at the regulatory agency has been a sticking point in negotiations over the Clarity Act.",
+      "published": "2026-09-04T17:53:07+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+      "link": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+      "summary": "Nonfarm payrolls were expected to increase by 53,000 in August while the unemployment rate held at 4.1%, according to the Dow Jones consensus.",
+      "published": "2026-09-04T17:16:37+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
+      "link": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
+      "summary": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.",
+      "published": "2026-09-04T14:36:48+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Paquete Económico 2027: ¿habrá más impuestos en México? Esto dicen los aliados de Sheinbaum",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/paquete-economico-2027-habra-mas-impuestos-en-mexico-en-2027-esto-dicen-los-aliados-de-sheinbaum/",
+      "summary": "La presidenta Claudia Sheinbaum pidió esperar al 8 de septiembre para conocer el contenido del Paquete Económico 2027.",
+      "published": "2026-09-04T13:32:40+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Regalías altas de México al fracking limitan el interés de las petroleras privadas",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/regalias-altas-de-mexico-al-fracking-limitan-el-interes-de-las-petroleras-privadas/",
+      "summary": "México tiene las regalías más altas en comparación con el resto del continente.",
+      "published": "2026-09-03T22:39:04+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
+      "link": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
+      "summary": "China rejected G20 pressure over export-driven growth while also challenging U.S. Iran sanctions and European trade measures.",
+      "published": "2026-09-03T11:12:54+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+      "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+      "summary": "New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.",
+      "published": "2026-09-02T17:21:59+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Contratos petroleros de Peña Nieto ayudan a sostener la producción de México: Segundo Informe de Sheinbaum",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/contratos-petroleros-de-pena-nieto-ayudan-a-sostener-la-produccion-de-mexico-segundo-informe-de-sheinbaum/",
+      "summary": "Las empresas privadas en México producen aproximadamente 102.000 barriles diarios equivalente al 5,7% del total.",
+      "published": "2026-09-02T01:43:38+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Sheinbaum anticipa que consolidación fiscal será “paulatina” en Paquete Económico 2027",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-anticipa-que-consolidacion-fiscal-sera-paulatina-en-paquete-economico-2027/",
+      "summary": "La presidenta de México sostuvo en su Segundo Informe de Gobierno que la economía mexicana permanece estable pese a las dificultades de los aranceles de EE.UU.",
+      "published": "2026-09-01T20:16:11+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Sheinbaum reconoce dificultades para México por aranceles de EE.UU. pero destaca nuevas inversiones",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-reconoce-dificultades-para-mexico-por-aranceles-de-eeuu-pero-destaca-nuevas-inversiones/",
+      "summary": "La complicada relación con su principal socio comercial no ha impedido generar nuevas inversiones en el país.",
+      "published": "2026-09-01T19:33:02+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "México va por mayor escrutinio a inversión extranjera por seguridad nacional en línea con EE.UU.",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-va-por-mayor-escrutinio-a-inversion-extranjera-por-seguridad-nacional-en-linea-con-eeuu/",
+      "summary": "La presidenta Claudia Sheinbaum envió al Senado una reforma a la Ley de Inversión Extranjera previo a la cuarta ronda de negociación bilateral del T-MEC.",
+      "published": "2026-09-01T12:15:45+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "México habilita solicitudes para permisos de biocombustibles",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-habilita-solicitudes-para-permisos-de-biocombustibles/",
+      "summary": "La Secretaría de Energía emitió este lunes un acuerdo con los formatos de solicitud para ocho tipos de permisos.",
+      "published": "2026-09-01T03:04:21+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    }
+  ],
+  "totales": {
+    "articulos": 230,
+    "acciones_con_noticias": 38,
+    "sin_accion": 40
+  }
 }
