@@ -62,7 +62,16 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/news.json
           git commit -m "chore: actualizar noticias automáticamente"
-          git push
+
+          # Si otra corrida ya subió algo, el push se rechaza. Se rebasa y se reintenta.
+          # -X theirs conserva el news.json recién generado, que es el más nuevo de los dos.
+          for intento in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Push rechazado (intento $intento). Rebasando sobre origin/$GITHUB_REF_NAME..."
+            git fetch origin "$GITHUB_REF_NAME"
+            git rebase -X theirs "origin/$GITHUB_REF_NAME" || { git rebase --abort; exit 1; }
+          done
+          exit 1
 
   deploy:
     needs: update-data
