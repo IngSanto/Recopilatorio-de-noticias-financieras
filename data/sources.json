@@ -1,11 +1,76 @@
 {
+  "_comment": "Fuentes de noticias. Criterio para aceptar una fuente: su ventana (tiempo que abarcan los items del feed) debe ser MAYOR al hueco más largo entre corridas (9 h). Si no, se pierden noticias en silencio entre una corrida y otra. 'max_sin_accion' limita cuántas notas sin ticker aporta cada fuente, para que un feed ruidoso no ahogue a los demás.",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
-      "name": "Bloomberg Línea (México)",
+      "name": "Bloomberg Línea",
+      "short_name": "BB Línea",
+      "scope": "México",
+      "lang": "es",
       "type": "rss",
       "url": "https://www.bloomberglinea.com/arc/outboundfeeds/rss/latinoamerica/mexico.xml",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
+      "max_sin_accion": 12,
+      "enabled": true
+    },
+    {
+      "id": "investing-es-acciones",
+      "name": "Investing.com España",
+      "short_name": "Investing",
+      "scope": "Internacional",
+      "lang": "es",
+      "type": "rss",
+      "url": "https://es.investing.com/rss/news_25.rss",
+      "site_url": "https://es.investing.com/news/stock-market-news",
+      "max_sin_accion": 6,
+      "enabled": true
+    },
+    {
+      "id": "cnbc-markets",
+      "name": "CNBC Markets",
+      "short_name": "CNBC",
+      "scope": "Internacional",
+      "lang": "en",
+      "type": "rss",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+      "site_url": "https://www.cnbc.com/markets/",
+      "max_sin_accion": 6,
+      "enabled": true
+    },
+    {
+      "id": "cnbc-finance",
+      "name": "CNBC Finance",
+      "short_name": "CNBC",
+      "scope": "Internacional",
+      "lang": "en",
+      "type": "rss",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "site_url": "https://www.cnbc.com/finance/",
+      "max_sin_accion": 6,
+      "enabled": true
+    },
+    {
+      "id": "yahoo-finance",
+      "name": "Yahoo Finance",
+      "short_name": "Yahoo",
+      "scope": "Internacional",
+      "lang": "en",
+      "type": "rss",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "site_url": "https://finance.yahoo.com/news/",
+      "max_sin_accion": 6,
+      "enabled": true
+    },
+    {
+      "id": "marketwatch",
+      "name": "MarketWatch",
+      "short_name": "MarketW",
+      "scope": "Internacional",
+      "lang": "en",
+      "type": "rss",
+      "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+      "site_url": "https://www.marketwatch.com/",
+      "max_sin_accion": 6,
       "enabled": true
     }
   ]
