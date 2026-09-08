@@ -12,13 +12,22 @@ Página estática que junta noticias recientes y las agrupa por acción/ticker, 
 
 ## Horarios de actualización
 
-Tres corridas diarias (~cada 8 horas), elegidas por lo que pasa en el mercado, no por repartir el reloj en partes iguales:
+Tres corridas diarias (~cada 8 horas), elegidas por lo que pasa en el mercado y verificadas contra cuándo publica realmente la fuente:
 
 | Hora CDMX | Hora UTC (la del cron) | Por qué |
 |---|---|---|
-| 06:30 | 12:30 | Antes de la apertura de la BMV (8:30). Trae lo de la noche: Asia, Europa, pre-market de EE.UU. |
-| 15:30 | 21:30 | Después del cierre. BMV y NYSE cierran a las 15:00 CDMX. Trae la sesión completa. |
-| 23:30 | 05:30 | Cierre del día noticioso. Trae reportes after-hours y notas de la tarde. |
+| 07:30 | 13:30 | Una hora antes de la apertura de la BMV (8:30). Trae lo de la noche: Asia, Europa, pre-market de EE.UU. |
+| 15:30 | 21:30 | Media hora después del cierre. BMV y NYSE cierran a las 15:00 CDMX. Trae la sesión completa. |
+| 22:30 | 04:30 | Después del pico de publicación de la fuente (19:00-21:00 CDMX) y de los reportes after-hours. |
+
+Estos horarios no se eligieron a ojo. Sobre 100 notas reales del feed se midió cuánto esperaría una nota promedio en aparecer en la página según el calendario:
+
+| Calendario | Espera promedio |
+|---|---|
+| **07:30 / 15:30 / 22:30 (el que se usa)** | **3.41 h** |
+| 06:30 / 14:30 / 21:30 | 3.70 h |
+| Cada 8 h a reloj corrido (00 / 08 / 16) | 3.71 h |
+| 06:30 / 15:30 / 23:30 | 3.88 h |
 
 Notas:
 
@@ -28,7 +37,9 @@ Notas:
 
 ## Sobre la "actualización automática"
 
-Esto es un sitio estático (sin servidor propio corriendo), así que no hay forma de avisar al instante cuando sale una noticia. Con 3 corridas al día, una noticia puede tardar hasta ~9 horas en aparecer en la página. Subir la frecuencia es cambiar un renglón del cron. Si algún día se necesita algo inmediato (minutos en vez de horas), habría que mover esto a un servicio con servidor propio — es otro proyecto.
+Esto es un sitio estático (sin servidor propio corriendo), así que no hay forma de avisar al instante cuando sale una noticia. Con 3 corridas al día, una noticia espera en promedio 3.4 horas (hasta 9 en el peor caso, de madrugada) antes de aparecer en la página.
+
+Vale la pena saber que este feed publica ~1.6 notas al día (100 notas en 63 días), así que 3 corridas diarias no se están perdiendo gran cosa. Cuando se agreguen más fuentes y el volumen suba, conviene volver a medir y probablemente subir la frecuencia — es cambiar un renglón del cron. Si algún día se necesita algo inmediato (minutos en vez de horas), habría que mover esto a un servicio con servidor propio, que es otro proyecto.
 
 ## Configuración ya hecha
 
