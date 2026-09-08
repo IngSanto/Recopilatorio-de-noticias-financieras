@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "id": "bloomberglinea-mexico",
+      "name": "Bloomberg Línea (México)",
+      "type": "rss",
+      "url": "https://www.bloomberglinea.com/arc/outboundfeeds/rss/latinoamerica/mexico.xml",
+      "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
+      "enabled": true
+    }
+  ]
+}

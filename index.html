@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Radar de Noticias Financieras</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Radar de Noticias Financieras</h1>
+      <p class="subtitle">Noticias recientes agrupadas por acción / ticker</p>
+      <p class="meta" id="meta-info">Cargando...</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <input type="search" id="filter-input" placeholder="Buscar por ticker o nombre de empresa (ej. Cemex, WALMEX.MX)..." />
+    </section>
+
+    <section id="latest-section">
+      <h2>Últimas noticias</h2>
+      <div id="latest-list" class="latest-list"></div>
+    </section>
+
+    <section id="tickers-section">
+      <h2>Por acción</h2>
+      <div id="tickers-grid" class="tickers-grid"></div>
+    </section>
+
+    <p id="empty-state" class="empty-state" hidden>No hay noticias que coincidan con tu búsqueda.</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Fuentes: <span id="sources-list"></span></p>
+      <p class="disclaimer">Este sitio enlaza y resume noticias públicas; para leer el artículo completo visita la fuente original. No es asesoría de inversión.</p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
