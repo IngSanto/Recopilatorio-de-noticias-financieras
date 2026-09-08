@@ -2,8 +2,13 @@ name: Actualizar noticias y publicar sitio
 
 on:
   schedule:
-    # Cada 2 horas. GitHub solo ejecuta 'schedule' desde la rama por defecto del repo.
-    - cron: "0 */2 * * *"
+    # 3 corridas al día (~cada 8 h), en horarios de mercado mexicano.
+    # OJO: el cron de GitHub se define en UTC. CDMX = UTC-6 todo el año (sin horario de verano desde 2022).
+    # Se usa el minuto :30 a propósito: los cron en punto (:00) son los más saturados en GitHub Actions y se retrasan más.
+    - cron: "30 12 * * *" # 06:30 CDMX - antes de la apertura (BMV 8:30). Recoge la noche: Asia, Europa, EE.UU. pre-market.
+    - cron: "30 21 * * *" # 15:30 CDMX - después del cierre (BMV y NYSE cierran 15:00 CDMX). Recoge toda la sesión.
+    - cron: "30 5 * * *" #  23:30 CDMX - cierre del día noticioso. Recoge reportes after-hours y notas de la tarde.
+    # GitHub solo ejecuta 'schedule' desde la rama por defecto del repo (main).
   workflow_dispatch: {}
   push:
     branches: [main]
