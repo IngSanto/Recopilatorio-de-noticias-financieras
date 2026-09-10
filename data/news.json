@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T23:25:30.898433+00:00",
+  "generated_at": "2026-09-10T09:05:37.197043+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.6,
+      "ventana_horas": 0.8,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 218.4,
+      "ventana_horas": 226.6,
       "ok": true
     },
     {
@@ -52,8 +52,8 @@
       "scope": "Internacional",
       "lang": "en",
       "site_url": "https://finance.yahoo.com/news/",
-      "article_count": 49,
-      "ventana_horas": 17256.0,
+      "article_count": 50,
+      "ventana_horas": 23968.9,
       "ok": true
     },
     {
@@ -64,11 +64,43 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.2,
+      "ventana_horas": 11.5,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "HSBC",
+      "name": "HSBC",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "HSBC sube Novartis y rebaja Amgen en revisión del sector biopharma",
+          "link": "https://es.investing.com/news/stock-market-news/hsbc-sube-novartis-y-rebaja-amgen-en-revision-del-sector-biopharma-3829112",
+          "summary": "",
+          "published": "2026-09-10T08:43:09+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard",
+      "exchange": "NYSE",
+      "sector": "Pagos",
+      "news": [
+        {
+          "title": "Ant International partners with Visa, Mastercard on developing AI payments",
+          "link": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+          "summary": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
+          "published": "2026-09-10T01:53:50+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
@@ -154,54 +186,6 @@
           "published": "2026-07-31T19:34:50+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: Meta, Centerspace, Apple, Casey's General Stores, Signet & more",
-          "link": "https://www.cnbc.com/2026/09/09/stocks-making-the-biggest-moves-midday-meta-csr-aapl-casy-sig.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-09-09T17:41:29+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Apple, Casey's General Store, Signet Jewelers & more",
-          "link": "https://www.cnbc.com/2026/09/09/stocks-making-the-biggest-moves-premarket-aapl-casy-sig.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-09T12:00:25+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Apple’s Foldable iPhone Could Wrestle With Supply Chain Issues. What That Means for AAPL Stock.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/apple-foldable-iphone-could-wrestle-154447390.html",
-          "summary": "",
-          "published": "2026-09-08T15:44:47+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
-          "link": "https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-08-31T19:49:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -300,10 +284,26 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "An AI Stock Launched a Rack-Scale System 30x Faster Than Nvidia’s GPUs. Here’s Why It Is Still a Risky Buy.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-launched-rack-scale-152605499.html",
+          "title": "NVIDIA and ASML Back Mistral’s €3 Billion Round. Their Payoffs Could Look Very Different",
+          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-asml-back-mistral-3-230147307.html",
           "summary": "",
-          "published": "2026-09-08T15:26:05+00:00",
+          "published": "2026-09-08T23:01:47+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Microsoft’s ‘Useful Yield’ Test Raises the Stakes for NVIDIA’s AI Economics",
+          "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-useful-yield-test-raises-225832059.html",
+          "summary": "",
+          "published": "2026-09-08T22:58:32+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia vs. Broadcom: Comparing Recent Quarterly Revenue Trajectories",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-broadcom-comparing-recent-211217375.html",
+          "summary": "",
+          "published": "2026-09-08T21:12:17+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         },
@@ -320,6 +320,78 @@
           "link": "https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-premarket-nvda-hood-nvs.html",
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-09-01T11:41:08+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: Meta, Centerspace, Apple, Casey's General Stores, Signet & more",
+          "link": "https://www.cnbc.com/2026/09/09/stocks-making-the-biggest-moves-midday-meta-csr-aapl-casy-sig.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-09-09T17:41:29+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Apple, Casey's General Store, Signet Jewelers & more",
+          "link": "https://www.cnbc.com/2026/09/09/stocks-making-the-biggest-moves-premarket-aapl-casy-sig.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-09T12:00:25+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
+          "link": "https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-08-31T19:49:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Nvidia vs. Broadcom: Comparing Recent Quarterly Revenue Trajectories",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-broadcom-comparing-recent-211217375.html",
+          "summary": "",
+          "published": "2026-09-08T21:12:17+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Broadcom CEO Sees AI Value Flowing to Frontier Models and Custom Chips",
+          "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-ceo-sees-ai-value-210204442.html",
+          "summary": "",
+          "published": "2026-09-08T21:02:04+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more",
+          "link": "https://www.cnbc.com/2026/09/03/stocks-making-the-biggest-moves-premarket-snow-mrna-avgo.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-03T11:35:07+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -366,32 +438,16 @@
       ]
     },
     {
-      "ticker": "MU",
-      "name": "Micron",
+      "ticker": "ASML",
+      "name": "ASML",
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Micron and Sandisk Face a New China Threat -- 1 Has a Much Bigger Problem",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-face-china-threat-160007469.html",
+          "title": "NVIDIA and ASML Back Mistral’s €3 Billion Round. Their Payoffs Could Look Very Different",
+          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-asml-back-mistral-3-230147307.html",
           "summary": "",
-          "published": "2026-09-08T16:00:07+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BAC",
-      "name": "Bank of America",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Bank of America Is Bullish on SK hynix Stock as the Memory Chip Market Stays Tight",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bullish-sk-hynix-153622945.html",
-          "summary": "",
-          "published": "2026-09-08T15:36:22+00:00",
+          "published": "2026-09-08T23:01:47+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
@@ -404,26 +460,74 @@
       "sector": "Tecnología",
       "news": [
         {
-          "title": "Cloud Capex to Cash: AWS Wins This Way, Alphabet Wins Another Way",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cloud-capex-cash-aws-wins-153400548.html",
+          "title": "Druckenmiller Exited Micron and Bought Alphabet. The AI Risks Moved With Him",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-exited-micron-bought-alphabet-230042923.html",
           "summary": "",
-          "published": "2026-09-08T15:34:00+00:00",
+          "published": "2026-09-08T23:00:42+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "INTC",
-      "name": "Intel",
+      "ticker": "MU",
+      "name": "Micron",
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "After the Dip, Intel’s $20 Billion Raise Is Not the Red Flag It Originally Looked Like",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/dip-intel-20-billion-raise-151920658.html",
+          "title": "Druckenmiller Exited Micron and Bought Alphabet. The AI Risks Moved With Him",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-exited-micron-bought-alphabet-230042923.html",
           "summary": "",
-          "published": "2026-09-08T15:19:20+00:00",
+          "published": "2026-09-08T23:00:42+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Microsoft’s ‘Useful Yield’ Test Raises the Stakes for NVIDIA’s AI Economics",
+          "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-useful-yield-test-raises-225832059.html",
+          "summary": "",
+          "published": "2026-09-08T22:58:32+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Palantir Stock Continues to Grow on the Back of Enterprise Partnerships",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-continues-grow-back-223139549.html",
+          "summary": "",
+          "published": "2026-09-08T22:31:39+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "SAP",
+      "name": "SAP",
+      "exchange": "XETRA",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "SAP CEO: Our AI breakthrough moment is coming",
+          "link": "https://finance.yahoo.com/markets/stocks/article/sap-ceo-our-ai-breakthrough-moment-is-coming-221642192.html",
+          "summary": "",
+          "published": "2026-09-08T22:16:42+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
@@ -504,22 +608,6 @@
           "link": "https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-premarket-.html",
           "summary": "These are the stocks posting the largest moves in the premarket.",
           "published": "2026-09-04T13:52:56+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more",
-          "link": "https://www.cnbc.com/2026/09/03/stocks-making-the-biggest-moves-premarket-snow-mrna-avgo.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-03T11:35:07+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -704,6 +792,96 @@
   ],
   "sin_accion": [
     {
+      "title": "¿Por qué cae hoy la acción de Fevertree?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-fevertree-93CH-3829125",
+      "summary": "",
+      "published": "2026-09-10T08:53:59+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Genus caen tras no alcanzar las previsiones de ingresos",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-genus-caen-tras-no-alcanzar-las-previsiones-de-ingresos-93CH-3829122",
+      "summary": "",
+      "published": "2026-09-10T08:52:53+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Volvo construirá una instalación de almacenamiento de 70 MW en Suecia en 2027",
+      "link": "https://es.investing.com/news/stock-market-news/volvo-construira-una-instalacion-de-almacenamiento-de-70-mw-en-suecia-en-2027-93CH-3829121",
+      "summary": "",
+      "published": "2026-09-10T08:51:28+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Running the numbers on Trump’s $5,000 dividend proposal, from its cost to the impact on average American’s finances",
+      "link": "https://www.marketwatch.com/story/running-the-numbers-on-trumps-5-000-dividend-proposal-from-its-cost-to-the-impact-on-average-americans-finances-a708cba5?mod=mw_rss_topstories",
+      "summary": "Here are the numbers on what it would cost and the more complex analysis of what it mean for the economy.",
+      "published": "2026-09-10T08:47:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se desploma hoy la acción de Hemnet?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-hemnet-93CH-3829096",
+      "summary": "",
+      "published": "2026-09-10T08:36:49+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las perspectivas de inflación de los consumidores estadounidenses se mantienen estables en agosto",
+      "link": "https://es.investing.com/news/stock-market-news/las-perspectivas-de-inflacion-de-los-consumidores-estadounidenses-se-mantienen-estables-en-agosto-93CH-3829087",
+      "summary": "",
+      "published": "2026-09-10T08:34:35+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de D’Ieteren?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-dieteren-93CH-3829065",
+      "summary": "",
+      "published": "2026-09-10T08:28:15+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+      "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+      "summary": "While there’s a bear case to be made on copper if the AI trade blows up, if Trump eschews tariffs or if peace descends over the Persian Gulf, the long-term rationale for higher prices is solid, a listed copper producer executive says.",
+      "published": "2026-09-10T07:29:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
+      "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+      "summary": "President Trump’s speech at his party’s midterm convention in Dallas comes as many analysts expect losses for Republicans in November’s elections due to voters’ frustrations with high prices.",
+      "published": "2026-09-10T03:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
+      "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
+      "summary": "Investor appetite for memecoins has clearly not recovered, even as bitcoin prices have crept higher.",
+      "published": "2026-09-10T02:04:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Hacienda reducirá déficit fiscal con moderación para no incidir en la economía durante 2027",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hacienda-reducira-deficit-fiscal-con-moderacion-para-no-incidir-en-la-economia-durante-2027/",
       "summary": "El secretario de Hacienda, Edgar Amador, aseguró que existe el compromiso de mejorar la calificación del crédito público de México.",
@@ -731,96 +909,6 @@
       "tickers": []
     },
     {
-      "title": "Home-insurance premiums just hit a record high. Here’s where they spiked the most.",
-      "link": "https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories",
-      "summary": "Natural disasters — from hurricanes to storms to wildfires — are prompting insurers to rethink pricing as risks evolve.",
-      "published": "2026-09-09T22:21:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Hunter Biden’s memecoin flops, falling 95% just hours after launch",
-      "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
-      "summary": "Investor appetite for memecoins has clearly not recovered, even as bitcoin prices have crept higher.",
-      "published": "2026-09-09T22:02:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
-      "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-      "summary": "“We have witnessed our parents’ gradual decline in cognitive ability.”",
-      "published": "2026-09-09T22:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Kinetik Holdings?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-kinetik-holdings-93CH-3828592",
-      "summary": "",
-      "published": "2026-09-09T21:52:06+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Enbridge?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-enbridge-93CH-3828590",
-      "summary": "",
-      "published": "2026-09-09T21:51:18+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El investigador de IA de Meta, Andrew Tulloch, se va tras el lanzamiento de Muse",
-      "link": "https://es.investing.com/news/stock-market-news/el-investigador-de-ia-de-meta-andrew-tulloch-se-va-tras-el-lanzamiento-de-muse-93CH-3828582",
-      "summary": "",
-      "published": "2026-09-09T21:38:33+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de IQVIA suben tras emisión de pagarés por 2.000 millones",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-iqvia-suben-tras-emision-de-pagares-por-2000-millones-93CH-3828577",
-      "summary": "",
-      "published": "2026-09-09T21:35:25+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Centrus Energy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-centrus-energy-93CH-3828572",
-      "summary": "",
-      "published": "2026-09-09T21:30:43+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "BAE Systems gana una modificación de contrato naval por 38,2 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/bae-systems-gana-una-modificacion-de-contrato-naval-por-382-millones-de-dolares-93CH-3828565",
-      "summary": "",
-      "published": "2026-09-09T21:27:21+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The bull market’s biggest enemy right now could be Bessent’s interventions",
-      "link": "https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories",
-      "summary": "A stronger yen and higher Treasury yields could become a toxic combination for the bull market in stocks.",
-      "published": "2026-09-09T21:17:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
       "link": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
       "summary": "Import bans on motorbikes, alcohol and dairy products are due to come into effect on Sept. 29 as the rift between the countries deepens.",
@@ -839,11 +927,65 @@
       "tickers": []
     },
     {
+      "title": "How long should you wait between credit card applications?",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-long-should-you-wait-between-credit-card-applications-152057924.html",
+      "summary": "",
+      "published": "2026-09-09T15:20:57+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Do you need to be a millionaire to retire? Experts weigh in on the 15% rule.",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/do-you-need-to-be-a-millionaire-to-retire-experts-weigh-in-on-the-15-rule-150323141.html",
+      "summary": "",
+      "published": "2026-09-09T15:03:23+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "What is the 'Lean FIRE' movement, and how can it help you reach financial independence?",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/what-is-the-lean-fire-movement-143401919.html",
+      "summary": "",
+      "published": "2026-09-09T14:34:01+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Wednesday, September 9, 2026: Ongoing escalations in the Middle East are keeping a lid on crypto",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-9-2026-ongoing-escalations-in-the-middle-east-are-keeping-a-lid-on-crypto-112541573.html",
+      "summary": "",
+      "published": "2026-09-09T11:25:41+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Why the Fed's interest rate call could come down to a few hundredths of a percentage point",
       "link": "https://www.cnbc.com/2026/09/08/federal-reserves-rate-call-could-hang-on-a-tiny-fraction.html",
       "summary": "As markets vacillate between which way they see policymakers leaning, all eyes will turn to economic reports measuring producer and consumer prices.",
       "published": "2026-09-09T11:22:21+00:00",
       "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Silver price today, Wednesday, September 9, 2026: Silver prices hold in the $66 range as U.S.-Iranian attacks continue",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-9-2026-silver-prices-hold-in-the-66-range-as-us-iranian-attacks-continue-105942902.html",
+      "summary": "",
+      "published": "2026-09-09T10:59:42+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html",
+      "summary": "",
+      "published": "2026-09-09T10:41:23+00:00",
+      "source_short": "Yahoo",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -884,65 +1026,11 @@
       "tickers": []
     },
     {
-      "title": "Home insurance rates are up 47% nationwide. See the states where rates rose the most.",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/article/home-insurance-rates-are-up-47-nationwide-see-the-states-where-rates-rose-the-most-205039646.html",
-      "summary": "",
-      "published": "2026-09-08T20:50:39+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Capital One Venture welcome offer: 75,000 miles plus a $300 travel credit",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-welcome-offer-75000-miles-plus-a-300-travel-credit-171812043.html",
-      "summary": "",
-      "published": "2026-09-08T17:18:12+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
       "link": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
       "summary": "Duties on Canadian imports of U.S. steel and aluminum products have doubled to 50% as a trade war between Washington and Ottawa intensifies.",
       "published": "2026-09-08T17:11:11+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "401(k) savers are setting records. How to catch up if you're behind.",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/401k-savers-are-setting-records-how-to-catch-up-if-youre-behind-162009045.html",
-      "summary": "",
-      "published": "2026-09-08T16:20:09+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "$1.5 million in your 401(k)? Here’s what your RMD taxes will look like — and the very best trick to lower them",
-      "link": "https://finance.yahoo.com/markets/options/articles/1-5-million-401-k-155500152.html",
-      "summary": "",
-      "published": "2026-09-08T15:55:00+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "SpaceX trades 11% above its $135 IPO price as analysts target $280 — but one investor warns valuation is 'beyond silly'",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-trades-11-above-135-155500699.html",
-      "summary": "",
-      "published": "2026-09-08T15:55:00+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Strong Results Lifted Garrett Motion (GTX) in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-results-lifted-garrett-motion-154518555.html",
-      "summary": "",
-      "published": "2026-09-08T15:45:18+00:00",
-      "source_short": "Yahoo",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1065,8 +1153,8 @@
     }
   ],
   "totales": {
-    "articulos": 229,
-    "acciones_con_noticias": 26,
+    "articulos": 230,
+    "acciones_con_noticias": 30,
     "sin_accion": 40
   }
 }
