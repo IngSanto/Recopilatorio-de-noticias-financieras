@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T09:03:57.366651+00:00",
+  "generated_at": "2026-09-11T17:06:55.113020+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 1582.9,
+      "ventana_horas": 1599.5,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.4,
+      "ventana_horas": 1.5,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 414.0,
+      "ventana_horas": 387.3,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 232.0,
+      "ventana_horas": 236.1,
       "ok": true
     },
     {
@@ -52,8 +52,8 @@
       "scope": "Internacional",
       "lang": "en",
       "site_url": "https://finance.yahoo.com/news/",
-      "article_count": 50,
-      "ventana_horas": 23992.5,
+      "article_count": 49,
+      "ventana_horas": 21335.5,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 10.9,
+      "ventana_horas": 2.8,
       "ok": true
     }
   ],
@@ -76,27 +76,19 @@
       "sector": "Tecnología",
       "news": [
         {
+          "title": "Stock Market Today: Dow Rallies On Surprise Inflation Data; Apple Jumps, Nears All-Time High (Live Coverage)",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-oracle-stock-orcl/?src=A00220&yptr=yahoo",
+          "summary": "",
+          "published": "2026-09-11T16:03:45+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
           "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
           "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
-          "published": "2026-09-11T02:05:24+00:00",
+          "published": "2026-09-11T14:30:29+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.",
-          "link": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
-          "summary": "Wireless carriers are rolling out their initial iPhone promotions, but analysts say there’s no price war just yet.",
-          "published": "2026-09-10T22:25:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Apple is walking a ‘tightrope’ when it comes to the prices of its new iPhones",
-          "link": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
-          "summary": "The company raised prices on its phone but might still have to eat costs itself, analysts say.",
-          "published": "2026-09-10T20:40:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
@@ -142,25 +134,97 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "The Better Nvidia Killer: Broadcom or AMD?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/better-nvidia-killer-broadcom-amd-164012177.html",
+          "summary": "",
+          "published": "2026-09-11T16:40:12+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Qualcomm’s AWS Deal Takes Aim at Nvidia, But Comes With Fine Print",
+          "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-aws-deal-takes-aim-154005241.html",
+          "summary": "",
+          "published": "2026-09-11T15:40:05+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "The Better Nvidia Killer: Broadcom or AMD?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/better-nvidia-killer-broadcom-amd-164012177.html",
+          "summary": "",
+          "published": "2026-09-11T16:40:12+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more",
+          "link": "https://www.cnbc.com/2026/09/03/stocks-making-the-biggest-moves-premarket-snow-mrna-avgo.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-03T11:35:07+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Why Oracle's 'Solid' Results Aren't Giving Its Stock A Big Boost",
+          "link": "https://www.investors.com/news/technology/oracle-stock-orcl-ai-q1-earnings/?src=A00220&yptr=yahoo",
+          "summary": "",
+          "published": "2026-09-11T15:59:47+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: GameStop, Oracle, Adobe, RH & more",
+          "link": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-premarket-gme-orcl-adbe-rh.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-11T11:25:04+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "ADBE",
       "name": "Adobe",
       "exchange": "NASDAQ",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "¿Por qué cae hoy la acción de Adobe?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-adobe-93CH-3831250",
-          "summary": "",
-          "published": "2026-09-11T08:44:58+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Adobe’s latest earnings leave Wall Street wanting more",
-          "link": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
-          "summary": "“In this environment you can’t just meet” expectations, an analyst says",
-          "published": "2026-09-11T00:17:00+00:00",
-          "source_short": "MarketW",
+          "title": "Stocks making the biggest moves premarket: GameStop, Oracle, Adobe, RH & more",
+          "link": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-premarket-gme-orcl-adbe-rh.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-11T11:25:04+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
@@ -174,49 +238,65 @@
       ]
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "¿Por qué se dispara hoy la acción de Oracle?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-oracle-93CH-3831249",
+          "title": "The Better Nvidia Killer: Broadcom or AMD?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/better-nvidia-killer-broadcom-amd-164012177.html",
           "summary": "",
-          "published": "2026-09-11T08:44:47+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
-          "link": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
-          "summary": "The company saw its backlog grow even more in the latest quarter.",
-          "published": "2026-09-11T00:19:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Could Hewlett Packard (HPE)’s Oracle Corporation (ORCL) Partnership Turn AI Networking into its Next Growth Engine?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/could-hewlett-packard-hpe-oracle-210310479.html",
-          "summary": "",
-          "published": "2026-09-09T21:03:10+00:00",
+          "published": "2026-09-11T16:40:12+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "WFC",
-      "name": "Wells Fargo",
+      "ticker": "STLA",
+      "name": "Stellantis",
+      "exchange": "NYSE",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stellantis planea invertir más de 1.000 millones de euros en una furgoneta en Francia",
+          "link": "https://es.investing.com/news/stock-market-news/stellantis-planea-invertir-mas-de-1000-millones-de-euros-en-una-furgoneta-en-francia-93CH-3832136",
+          "summary": "",
+          "published": "2026-09-11T16:27:15+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "name": "Qualcomm",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Qualcomm’s AWS Deal Takes Aim at Nvidia, But Comes With Fine Print",
+          "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-aws-deal-takes-aim-154005241.html",
+          "summary": "",
+          "published": "2026-09-11T15:40:05+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
       "exchange": "NYSE",
       "sector": "Banca",
       "news": [
         {
-          "title": "El analista de Wells Fargo ve problemas crecientes para las marcas occidentales en China",
-          "link": "https://es.investing.com/news/stock-market-news/el-analista-de-wells-fargo-ve-problemas-crecientes-para-las-marcas-occidentales-en-china-93CH-3831253",
+          "title": "The Goldman Sachs (GS) Deepens AI Push as Competition for Tech Talent Intensifies",
+          "link": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-gs-deepens-ai-152645980.html",
           "summary": "",
-          "published": "2026-09-11T08:49:32+00:00",
-          "source_short": "Investing",
+          "published": "2026-09-11T15:26:45+00:00",
+          "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
@@ -231,55 +311,7 @@
           "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
           "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
           "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
-          "published": "2026-09-11T02:05:24+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BP",
-      "name": "BP",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Could Shell (SHEL)’s Superior Cash Flow Make It a Better Bet Than BP (BP)?",
-          "link": "https://finance.yahoo.com/energy/articles/could-shell-shel-superior-cash-214318408.html",
-          "summary": "",
-          "published": "2026-09-09T21:43:18+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Angélica Ruiz deja la presidencia de BP en México",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/angelica-ruiz-deja-la-presidencia-de-bp-en-mexico/",
-          "summary": "La economista mexicana también dejó su cargo como vicepresidenta senior de BP en Latinoamérica.",
-          "published": "2026-08-18T03:23:57+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Broadcom (AVGO) Q3 2026 Earnings Call Transcript",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-q3-2026-earnings-212843048.html",
-          "summary": "",
-          "published": "2026-09-09T21:28:43+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more",
-          "link": "https://www.cnbc.com/2026/09/03/stocks-making-the-biggest-moves-premarket-snow-mrna-avgo.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-03T11:35:07+00:00",
+          "published": "2026-09-11T14:30:29+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -298,102 +330,6 @@
           "published": "2026-09-10T16:11:19+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "MA",
-      "name": "Mastercard",
-      "exchange": "NYSE",
-      "sector": "Pagos",
-      "news": [
-        {
-          "title": "Ant International partners with Visa, Mastercard on developing AI payments",
-          "link": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
-          "summary": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
-          "published": "2026-09-10T01:53:50+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Is Salesforce (CRM)’s Agentforce Growth Enough to Outpace F5 (FFIV)’s AI Security Momentum?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-agentforce-growth-enough-215747965.html",
-          "summary": "",
-          "published": "2026-09-09T21:57:47+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "SHEL",
-      "name": "Shell",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Could Shell (SHEL)’s Superior Cash Flow Make It a Better Bet Than BP (BP)?",
-          "link": "https://finance.yahoo.com/energy/articles/could-shell-shel-superior-cash-214318408.html",
-          "summary": "",
-          "published": "2026-09-09T21:43:18+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "F",
-      "name": "Ford Motor Company",
-      "exchange": "NYSE",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Ford CEO Says Transportation Secretary Had ‘Basic Misunderstandings’ in Letter",
-          "link": "https://www.wsj.com/business/autos/ford-ceo-says-transportation-secretary-had-basic-misunderstandings-in-letter-34795840?siteid=yhoof2&yptr=yahoo",
-          "summary": "",
-          "published": "2026-09-09T21:35:00+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Could Advanced Micro Devices (AMD)’s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/could-advanced-micro-devices-amd-213247998.html",
-          "summary": "",
-          "published": "2026-09-09T21:32:47+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "CSCO",
-      "name": "Cisco",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Could Advanced Micro Devices (AMD)’s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/could-advanced-micro-devices-amd-213247998.html",
-          "summary": "",
-          "published": "2026-09-09T21:32:47+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -598,33 +534,17 @@
       ]
     },
     {
-      "ticker": "INTC",
-      "name": "Intel",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
+      "ticker": "MA",
+      "name": "Mastercard",
+      "exchange": "NYSE",
+      "sector": "Pagos",
       "news": [
         {
-          "title": "Intel (INTC) and ASML Move High-NA EUV Into Production. Can the Economics Catch Up?",
-          "link": "https://finance.yahoo.com/technology/articles/intel-intc-asml-move-high-210140854.html",
-          "summary": "",
-          "published": "2026-09-09T21:01:40+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ASML",
-      "name": "ASML",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Intel (INTC) and ASML Move High-NA EUV Into Production. Can the Economics Catch Up?",
-          "link": "https://finance.yahoo.com/technology/articles/intel-intc-asml-move-high-210140854.html",
-          "summary": "",
-          "published": "2026-09-09T21:01:40+00:00",
-          "source_short": "Yahoo",
+          "title": "Ant International partners with Visa, Mastercard on developing AI payments",
+          "link": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+          "summary": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
+          "published": "2026-09-10T01:53:50+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -710,22 +630,6 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "BRK.B",
       "name": "Berkshire Hathaway",
       "exchange": "NYSE",
@@ -752,6 +656,22 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/nissan-confia-en-su-posicionamiento-en-mexico-frente-a-nuevos-competidores-ceo/",
           "summary": "La automotriz japonesa puede defenderse ante nuevos jugadores en México, dijo Iván Espinosa, líder global de la automotriz.",
           "published": "2026-08-20T20:32:12+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "BP",
+      "name": "BP",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Angélica Ruiz deja la presidencia de BP en México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/angelica-ruiz-deja-la-presidencia-de-bp-en-mexico/",
+          "summary": "La economista mexicana también dejó su cargo como vicepresidenta senior de BP en Latinoamérica.",
+          "published": "2026-08-18T03:23:57+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -852,86 +772,232 @@
           "source_scope": "México"
         }
       ]
-    },
-    {
-      "ticker": "AEROMEX.MX",
-      "name": "Aeroméxico",
-      "exchange": "BMV",
-      "sector": "Aerolíneas",
-      "news": [
-        {
-          "title": "Aeroméxico registra ingresos récord pese a menor tráfico por el Mundial",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/aeromexico-registra-ingresos-record-pese-a-menor-trafico-por-el-mundial/",
-          "summary": "Andrés Conesa, CEO de la aerolínea, dijo que el efecto del torneo fue “ligeramente negativo” en ingresos durante junio ante la caída en los viajes de negocios.",
-          "published": "2026-07-15T03:26:45+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
     }
   ],
   "sin_accion": [
     {
-      "title": "¿Por qué cae hoy la acción de Grupa Azoty?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-grupa-azoty-93CH-3831254",
-      "summary": "",
-      "published": "2026-09-11T08:49:39+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Vetoquinol suben un 16% tras un crecimiento del 22% en beneficios",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-vetoquinol-suben-un-16-tras-un-crecimiento-del-22-en-beneficios-3831255",
-      "summary": "",
-      "published": "2026-09-11T08:49:21+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de TSK Electrónica?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-tsk-electronica-93CH-3831244",
-      "summary": "",
-      "published": "2026-09-11T08:35:23+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Grupa Azoty caen un 4% por la débil demanda de fertilizantes",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-grupa-azoty-caen-un-4-por-la-debil-demanda-de-fertilizantes-93CH-3831235",
-      "summary": "",
-      "published": "2026-09-11T08:32:23+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Harbour Energy caen tras el anuncio de venta de participación de BASF",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-harbour-energy-caen-tras-el-anuncio-de-venta-de-participacion-de-basf-93CH-3831234",
-      "summary": "",
-      "published": "2026-09-11T08:32:15+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Jefferies ve los mercados de India en rango limitado por vientos macro en contra",
-      "link": "https://es.investing.com/news/stock-market-news/jefferies-ve-los-mercados-de-india-en-rango-limitado-por-vientos-macro-en-contra-93CH-3831231",
-      "summary": "",
-      "published": "2026-09-11T08:28:48+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Traditional portfolio diversification isn’t cutting it anymore. Here’s where to pivot, says this $624 billion fund manager.",
-      "link": "https://www.marketwatch.com/story/traditional-portfolio-diversification-isnt-cutting-it-anymore-heres-where-to-pivot-says-this-624-billion-fund-manager-0b552566?mod=mw_rss_topstories",
-      "summary": "For Allspring Global Investments, investors should be looking at how they can adapt their strategies to incorporate more liquid alternatives.",
-      "published": "2026-09-11T07:19:00+00:00",
+      "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.",
+      "link": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
+      "summary": "Generation Z and young millennials are navigating major shifts in the economy that have made it harder to build wealth the way Americans did in the past.",
+      "published": "2026-09-11T17:01:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Dell, Skyworks Solutions, GameStop & more",
+      "link": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-midday-dell-swks-gme.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "2026-09-11T16:57:30+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "C&C Group to acquire Asahi UK’s wholesale business",
+      "link": "https://finance.yahoo.com/small-business/articles/c-c-group-acquire-asahi-165428446.html",
+      "summary": "",
+      "published": "2026-09-11T16:54:28+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Consumer outlook plunges in September as inflation outlook worsens",
+      "link": "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html",
+      "summary": "The survey's headline index hit a level of 47.8, down 7.5% from the August reading and off 13.2% from a year ago.",
+      "published": "2026-09-11T16:53:23+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A Rate Hike Is Basically Locked In, and Stock Market Indexes Rose Anyway",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rate-hike-basically-locked-stock-164529292.html",
+      "summary": "",
+      "published": "2026-09-11T16:45:29+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
+      "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+      "summary": "There’s a safe haven hiding in plain sight.",
+      "published": "2026-09-11T16:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "This Oil Stock Sails Near Entry, Profits Soar 452% As Strait of Hormuz Crisis Flares Up",
+      "link": "https://www.investors.com/stock-lists/stock-spotlight/oil-stock-torm-trmd-profit-growth-strait-of-hormuz-crisis-markets/?src=A00220&yptr=yahoo",
+      "summary": "",
+      "published": "2026-09-11T16:39:42+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Forget NuScale: This Nuclear Energy Stock Is the Smarter Bet Right Now",
+      "link": "https://finance.yahoo.com/energy/articles/forget-nuscale-nuclear-energy-stock-163500644.html",
+      "summary": "",
+      "published": "2026-09-11T16:35:00+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?",
+      "link": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
+      "summary": "A self-described “spender” is concerned about taxes.",
+      "published": "2026-09-11T16:34:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Your Social Security check could go up another $71 next year. That’s not necessarily good news.",
+      "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+      "summary": "A higher COLA is a sign that persistent inflation isn’t going anywhere.",
+      "published": "2026-09-11T16:32:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-a516c8f3?siteid=yhoof2&yptr=yahoo",
+      "summary": "",
+      "published": "2026-09-11T16:31:00+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Prediction: This Could Be an Unexpected AI Winner Through 2030",
+      "link": "https://finance.yahoo.com/technology/ai/articles/prediction-could-unexpected-ai-winner-163056327.html",
+      "summary": "",
+      "published": "2026-09-11T16:30:56+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Mercuria y Glencore compiten por un acuerdo con la fundición de aluminio de Venezuela",
+      "link": "https://es.investing.com/news/stock-market-news/mercuria-y-glencore-compiten-por-un-acuerdo-con-la-fundicion-de-aluminio-de-venezuela-93CH-3832135",
+      "summary": "",
+      "published": "2026-09-11T16:26:12+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "How rising bond yields can wreck some portfolios while pumping up others with cash",
+      "link": "https://www.marketwatch.com/story/how-rising-bond-yields-can-wreck-some-portfolios-while-pumping-up-others-with-cash-c415faf3?mod=mw_rss_topstories",
+      "summary": "Also in Weekend Reads: Helping retirees get over their fear of spending, prenups, Walmart’s big move, and advice from the Moneyist.",
+      "published": "2026-09-11T16:17:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de Descartes Systems se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-descartes-systems-se-disparan-hoy-93CH-3832133",
+      "summary": "",
+      "published": "2026-09-11T16:15:22+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
+      "published": "2026-09-11T16:06:31+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de Vicor se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-vicor-se-disparan-hoy-93CH-3832109",
+      "summary": "",
+      "published": "2026-09-11T15:50:41+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Vicor se disparan por planes de construir dos nuevas fábricas de chips",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-vicor-se-disparan-por-planes-de-construir-dos-nuevas-fabricas-de-chips-93CH-3832108",
+      "summary": "",
+      "published": "2026-09-11T15:47:01+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
+      "link": "https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html",
+      "summary": "The largest outbreak, linked to shredded iceberg lettuce from Taylor Farms, sickened more than 12,000 people.",
+      "published": "2026-09-11T15:36:45+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las mejores opciones biotecnológicas de Needham & Company para el segundo semestre de 2026",
+      "link": "https://es.investing.com/news/stock-market-news/las-mejores-opciones-biotecnologicas-de-needham--company-para-el-segundo-semestre-de-2026-93CH-3832101",
+      "summary": "",
+      "published": "2026-09-11T15:36:09+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "GTCR negocia la adquisición de SPS Commerce, según Bloomberg",
+      "link": "https://es.investing.com/news/stock-market-news/gtcr-negocia-la-adquisicion-de-sps-commerce-segun-bloomberg-93CH-3832099",
+      "summary": "",
+      "published": "2026-09-11T15:33:40+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Investors are all wrong about demography",
+      "link": "https://www.marketwatch.com/story/investors-are-all-wrong-about-demography-ebfb5f2f?mod=mw_rss_topstories",
+      "summary": "A shrinking population doesn’t have to be the kiss of death.",
+      "published": "2026-09-11T15:31:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Gobierno de Sheinbaum frenará gasto de programas sociales en 2027 en medio de presión fiscal",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gobierno-de-sheinbaum-frenara-gasto-de-programas-sociales-en-2027-en-medio-de-presion-fiscal/",
+      "summary": "El Paquete Económico 2027 deja ver que las presiones en el gasto público están golpeando a los programas insignia, incluso, algunos tendrán recortes.",
+      "published": "2026-09-11T14:59:25+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+      "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+      "summary": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
+      "published": "2026-09-11T13:46:36+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Petróleo de México rebasa los US$100 por la guerra mientras el Gobierno espera un precio más bajo",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petroleo-de-mexico-rebasa-los-us100-por-la-guerra-mientras-el-gobierno-espera-un-precio-mas-bajo/",
+      "summary": "La Mezcla Mexicana de Exportación cotizó en US$105 por barril.",
+      "published": "2026-09-11T10:00:00+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -940,15 +1006,6 @@
       "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
       "published": "2026-09-11T06:02:40+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
-      "link": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
-      "summary": "“Diesel touches everything in the economy,” one analyst says.",
-      "published": "2026-09-10T22:54:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -962,55 +1019,10 @@
       "tickers": []
     },
     {
-      "title": "SpaceX is inching closer to this lofty $100 billion milestone",
-      "link": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
-      "summary": "SpaceX has set an ambitious revenue target and a newly disclosed computing-power deal could get the company a bit nearer to its goal.",
-      "published": "2026-09-10T22:19:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Here are the stocks to favor in the fourth quarter — and those you should avoid",
-      "link": "https://www.marketwatch.com/story/here-are-the-stocks-to-favor-in-the-fourth-quarter-and-those-you-should-avoid-cf2dd10b?mod=mw_rss_topstories",
-      "summary": "Large caps tend to outperform small caps as year’s end approaches.",
-      "published": "2026-09-10T22:02:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.",
-      "link": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
-      "summary": "Generation Z and young millennials are navigating major shifts in the economy that have made it harder to build wealth the way Americans did in the past.",
-      "published": "2026-09-10T20:39:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Why $500 checks won’t help Americans facing 15% increases in Obamacare premiums next year",
-      "link": "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
-      "summary": "Rising healthcare costs have been a major issue for lawmakers and patients in recent years.",
-      "published": "2026-09-10T20:26:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
       "link": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
       "summary": "The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.",
       "published": "2026-09-10T19:18:05+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-      "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-      "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
-      "published": "2026-09-10T19:02:58+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1021,15 +1033,6 @@
       "summary": "Traders pushed chances for a rate increase to 70% in morning action.",
       "published": "2026-09-10T16:55:17+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "'Rich Dad' Robert Kiyosaki is $1.2 billion in debt — on purpose. Here's why.",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/rich-dad-robert-kiyosaki-is-12-billion-in-debt--on-purpose-heres-why-150004284.html",
-      "summary": "",
-      "published": "2026-09-10T15:00:04+00:00",
-      "source_short": "Yahoo",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1052,42 +1055,6 @@
       "tickers": []
     },
     {
-      "title": "Bitcoin and ethereum prices today, Thursday, September 10, 2026: Crypto prices slide back with inflation data on tap",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-10-2026-crypto-prices-slide-back-with-inflation-data-on-tap-113018195.html",
-      "summary": "",
-      "published": "2026-09-10T11:30:18+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Silver price today, Thursday, September 10, 2026: Silver prices back off ahead of inflation data",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-thursday-september-10-2026-silver-prices-back-off-ahead-of-inflation-data-110719718.html",
-      "summary": "",
-      "published": "2026-09-10T11:07:19+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Gold price today, Thursday, September 10, 2026: Gold prices steady ahead of inflation data and the Fed",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-september-10-2026-gold-prices-steady-ahead-of-inflation-data-and-the-fed-105217035.html",
-      "summary": "",
-      "published": "2026-09-10T10:52:17+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Best CD rates today, Thursday, September 10, 2026: Lock in up to 4.35% APY with an 18-month CD",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-september-10-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000213.html",
-      "summary": "",
-      "published": "2026-09-10T10:00:00+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Hacienda reducirá déficit fiscal con moderación para no incidir en la economía durante 2027",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hacienda-reducira-deficit-fiscal-con-moderacion-para-no-incidir-en-la-economia-durante-2027/",
       "summary": "El secretario de Hacienda, Edgar Amador, aseguró que existe el compromiso de mejorar la calificación del crédito público de México.",
@@ -1097,39 +1064,12 @@
       "tickers": []
     },
     {
-      "title": "Braze (BRZE) Posted a Strong Q2. Are Investors Still Cautious?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/braze-brze-posted-strong-q2-215804346.html",
-      "summary": "",
-      "published": "2026-09-09T21:58:04+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "link": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-      "summary": "Import bans on motorbikes, alcohol and dairy products are due to come into effect on Sept. 29 as the rift between the countries deepens.",
-      "published": "2026-09-09T16:17:46+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "México propone declaración de IEPS por combustibles a comercializadoras, transportistas y gasolineras",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-propone-declaracion-de-ieps-por-combustibles-a-comercializadoras-transportistas-y-gasolineras/",
       "summary": "La presidenta mexicana y su equipo fiscal explicaron la estrategia de trazabilidad del Impuesto Especial sobre Producción y Servicios a gasolinas y diésel.",
       "published": "2026-09-09T15:48:57+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Why the Fed's interest rate call could come down to a few hundredths of a percentage point",
-      "link": "https://www.cnbc.com/2026/09/08/federal-reserves-rate-call-could-hang-on-a-tiny-fraction.html",
-      "summary": "As markets vacillate between which way they see policymakers leaning, all eyes will turn to economic reports measuring producer and consumer prices.",
-      "published": "2026-09-09T11:22:21+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1146,24 +1086,6 @@
       "link": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
       "summary": "As Chinese electric car sales slow and share prices tumble, several of the automakers are ramping up humanoid robotics development.",
       "published": "2026-09-09T04:12:51+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
-      "link": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
-      "summary": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
-      "published": "2026-09-08T21:59:13+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
-      "link": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
-      "summary": "Duties on Canadian imports of U.S. steel and aluminum products have doubled to 50% as a trade war between Washington and Ottawa intensifies.",
-      "published": "2026-09-08T17:11:11+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1212,29 +1134,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Paquete Económico 2027: ¿habrá más impuestos en México? Esto dicen los aliados de Sheinbaum",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/paquete-economico-2027-habra-mas-impuestos-en-mexico-en-2027-esto-dicen-los-aliados-de-sheinbaum/",
-      "summary": "La presidenta Claudia Sheinbaum pidió esperar al 8 de septiembre para conocer el contenido del Paquete Económico 2027.",
-      "published": "2026-09-04T13:32:40+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Regalías altas de México al fracking limitan el interés de las petroleras privadas",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/regalias-altas-de-mexico-al-fracking-limitan-el-interes-de-las-petroleras-privadas/",
-      "summary": "México tiene las regalías más altas en comparación con el resto del continente.",
-      "published": "2026-09-03T22:39:04+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
-    "articulos": 230,
-    "acciones_con_noticias": 33,
+    "articulos": 229,
+    "acciones_con_noticias": 28,
     "sin_accion": 40
   }
 }
