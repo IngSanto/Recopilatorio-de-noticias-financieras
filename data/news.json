@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T23:27:18.416285+00:00",
+  "generated_at": "2026-09-12T08:46:40.399649+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -52,8 +52,8 @@
       "scope": "Internacional",
       "lang": "en",
       "site_url": "https://finance.yahoo.com/news/",
-      "article_count": 50,
-      "ventana_horas": 21336.2,
+      "article_count": 48,
+      "ventana_horas": 12166.5,
       "ok": true
     },
     {
@@ -64,99 +64,11 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.1,
+      "ventana_horas": 3.8,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
-          "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
-          "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
-          "published": "2026-09-11T14:30:29+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Macy's, Meta, Apple, Novartis and more",
-          "link": "https://www.cnbc.com/2026/09/10/stocks-making-the-biggest-moves-premarket-.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-09-10T11:54:53+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: Meta, Centerspace, Apple, Casey's General Stores, Signet & more",
-          "link": "https://www.cnbc.com/2026/09/09/stocks-making-the-biggest-moves-midday-meta-csr-aapl-casy-sig.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-09-09T17:41:29+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Apple, Casey's General Store, Signet Jewelers & more",
-          "link": "https://www.cnbc.com/2026/09/09/stocks-making-the-biggest-moves-premarket-aapl-casy-sig.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-09T12:00:25+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Apple's iPhone leasing program: How it works, what to consider as prices increase",
-          "link": "https://finance.yahoo.com/personal-finance/banking/article/apples-iphone-leasing-program-how-it-works-what-to-consider-as-prices-increase-143105471.html",
-          "summary": "",
-          "published": "2026-07-31T14:31:05+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
-          "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
-          "summary": "“Several of Oracle’s bear cases were addressed head on” in the latest earnings report, according to an analyst.",
-          "published": "2026-09-11T20:45:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
-          "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
-          "summary": "Oracle’s earnings provided an upbeat read for hardware suppliers — but the Fed’s interest-rate moves could dictate just how much they continue benefitting.",
-          "published": "2026-09-11T20:30:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: GameStop, Oracle, Adobe, RH & more",
-          "link": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-premarket-gme-orcl-adbe-rh.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-11T11:25:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
     {
       "ticker": "TSLA",
       "name": "Tesla",
@@ -246,25 +158,9 @@
       ]
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Street wants to see next.",
-          "link": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
-          "summary": "Salesforce’s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out.",
-          "published": "2026-09-11T20:44:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "1810",
-      "name": "Xiaomi",
-      "exchange": "HKEX",
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
       "sector": "Tecnología",
       "news": [
         {
@@ -272,6 +168,70 @@
           "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
           "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
           "published": "2026-09-11T14:30:29+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Macy's, Meta, Apple, Novartis and more",
+          "link": "https://www.cnbc.com/2026/09/10/stocks-making-the-biggest-moves-premarket-.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-09-10T11:54:53+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: Meta, Centerspace, Apple, Casey's General Stores, Signet & more",
+          "link": "https://www.cnbc.com/2026/09/09/stocks-making-the-biggest-moves-midday-meta-csr-aapl-casy-sig.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-09-09T17:41:29+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Apple, Casey's General Store, Signet Jewelers & more",
+          "link": "https://www.cnbc.com/2026/09/09/stocks-making-the-biggest-moves-premarket-aapl-casy-sig.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-09T12:00:25+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
+          "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+          "summary": "“Several of Oracle’s bear cases were addressed head on” in the latest earnings report, according to an analyst.",
+          "published": "2026-09-11T20:45:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
+          "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
+          "summary": "Oracle’s earnings provided an upbeat read for hardware suppliers — but the Fed’s interest-rate moves could dictate just how much they continue benefitting.",
+          "published": "2026-09-11T20:30:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: GameStop, Oracle, Adobe, RH & more",
+          "link": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-premarket-gme-orcl-adbe-rh.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-11T11:25:04+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -284,18 +244,18 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Insider Mark Stevens Just Sold Nearly 2 Million Shares of Nvidia Stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/insider-mark-stevens-just-sold-160931253.html",
+          "title": "Amazon Triples Its NVIDIA GPU Orders to 3 Million Chips as AI Demand Surges",
+          "link": "https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html",
           "summary": "",
-          "published": "2026-09-10T16:09:31+00:00",
+          "published": "2026-09-11T05:07:39+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         },
         {
-          "title": "Nvidia’s Jensen Huang Says AGI Has Arrived. Here’s the Part Many Investors Are Ignoring.",
-          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-says-agi-160212106.html",
+          "title": "Nvidia's Chinese Rival Enflame Soars Over 220% in Shanghai Debut As Investors Bet on Domestic AI Chips",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidias-chinese-rival-enflame-soars-042513577.html",
           "summary": "",
-          "published": "2026-09-10T16:02:12+00:00",
+          "published": "2026-09-11T04:25:13+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         },
@@ -334,96 +294,88 @@
       ]
     },
     {
-      "ticker": "LIVEPOLC-1.MX",
-      "name": "El Puerto de Liverpool",
-      "exchange": "BMV",
-      "sector": "Retail",
+      "ticker": "SBUX",
+      "name": "Starbucks",
+      "exchange": "NASDAQ",
+      "sector": "Consumo",
       "news": [
         {
-          "title": "Primark llega a México: la alianza con Liverpool que traerá al gigante de la moda al país",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/primark-llega-a-mexico-la-alianza-con-liverpool-que-traera-al-gigante-de-la-moda-al-pais/",
-          "summary": "La cadena de fast fashion irlandesa fundada en 1969 opera más de 500 tiendas en 19 mercados globales.",
-          "published": "2026-09-10T16:11:19+00:00",
+          "title": "Brian Niccol’s Two-Year Turnaround Serves Up Sales Growth for Starbucks",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/brian-niccol-two-turnaround-serves-040100588.html",
+          "summary": "",
+          "published": "2026-09-11T04:01:00+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Starbucks se torna desafiante para Alsea en México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/starbucks-se-torna-desafiante-para-alsea-en-mexico/",
+          "summary": "La operadora de las cafeterías en el país siente los efectos de la debilidad en el consumo y vigila las ventas.",
+          "published": "2026-07-21T01:10:44+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
       ]
     },
     {
-      "ticker": "SHEL",
-      "name": "Shell",
+      "ticker": "CRM",
+      "name": "Salesforce",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Street wants to see next.",
+          "link": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
+          "summary": "Salesforce’s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out.",
+          "published": "2026-09-11T20:44:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "1810",
+      "name": "Xiaomi",
+      "exchange": "HKEX",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+          "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+          "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
+          "published": "2026-09-11T14:30:29+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Amazon Triples Its NVIDIA GPU Orders to 3 Million Chips as AI Demand Surges",
+          "link": "https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html",
+          "summary": "",
+          "published": "2026-09-11T05:07:39+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron",
       "exchange": "NYSE",
       "sector": "Energía",
       "news": [
         {
-          "title": "Shell (SHEL) Signs Deal to Take Full Ownership of Tri Star and Add 320 Sites",
-          "link": "https://finance.yahoo.com/energy/articles/shell-shel-signs-deal-full-161119087.html",
+          "title": "Jim Cramer Adds Chevron (CVX) to His Fantasy Portfolio as the Final Kicker",
+          "link": "https://finance.yahoo.com/energy/articles/jim-cramer-adds-chevron-cvx-044850014.html",
           "summary": "",
-          "published": "2026-09-10T16:11:19+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Why It’s Time to Load Up on Intel Stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-time-load-intel-stock-160210300.html",
-          "summary": "",
-          "published": "2026-09-10T16:02:10+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "UPS",
-      "name": "United Parcel Service",
-      "exchange": "NYSE",
-      "sector": "Transporte y logística",
-      "news": [
-        {
-          "title": "Teamsters president throws down gauntlet to UPS: Strike coming in 2028",
-          "link": "https://finance.yahoo.com/economy/policy/articles/teamsters-president-throws-down-gauntlet-155828296.html",
-          "summary": "",
-          "published": "2026-09-10T15:58:28+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Google Plans to Build Mammoth Solar Farm on an Abandoned Coal Mine. This Penny Stock Just Won the Deal.",
-          "link": "https://finance.yahoo.com/energy/articles/google-plans-build-mammoth-solar-155428096.html",
-          "summary": "",
-          "published": "2026-09-10T15:54:28+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "exchange": "NASDAQ",
-      "sector": "Cripto",
-      "news": [
-        {
-          "title": "Coinbase, Moov Bring Stablecoin Payments to Over 1,000 US Community Banks",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-moov-bring-stablecoin-payments-155100196.html",
-          "summary": "",
-          "published": "2026-09-10T15:51:00+00:00",
+          "published": "2026-09-11T04:48:50+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
@@ -624,6 +576,22 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/inversiones-de-grupo-mexico-en-argentina-y-brasil-dependen-de-regulaciones-y-precios/",
           "summary": "Los mercados argentino y brasileño podrían ser igual o más grandes que el mercado mexicano en el que actualmente opera la empresa industrial.",
           "published": "2026-07-22T21:53:54+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "LIVEPOLC-1.MX",
+      "name": "El Puerto de Liverpool",
+      "exchange": "BMV",
+      "sector": "Retail",
+      "news": [
+        {
+          "title": "Primark llega a México: la alianza con Liverpool que traerá al gigante de la moda al país",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/primark-llega-a-mexico-la-alianza-con-liverpool-que-traera-al-gigante-de-la-moda-al-pais/",
+          "summary": "La cadena de fast fashion irlandesa fundada en 1969 opera más de 500 tiendas en 19 mercados globales.",
+          "published": "2026-09-10T16:11:19+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -838,22 +806,6 @@
       ]
     },
     {
-      "ticker": "SBUX",
-      "name": "Starbucks",
-      "exchange": "NASDAQ",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "Starbucks se torna desafiante para Alsea en México",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/starbucks-se-torna-desafiante-para-alsea-en-mexico/",
-          "summary": "La operadora de las cafeterías en el país siente los efectos de la debilidad en el consumo y vigila las ventas.",
-          "published": "2026-07-21T01:10:44+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "TTE",
       "name": "TotalEnergies",
       "exchange": "NYSE",
@@ -871,6 +823,15 @@
     }
   ],
   "sin_accion": [
+    {
+      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+      "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+      "summary": "Economists note that the Fed historically has not been content to raise rates only once.",
+      "published": "2026-09-11T23:54:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
     {
       "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
       "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
@@ -980,15 +941,6 @@
       "tickers": []
     },
     {
-      "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
-      "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-      "summary": "“We have witnessed our parents’ gradual decline in cognitive ability.”",
-      "published": "2026-09-11T20:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "172-year-old bank sees 400% upside for 'federal bank' token",
       "link": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html",
       "summary": "",
@@ -1043,6 +995,33 @@
       "tickers": []
     },
     {
+      "title": "Bitcoin and ethereum prices today, Friday, September 11, 2026: Bitcoin falls below $77,000 with key inflation data on deck",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-11-2026-bitcoin-falls-below-77000-with-key-inflation-data-on-deck-113905130.html",
+      "summary": "",
+      "published": "2026-09-11T11:39:05+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Silver price today, Friday, September 11, 2026: Silver prices turn negative leading up to CPI report",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-friday-september-11-2026-silver-prices-turn-negative-leading-up-to-cpi-report-112252493.html",
+      "summary": "",
+      "published": "2026-09-11T11:22:52+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Gold price today, Friday, September 11, 2026: Gold opens at lowest level in over a month ahead of CPI data",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-11-2026-gold-opens-at-lowest-level-in-over-a-month-ahead-of-cpi-data-111016419.html",
+      "summary": "",
+      "published": "2026-09-11T11:10:16+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Petróleo de México rebasa los US$100 por la guerra mientras el Gobierno espera un precio más bajo",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petroleo-de-mexico-rebasa-los-us100-por-la-guerra-mientras-el-gobierno-espera-un-precio-mas-bajo/",
       "summary": "La Mezcla Mexicana de Exportación cotizó en US$105 por barril.",
@@ -1052,38 +1031,29 @@
       "tickers": []
     },
     {
+      "title": "Mortgage and refinance interest rates today, Friday, September 11, 2026: Rates shoot up ahead of CPI data",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-11-2026-rates-shoot-up-ahead-of-cpi-data-100000037.html",
+      "summary": "",
+      "published": "2026-09-11T10:00:00+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Best CD rates today, Friday, September 11, 2026: Up to 4.35% APY return available with 18-month CD",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-11-2026-up-to-435-apy-return-available-with-18-month-cd-100000609.html",
+      "summary": "",
+      "published": "2026-09-11T10:00:00+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
       "link": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
       "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
       "published": "2026-09-11T06:02:40+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Man declares bankruptcy with 34 cents while hiding millions",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/man-declares-bankruptcy-34-cents-234136167.html",
-      "summary": "",
-      "published": "2026-09-10T23:41:36+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hive-brings-enterprise-veteran-scale-233612805.html",
-      "summary": "",
-      "published": "2026-09-10T23:36:12+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Popular women's clothing chain closes 177 stores",
-      "link": "https://finance.yahoo.com/small-business/articles/popular-womens-clothing-chain-closes-231700943.html",
-      "summary": "",
-      "published": "2026-09-10T23:17:00+00:00",
-      "source_short": "Yahoo",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1111,24 +1081,6 @@
       "summary": "Traders pushed chances for a rate increase to 70% in morning action.",
       "published": "2026-09-10T16:55:17+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "How to Play ChargePoint Stock After Its Massive 75% Post-Earnings Surge",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/play-chargepoint-stock-massive-75-163808514.html",
-      "summary": "",
-      "published": "2026-09-10T16:38:08+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "MongoDB (MDB) Reports 30% Revenue Growth and 91% RPO Growth. Is Atlas Demand Durable Enough to Sustain Operating Leverage?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-reports-30-revenue-163617298.html",
-      "summary": "",
-      "published": "2026-09-10T16:36:17+00:00",
-      "source_short": "Yahoo",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1233,8 +1185,8 @@
     }
   ],
   "totales": {
-    "articulos": 230,
-    "acciones_con_noticias": 34,
+    "articulos": 228,
+    "acciones_con_noticias": 31,
     "sin_accion": 40
   }
 }
