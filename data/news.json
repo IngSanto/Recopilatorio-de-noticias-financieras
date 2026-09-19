@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T16:42:40.427814+00:00",
+  "generated_at": "2026-09-19T23:19:39.574015+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 10.7,
+      "ventana_horas": 23.8,
       "ok": true
     },
     {
@@ -53,7 +53,7 @@
       "lang": "en",
       "site_url": "https://finance.yahoo.com/news/",
       "article_count": 50,
-      "ventana_horas": 21404.7,
+      "ventana_horas": 21411.3,
       "ok": true
     },
     {
@@ -64,54 +64,102 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.6,
+      "ventana_horas": 3.0,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "BRK.B",
-      "name": "Berkshire Hathaway",
+      "ticker": "ORCL",
+      "name": "Oracle",
       "exchange": "NYSE",
-      "sector": "Finanzas",
+      "sector": "Tecnología",
       "news": [
         {
-          "title": "Is Berkshire Hathaway Stock a Better Buy Than an S&P 500 Index Fund?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-better-buy-160500962.html",
+          "title": "Could Oracle's Debt Load Derail Its AI Cloud Ambitions?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/could-oracles-debt-load-derail-220900578.html",
           "summary": "",
-          "published": "2026-09-19T16:05:00+00:00",
+          "published": "2026-09-19T22:09:00+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         },
         {
-          "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-          "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-          "summary": "Buffett's son Howard will replace him as chairman, as dictated by a long-standing succession plan, Berkshire said.",
-          "published": "2026-09-18T12:04:02+00:00",
+          "title": "Stocks making the biggest moves premarket: GameStop, Oracle, Adobe, RH & more",
+          "link": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-premarket-gme-orcl-adbe-rh.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-11T11:25:04+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix",
+      "ticker": "AAPL",
+      "name": "Apple",
       "exchange": "NASDAQ",
-      "sector": "Medios",
+      "sector": "Tecnología",
       "news": [
         {
-          "title": "Netflix (NFLX) Gets a Bullish $110 Target: What’s Driving the Outlook?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-gets-bullish-110-155252131.html",
+          "title": "Bank of America does the math on Apple's $1,200 iPhone offer",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-does-math-apples-220700012.html",
           "summary": "",
-          "published": "2026-09-19T15:52:52+00:00",
+          "published": "2026-09-19T22:07:00+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         },
         {
-          "title": "Stocks making the biggest moves premarket: Netflix, Nucor, Xenon Pharmaceuticals & more",
-          "link": "https://www.cnbc.com/2026/09/18/stocks-making-the-biggest-moves-premarket-nflx-nue-xene.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-18T11:48:19+00:00",
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "BAC",
+      "name": "Bank of America",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Bank of America does the math on Apple's $1,200 iPhone offer",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-does-math-apples-220700012.html",
+          "summary": "",
+          "published": "2026-09-19T22:07:00+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+          "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+          "summary": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
+          "published": "2026-09-14T20:34:23+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "exchange": "NYSE",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "Un analista explica por qué evitar las acciones de Nike pese a su fuerte caída",
+          "link": "https://es.investing.com/news/stock-market-news/un-analista-explica-por-que-evitar-las-acciones-de-nike-pese-a-su-fuerte-caida-3841539",
+          "summary": "",
+          "published": "2026-09-19T20:10:04+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Generac, Lennar, Nike & more",
+          "link": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-gnrc-len-nke.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-09-17T11:54:18+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -142,26 +190,50 @@
       ]
     },
     {
-      "ticker": "BLK",
-      "name": "BlackRock",
-      "exchange": "NYSE",
-      "sector": "Finanzas",
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
       "news": [
         {
-          "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html",
+          "title": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
           "summary": "",
-          "published": "2026-09-19T11:45:00+00:00",
+          "published": "2026-09-19T17:14:43+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
-        },
+        }
+      ]
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
         {
-          "title": "Grupo México y BlackRock buscarán nuevos proyectos en América tras cerrar fusión de activos eléctricos",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-mexico-y-blackrock-buscaran-nuevos-proyectos-en-america-tras-cerrar-fusion-de-activos-electricos/",
-          "summary": "La compañía industrial informó que ha concluido la transacción, estimada en US$800 millones, para formar un generador privado líder en México.",
-          "published": "2026-09-09T04:25:20+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
+          "title": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
+          "link": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
+          "summary": "",
+          "published": "2026-09-19T17:12:00+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
+          "link": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
+          "summary": "",
+          "published": "2026-09-19T17:11:52+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -177,38 +249,6 @@
           "summary": "Walmart will sell Medicare Advantage plans as part of a new partnership with a nonprofit health insurer.",
           "published": "2026-09-19T15:57:00+00:00",
           "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-          "summary": "",
-          "published": "2026-09-19T13:16:31+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NESN",
-      "name": "Nestlé",
-      "exchange": "SIX",
-      "sector": "Alimentos",
-      "news": [
-        {
-          "title": "Nestlé Loses the Keys to Its Russian Business",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nestl-loses-keys-russian-business-115500444.html",
-          "summary": "",
-          "published": "2026-09-19T11:55:00+00:00",
-          "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
@@ -278,16 +318,32 @@
       ]
     },
     {
-      "ticker": "NKE",
-      "name": "Nike",
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway",
       "exchange": "NYSE",
-      "sector": "Consumo",
+      "sector": "Finanzas",
       "news": [
         {
-          "title": "Stocks making the biggest moves premarket: Generac, Lennar, Nike & more",
-          "link": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-gnrc-len-nke.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-09-17T11:54:18+00:00",
+          "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+          "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+          "summary": "Buffett's son Howard will replace him as chairman, as dictated by a long-standing succession plan, Berkshire said.",
+          "published": "2026-09-18T12:04:02+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix",
+      "exchange": "NASDAQ",
+      "sector": "Medios",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Netflix, Nucor, Xenon Pharmaceuticals & more",
+          "link": "https://www.cnbc.com/2026/09/18/stocks-making-the-biggest-moves-premarket-nflx-nue-xene.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-18T11:48:19+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -526,30 +582,6 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Apple's iPhone leasing program: How it works, what to consider as prices increase",
-          "link": "https://finance.yahoo.com/personal-finance/banking/article/apples-iphone-leasing-program-how-it-works-what-to-consider-as-prices-increase-143105471.html",
-          "summary": "",
-          "published": "2026-07-31T14:31:05+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "GMEXICOB.MX",
       "name": "Grupo México",
       "exchange": "BMV",
@@ -598,22 +630,6 @@
       ]
     },
     {
-      "ticker": "BAC",
-      "name": "Bank of America",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-          "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-          "summary": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
-          "published": "2026-09-14T20:34:23+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "INTC",
       "name": "Intel",
       "exchange": "NASDAQ",
@@ -624,22 +640,6 @@
           "link": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-premarket-intc-mrvl-crwd.html",
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-09-14T12:36:15+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: GameStop, Oracle, Adobe, RH & more",
-          "link": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-premarket-gme-orcl-adbe-rh.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-11T11:25:04+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -672,6 +672,22 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/primark-llega-a-mexico-la-alianza-con-liverpool-que-traera-al-gigante-de-la-moda-al-pais/",
           "summary": "La cadena de fast fashion irlandesa fundada en 1969 opera más de 500 tiendas en 19 mercados globales.",
           "published": "2026-09-10T16:11:19+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "BLK",
+      "name": "BlackRock",
+      "exchange": "NYSE",
+      "sector": "Finanzas",
+      "news": [
+        {
+          "title": "Grupo México y BlackRock buscarán nuevos proyectos en América tras cerrar fusión de activos eléctricos",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-mexico-y-blackrock-buscaran-nuevos-proyectos-en-america-tras-cerrar-fusion-de-activos-electricos/",
+          "summary": "La compañía industrial informó que ha concluido la transacción, estimada en US$800 millones, para formar un generador privado líder en México.",
+          "published": "2026-09-09T04:25:20+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -792,109 +808,136 @@
   ],
   "sin_accion": [
     {
-      "title": "She Paid Her Daughter $2,500 a Month to Care for Her at Home for Two Years. Without a Signed Contract, Medicaid Treated All $60,000 of It as a Gift",
-      "link": "https://finance.yahoo.com/healthcare/articles/she-paid-her-daughter-2-162614512.html",
+      "title": "80-year-old discount fashion chain closing 120 stores",
+      "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
       "summary": "",
-      "published": "2026-09-19T16:26:14+00:00",
+      "published": "2026-09-19T23:02:22+00:00",
       "source_short": "Yahoo",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Better Artificial Intelligence Stock: Aehr Test Systems vs. KLA Corporation",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-stock-aehr-162316240.html",
+      "title": "IRS has hidden fix for retirees who missed Sept. 15 deadline",
+      "link": "https://finance.yahoo.com/economy/policy/articles/irs-hidden-fix-retirees-missed-230000919.html",
       "summary": "",
-      "published": "2026-09-19T16:23:16+00:00",
+      "published": "2026-09-19T23:00:00+00:00",
       "source_short": "Yahoo",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Celsius Executives Have Been Buying the Stock. Should Investors Join Them?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-executives-buying-stock-investors-162000571.html",
+      "title": "DGRW Pays Dividends Every Month. Its Biggest Stocks Look Nothing Like a High-Yield ETF",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dgrw-pays-dividends-every-month-225737231.html",
       "summary": "",
-      "published": "2026-09-19T16:20:00+00:00",
+      "published": "2026-09-19T22:57:37+00:00",
       "source_short": "Yahoo",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
-      "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
-      "summary": "There’s a winner-take-all fallacy in certain industries, says a hedge-fund manager.",
-      "published": "2026-09-19T16:19:00+00:00",
+      "title": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-beats-lockheed-martin-risk-225000401.html",
+      "summary": "",
+      "published": "2026-09-19T22:50:00+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "XRP ETFs Have Been Frozen at $1.71 Billion. When Will Inflows Reach $2 Billion?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-frozen-1-71-223635167.html",
+      "summary": "",
+      "published": "2026-09-19T22:36:35+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Bloom Energy Is Riding the Data Center Boom to a $25 Billion Backlog. Plug Power Is Passing on It. Here's Why.",
+      "link": "https://finance.yahoo.com/energy/articles/bloom-energy-riding-data-center-222500710.html",
+      "summary": "",
+      "published": "2026-09-19T22:25:00+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los esfuerzos de seguridad en IA requerirán más capacidad de cómputo",
+      "link": "https://es.investing.com/news/stock-market-news/los-esfuerzos-de-seguridad-en-ia-requeriran-mas-capacidad-de-computo-3841546",
+      "summary": "",
+      "published": "2026-09-19T21:29:18+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Acabará el miedo a la IA con el boom de la inteligencia artificial?",
+      "link": "https://es.investing.com/news/stock-market-news/acabara-el-miedo-a-la-ia-con-el-boom-de-la-inteligencia-artificial-3841541",
+      "summary": "",
+      "published": "2026-09-19T20:16:51+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "summary": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
+      "published": "2026-09-19T18:57:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Meta stock delivers a bold case for a $900 target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-delivers-bold-case-161700431.html",
+      "title": "El peso de SpaceX en el Nasdaq 100 se disparará al 2,82% en el rebalanceo trimestral",
+      "link": "https://es.investing.com/news/stock-market-news/el-peso-de-spacex-en-el-nasdaq-100-se-disparara-al-282-en-el-rebalanceo-trimestral-3841533",
       "summary": "",
-      "published": "2026-09-19T16:17:00+00:00",
-      "source_short": "Yahoo",
+      "published": "2026-09-19T18:56:58+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘Don't quit. Keep your job': Expert says Social Security will 'go away' — and the thing to protect isn't your 401(k)",
-      "link": "https://finance.yahoo.com/economy/policy/articles/dont-quit-keep-job-expert-161500293.html",
-      "summary": "",
-      "published": "2026-09-19T16:15:00+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "summary": "“They had been married for over 30 years when she passed.”",
-      "published": "2026-09-19T16:15:00+00:00",
+      "title": "90% of retirees are making this miscalculation with their savings",
+      "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
+      "summary": "The order in which you spend your money makes a difference for your taxes — and your enjoyment of life.",
+      "published": "2026-09-19T18:40:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "They Retired at 62 With $650,000 Between Two IRAs and Lived on His Pension for 11 Years. At 73 Their First RMDs Came to $42,000, on Top of the Pension",
-      "link": "https://finance.yahoo.com/markets/articles/retired-62-650-000-between-160903592.html",
-      "summary": "",
-      "published": "2026-09-19T16:09:03+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
-      "published": "2026-09-19T16:00:00+00:00",
+      "title": "Many young investors can’t afford to invest without their parents’ help",
+      "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
+      "summary": "Parents are providing help with things like housing and groceries, and sometimes directly investing for their children, to give them a head start in a challenging economy.",
+      "published": "2026-09-19T18:22:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Couples with a big age gap need more money — they have to plan for two retirements",
-      "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
-      "summary": "These are the biggest issues to consider when there’s more than a 10-year age difference.",
-      "published": "2026-09-19T15:47:00+00:00",
+      "title": "The future of retirement? Work until you die.",
+      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "summary": "Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.",
+      "published": "2026-09-19T17:53:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Want to land more job interviews? Stop letting AI write your résumé.",
-      "link": "https://www.marketwatch.com/story/are-ai-written-resumes-more-likely-to-get-you-a-job-the-answer-may-surprise-you-ae408827?mod=mw_rss_topstories",
-      "summary": "Research shows job seekers could get an edge in this labor market by actually writing their own resumes.",
-      "published": "2026-09-19T15:20:00+00:00",
+      "title": "These are the 10 biggest retirement fears — and what you can do about them",
+      "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+      "summary": "No amount of wealth can erase retirement worries.",
+      "published": "2026-09-19T17:21:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
-      "published": "2026-09-19T15:15:00+00:00",
+      "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
+      "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
+      "summary": "The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.",
+      "published": "2026-09-19T16:45:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -931,33 +974,6 @@
       "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-accenture-93CH-3841365",
       "summary": "",
       "published": "2026-09-18T21:51:11+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Anthropic retrasa su OPV a noviembre en medio de temores sobre la IA",
-      "link": "https://es.investing.com/news/stock-market-news/anthropic-retrasa-su-opv-a-noviembre-en-medio-de-temores-sobre-la-ia-3841363",
-      "summary": "",
-      "published": "2026-09-18T21:40:39+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Honeywell gana un contrato de 53,9 millones de dólares con la Marina",
-      "link": "https://es.investing.com/news/stock-market-news/honeywell-gana-un-contrato-de-539-millones-de-dolares-con-la-marina-93CH-3841355",
-      "summary": "",
-      "published": "2026-09-18T21:29:06+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Leidos obtiene un contrato de 85 millones de dólares de la Fuerza Aérea",
-      "link": "https://es.investing.com/news/stock-market-news/leidos-obtiene-un-contrato-de-85-millones-de-dolares-de-la-fuerza-aerea-93CH-3841353",
-      "summary": "",
-      "published": "2026-09-18T21:28:21+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -1154,7 +1170,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 32,
+    "acciones_con_noticias": 33,
     "sin_accion": 40
   }
 }
