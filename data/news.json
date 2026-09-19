@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T23:28:29.222519+00:00",
+  "generated_at": "2026-09-19T08:56:15.126337+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 1768.1,
+      "ventana_horas": 1779.4,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 2.0,
+      "ventana_horas": 10.7,
       "ok": true
     },
     {
@@ -52,8 +52,8 @@
       "scope": "Internacional",
       "lang": "en",
       "site_url": "https://finance.yahoo.com/news/",
-      "article_count": 50,
-      "ventana_horas": 23173.1,
+      "article_count": 46,
+      "ventana_horas": 5203.9,
       "ok": true
     },
     {
@@ -64,11 +64,35 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 4.5,
+      "ventana_horas": 4.0,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "UBS",
+      "name": "UBS",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "UBS prevé que el gasto en IA alcanzará casi 1 billón de dólares este año",
+          "link": "https://es.investing.com/news/stock-market-news/ubs-preve-que-el-gasto-en-ia-alcanzara-casi-1-billon-de-dolares-este-ano-3841463",
+          "summary": "",
+          "published": "2026-09-19T04:15:49+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+          "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+          "summary": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
+          "published": "2026-09-18T21:14:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "AMZN",
       "name": "Amazon",
@@ -84,12 +108,44 @@
           "source_scope": "Internacional"
         },
         {
-          "title": "A Deadly Amazon (AMZN) Cargo Plane Crash in Miami Puts its Air Network Under Scrutiny",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/deadly-amazon-amzn-cargo-plane-163256704.html",
+          "title": "Generac Soars After $2.4B Deal to Provide Backup Power for Amazon",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/generac-soars-2-4b-deal-040100644.html",
           "summary": "",
-          "published": "2026-09-17T16:32:56+00:00",
+          "published": "2026-09-18T04:01:00+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "DB",
+      "name": "Deutsche Bank",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Deutsche Bank ve una posición cautelosa pese a la resiliencia del mercado",
+          "link": "https://es.investing.com/news/stock-market-news/deutsche-bank-ve-una-posicion-cautelosa-pese-a-la-resiliencia-del-mercado-93CH-3841477",
+          "summary": "",
+          "published": "2026-09-19T07:20:14+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "name": "ExxonMobil",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Terminal de combustibles de Grupo Simsa opera con normalidad pese a investigación de la Fiscalía mexicana",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/terminal-de-combustibles-de-grupo-simsa-opera-con-normalidad-pese-a-investigacion-de-la-fiscalia-mexicana/",
+          "summary": "Exxon y Marathon son empresas que almacenan combustible en la terminal con capacidad para 60 millones de litros, según personas consultadas por Bloomberg Línea.",
+          "published": "2026-09-19T02:52:49+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -110,18 +166,26 @@
       ]
     },
     {
-      "ticker": "UBS",
-      "name": "UBS",
+      "ticker": "EC",
+      "name": "Ecopetrol",
       "exchange": "NYSE",
-      "sector": "Banca",
+      "sector": "Energía",
       "news": [
         {
-          "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
-          "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
-          "summary": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
-          "published": "2026-09-18T21:14:00+00:00",
-          "source_short": "MarketW",
+          "title": "Ecopetrol Names Carlos Suárez Rojas as Board Chairman",
+          "link": "https://finance.yahoo.com/energy/articles/ecopetrol-names-carlos-su-rez-031522806.html",
+          "summary": "",
+          "published": "2026-09-18T03:15:22+00:00",
+          "source_short": "Yahoo",
           "source_scope": "Internacional"
+        },
+        {
+          "title": "Petrobras, Pemex, Ecopetrol, YPF: ¿qué empresas nacionales ganarán con el alza del petróleo, según Moody’s?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petrobras-pemex-ecopetrol-ypf-que-empresas-nacionales-ganaran-con-el-alza-del-petroleo-segun-moodys/",
+          "summary": "La intervención de los Gobiernos en la fijación de precios de los combustibles, subsidios o mecanismos compensatorios para proteger a los consumidores supone riesgos para las petroleras nacionales.",
+          "published": "2026-07-22T00:56:52+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -158,217 +222,49 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
+      "ticker": "BYDDY",
+      "name": "BYD",
+      "exchange": "OTC",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
+          "link": "https://finance.yahoo.com/economy/policy/articles/byd-catl-xiaomi-executives-may-072150010.html",
+          "summary": "",
+          "published": "2026-09-18T07:21:50+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "1810",
+      "name": "Xiaomi",
+      "exchange": "HKEX",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "Apple (AAPL) Faces a $2.7 Billion UK Lawsuit over its App Tracking Rules",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-faces-2-7-164412973.html",
+          "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
+          "link": "https://finance.yahoo.com/economy/policy/articles/byd-catl-xiaomi-executives-may-072150010.html",
           "summary": "",
-          "published": "2026-09-17T16:44:12+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Apple's iPhone leasing program: How it works, what to consider as prices increase",
-          "link": "https://finance.yahoo.com/personal-finance/banking/article/apples-iphone-leasing-program-how-it-works-what-to-consider-as-prices-increase-143105471.html",
-          "summary": "",
-          "published": "2026-07-31T14:31:05+00:00",
+          "published": "2026-09-18T07:21:50+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Rackspace’s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-nvidia-partnership-sparks-early-163851620.html",
-          "summary": "",
-          "published": "2026-09-17T16:38:51+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia Expects Chip Sales to Double in 2027",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-expects-chip-sales-double-161001284.html",
-          "summary": "",
-          "published": "2026-09-17T16:10:01+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "name": "Eli Lilly",
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
       "exchange": "NYSE",
       "sector": "Salud",
       "news": [
         {
-          "title": "Eli Lilly (LLY) Gets a Big Price Target Boost, Analysts See 20% Upside",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-gets-big-155107945.html",
+          "title": "Better Dividend King to Buy and Hold: Johnson & Johnson or Kenvue?",
+          "link": "https://finance.yahoo.com/healthcare/articles/better-dividend-king-buy-hold-035000463.html",
           "summary": "",
-          "published": "2026-09-17T15:51:07+00:00",
+          "published": "2026-09-18T03:50:00+00:00",
           "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Novo Nordisk (NVO) and Eli Lilly (LLY)’s Weight-Loss Drugs Still Work at Smaller Doses, Study Finds",
-          "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-eli-lilly-154648868.html",
-          "summary": "",
-          "published": "2026-09-17T15:46:48+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Jim Cramer on Tesla (TSLA): “My Only Solution to It Is That SpaceX Has to Buy It”",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tesla-tsla-only-164733818.html",
-          "summary": "",
-          "published": "2026-09-17T16:47:33+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Meta (META) Overhauls Instagram and Facebook for Teens after its $17 Billion Settlement",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-overhauls-instagram-facebook-163514422.html",
-          "summary": "",
-          "published": "2026-09-17T16:35:14+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Salesforce’s Big Conference Was a Small Success—Even as the Stock Fell",
-          "link": "https://www.barrons.com/articles/salesforce-stock-ai-software-9d6e5d1f?siteid=yhoof2&yptr=yahoo",
-          "summary": "",
-          "published": "2026-09-17T16:10:00+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "exchange": "NASDAQ",
-      "sector": "Cripto",
-      "news": [
-        {
-          "title": "Struggling Coinbase Stock Sets Itself Up For This Bearish Trade",
-          "link": "https://www.investors.com/research/options/coinbase-coin-stock-bear-put-spread-options/?src=A00220&yptr=yahoo",
-          "summary": "",
-          "published": "2026-09-17T16:01:06+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "F",
-      "name": "Ford Motor Company",
-      "exchange": "NYSE",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Stellantis (STLA) and Ford (F) Bet Gas Engines Can Fix America’s EV Range Anxiety",
-          "link": "https://finance.yahoo.com/technology/articles/stellantis-stla-ford-f-bet-155611688.html",
-          "summary": "",
-          "published": "2026-09-17T15:56:11+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "STLA",
-      "name": "Stellantis",
-      "exchange": "NYSE",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Stellantis (STLA) and Ford (F) Bet Gas Engines Can Fix America’s EV Range Anxiety",
-          "link": "https://finance.yahoo.com/technology/articles/stellantis-stla-ford-f-bet-155611688.html",
-          "summary": "",
-          "published": "2026-09-17T15:56:11+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVO",
-      "name": "Novo Nordisk",
-      "exchange": "NYSE",
-      "sector": "Salud",
-      "news": [
-        {
-          "title": "Novo Nordisk (NVO) and Eli Lilly (LLY)’s Weight-Loss Drugs Still Work at Smaller Doses, Study Finds",
-          "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-eli-lilly-154648868.html",
-          "summary": "",
-          "published": "2026-09-17T15:46:48+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NKE",
-      "name": "Nike",
-      "exchange": "NYSE",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Generac, Lennar, Nike & more",
-          "link": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-gnrc-len-nke.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-09-17T11:54:18+00:00",
-          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -394,6 +290,22 @@
           "published": "2026-09-15T01:26:28+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "exchange": "NYSE",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Generac, Lennar, Nike & more",
+          "link": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-gnrc-len-nke.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-09-17T11:54:18+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -750,6 +662,22 @@
       ]
     },
     {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "BLK",
       "name": "BlackRock",
       "exchange": "NYSE",
@@ -760,6 +688,22 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-mexico-y-blackrock-buscaran-nuevos-proyectos-en-america-tras-cerrar-fusion-de-activos-electricos/",
           "summary": "La compañía industrial informó que ha concluido la transacción, estimada en US$800 millones, para formar un generador privado líder en México.",
           "published": "2026-09-09T04:25:20+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -846,22 +790,6 @@
       ]
     },
     {
-      "ticker": "EC",
-      "name": "Ecopetrol",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Petrobras, Pemex, Ecopetrol, YPF: ¿qué empresas nacionales ganarán con el alza del petróleo, según Moody’s?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petrobras-pemex-ecopetrol-ypf-que-empresas-nacionales-ganaran-con-el-alza-del-petroleo-segun-moodys/",
-          "summary": "La intervención de los Gobiernos en la fijación de precios de los combustibles, subsidios o mecanismos compensatorios para proteger a los consumidores supone riesgos para las petroleras nacionales.",
-          "published": "2026-07-22T00:56:52+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "ALSEA.MX",
       "name": "Alsea",
       "exchange": "BMV",
@@ -892,25 +820,18 @@
           "source_scope": "México"
         }
       ]
-    },
-    {
-      "ticker": "ABNB",
-      "name": "Airbnb",
-      "exchange": "NASDAQ",
-      "sector": "Viajes",
-      "news": [
-        {
-          "title": "The best credit cards for Airbnb rentals (2026): Earn points and cash back for your stay",
-          "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-for-airbnb-rentals-183212147.html",
-          "summary": "",
-          "published": "2025-04-14T18:32:12+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
     }
   ],
   "sin_accion": [
+    {
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+      "published": "2026-09-18T23:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
     {
       "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
@@ -1011,15 +932,6 @@
       "tickers": []
     },
     {
-      "title": "Most of what you know about data centers is wrong",
-      "link": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
-      "summary": "As AI hysteria reaches a fever pitch, it’s time to look at the evidence.",
-      "published": "2026-09-18T20:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
       "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
       "summary": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
@@ -1035,15 +947,6 @@
       "published": "2026-09-18T15:34:14+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-18-2026-crypto-prices-rise-as-investors-move-past-claritys-failure-114025818.html",
-      "summary": "",
-      "published": "2026-09-18T11:40:25+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1092,30 +995,39 @@
       "tickers": []
     },
     {
+      "title": "Is Tyson Foods Stock Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-stock-underperforming-nasdaq-070706294.html",
+      "summary": "",
+      "published": "2026-09-18T07:07:06+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I Have $1.7M Invested With an Advisor and Pay a 1% Fee. Is That Too Much?",
+      "link": "https://finance.yahoo.com/news/1-7m-invested-advisor-pay-120000978.html",
+      "summary": "",
+      "published": "2026-09-18T07:00:00+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Is Marsh & McLennan Stock Underperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-stock-underperforming-p-063453524.html",
+      "summary": "",
+      "published": "2026-09-18T06:34:53+00:00",
+      "source_short": "Yahoo",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Fitch: Presupuesto 2027 deja dudas sobre si México logrará una consolidación que frene la deuda",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fitch-presupuesto-2027-deja-dudas-sobre-si-mexico-lograra-una-consolidacion-que-frene-la-deuda/",
       "summary": "La Secretaría de Hacienda dijo que para 2027 se privilegió una consolidación gradual, ya que un ajuste fiscal “excesivamente” acelerado afectaría a la economía.",
       "published": "2026-09-18T02:07:41+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "How to compare credit cards before you apply",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-compare-credit-cards-213141307.html",
-      "summary": "",
-      "published": "2026-09-17T21:31:41+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "$10,000 in a high-yield savings account or $10,000 in a CD: Which one will earn more in one year?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/10000-high-yield-savings-account-vs-cd-earnings-one-year-211941165.html",
-      "summary": "",
-      "published": "2026-09-17T21:19:41+00:00",
-      "source_short": "Yahoo",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1273,8 +1185,8 @@
     }
   ],
   "totales": {
-    "articulos": 229,
-    "acciones_con_noticias": 39,
+    "articulos": 225,
+    "acciones_con_noticias": 35,
     "sin_accion": 40
   }
 }
