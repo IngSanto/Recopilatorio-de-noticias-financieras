@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:52:42.352389+00:00",
+  "generated_at": "2026-09-22T00:13:06.713654+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 1831.5,
+      "ventana_horas": 1847.3,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.1,
+      "ventana_horas": 2.5,
       "ok": true
     },
     {
@@ -52,8 +52,8 @@
       "scope": "Internacional",
       "lang": "en",
       "site_url": "https://finance.yahoo.com/news/",
-      "article_count": 50,
-      "ventana_horas": 7725.5,
+      "article_count": 49,
+      "ventana_horas": 26.2,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.1,
+      "ventana_horas": 1.7,
       "ok": true
     }
   ],
@@ -94,17 +94,49 @@
       ]
     },
     {
-      "ticker": "QCOM",
-      "name": "Qualcomm",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
+      "ticker": "BA",
+      "name": "Boeing",
+      "exchange": "NYSE",
+      "sector": "Industria",
       "news": [
         {
-          "title": "¿Por qué se dispara hoy la acción de Qualcomm?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-qualcomm-93CH-3842989",
+          "title": "Boeing gana contratos de defensa por valor de 41,5 millones de dólares",
+          "link": "https://es.investing.com/news/stock-market-news/boeing-gana-contratos-de-defensa-por-valor-de-415-millones-de-dolares-93CH-3843160",
           "summary": "",
-          "published": "2026-09-21T17:14:39+00:00",
+          "published": "2026-09-21T21:27:55+00:00",
           "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVO",
+      "name": "Novo Nordisk",
+      "exchange": "NYSE",
+      "sector": "Salud",
+      "news": [
+        {
+          "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
+          "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+          "summary": "The drugmaker, best known for developing weight-loss and diabetes drugs, failed to excite investors hoping for a turnaround.",
+          "published": "2026-09-21T20:23:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Amazon and Shopify make starkly different moves in the brewing battle over AI shopping",
+          "link": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
+          "summary": "While Amazon is shutting out Meta’s Muse, Shopify is partnering on payment technology with the buzzy AI assistant.",
+          "published": "2026-09-21T20:22:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -119,23 +151,7 @@
           "title": "AMD hits a major milestone as AI stocks blaze higher",
           "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
           "summary": "On an intraday basis, AMD became the 14th U.S. company to see its market capitalization top $1 trillion.",
-          "published": "2026-09-21T15:58:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "This is the ‘most underappreciated’ driver for Microsoft’s business, according to one analyst",
-          "link": "https://www.marketwatch.com/story/this-is-the-most-underappreciated-driver-for-microsoft-according-to-one-analyst-f9a5e4eb?mod=mw_rss_topstories",
-          "summary": "Investors understand Microsoft’s cloud-computing opportunities, but may not be giving enough credit to the revenue potential of its software business.",
-          "published": "2026-09-21T15:39:00+00:00",
+          "published": "2026-09-21T20:19:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         }
@@ -156,6 +172,14 @@
           "source_scope": "Internacional"
         },
         {
+          "title": "How to Play AAPL Stock Amid Reports Apple Is Building Its Own AI Server",
+          "link": "https://finance.yahoo.com/technology/ai/articles/play-aapl-stock-amid-reports-130641806.html",
+          "summary": "",
+          "published": "2026-09-20T13:06:41+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
           "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
           "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
@@ -166,16 +190,48 @@
       ]
     },
     {
+      "ticker": "MS",
+      "name": "Morgan Stanley",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Morgan Stanley Sees Marathon Petroleum (MPC) Breaking into New Highs",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-marathon-petroleum-154726182.html",
+          "summary": "",
+          "published": "2026-09-20T15:47:26+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Morgan Stanley Sees More Fuel for Valero’s (VLO) Rally",
+          "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-more-fuel-153825351.html",
+          "summary": "",
+          "published": "2026-09-20T15:38:25+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Morgan Stanley Sees Shell (SHEL) Hitting New Highs",
+          "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-shell-shel-152036523.html",
+          "summary": "",
+          "published": "2026-09-20T15:20:36+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "BRK.B",
       "name": "Berkshire Hathaway",
       "exchange": "NYSE",
       "sector": "Finanzas",
       "news": [
         {
-          "title": "‘High on Coke’: Elon Musk stunned by Berkshire’s dividend payout. Learn how to build your own passive income stream now",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/high-coke-elon-musk-stunned-113500789.html",
+          "title": "‘Even Though It’s Bad for Berkshire’ Billionaire Charlie Munger Said to Skip Insurance Because ‘You’re Paying for the Other Fellow’s Frauds’",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/even-though-bad-berkshire-billionaire-153002379.html",
           "summary": "",
-          "published": "2026-09-20T11:35:00+00:00",
+          "published": "2026-09-20T15:30:02+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         },
@@ -190,56 +246,56 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
+      "ticker": "UBS",
+      "name": "UBS",
+      "exchange": "NYSE",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Nvidia Stock Hasn't Set a Record in 4 Months. History Says These Stalls Have Ended 2 Ways.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-hasnt-set-record-092801370.html",
+          "title": "UBS Sees Phillips 66 (PSX) Blazing Past its Record High",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-sees-phillips-66-psx-151252128.html",
           "summary": "",
-          "published": "2026-09-20T09:28:01+00:00",
+          "published": "2026-09-20T15:12:52+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         },
         {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "ABNB",
-      "name": "Airbnb",
-      "exchange": "NASDAQ",
-      "sector": "Viajes",
-      "news": [
-        {
-          "title": "Brian Chesky once hot-glued 1,000 cereal boxes and sold them at $40 each to keep Airbnb alive",
-          "link": "https://finance.yahoo.com/small-business/articles/brian-chesky-once-hot-glued-113000059.html",
+          "title": "Marathon Petroleum (MPC) Could Smash its All-Time High, UBS Says",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-could-smash-150634017.html",
           "summary": "",
-          "published": "2026-09-20T11:30:00+00:00",
+          "published": "2026-09-20T15:06:34+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
+      "ticker": "SHEL",
+      "name": "Shell",
+      "exchange": "NYSE",
+      "sector": "Energía",
       "news": [
         {
-          "title": "Dear Meta Platforms Stock Fans, Mark Your Calendars for Sept. 23",
-          "link": "https://finance.yahoo.com/technology/ai/articles/dear-meta-platforms-stock-fans-111502706.html",
+          "title": "Morgan Stanley Sees Shell (SHEL) Hitting New Highs",
+          "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-shell-shel-152036523.html",
           "summary": "",
-          "published": "2026-09-20T11:15:02+00:00",
+          "published": "2026-09-20T15:20:36+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Chevron (CVX) Supercharges its Venezuela Bet with More Oil Rigs",
+          "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-supercharges-venezuela-bet-151837921.html",
+          "summary": "",
+          "published": "2026-09-20T15:18:37+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
@@ -252,90 +308,26 @@
       "sector": "Automotriz",
       "news": [
         {
-          "title": "Borderlands Mexico: Tesla plans massive Texas distribution center",
-          "link": "https://finance.yahoo.com/economy/articles/borderlands-mexico-tesla-plans-massive-110000895.html",
+          "title": "Dear Tesla Stock Fans, Mark Your Calendars for September 30",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/dear-tesla-stock-fans-mark-140003840.html",
           "summary": "",
-          "published": "2026-09-20T11:00:00+00:00",
+          "published": "2026-09-20T14:00:03+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "COST",
-      "name": "Costco",
-      "exchange": "NASDAQ",
-      "sector": "Retail",
-      "news": [
-        {
-          "title": "Costco Stock at $892: Here's What History Says Comes Next",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-892-heres-history-100400539.html",
-          "summary": "",
-          "published": "2026-09-20T10:04:00+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Should You Buy Micron Stock Before Its Next Earnings Report?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/buy-micron-stock-next-earnings-095000511.html",
-          "summary": "",
-          "published": "2026-09-20T09:50:00+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
+      "ticker": "PLTR",
+      "name": "Palantir",
       "exchange": "NASDAQ",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "Prediction: Anthropic's IPO Will Be a Big Winner for Alphabet and Amazon Investors",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-anthropics-ipo-big-winner-093500839.html",
+          "title": "Why You Should Avoid Palantir and Buy These 2 Defense Stocks Instead",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-avoid-palantir-buy-2-124200288.html",
           "summary": "",
-          "published": "2026-09-20T09:35:00+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Prediction: Anthropic's IPO Will Be a Big Winner for Alphabet and Amazon Investors",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-anthropics-ipo-big-winner-093500839.html",
-          "summary": "",
-          "published": "2026-09-20T09:35:00+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BA",
-      "name": "Boeing",
-      "exchange": "NYSE",
-      "sector": "Industria",
-      "news": [
-        {
-          "title": "Boeing's New MQ-25A Stingray Drone Costs $184 Million ... or Less",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-mq-25a-stingray-drone-092500231.html",
-          "summary": "",
-          "published": "2026-09-20T09:25:00+00:00",
+          "published": "2026-09-20T12:42:00+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
@@ -598,54 +590,6 @@
       ]
     },
     {
-      "ticker": "GMEXICOB.MX",
-      "name": "Grupo México",
-      "exchange": "BMV",
-      "sector": "Minería",
-      "news": [
-        {
-          "title": "Grupo México y BlackRock buscarán nuevos proyectos en América tras cerrar fusión de activos eléctricos",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-mexico-y-blackrock-buscaran-nuevos-proyectos-en-america-tras-cerrar-fusion-de-activos-electricos/",
-          "summary": "La compañía industrial informó que ha concluido la transacción, estimada en US$800 millones, para formar un generador privado líder en México.",
-          "published": "2026-09-09T04:25:20+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Inversiones de Grupo México en Argentina y Brasil dependen de regulaciones y precios",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/inversiones-de-grupo-mexico-en-argentina-y-brasil-dependen-de-regulaciones-y-precios/",
-          "summary": "Los mercados argentino y brasileño podrían ser igual o más grandes que el mercado mexicano en el que actualmente opera la empresa industrial.",
-          "published": "2026-07-22T21:53:54+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "PBR",
-      "name": "Petrobras",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Pemex y Petrobras evalúan activos en aguas profundas y capa presalina en el Golfo de México",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-y-petrobras-evaluan-activos-en-aguas-profundas-y-capa-presalina-en-el-golfo-de-mexico/",
-          "summary": "El objetivo con Petrobras es reducir la incertidumbre y generar nuevas oportunidades en el portafolio de exploración de Pemex.",
-          "published": "2026-07-31T19:34:50+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Petrobras, Pemex, Ecopetrol, YPF: ¿qué empresas nacionales ganarán con el alza del petróleo, según Moody’s?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petrobras-pemex-ecopetrol-ypf-que-empresas-nacionales-ganaran-con-el-alza-del-petroleo-segun-moodys/",
-          "summary": "La intervención de los Gobiernos en la fijación de precios de los combustibles, subsidios o mecanismos compensatorios para proteger a los consumidores supone riesgos para las petroleras nacionales.",
-          "published": "2026-07-22T00:56:52+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "NKE",
       "name": "Nike",
       "exchange": "NYSE",
@@ -726,6 +670,22 @@
       ]
     },
     {
+      "ticker": "GMEXICOB.MX",
+      "name": "Grupo México",
+      "exchange": "BMV",
+      "sector": "Minería",
+      "news": [
+        {
+          "title": "Grupo México y BlackRock buscarán nuevos proyectos en América tras cerrar fusión de activos eléctricos",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-mexico-y-blackrock-buscaran-nuevos-proyectos-en-america-tras-cerrar-fusion-de-activos-electricos/",
+          "summary": "La compañía industrial informó que ha concluido la transacción, estimada en US$800 millones, para formar un generador privado líder en México.",
+          "published": "2026-09-09T04:25:20+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "BLK",
       "name": "BlackRock",
       "exchange": "NYSE",
@@ -736,6 +696,22 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-mexico-y-blackrock-buscaran-nuevos-proyectos-en-america-tras-cerrar-fusion-de-activos-electricos/",
           "summary": "La compañía industrial informó que ha concluido la transacción, estimada en US$800 millones, para formar un generador privado líder en México.",
           "published": "2026-09-09T04:25:20+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -768,6 +744,22 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/angelica-ruiz-deja-la-presidencia-de-bp-en-mexico/",
           "summary": "La economista mexicana también dejó su cargo como vicepresidenta senior de BP en Latinoamérica.",
           "published": "2026-08-18T03:23:57+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "PBR",
+      "name": "Petrobras",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Pemex y Petrobras evalúan activos en aguas profundas y capa presalina en el Golfo de México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-y-petrobras-evaluan-activos-en-aguas-profundas-y-capa-presalina-en-el-golfo-de-mexico/",
+          "summary": "El objetivo con Petrobras es reducir la incertidumbre y generar nuevas oportunidades en el portafolio de exploración de Pemex.",
+          "published": "2026-07-31T19:34:50+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -820,145 +812,131 @@
           "source_scope": "México"
         }
       ]
-    },
-    {
-      "ticker": "EC",
-      "name": "Ecopetrol",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Petrobras, Pemex, Ecopetrol, YPF: ¿qué empresas nacionales ganarán con el alza del petróleo, según Moody’s?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petrobras-pemex-ecopetrol-ypf-que-empresas-nacionales-ganaran-con-el-alza-del-petroleo-segun-moodys/",
-          "summary": "La intervención de los Gobiernos en la fijación de precios de los combustibles, subsidios o mecanismos compensatorios para proteger a los consumidores supone riesgos para las petroleras nacionales.",
-          "published": "2026-07-22T00:56:52+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "WFC",
-      "name": "Wells Fargo",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Best Wells Fargo credit cards (2026)",
-          "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-wells-fargo-credit-cards-164310496.html",
-          "summary": "",
-          "published": "2026-06-01T16:43:10+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
     }
   ],
   "sin_accion": [
     {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
-      "published": "2026-09-21T18:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Paramount llega a un acuerdo con estados sobre la fusión con Warner Bros Discovery",
-      "link": "https://es.investing.com/news/stock-market-news/paramount-llega-a-un-acuerdo-con-estados-sobre-la-fusion-con-warner-bros-discovery-3843019",
+      "title": "Meta anuncia una asociación de compras con IA junto a Shopify",
+      "link": "https://es.investing.com/news/stock-market-news/meta-anuncia-una-asociacion-de-compras-con-ia-junto-a-shopify-3843206",
       "summary": "",
-      "published": "2026-09-21T18:05:29+00:00",
+      "published": "2026-09-21T23:42:17+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "summary": "“On each of these weekends away, she’s probably spending $500.”",
-      "published": "2026-09-21T18:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Empire Company?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-empire-company-93CH-3843009",
-      "summary": "",
-      "published": "2026-09-21T17:49:44+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
+      "title": "México suspende 4,5 millones de líneas celulares: qué números fueron afectados y cómo recuperar el servicio",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-suspende-45-millones-de-lineas-celulares-que-numeros-fueron-afectados-y-como-recuperar-el-servicio/",
+      "summary": "La suspensión de la autoridad reguladora corresponde a líneas con último dígito del número telefónico 2.",
+      "published": "2026-09-21T22:44:36+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
       "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
       "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
       "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
-      "published": "2026-09-21T17:45:00+00:00",
+      "published": "2026-09-21T22:01:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué cae hoy la acción de G Mining Ventures?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-g-mining-ventures-93CH-3843002",
+      "title": "Iambic Therapeutics solicita su OPV para financiar fármacos contra el cáncer",
+      "link": "https://es.investing.com/news/stock-market-news/iambic-therapeutics-solicita-su-opv-para-financiar-farmacos-contra-el-cancer-93CH-3843182",
       "summary": "",
-      "published": "2026-09-21T17:35:16+00:00",
+      "published": "2026-09-21T22:00:33+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué cae hoy la acción de Southern Cross Gold Consolidated?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-southern-cross-gold-consolidated-93CH-3843001",
-      "summary": "",
-      "published": "2026-09-21T17:33:14+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
+      "title": "México restringirá los celulares en escuelas en medio de retrocesos en matemáticas y lectura",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-restringira-los-celulares-en-escuelas-en-medio-de-retrocesos-en-matematicas-y-lectura/",
+      "summary": "El Consejo Nacional de Autordades Educativas acordó el viernes 18 de septiembre regular el uso de los celulares y tabletas para que no se permitan esos dispositivos en las aulas.",
+      "published": "2026-09-21T22:00:05+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
-      "title": "¿Por qué cae hoy la acción de Kelt Exploration?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-kelt-exploration-93CH-3843000",
-      "summary": "",
-      "published": "2026-09-21T17:29:28+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Open Text?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-open-text-93CH-3842994",
-      "summary": "",
-      "published": "2026-09-21T17:26:25+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The future of retirement? Work until you die.",
-      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-      "summary": "The retirement myth has been crumbling for decades",
-      "published": "2026-09-21T17:16:00+00:00",
+      "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
+      "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
+      "summary": "An analyst at BNP has taken a positive view of AT&T’s stock, writing that investors should have “little to quibble with on the mobile side.”",
+      "published": "2026-09-21T21:57:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "A happier retirement contains these 3 elements",
-      "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
-      "summary": "Boosting your postwork satisfaction isn’t about luck. Here is what experts say actually drives fulfillment in your next chapter.",
-      "published": "2026-09-21T17:12:00+00:00",
+      "title": "¿Por qué cae hoy la acción de Quest Diagnostics?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-quest-diagnostics-93CH-3843179",
+      "summary": "",
+      "published": "2026-09-21T21:53:02+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen hoy las acciones de Labcorp?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-labcorp-93CH-3843177",
+      "summary": "",
+      "published": "2026-09-21T21:52:52+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+      "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+      "summary": "The lack of clarity around crypto’s regulatory framework hasn’t stopped bitcoin from surging, as investors haven’t abandoned hopes for clearer U.S. rules.",
+      "published": "2026-09-21T21:47:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
-      "published": "2026-09-21T16:30:00+00:00",
+      "title": "S&P mejora la calificación de Latam Aerolíneas por su sólido rendimiento",
+      "link": "https://es.investing.com/news/stock-market-news/sp-mejora-la-calificacion-de-latam-aerolineas-por-su-solido-rendimiento-93CH-3843172",
+      "summary": "",
+      "published": "2026-09-21T21:43:36+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
+      "published": "2026-09-21T21:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Raytheon obtiene un contrato de 34 millones de dólares para soporte de software del V-22",
+      "link": "https://es.investing.com/news/stock-market-news/raytheon-obtiene-un-contrato-de-34-millones-de-dolares-para-soporte-de-software-del-v22-93CH-3843153",
+      "summary": "",
+      "published": "2026-09-21T21:24:12+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
+      "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
+      "summary": "About 60% of the stocks in the S&P 500 are down more than 20% from their all-time highs.",
+      "published": "2026-09-21T21:17:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "These beaten-down stocks could bounce back in January, if history is any guide",
+      "link": "https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories",
+      "summary": "Tax-loss selling is likely to lead these 20 stocks to become artificially depressed in the fourth quarter — and therefore good bets to bounce back in the new year",
+      "published": "2026-09-21T21:06:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -1027,8 +1005,8 @@
       "tickers": []
     },
     {
-      "title": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
+      "title": "Best high-yield savings interest rates today, Monday, September 21, 2026: Earn up to 4.10% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-21-2026-earn-up-to-410-apy-100000921.html",
       "summary": "",
       "published": "2026-09-21T10:00:00+00:00",
       "source_short": "Yahoo",
@@ -1196,29 +1174,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Paquete Económico 2027 deja consolidación fiscal pendiente y deuda con riesgo de aumento en México",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/paquete-economico-2027-deja-consolidacion-fiscal-pendiente-y-deuda-con-riesgo-de-aumento-en-mexico/",
-      "summary": "El Centro de Investigación Económica y Presupuestaria (CIEP) dijo que la Secretaría de Hacienda presentó un marco macroeconómico más realista.",
-      "published": "2026-09-12T12:00:00+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Gobierno de Sheinbaum frenará gasto de programas sociales en 2027 en medio de presión fiscal",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gobierno-de-sheinbaum-frenara-gasto-de-programas-sociales-en-2027-en-medio-de-presion-fiscal/",
-      "summary": "El Paquete Económico 2027 deja ver que las presiones en el gasto público están golpeando a los programas insignia, incluso, algunos tendrán recortes.",
-      "published": "2026-09-11T14:59:25+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
-    "articulos": 229,
-    "acciones_con_noticias": 36,
+    "articulos": 228,
+    "acciones_con_noticias": 33,
     "sin_accion": 40
   }
 }
