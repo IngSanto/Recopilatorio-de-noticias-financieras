@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T23:57:00.795336+00:00",
+  "generated_at": "2026-09-25T09:45:05.776693+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10152.5,
+      "ventana_horas": 10161.9,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 3.0,
+      "ventana_horas": 0.8,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 458.5,
+      "ventana_horas": 463.4,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 215.3,
+      "ventana_horas": 206.1,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.2,
+      "ventana_horas": 11.1,
       "ok": true
     }
   ],
@@ -75,6 +75,14 @@
       "exchange": "Estatal (deuda)",
       "sector": "Energía",
       "news": [
+        {
+          "title": "Pemex enfrenta déficit superior a US$5.000 millones por volatilidad petrolera: Moody’s",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-enfrenta-deficit-superior-a-us5000-millones-por-volatilidad-petrolera-moodys/",
+          "summary": "La calificadora estimó que Pemex necesitará apoyo del Gobierno por US$10.000 millones anuales hacia 2030.",
+          "published": "2026-09-25T00:42:54+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
         {
           "title": "Fitch mantiene calificación de Pemex como bono basura a un escalón del grado de inversión",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fitch-mantiene-calificacion-de-pemex-como-bono-basura-a-un-escalon-del-grado-de-inversion/",
@@ -146,14 +154,6 @@
           "published": "2026-08-05T03:39:02+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        },
-        {
-          "title": "Pemex duplica quema de gas natural por falta de infraestructura",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-duplica-quema-de-gas-natural-por-falta-de-infraestructura/",
-          "summary": "El venteo de gas equivale a 19% de la producción total de gas de Pemex.",
-          "published": "2026-08-04T10:00:00+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
         }
       ]
     },
@@ -182,6 +182,54 @@
       ]
     },
     {
+      "ticker": "NVO",
+      "name": "Novo Nordisk",
+      "exchange": "NYSE",
+      "sector": "Salud",
+      "news": [
+        {
+          "title": "After capital-markets day flop, Novo strikes licensing deal that sends a Swedish company’s stock soaring",
+          "link": "https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories",
+          "summary": "Just days after a capital-markets day left investors wondering what’s next for Novo Nordisk, the Danish drug giant struck a licensing deal worth over $1 billion.",
+          "published": "2026-09-25T09:11:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "UBS",
+      "name": "UBS",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "UBS ve una oportunidad en el EUR/CHF por encima de 0,94 hasta fin de año",
+          "link": "https://es.investing.com/news/stock-market-news/ubs-ve-una-oportunidad-en-el-eurchf-por-encima-de-094-hasta-fin-de-ano-93CH-3849036",
+          "summary": "",
+          "published": "2026-09-25T08:48:50+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AIR",
+      "name": "Airbus",
+      "exchange": "Euronext",
+      "sector": "Industria",
+      "news": [
+        {
+          "title": "Las acciones de Airbus caen tras detectarse un defecto en fuselajes del A321neo",
+          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-airbus-caen-tras-detectarse-un-defecto-en-fuselajes-del-a321neo-3849033",
+          "summary": "",
+          "published": "2026-09-25T08:42:45+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "COST",
       "name": "Costco",
       "exchange": "NASDAQ",
@@ -193,70 +241,6 @@
           "summary": "Tariff refunds helped deliver a profit beat during Costco’s fourth quarter.",
           "published": "2026-09-24T23:23:00+00:00",
           "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MS",
-      "name": "Morgan Stanley",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
-          "link": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
-          "summary": "There’s still room for AI hardware stocks to rise, but analysts at Morgan Stanley say it’s time to diversify into a wide variety of industries that are starting to realize AI benefits.",
-          "published": "2026-09-24T20:50:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BABA",
-      "name": "Alibaba",
-      "exchange": "NYSE",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: McDonald's, Cracker Barrel, Alibaba, Worthington & more",
-          "link": "https://www.cnbc.com/2026/09/23/stocks-making-the-biggest-moves-midday-mcd-cbrl-baba-wor-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-09-23T17:15:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more",
-          "link": "https://www.cnbc.com/2026/09/22/stocks-making-the-biggest-moves-premarket-baba-dgx-onon-gme.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-09-22T11:49:33+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-          "link": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
-          "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
-          "published": "2026-09-16T04:01:59+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MCD",
-      "name": "McDonald's",
-      "exchange": "NYSE",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: McDonald's, Cracker Barrel, Alibaba, Worthington & more",
-          "link": "https://www.cnbc.com/2026/09/23/stocks-making-the-biggest-moves-midday-mcd-cbrl-baba-wor-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-09-23T17:15:36+00:00",
-          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -290,6 +274,30 @@
           "published": "2026-09-03T02:59:17+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "name": "Alibaba",
+      "exchange": "NYSE",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: McDonald's, Cracker Barrel, Alibaba, Worthington & more",
+          "link": "https://www.cnbc.com/2026/09/23/stocks-making-the-biggest-moves-midday-mcd-cbrl-baba-wor-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-09-23T17:15:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more",
+          "link": "https://www.cnbc.com/2026/09/22/stocks-making-the-biggest-moves-premarket-baba-dgx-onon-gme.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-09-22T11:49:33+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -360,6 +368,22 @@
           "link": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-gnrc-len-nke.html",
           "summary": "These are the stocks posting the largest moves in the premarket.",
           "published": "2026-09-17T11:54:18+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MCD",
+      "name": "McDonald's",
+      "exchange": "NYSE",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: McDonald's, Cracker Barrel, Alibaba, Worthington & more",
+          "link": "https://www.cnbc.com/2026/09/23/stocks-making-the-biggest-moves-midday-mcd-cbrl-baba-wor-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-09-23T17:15:36+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -646,22 +670,6 @@
       ]
     },
     {
-      "ticker": "0700",
-      "name": "Tencent",
-      "exchange": "HKEX",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-          "link": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
-          "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
-          "published": "2026-09-16T04:01:59+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "LIVEPOLC-1.MX",
       "name": "El Puerto de Liverpool",
       "exchange": "BMV",
@@ -774,22 +782,6 @@
       ]
     },
     {
-      "ticker": "C",
-      "name": "Citigroup / Banamex",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Ignacio Deschamps deja el rol de presidente del Consejo de Administración de Banamex",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/ignacio-deschamps-deja-el-rol-de-presidente-del-consejo-de-administracion-de-banamex/",
-          "summary": "Deschamps tiene intenciones de participar en otros proyectos relacionados con tecnología en el sector financiero.",
-          "published": "2026-07-29T22:12:25+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "BBVA",
       "name": "BBVA",
       "exchange": "NYSE",
@@ -808,12 +800,120 @@
   ],
   "sin_accion": [
     {
-      "title": "ADARx Pharmaceuticals fija su OPV en 17 dólares por acción, con una recaudación de 446,3 millones",
-      "link": "https://es.investing.com/news/stock-market-news/adarx-pharmaceuticals-fija-su-opv-en-17-dolares-por-accion-con-una-recaudacion-de-4463-millones-432SI-3848685",
+      "title": "¿Por qué se dispara hoy la acción de Tandem?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-tandem-93CH-3849135",
       "summary": "",
-      "published": "2026-09-24T23:45:02+00:00",
+      "published": "2026-09-25T09:30:42+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Tienes dudas sobre tu inversión? WarrenAI 2.0 consulta 14 fuentes en tiempo real",
+      "link": "https://es.investing.com/news/stock-market-news/tienes-dudas-sobre-tu-inversion-warrenai-20-consulta-14-fuentes-en-tiempo-real-3849115",
+      "summary": "",
+      "published": "2026-09-25T09:25:32+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Banca Ifis cae un 12% tras detectar el Banco de Italia problemas de control",
+      "link": "https://es.investing.com/news/stock-market-news/banca-ifis-cae-un-12-tras-detectar-el-banco-de-italia-problemas-de-control-93CH-3849109",
+      "summary": "",
+      "published": "2026-09-25T09:21:23+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The low-key California property portfolio of ‘Wednesday’ star Jenna Ortega",
+      "link": "https://www.marketwatch.com/story/the-low-key-california-property-portfolio-of-wednesday-star-jenna-ortega-1e0c80cb?mod=mw_rss_topstories",
+      "summary": "“Wednesday” star Jenna Ortega may be one of Hollywood’s most recognizable young actresses, but when it comes to real estate, she has kept a relatively low profile.",
+      "published": "2026-09-25T09:01:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Investigación antimonopolio en Italia lleva a P&G a retirar afirmación de dos años sin vello de Braun",
+      "link": "https://es.investing.com/news/stock-market-news/investigacion-antimonopolio-en-italia-lleva-a-pg-a-retirar-afirmacion-de-dos-anos-sin-vello-de-braun-93CH-3849032",
+      "summary": "",
+      "published": "2026-09-25T08:44:41+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Akamai stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.",
+      "link": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
+      "summary": "Akamai has agreed to supply cloud computing services to Anthropic.",
+      "published": "2026-09-25T08:42:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Holanda busca eliminar los objetivos obligatorios de almacenamiento de gas",
+      "link": "https://es.investing.com/news/stock-market-news/holanda-busca-eliminar-los-objetivos-obligatorios-de-almacenamiento-de-gas-93CH-3849027",
+      "summary": "",
+      "published": "2026-09-25T08:40:32+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Konecranes?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-konecranes-93CH-3849026",
+      "summary": "",
+      "published": "2026-09-25T08:40:00+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Here's who attended the Trump-Xi state dinner",
+      "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+      "summary": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
+      "published": "2026-09-25T06:30:06+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
+      "link": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
+      "summary": "",
+      "published": "2026-09-25T06:13:35+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+      "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+      "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+      "published": "2026-09-25T02:38:53+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "China's Xi urges U.S. to cooperate on AI",
+      "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+      "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
+      "published": "2026-09-25T01:22:17+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El jitomate, la cebolla y el regreso a clases suben la inflación en septiembre en México",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-jitomate-la-cebolla-y-el-regreso-a-clases-suben-la-inflacion-en-septiembre-en-mexico/",
+      "summary": "La inflación general se ubicó en 3,42% anual en la primera quincena de septiembre de 2026, reportó el Inegi.",
+      "published": "2026-09-25T01:01:36+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -848,78 +948,6 @@
       "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
       "summary": "“When my father died, his trust was the Bible.”",
       "published": "2026-09-24T23:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Anthropic propone acciones con supervoto para dar control mayoritario a sus cofundadores",
-      "link": "https://es.investing.com/news/stock-market-news/anthropic-propone-acciones-con-supervoto-para-dar-control-mayoritario-a-sus-cofundadores-3848659",
-      "summary": "",
-      "published": "2026-09-24T22:11:38+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
-      "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
-      "summary": "With the 10-year Treasury up sharply and the outlook for the U.S. economy looking unclear, some say 8% mortgage rates are back on the table.",
-      "published": "2026-09-24T22:03:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "MGM Resorts estudia una posible OPA sobre People Inc., de Barry Diller",
-      "link": "https://es.investing.com/news/stock-market-news/mgm-resorts-estudia-una-posible-opa-sobre-people-inc-de-barry-diller-3848646",
-      "summary": "",
-      "published": "2026-09-24T21:56:37+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "StubHub obtiene la mejora de Moody’s a B2 gracias a su reducción de deuda",
-      "link": "https://es.investing.com/news/stock-market-news/stubhub-obtiene-la-mejora-de-moodys-a-b2-gracias-a-su-reduccion-de-deuda-3848640",
-      "summary": "",
-      "published": "2026-09-24T21:45:00+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "S&P Global mejora la calificación de AZZ a ’BB’ por reducción de deuda",
-      "link": "https://es.investing.com/news/stock-market-news/sp-global-mejora-la-calificacion-de-azz-a-bb-por-reduccion-de-deuda-3848635",
-      "summary": "",
-      "published": "2026-09-24T21:41:48+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
-      "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
-      "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
-      "published": "2026-09-24T21:40:19+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "S&P Global mejora perspectiva de Western Digital por demanda de IA",
-      "link": "https://es.investing.com/news/stock-market-news/sp-global-mejora-perspectiva-de-western-digital-por-demanda-de-ia-3848630",
-      "summary": "",
-      "published": "2026-09-24T21:38:40+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
-      "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
-      "summary": "Back-to-back weak auctions for Treasury notes show that government repurchases haven’t spurred demand for bonds.",
-      "published": "2026-09-24T21:23:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -997,15 +1025,6 @@
       "tickers": []
     },
     {
-      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
-      "link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
-      "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
-      "published": "2026-09-24T04:55:59+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
       "link": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
       "summary": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
@@ -1030,24 +1049,6 @@
       "published": "2026-09-24T03:17:54+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Here's who we know is going to the Trump-Xi dinner so far",
-      "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-      "summary": "Very little is known about which Chinese business executives, if any, are expected to attend.",
-      "published": "2026-09-24T01:54:35+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
-      "link": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
-      "summary": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
-      "published": "2026-09-24T01:44:14+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1154,15 +1155,6 @@
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/esentia-compra-gasoducto-manzanillo-guadalajara-a-tc-energy-por-us400-millones/",
       "summary": "La operación permitirá a Esentia convertirse en la única empresa privada con un sistema integrado de gasoductos de gas natural que conecta la Cuenca Pérmica en Texas con la costa del Pacífico de México.",
       "published": "2026-09-22T00:42:53+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "México suspende 4,5 millones de líneas celulares: qué números fueron afectados y cómo recuperar el servicio",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-suspende-45-millones-de-lineas-celulares-que-numeros-fueron-afectados-y-como-recuperar-el-servicio/",
-      "summary": "La suspensión de la autoridad reguladora corresponde a líneas con último dígito del número telefónico 2.",
-      "published": "2026-09-21T22:44:36+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
