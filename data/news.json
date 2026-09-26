@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T00:00:10.751777+00:00",
+  "generated_at": "2026-09-26T09:29:31.707703+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10184.2,
+      "ventana_horas": 10185.3,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.3,
+      "ventana_horas": 5.0,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 218.1,
+      "ventana_horas": 212.0,
       "ok": true
     },
     {
@@ -64,135 +64,47 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.2,
+      "ventana_horas": 3.5,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
+      "ticker": "C",
+      "name": "Citigroup / Banamex",
+      "exchange": "NYSE",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Micron investors should get ready for a seesaw ride, analyst says",
-          "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
-          "summary": "The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year.",
-          "published": "2026-09-25T20:36:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
-          "summary": "",
-          "published": "2026-09-23T04:24:33+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia doubles down on selling to both sides of the AI race",
-          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-doubles-down-selling-both-020300627.html",
-          "summary": "",
-          "published": "2026-09-23T02:03:00+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
+          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
+          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
+          "published": "2026-09-26T00:25:22+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
-          "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
-          "summary": "Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.",
-          "published": "2026-09-25T21:04:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
         },
         {
-          "title": "“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft",
-          "link": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
+          "title": "Citigroup apunta a una OPV de Banamex de más de 3.000 millones de dólares en enero",
+          "link": "https://es.investing.com/news/stock-market-news/citigroup-apunta-a-una-opv-de-banamex-de-mas-de-3000-millones-de-dolares-en-enero-3850176",
           "summary": "",
-          "published": "2026-09-23T04:46:53+00:00",
-          "source_short": "Yahoo",
+          "published": "2026-09-25T23:31:35+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
+      "ticker": "MS",
+      "name": "Morgan Stanley",
+      "exchange": "NYSE",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Apple’s expensive new iPhones could be a double-edged sword for the company",
-          "link": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
-          "summary": "Bernstein analysts suggest Wall Street isn’t properly modeling the extent to which gross margins, a profit metric, could take a hit due to the rising costs of smartphone components.",
-          "published": "2026-09-25T20:37:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Micron investors should get ready for a seesaw ride, analyst says",
-          "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
-          "summary": "The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year.",
-          "published": "2026-09-25T20:36:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-          "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
+          "title": "Zach Solomon, codirector de finanzas públicas de Morgan Stanley, se une a TD",
+          "link": "https://es.investing.com/news/stock-market-news/zach-solomon-codirector-de-finanzas-publicas-de-morgan-stanley-se-une-a-td-3850191",
           "summary": "",
-          "published": "2026-09-23T04:33:16+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
-          "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
-          "summary": "Autonomous trucking represents a compelling opportunity for Tesla, but it’s unclear what the company’s initial Semi targets look like.",
-          "published": "2026-09-25T20:34:00+00:00",
-          "source_short": "MarketW",
+          "published": "2026-09-26T00:43:33+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -286,6 +198,46 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Micron investors should get ready for a seesaw ride, analyst says",
+          "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
+          "summary": "The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year.",
+          "published": "2026-09-25T20:36:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
+          "summary": "",
+          "published": "2026-09-23T04:24:33+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia doubles down on selling to both sides of the AI race",
+          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-doubles-down-selling-both-020300627.html",
+          "summary": "",
+          "published": "2026-09-23T02:03:00+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "NKE",
       "name": "Nike",
       "exchange": "NYSE",
@@ -313,6 +265,94 @@
           "summary": "These are the stocks posting the largest moves in the premarket.",
           "published": "2026-09-17T11:54:18+00:00",
           "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
+          "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
+          "summary": "Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.",
+          "published": "2026-09-25T21:04:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft",
+          "link": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
+          "summary": "",
+          "published": "2026-09-23T04:46:53+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Apple’s expensive new iPhones could be a double-edged sword for the company",
+          "link": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
+          "summary": "Bernstein analysts suggest Wall Street isn’t properly modeling the extent to which gross margins, a profit metric, could take a hit due to the rising costs of smartphone components.",
+          "published": "2026-09-25T20:37:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Micron investors should get ready for a seesaw ride, analyst says",
+          "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
+          "summary": "The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year.",
+          "published": "2026-09-25T20:36:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+          "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
+          "summary": "",
+          "published": "2026-09-23T04:33:16+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
+          "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
+          "summary": "Autonomous trucking represents a compelling opportunity for Tesla, but it’s unclear what the company’s initial Semi targets look like.",
+          "published": "2026-09-25T20:34:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -454,22 +494,6 @@
       ]
     },
     {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
-          "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
-          "summary": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
-          "published": "2026-09-22T01:30:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "CFE",
       "name": "Comisión Federal de Electricidad",
       "exchange": "Estatal (deuda)",
@@ -602,6 +626,22 @@
           "published": "2025-07-28T15:10:03+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+          "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+          "summary": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
+          "published": "2026-09-22T01:30:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -768,6 +808,33 @@
   ],
   "sin_accion": [
     {
+      "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
+      "link": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
+      "summary": "In May, Chinese President Xi Jinping asked U.S. President Donald Trump whether the countries could avoid destructive rivalry. Now, it seems, he thinks they can",
+      "published": "2026-09-26T05:00:01+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Cómo las telecos pueden convertirse en ganadoras de la IA según BofA",
+      "link": "https://es.investing.com/news/stock-market-news/como-las-telecos-pueden-convertirse-en-ganadoras-de-la-ia-segun-bofa-3850196",
+      "summary": "",
+      "published": "2026-09-26T01:21:02+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "summary": "“I am a retired senior citizen living check-to-check.”",
+      "published": "2026-09-26T00:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
       "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
       "summary": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
@@ -885,24 +952,6 @@
       "tickers": []
     },
     {
-      "title": "B. Riley Securities elige su mejor opción en el Sector de servicios financieros",
-      "link": "https://es.investing.com/news/stock-market-news/b-riley-securities-elige-su-mejor-opcion-en-el-sector-de-servicios-financieros-3850071",
-      "summary": "",
-      "published": "2026-09-25T20:28:05+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "These under-the-radar risk factors may explain why some older people are more vulnerable to scams",
-      "link": "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc?mod=mw_rss_topstories",
-      "summary": "Criminals use sophisticated techniques to form deep emotional attachments to their victims",
-      "published": "2026-09-25T20:19:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
       "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-midday-akam-geni-ppli.html",
       "summary": "These are the stocks posting the largest moves midday.",
@@ -972,15 +1021,6 @@
       "published": "2026-09-25T01:01:36+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-      "link": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
-      "summary": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
-      "published": "2026-09-24T17:12:04+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1130,7 +1170,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 28,
+    "acciones_con_noticias": 30,
     "sin_accion": 40
   }
 }
