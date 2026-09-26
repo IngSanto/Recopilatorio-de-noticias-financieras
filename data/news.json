@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T09:29:31.707703+00:00",
+  "generated_at": "2026-09-26T17:21:37.857782+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10185.3,
+      "ventana_horas": 10198.3,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 5.0,
+      "ventana_horas": 19.3,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 212.0,
+      "ventana_horas": 213.0,
       "ok": true
     },
     {
@@ -64,11 +64,27 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.5,
+      "ventana_horas": 2.5,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "ARAMCO",
+      "name": "Saudi Aramco",
+      "exchange": "Tadawul",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Aramco estudia una unidad de gas independiente valorada en más de 100.000 millones de dólares",
+          "link": "https://es.investing.com/news/stock-market-news/aramco-estudia-una-unidad-de-gas-independiente-valorada-en-mas-de-100000-millones-de-dolares-3850292",
+          "summary": "",
+          "published": "2026-09-26T15:41:51+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "C",
       "name": "Citigroup / Banamex",
@@ -89,6 +105,30 @@
           "summary": "",
           "published": "2026-09-25T23:31:35+00:00",
           "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "exchange": "NYSE",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
+          "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-25T11:40:42+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
+          "summary": "",
+          "published": "2026-09-23T04:07:47+00:00",
+          "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
@@ -204,14 +244,6 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Micron investors should get ready for a seesaw ride, analyst says",
-          "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
-          "summary": "The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year.",
-          "published": "2026-09-25T20:36:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
           "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
           "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
           "summary": "",
@@ -234,126 +266,6 @@
           "published": "2026-09-03T02:59:17+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "NKE",
-      "name": "Nike",
-      "exchange": "NYSE",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
-          "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-25T11:40:42+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
-          "summary": "",
-          "published": "2026-09-23T04:07:47+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Generac, Lennar, Nike & more",
-          "link": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-gnrc-len-nke.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-09-17T11:54:18+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
-          "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
-          "summary": "Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.",
-          "published": "2026-09-25T21:04:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft",
-          "link": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
-          "summary": "",
-          "published": "2026-09-23T04:46:53+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Apple’s expensive new iPhones could be a double-edged sword for the company",
-          "link": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
-          "summary": "Bernstein analysts suggest Wall Street isn’t properly modeling the extent to which gross margins, a profit metric, could take a hit due to the rising costs of smartphone components.",
-          "published": "2026-09-25T20:37:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Micron investors should get ready for a seesaw ride, analyst says",
-          "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
-          "summary": "The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year.",
-          "published": "2026-09-25T20:36:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-          "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
-          "summary": "",
-          "published": "2026-09-23T04:33:16+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
-          "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
-          "summary": "Autonomous trucking represents a compelling opportunity for Tesla, but it’s unclear what the company’s initial Semi targets look like.",
-          "published": "2026-09-25T20:34:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -462,6 +374,22 @@
       ]
     },
     {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft",
+          "link": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
+          "summary": "",
+          "published": "2026-09-23T04:46:53+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "CRM",
       "name": "Salesforce",
       "exchange": "NYSE",
@@ -472,6 +400,22 @@
           "link": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
           "summary": "",
           "published": "2026-09-23T04:46:53+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+          "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
+          "summary": "",
+          "published": "2026-09-23T04:33:16+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
@@ -568,14 +512,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-publica-decreto-para-ampliar-transparencia-del-gobierno-filiales-de-pemex-y-cfe/",
           "summary": "La disposiciones establecidas en el decreto publicado la tarde de este martes se incorporarán en una próxima reforma a la Ley General de Transparencia.",
           "published": "2026-08-05T03:39:02+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Ganancias de CFE se desploman por el dólar débil",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/ganancias-de-cfe-se-desploman-por-el-dolar-debil/",
-          "summary": "CFE reportó utilidad neta por MXN$48.000 millones (US$2.770 millones), una caída anual de 43% durante el segundo trimestre del año.",
-          "published": "2026-07-30T21:11:00+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -726,6 +662,22 @@
       ]
     },
     {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "GMEXICOB.MX",
       "name": "Grupo México",
       "exchange": "BMV",
@@ -808,6 +760,105 @@
   ],
   "sin_accion": [
     {
+      "title": "Social Security checks are projected to be cut by $540 a month in just six years",
+      "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
+      "summary": "Social Security’s future may be even more dire than expected as time is running out to shore up the program’s finances.",
+      "published": "2026-09-26T17:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A 10% risk-free yield? For some, yes.",
+      "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+      "summary": "This could be a bargain, especially for very high earners and those in high-tax locations.",
+      "published": "2026-09-26T16:51:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+      "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+      "summary": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
+      "published": "2026-09-26T16:22:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Están los cruceros fluviales en riesgo a largo plazo por el cambio climático?",
+      "link": "https://es.investing.com/news/stock-market-news/estan-los-cruceros-fluviales-en-riesgo-a-largo-plazo-por-el-cambio-climatico-3850295",
+      "summary": "",
+      "published": "2026-09-26T16:07:30+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
+      "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
+      "summary": "Yields on municipal bonds — adjusted for taxable-equivalent comparisons — have widened dramatically over those of corporate bonds over the past two months.",
+      "published": "2026-09-26T15:48:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "summary": "“On each of these weekends away, she’s probably spending $500.”",
+      "published": "2026-09-26T15:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
+      "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
+      "summary": "The changes will cut about $1 trillion from federal Medicaid spending over 10 years.",
+      "published": "2026-09-26T15:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
+      "link": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
+      "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
+      "published": "2026-09-26T15:00:01+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+      "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+      "published": "2026-09-26T13:30:06+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "México eleva subsidios a las gasolinas magna y premium entre expectativas de paz en Irán",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-eleva-subsidios-a-las-gasolinas-magna-y-premium-entre-expectativas-de-paz-en-iran/",
+      "summary": "La Secretaría de Hacienda y Crédito Público incrementó a 72% el subsidio a las gasolinas regular y premium, mantuvo el 100% al diésel y redujo su apoyo complementario.",
+      "published": "2026-09-26T13:29:47+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Gold Fields se acerca a Northern Star para una posible adquisición",
+      "link": "https://es.investing.com/news/stock-market-news/gold-fields-se-acerca-a-northern-star-para-una-posible-adquisicion-3850277",
+      "summary": "",
+      "published": "2026-09-26T12:48:11+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
       "link": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
       "summary": "In May, Chinese President Xi Jinping asked U.S. President Donald Trump whether the countries could avoid destructive rivalry. Now, it seems, he thinks they can",
@@ -822,24 +873,6 @@
       "summary": "",
       "published": "2026-09-26T01:21:02+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "summary": "“I am a retired senior citizen living check-to-check.”",
-      "published": "2026-09-26T00:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-      "summary": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
-      "published": "2026-09-25T23:30:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -871,33 +904,6 @@
       "tickers": []
     },
     {
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "summary": "“On each of these weekends away, she’s probably spending $500.”",
-      "published": "2026-09-25T22:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
-      "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
-      "summary": "Don’t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that “I am the house now.”",
-      "published": "2026-09-25T21:57:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
-      "published": "2026-09-25T21:45:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "TFP Group solicita su salida a bolsa en Estados Unidos",
       "link": "https://es.investing.com/news/stock-market-news/tfp-group-solicita-su-salida-a-bolsa-en-estados-unidos-3850127",
       "summary": "",
@@ -920,33 +926,6 @@
       "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-circle-internet-93CH-3850098",
       "summary": "",
       "published": "2026-09-25T20:53:54+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "RegenLab apunta a Nasdaq bajo el ticker RGNA con ingresos superiores a 29 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/regenlab-apunta-a-nasdaq-bajo-el-ticker-rgna-con-ingresos-superiores-a-29-millones-de-dolares-3850096",
-      "summary": "",
-      "published": "2026-09-25T20:50:22+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A 10% risk-free yield? For some, yes.",
-      "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
-      "summary": "This could be a bargain, especially for very high earners and those in high-tax locations.",
-      "published": "2026-09-25T20:32:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Circle caen tras la salida del CFO y un cofundador",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-circle-caen-tras-la-salida-del-cfo-y-un-cofundador-3850080",
-      "summary": "",
-      "published": "2026-09-25T20:31:52+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -992,24 +971,6 @@
       "link": "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html",
       "summary": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
       "published": "2026-09-25T10:25:01+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
-      "link": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
-      "summary": "",
-      "published": "2026-09-25T06:13:35+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "China's Xi urges U.S. to cooperate on AI",
-      "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
-      "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
-      "published": "2026-09-25T01:22:17+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1156,15 +1117,6 @@
       "published": "2026-09-23T04:53:05+00:00",
       "source_short": "Yahoo",
       "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Población de México crece a menor ritmo en dos décadas y baja la fecundidad",
-      "link": "https://www.bloomberglinea.com/latinoamerica/poblacion-de-mexico-crece-a-menor-ritmo-y-baja-la-fecundidad/",
-      "summary": "La población total estimada en territorio mexicano ascendió a 130,9 millones de personas, de acuerdo con la Encuesta Intercensal 2025.",
-      "published": "2026-09-23T00:51:28+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
       "tickers": []
     }
   ],
