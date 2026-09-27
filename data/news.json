@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T17:54:26.871878+00:00",
+  "generated_at": "2026-09-27T23:52:09.214662+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 39.7,
+      "ventana_horas": 30.5,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 20.8,
+      "ventana_horas": 9.0,
       "ok": true
     }
   ],
@@ -800,6 +800,42 @@
   ],
   "sin_accion": [
     {
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
+      "published": "2026-09-27T22:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "summary": "“As a country, we have grown dangerously comfortable.”",
+      "published": "2026-09-27T21:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
+      "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+      "summary": "Don’t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that “I am the house now.”",
+      "published": "2026-09-27T19:21:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El director ejecutivo de Anthropic, Amodei, se reunirá en privado con Trump antes de la cumbre de IA",
+      "link": "https://es.investing.com/news/stock-market-news/el-director-ejecutivo-de-anthropic-amodei-se-reunira-en-privado-con-trump-antes-de-la-cumbre-de-ia-3850484",
+      "summary": "",
+      "published": "2026-09-27T19:17:33+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
       "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
       "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
@@ -832,33 +868,6 @@
       "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
       "published": "2026-09-27T15:35:34+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-      "summary": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
-      "published": "2026-09-27T15:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "summary": "“I am a retired senior citizen living check-to-check.”",
-      "published": "2026-09-27T15:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "summary": "“As a country, we have grown dangerously comfortable.”",
-      "published": "2026-09-27T14:45:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -940,15 +949,6 @@
       "summary": "In May, Chinese President Xi Jinping asked U.S. President Donald Trump whether the countries could avoid destructive rivalry. Now, it seems, he thinks they can",
       "published": "2026-09-26T05:00:01+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Cómo las telecos pueden convertirse en ganadoras de la IA según BofA",
-      "link": "https://es.investing.com/news/stock-market-news/como-las-telecos-pueden-convertirse-en-ganadoras-de-la-ia-segun-bofa-3850196",
-      "summary": "",
-      "published": "2026-09-26T01:21:02+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
