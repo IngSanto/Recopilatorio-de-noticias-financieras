@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:08:42.324417+00:00",
+  "generated_at": "2026-09-29T10:51:53.460410+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 4.0,
+      "ventana_horas": 0.3,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 239.4,
+      "ventana_horas": 190.3,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.3,
+      "ventana_horas": 3.7,
       "ok": true
     }
   ],
@@ -76,10 +76,10 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
-          "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
-          "summary": "The company intends to repurchase a large amount of shares through January 2028, reflecting its “confidence in the long-term opportunity ahead.”",
-          "published": "2026-09-28T21:27:00+00:00",
+          "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
+          "link": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
+          "summary": "Taiwan Semiconductor Manufacturing Co., the Taiwanese contract chipmaker that makes semiconductors for Nvidia among others, is reportedly eyeing a second site in the U.S.",
+          "published": "2026-09-29T09:26:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
@@ -118,73 +118,81 @@
       ]
     },
     {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
-          "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
-          "summary": "The chip maker is buying the startup and adding AI pioneer Fei-Fei Li as its chief scientist.",
-          "published": "2026-09-29T00:03:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
-          "summary": "",
-          "published": "2026-09-23T04:24:33+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
-          "summary": "",
-          "published": "2026-09-23T04:17:10+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
       "exchange": "NYSE",
       "sector": "Banca",
       "news": [
         {
-          "title": "La junta de Goldman Sachs discutió un plan para nombrar a Waldron como próximo director ejecutivo",
-          "link": "https://es.investing.com/news/stock-market-news/la-junta-de-goldman-sachs-discutio-un-plan-para-nombrar-a-waldron-como-proximo-director-ejecutivo-3852515",
+          "title": "JPMorgan coloca a Richemont en vigilancia de catalizador positivo",
+          "link": "https://es.investing.com/news/stock-market-news/jpm-pone-a-richemont-en-vigilancia-de-catalizador-positivo-por-la-fuerte-demanda-de-joyeria-3853137",
           "summary": "",
-          "published": "2026-09-28T23:24:41+00:00",
+          "published": "2026-09-29T10:25:03+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
-          "published": "2026-09-19T12:50:49+00:00",
+          "title": "A month ago, this JPMorgan team urged caution on stocks. Now it’s going all in on tech.",
+          "link": "https://www.marketwatch.com/story/a-month-ago-this-jpmorgan-team-urged-caution-on-stocks-now-its-going-all-in-on-tech-f2e4b007?mod=mw_rss_topstories",
+          "summary": "A JPMorgan unit that focuses on short-term trading signals has turned bullish again after a month of caution.",
+          "published": "2026-09-29T08:56:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+          "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+          "summary": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
+          "published": "2026-09-22T01:30:01+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "005930",
-      "name": "Samsung Electronics",
-      "exchange": "KRX",
-      "sector": "Tecnología",
+      "ticker": "UPS",
+      "name": "United Parcel Service",
+      "exchange": "NYSE",
+      "sector": "Transporte y logística",
       "news": [
         {
-          "title": "Samsung y filiales invertirán 1.000 millones de dólares en Helix, firma de infraestructura IA",
-          "link": "https://es.investing.com/news/stock-market-news/samsung-y-filiales-invertiran-1000-millones-de-dolares-en-helix-firma-de-infraestructura-ia-3852537",
+          "title": "UPS se asocia con TikTok Shop para ofrecer un servicio exclusivo de devoluciones",
+          "link": "https://es.investing.com/news/stock-market-news/ups-se-asocia-con-tiktok-shop-para-ofrecer-un-servicio-exclusivo-de-devoluciones-93CH-3853133",
           "summary": "",
-          "published": "2026-09-29T00:21:18+00:00",
+          "published": "2026-09-29T10:24:37+00:00",
           "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVO",
+      "name": "Novo Nordisk",
+      "exchange": "NYSE",
+      "sector": "Salud",
+      "news": [
+        {
+          "title": "Novo Nordisk strikes second licensing deal since frosty capital-markets day",
+          "link": "https://www.marketwatch.com/story/novo-nordisk-strikes-second-licensing-deal-since-frosty-capital-markets-day-cc0db878?mod=mw_rss_topstories",
+          "summary": "Novo Nordisk on Tuesday struck its second licensing deal since receiving a poor reception from investors after presenting its long-term strategy.",
+          "published": "2026-09-29T09:45:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "name": "TSMC",
+      "exchange": "NYSE",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
+          "link": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
+          "summary": "Taiwan Semiconductor Manufacturing Co., the Taiwanese contract chipmaker that makes semiconductors for Nvidia among others, is reportedly eyeing a second site in the U.S.",
+          "published": "2026-09-29T09:26:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -462,6 +470,30 @@
       ]
     },
     {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
+          "summary": "",
+          "published": "2026-09-23T04:24:33+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
+          "summary": "",
+          "published": "2026-09-23T04:17:10+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "TRAXIONA.MX",
       "name": "Grupo Traxión",
       "exchange": "BMV",
@@ -606,16 +638,16 @@
       ]
     },
     {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
+      "ticker": "GS",
+      "name": "Goldman Sachs",
       "exchange": "NYSE",
       "sector": "Banca",
       "news": [
         {
-          "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
-          "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
-          "summary": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
-          "published": "2026-09-22T01:30:01+00:00",
+          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+          "published": "2026-09-19T12:50:49+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -736,47 +768,65 @@
   ],
   "sin_accion": [
     {
-      "title": "Los futuros de las acciones en EE.UU. se estabilizan tras el alza de rendimientos y el nerviosismo por la IA",
-      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-en-eeuu-se-estabilizan-tras-el-alza-de-rendimientos-y-el-nerviosismo-por-la-ia-3852542",
-      "summary": "",
-      "published": "2026-09-29T00:58:17+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El prospecto de Anthropic revela ambición de OPV de 2 billones de dólares pese a enormes pérdidas",
-      "link": "https://es.investing.com/news/stock-market-news/el-prospecto-de-anthropic-revela-ambicion-de-opv-de-2-billones-de-dolares-pese-a-enormes-perdidas-3852529",
-      "summary": "",
-      "published": "2026-09-29T00:09:00+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "OpenAI cancela el lanzamiento de un nuevo modelo por problemas de seguridad",
-      "link": "https://es.investing.com/news/stock-market-news/openai-cancela-el-lanzamiento-de-un-nuevo-modelo-por-problemas-de-seguridad-3852521",
-      "summary": "",
-      "published": "2026-09-28T23:47:09+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "summary": "“As a country, we have grown dangerously comfortable.”",
-      "published": "2026-09-28T23:00:00+00:00",
+      "title": "Two stock picks from a money manager who expects small caps to roar in 2027",
+      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
+      "summary": "Calamos Investments manager Brandon Nelson’s four-star fund is betting on financial services apps.",
+      "published": "2026-09-29T10:46:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
-      "published": "2026-09-28T22:45:00+00:00",
-      "source_short": "MarketW",
+      "title": "¿Por qué sube hoy la acción de Circle Internet?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-circle-internet-93CH-3853168",
+      "summary": "",
+      "published": "2026-09-29T10:34:38+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El apetito por el riesgo se concentra en valores de gran capitalización, según Citi",
+      "link": "https://es.investing.com/news/stock-market-news/el-apetito-por-el-riesgo-se-concentra-en-valores-de-gran-capitalizacion-segun-citi-3853160",
+      "summary": "",
+      "published": "2026-09-29T10:30:17+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de AbCellera Biologics?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-abcellera-biologics-93CH-3853149",
+      "summary": "",
+      "published": "2026-09-29T10:28:13+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Oura pospone su OPV en el Nasdaq por la incertidumbre del mercado",
+      "link": "https://es.investing.com/news/stock-market-news/oura-pospone-su-opv-en-el-nasdaq-por-la-incertidumbre-del-mercado-432SI-3853135",
+      "summary": "",
+      "published": "2026-09-29T10:25:02+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de CarMax se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-carmax-se-disparan-hoy-93CH-3853132",
+      "summary": "",
+      "published": "2026-09-29T10:24:18+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de AAR?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-aar-93CH-3853129",
+      "summary": "",
+      "published": "2026-09-29T10:23:21+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -784,62 +834,62 @@
       "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
       "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
       "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
-      "published": "2026-09-28T22:35:00+00:00",
+      "published": "2026-09-29T10:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
-      "link": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
-      "summary": "The company has a lucrative opportunity in letting rivals tap its data centers for computing power.",
-      "published": "2026-09-28T22:03:00+00:00",
+      "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+      "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio/.html",
+      "summary": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
+      "published": "2026-09-29T10:00:01+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "summary": "“I could rent the property and generate $800 a month in positive cash flow.”",
+      "published": "2026-09-29T09:16:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de Sangoma Technologies se disparan más de un 40% tras acuerdo de adquisición por BRC",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-sangoma-technologies-se-disparan-mas-de-un-40-tras-acuerdo-de-adquisicion-por-brc-3852467",
-      "summary": "",
-      "published": "2026-09-28T22:01:23+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Summit se disparan tras acuerdo de acciones con AstraZeneca por 2.000 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-summit-se-disparan-tras-acuerdo-de-acciones-con-astrazeneca-por-2000-millones-de-dolares-3852449",
-      "summary": "",
-      "published": "2026-09-28T21:38:26+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Navitas Semiconductor?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-navitas-semiconductor-93CH-3852444",
-      "summary": "",
-      "published": "2026-09-28T21:32:33+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
-      "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
-      "summary": "Meta is creating an enterprise platform business that aims to make it easier for developers to use its products. CJ Desai, formerly of MongoDB, will head up the initiative.",
-      "published": "2026-09-28T21:23:00+00:00",
+      "title": "Two-thirds of the revenue needed to justify the AI buildout are still unaccounted for, says major consulting firm",
+      "link": "https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
+      "summary": "At least about $4.2 trillion of the estimated yearly costs needed to fund the artificial-intelligence buildout is currently not being covered, according to the consulting firm.",
+      "published": "2026-09-29T09:12:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "This AI startup has only 14 employees — and a fresh $10 billion valuation",
-      "link": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
-      "summary": "Instinct is rapidly amassing investment dollars, illustrating the rush of excitement around personal AI assistants.",
-      "published": "2026-09-28T21:19:00+00:00",
+      "title": "Celebrity couple Jenny McCarthy and Donnie Wahlberg are selling $2.8 million Illinois home",
+      "link": "https://www.marketwatch.com/story/celebrity-couple-jenny-mccarthy-and-donnie-wahlberg-are-selling-2-8-million-illinois-home-b48f4191?mod=mw_rss_topstories",
+      "summary": "Singer Donnie Wahlberg and actress Jenny McCarthy have owned the St. Charles residence for more than a decade, having purchased it for $1.1 million in 2015.",
+      "published": "2026-09-29T09:00:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Kris Jenner delists $13.5 million home that was featured in ‘Keeping Up With the Kardashians’",
+      "link": "https://www.marketwatch.com/story/kris-jenner-delists-13-5-million-home-that-was-featured-in-keeping-up-with-the-kardashians-dd162590?mod=mw_rss_topstories",
+      "summary": "Kardashian matriarch Kris Jenner has once again removed her Hidden Hills, Calif., mansion from the market—after wavering over the sale.",
+      "published": "2026-09-29T08:58:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+      "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+      "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
+      "published": "2026-09-29T07:19:38+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -902,24 +952,6 @@
       "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
       "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
       "published": "2026-09-27T15:35:34+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
-      "link": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-      "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
-      "published": "2026-09-26T15:00:01+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-      "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-      "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
-      "published": "2026-09-26T13:30:06+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1098,7 +1130,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 27,
+    "acciones_con_noticias": 29,
     "sin_accion": 40
   }
 }
