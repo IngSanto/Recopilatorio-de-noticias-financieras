@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T10:51:53.460410+00:00",
+  "generated_at": "2026-09-29T18:48:52.093668+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.3,
+      "ventana_horas": 1.1,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 190.3,
+      "ventana_horas": 170.8,
       "ok": true
     },
     {
@@ -64,25 +64,121 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.7,
+      "ventana_horas": 2.3,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
+          "link": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-29T12:03:19+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
+          "summary": "",
+          "published": "2026-09-23T04:24:33+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
+          "summary": "",
+          "published": "2026-09-23T04:17:10+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+          "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+          "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
+          "published": "2026-09-29T12:00:33+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+          "published": "2026-09-19T12:50:49+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Good news for OpenAI is great news for Oracle’s stock — here’s why",
+          "link": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
+          "summary": "Wall Street is cheering AI stocks as OpenAI gets closer to a revenue milestone.",
+          "published": "2026-09-29T18:28:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix",
+      "exchange": "NASDAQ",
+      "sector": "Medios",
+      "news": [
+        {
+          "title": "Here’s what Netflix skeptics are getting wrong about the stock, according to an analyst",
+          "link": "https://www.marketwatch.com/story/heres-what-netflix-skeptics-are-getting-wrong-about-the-stock-according-to-an-analyst-40436696?mod=mw_rss_topstories",
+          "summary": "Netflix investors are too worried about the U.S. and are overlooking gains abroad, Deutsche Bank argues.",
+          "published": "2026-09-29T16:45:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "DB",
+      "name": "Deutsche Bank",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Here’s what Netflix skeptics are getting wrong about the stock, according to an analyst",
+          "link": "https://www.marketwatch.com/story/heres-what-netflix-skeptics-are-getting-wrong-about-the-stock-according-to-an-analyst-40436696?mod=mw_rss_topstories",
+          "summary": "Netflix investors are too worried about the U.S. and are overlooking gains abroad, Deutsche Bank argues.",
+          "published": "2026-09-29T16:45:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "NVDA",
       "name": "Nvidia",
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
-        {
-          "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
-          "link": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
-          "summary": "Taiwan Semiconductor Manufacturing Co., the Taiwanese contract chipmaker that makes semiconductors for Nvidia among others, is reportedly eyeing a second site in the U.S.",
-          "published": "2026-09-29T09:26:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
         {
           "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
           "link": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
@@ -118,86 +214,6 @@
       ]
     },
     {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "JPMorgan coloca a Richemont en vigilancia de catalizador positivo",
-          "link": "https://es.investing.com/news/stock-market-news/jpm-pone-a-richemont-en-vigilancia-de-catalizador-positivo-por-la-fuerte-demanda-de-joyeria-3853137",
-          "summary": "",
-          "published": "2026-09-29T10:25:03+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "A month ago, this JPMorgan team urged caution on stocks. Now it’s going all in on tech.",
-          "link": "https://www.marketwatch.com/story/a-month-ago-this-jpmorgan-team-urged-caution-on-stocks-now-its-going-all-in-on-tech-f2e4b007?mod=mw_rss_topstories",
-          "summary": "A JPMorgan unit that focuses on short-term trading signals has turned bullish again after a month of caution.",
-          "published": "2026-09-29T08:56:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
-          "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
-          "summary": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
-          "published": "2026-09-22T01:30:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "UPS",
-      "name": "United Parcel Service",
-      "exchange": "NYSE",
-      "sector": "Transporte y logística",
-      "news": [
-        {
-          "title": "UPS se asocia con TikTok Shop para ofrecer un servicio exclusivo de devoluciones",
-          "link": "https://es.investing.com/news/stock-market-news/ups-se-asocia-con-tiktok-shop-para-ofrecer-un-servicio-exclusivo-de-devoluciones-93CH-3853133",
-          "summary": "",
-          "published": "2026-09-29T10:24:37+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVO",
-      "name": "Novo Nordisk",
-      "exchange": "NYSE",
-      "sector": "Salud",
-      "news": [
-        {
-          "title": "Novo Nordisk strikes second licensing deal since frosty capital-markets day",
-          "link": "https://www.marketwatch.com/story/novo-nordisk-strikes-second-licensing-deal-since-frosty-capital-markets-day-cc0db878?mod=mw_rss_topstories",
-          "summary": "Novo Nordisk on Tuesday struck its second licensing deal since receiving a poor reception from investors after presenting its long-term strategy.",
-          "published": "2026-09-29T09:45:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSM",
-      "name": "TSMC",
-      "exchange": "NYSE",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
-          "link": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
-          "summary": "Taiwan Semiconductor Manufacturing Co., the Taiwanese contract chipmaker that makes semiconductors for Nvidia among others, is reportedly eyeing a second site in the U.S.",
-          "published": "2026-09-29T09:26:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "META",
       "name": "Meta Platforms",
       "exchange": "NASDAQ",
@@ -209,30 +225,6 @@
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-09-28T11:29:38+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NKE",
-      "name": "Nike",
-      "exchange": "NYSE",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
-          "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-25T11:40:42+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
-          "summary": "",
-          "published": "2026-09-23T04:07:47+00:00",
-          "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
@@ -422,6 +414,30 @@
       ]
     },
     {
+      "ticker": "NKE",
+      "name": "Nike",
+      "exchange": "NYSE",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
+          "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-25T11:40:42+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
+          "summary": "",
+          "published": "2026-09-23T04:07:47+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "BABA",
       "name": "Alibaba",
       "exchange": "NYSE",
@@ -456,30 +472,6 @@
           "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
           "summary": "",
           "published": "2026-09-23T04:33:16+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
-          "summary": "",
-          "published": "2026-09-23T04:17:10+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
-          "summary": "",
-          "published": "2026-09-23T04:24:33+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         },
@@ -638,22 +630,6 @@
       ]
     },
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
-          "published": "2026-09-19T12:50:49+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "XOM",
       "name": "ExxonMobil",
       "exchange": "NYSE",
@@ -768,119 +744,119 @@
   ],
   "sin_accion": [
     {
-      "title": "Two stock picks from a money manager who expects small caps to roar in 2027",
-      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
-      "summary": "Calamos Investments manager Brandon Nelson’s four-star fund is betting on financial services apps.",
-      "published": "2026-09-29T10:46:00+00:00",
+      "title": "OpenAI launches a rival to Meta’s Muse, as the battle for AI agents kicks into high gear",
+      "link": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
+      "summary": "Personal AI assistants are shaping up to be the new frontier for tech companies.",
+      "published": "2026-09-29T18:34:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy la acción de Circle Internet?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-circle-internet-93CH-3853168",
+      "title": "Algunos inversores del IPO de Oura habrían rechazado la valoración",
+      "link": "https://es.investing.com/news/stock-market-news/algunos-inversores-del-ipo-de-oura-habrian-rechazado-la-valoracion-432SI-3854228",
       "summary": "",
-      "published": "2026-09-29T10:34:38+00:00",
+      "published": "2026-09-29T18:26:01+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "El apetito por el riesgo se concentra en valores de gran capitalización, según Citi",
-      "link": "https://es.investing.com/news/stock-market-news/el-apetito-por-el-riesgo-se-concentra-en-valores-de-gran-capitalizacion-segun-citi-3853160",
+      "title": "Oura pospone su salida a bolsa tras el rechazo de inversores a su valoración",
+      "link": "https://es.investing.com/news/stock-market-news/oura-pospone-su-salida-a-bolsa-tras-el-rechazo-de-inversores-a-su-valoracion-3854225",
       "summary": "",
-      "published": "2026-09-29T10:30:17+00:00",
+      "published": "2026-09-29T18:20:32+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy la acción de AbCellera Biologics?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-abcellera-biologics-93CH-3853149",
+      "title": "Las acciones de Canadian Solar podrían rebotar gracias a las perspectivas de márgenes",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-canadian-solar-podrian-rebotar-gracias-a-las-perspectivas-de-margenes-93CH-3854218",
       "summary": "",
-      "published": "2026-09-29T10:28:13+00:00",
+      "published": "2026-09-29T18:03:38+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Oura pospone su OPV en el Nasdaq por la incertidumbre del mercado",
-      "link": "https://es.investing.com/news/stock-market-news/oura-pospone-su-opv-en-el-nasdaq-por-la-incertidumbre-del-mercado-432SI-3853135",
+      "title": "La OPV de Barrick Gold podría retrasarse hasta enero de 2027",
+      "link": "https://es.investing.com/news/stock-market-news/la-opv-de-barrick-gold-podria-retrasarse-hasta-enero-de-2027-93CH-3854215",
       "summary": "",
-      "published": "2026-09-29T10:25:02+00:00",
+      "published": "2026-09-29T18:00:43+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué las acciones de CarMax se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-carmax-se-disparan-hoy-93CH-3853132",
+      "title": "¿Por qué sube hoy la acción de Kroger?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-kroger-93CH-3854212",
       "summary": "",
-      "published": "2026-09-29T10:24:18+00:00",
+      "published": "2026-09-29T17:57:11+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué se dispara hoy la acción de AAR?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-aar-93CH-3853129",
+      "title": "OpenAI busca 30.000 millones en nueva ronda con valoración de 1,4 billones",
+      "link": "https://es.investing.com/news/stock-market-news/openai-busca-30000-millones-en-nueva-ronda-con-valoracion-de-14-billones-3854208",
       "summary": "",
-      "published": "2026-09-29T10:23:21+00:00",
+      "published": "2026-09-29T17:52:11+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
-      "published": "2026-09-29T10:15:00+00:00",
+      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
+      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
+      "summary": "Medicare beneficiaries can change their coverage during open enrollment, which begins Oct. 15.",
+      "published": "2026-09-29T17:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "summary": "“I am a retired senior citizen living check-to-check.”",
+      "published": "2026-09-29T17:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
+      "link": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
+      "summary": "The recent Starship launch helps SpaceX with a number of priorities that could help its stock reach $900 over the long run, an analyst says.",
+      "published": "2026-09-29T16:59:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The hidden messages the bond market is sending about the AI boom and the stock market",
+      "link": "https://www.marketwatch.com/story/the-hidden-messages-the-bond-market-is-sending-about-the-ai-boom-and-the-stock-market-5c9495ba?mod=mw_rss_topstories",
+      "summary": "Author and FT correspondent Robin Wigglesworth tells MarketWatch about how bonds build the modern financial system, and what they are currently saying about and inflation, government debt and the financial markets.",
+      "published": "2026-09-29T16:44:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "summary": "“We have an ironclad prenup.”",
+      "published": "2026-09-29T16:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
       "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-      "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio/.html",
+      "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
       "summary": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
-      "published": "2026-09-29T10:00:01+00:00",
+      "published": "2026-09-29T14:37:07+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "summary": "“I could rent the property and generate $800 a month in positive cash flow.”",
-      "published": "2026-09-29T09:16:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Two-thirds of the revenue needed to justify the AI buildout are still unaccounted for, says major consulting firm",
-      "link": "https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
-      "summary": "At least about $4.2 trillion of the estimated yearly costs needed to fund the artificial-intelligence buildout is currently not being covered, according to the consulting firm.",
-      "published": "2026-09-29T09:12:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Celebrity couple Jenny McCarthy and Donnie Wahlberg are selling $2.8 million Illinois home",
-      "link": "https://www.marketwatch.com/story/celebrity-couple-jenny-mccarthy-and-donnie-wahlberg-are-selling-2-8-million-illinois-home-b48f4191?mod=mw_rss_topstories",
-      "summary": "Singer Donnie Wahlberg and actress Jenny McCarthy have owned the St. Charles residence for more than a decade, having purchased it for $1.1 million in 2015.",
-      "published": "2026-09-29T09:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Kris Jenner delists $13.5 million home that was featured in ‘Keeping Up With the Kardashians’",
-      "link": "https://www.marketwatch.com/story/kris-jenner-delists-13-5-million-home-that-was-featured-in-keeping-up-with-the-kardashians-dd162590?mod=mw_rss_topstories",
-      "summary": "Kardashian matriarch Kris Jenner has once again removed her Hidden Hills, Calif., mansion from the market—after wavering over the sale.",
-      "published": "2026-09-29T08:58:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1130,7 +1106,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 29,
+    "acciones_con_noticias": 28,
     "sin_accion": 40
   }
 }
