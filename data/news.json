@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T20:12:10.276580+00:00",
+  "generated_at": "2026-09-29T01:08:42.324417+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.6,
+      "ventana_horas": 4.0,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.7,
+      "ventana_horas": 3.3,
       "ok": true
     }
   ],
@@ -75,6 +75,14 @@
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
+        {
+          "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
+          "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
+          "summary": "The company intends to repurchase a large amount of shares through January 2028, reflecting its “confidence in the long-term opportunity ahead.”",
+          "published": "2026-09-28T21:27:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
         {
           "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
           "link": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
@@ -110,19 +118,83 @@
       ]
     },
     {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
+          "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
+          "summary": "The chip maker is buying the startup and adding AI pioneer Fei-Fei Li as its chief scientist.",
+          "published": "2026-09-29T00:03:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
+          "summary": "",
+          "published": "2026-09-23T04:24:33+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
+          "summary": "",
+          "published": "2026-09-23T04:17:10+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "La junta de Goldman Sachs discutió un plan para nombrar a Waldron como próximo director ejecutivo",
+          "link": "https://es.investing.com/news/stock-market-news/la-junta-de-goldman-sachs-discutio-un-plan-para-nombrar-a-waldron-como-proximo-director-ejecutivo-3852515",
+          "summary": "",
+          "published": "2026-09-28T23:24:41+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+          "published": "2026-09-19T12:50:49+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "Samsung Electronics",
+      "exchange": "KRX",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Samsung y filiales invertirán 1.000 millones de dólares en Helix, firma de infraestructura IA",
+          "link": "https://es.investing.com/news/stock-market-news/samsung-y-filiales-invertiran-1000-millones-de-dolares-en-helix-firma-de-infraestructura-ia-3852537",
+          "summary": "",
+          "published": "2026-09-29T00:21:18+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "META",
       "name": "Meta Platforms",
       "exchange": "NASDAQ",
       "sector": "Tecnología",
       "news": [
-        {
-          "title": "Meta Platforms en soporte clave 712-719 $: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/meta-platforms-pierde-impulso-en-soporte-clave-niveles-en-vivo-93CH-3851955",
-          "summary": "",
-          "published": "2026-09-28T19:09:14+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
         {
           "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
           "link": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
@@ -134,66 +206,42 @@
       ]
     },
     {
-      "ticker": "PFE",
-      "name": "Pfizer",
+      "ticker": "NKE",
+      "name": "Nike",
       "exchange": "NYSE",
-      "sector": "Salud",
+      "sector": "Consumo",
       "news": [
         {
-          "title": "Pfizer, BioNTech y Moderna no logran desestimar demanda de patente de Bayer",
-          "link": "https://es.investing.com/news/stock-market-news/pfizer-biontech-y-moderna-no-logran-desestimar-demanda-de-patente-de-bayer-93CH-3852272",
+          "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
+          "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-25T11:40:42+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
           "summary": "",
-          "published": "2026-09-28T19:44:47+00:00",
-          "source_short": "Investing",
+          "published": "2026-09-23T04:07:47+00:00",
+          "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "PEP",
-      "name": "PepsiCo",
-      "exchange": "NASDAQ",
-      "sector": "Alimentos",
+      "ticker": "C",
+      "name": "Citigroup / Banamex",
+      "exchange": "NYSE",
+      "sector": "Banca",
       "news": [
         {
-          "title": "PepsiCo plans to raise prices on sodas, chips and dip — and that has Wall Street worried",
-          "link": "https://www.marketwatch.com/story/pepsico-plans-to-raise-prices-on-sodas-chips-and-dip-and-that-has-wall-street-worried-0ec355bf?mod=mw_rss_topstories",
-          "summary": "TD Cowen analysts flagged the company’s “shifting narrative on affordability” as a risk.",
-          "published": "2026-09-28T19:37:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Alphabet C atrapada en rango bajo Ichimoku: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/alphabet-c-consolida-bajo-resistencias-clave-en-338-niveles-en-vivo-93CH-3851954",
-          "summary": "",
-          "published": "2026-09-28T19:09:05+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Tesla rompe soporte clave: niveles bajistas en tiempo real",
-          "link": "https://es.investing.com/news/stock-market-news/tesla-testea-soporte-clave-en-362--niveles-en-vivo-93CH-3851953",
-          "summary": "",
-          "published": "2026-09-28T19:08:56+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
+          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
+          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
+          "published": "2026-09-26T00:25:22+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -280,46 +328,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-publica-decreto-para-ampliar-transparencia-del-gobierno-filiales-de-pemex-y-cfe/",
           "summary": "La disposiciones establecidas en el decreto publicado la tarde de este martes se incorporarán en una próxima reforma a la Ley General de Transparencia.",
           "published": "2026-08-05T03:39:02+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "NKE",
-      "name": "Nike",
-      "exchange": "NYSE",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
-          "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-25T11:40:42+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
-          "summary": "",
-          "published": "2026-09-23T04:07:47+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "C",
-      "name": "Citigroup / Banamex",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
-          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
-          "published": "2026-09-26T00:25:22+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -440,30 +448,6 @@
           "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
           "summary": "",
           "published": "2026-09-23T04:33:16+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
-          "summary": "",
-          "published": "2026-09-23T04:17:10+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
-          "summary": "",
-          "published": "2026-09-23T04:24:33+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
         },
@@ -638,22 +622,6 @@
       ]
     },
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
-          "published": "2026-09-19T12:50:49+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "XOM",
       "name": "ExxonMobil",
       "exchange": "NYSE",
@@ -768,46 +736,28 @@
   ],
   "sin_accion": [
     {
-      "title": "Before you invest in the Oura IPO, understand what you’re buying",
-      "link": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
-      "summary": "The health-data company could see a pop in its stock price, but there are plenty of warning signs",
-      "published": "2026-09-28T20:04:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "October is historically the most volatile month for stocks. But why? These 4 popular theories fail to hold up.",
-      "link": "https://www.marketwatch.com/story/october-is-historically-the-most-volatile-month-for-stocks-but-why-these-4-popular-theories-fail-to-hold-up-a47a1830?mod=mw_rss_topstories",
-      "summary": "Although October historically has been the most volatile month of the year, you shouldn’t bet that it will continue to be in the future.",
-      "published": "2026-09-28T20:02:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Blockchain.com busca una OPV de 500 millones de dólares con una valoración de hasta 6.000 millones",
-      "link": "https://es.investing.com/news/stock-market-news/blockchaincom-busca-una-opv-de-500-millones-de-dolares-con-una-valoracion-de-hasta-6000-millones-3852277",
+      "title": "Los futuros de las acciones en EE.UU. se estabilizan tras el alza de rendimientos y el nerviosismo por la IA",
+      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-en-eeuu-se-estabilizan-tras-el-alza-de-rendimientos-y-el-nerviosismo-por-la-ia-3852542",
       "summary": "",
-      "published": "2026-09-28T19:47:24+00:00",
+      "published": "2026-09-29T00:58:17+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
-      "published": "2026-09-28T19:45:00+00:00",
-      "source_short": "MarketW",
+      "title": "El prospecto de Anthropic revela ambición de OPV de 2 billones de dólares pese a enormes pérdidas",
+      "link": "https://es.investing.com/news/stock-market-news/el-prospecto-de-anthropic-revela-ambicion-de-opv-de-2-billones-de-dolares-pese-a-enormes-perdidas-3852529",
+      "summary": "",
+      "published": "2026-09-29T00:09:00+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Cleveland-Cliffs cae tras informes de que Stelco paraliza planta por aranceles",
-      "link": "https://es.investing.com/news/stock-market-news/clevelandcliffs-cae-tras-informes-de-que-stelco-paraliza-planta-por-aranceles-3852267",
+      "title": "OpenAI cancela el lanzamiento de un nuevo modelo por problemas de seguridad",
+      "link": "https://es.investing.com/news/stock-market-news/openai-cancela-el-lanzamiento-de-un-nuevo-modelo-por-problemas-de-seguridad-3852521",
       "summary": "",
-      "published": "2026-09-28T19:37:44+00:00",
+      "published": "2026-09-28T23:47:09+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -816,61 +766,79 @@
       "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
       "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
       "summary": "“As a country, we have grown dangerously comfortable.”",
-      "published": "2026-09-28T19:30:00+00:00",
+      "published": "2026-09-28T23:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "El secretario de Transporte pide al Congreso 30.000 millones para aviación",
-      "link": "https://es.investing.com/news/stock-market-news/el-secretario-de-transporte-pide-al-congreso-30000-millones-para-aviacion-93CH-3852262",
-      "summary": "",
-      "published": "2026-09-28T19:20:33+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Teleflex?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-teleflex-93CH-3852260",
-      "summary": "",
-      "published": "2026-09-28T19:11:47+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "ServiceNow cae hacia soporte clave de $130: niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/servicenow-rompe-soporte-clave-con-patron-hch-niveles-en-vivo-93CH-3851957",
-      "summary": "",
-      "published": "2026-09-28T19:09:54+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Galicia ADR en sobreventa extrema: niveles en tiempo real",
-      "link": "https://es.investing.com/news/stock-market-news/galicia-adr-en-sobreventa-extrema-rsi-21-niveles-en-vivo-93CH-3851959",
-      "summary": "",
-      "published": "2026-09-28T19:09:47+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
-      "link": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
-      "summary": "It’s important to have guardrails around your legacy.",
-      "published": "2026-09-28T18:56:00+00:00",
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
+      "published": "2026-09-28T22:45:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Spending $800 to see my family this Thanksgiving is a financial burden. How can I push for a cheaper flight?",
-      "link": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
-      "summary": "“My sister always chooses places where it’s cheapest for her to fly.”",
-      "published": "2026-09-28T18:40:00+00:00",
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
+      "published": "2026-09-28T22:35:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
+      "link": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
+      "summary": "The company has a lucrative opportunity in letting rivals tap its data centers for computing power.",
+      "published": "2026-09-28T22:03:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Sangoma Technologies se disparan más de un 40% tras acuerdo de adquisición por BRC",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-sangoma-technologies-se-disparan-mas-de-un-40-tras-acuerdo-de-adquisicion-por-brc-3852467",
+      "summary": "",
+      "published": "2026-09-28T22:01:23+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Summit se disparan tras acuerdo de acciones con AstraZeneca por 2.000 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-summit-se-disparan-tras-acuerdo-de-acciones-con-astrazeneca-por-2000-millones-de-dolares-3852449",
+      "summary": "",
+      "published": "2026-09-28T21:38:26+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Navitas Semiconductor?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-navitas-semiconductor-93CH-3852444",
+      "summary": "",
+      "published": "2026-09-28T21:32:33+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
+      "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+      "summary": "Meta is creating an enterprise platform business that aims to make it easier for developers to use its products. CJ Desai, formerly of MongoDB, will head up the initiative.",
+      "published": "2026-09-28T21:23:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "This AI startup has only 14 employees — and a fresh $10 billion valuation",
+      "link": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
+      "summary": "Instinct is rapidly amassing investment dollars, illustrating the rush of excitement around personal AI assistants.",
+      "published": "2026-09-28T21:19:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -885,7 +853,7 @@
       "tickers": []
     },
     {
-      "title": "Peso mexicano inicia la semana con la mayor caída frente al dólar desde abril",
+      "title": "Dólar en México supera los MXN$18: peso mexicano registra su mayor caída desde marzo",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-inicia-la-semana-con-la-mayor-caida-frente-al-dolar-desde-abril/",
       "summary": "La moneda mexicana cotiza este lunes en MXN$17,87 en el mercado spot por cada billete verde.",
       "published": "2026-09-28T15:50:48+00:00",
@@ -1130,7 +1098,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 30,
+    "acciones_con_noticias": 27,
     "sin_accion": 40
   }
 }
