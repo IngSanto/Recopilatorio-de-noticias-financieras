@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:39:39.120888+00:00",
+  "generated_at": "2026-09-30T10:41:12.077579+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 3.2,
+      "ventana_horas": 0.5,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 176.4,
+      "ventana_horas": 175.8,
       "ok": true
     },
     {
@@ -64,57 +64,25 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.2,
+      "ventana_horas": 11.2,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
-          "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
-          "summary": "AMD is getting cutting-edge spatial-intelligence models, but more importantly, a leader who can help recruit top talent and bring real-world AI applications into focus.",
-          "published": "2026-09-29T21:52:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
-          "link": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-29T12:03:19+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
-          "summary": "",
-          "published": "2026-09-23T04:24:33+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
-          "summary": "",
-          "published": "2026-09-23T04:17:10+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
     {
       "ticker": "GS",
       "name": "Goldman Sachs",
       "exchange": "NYSE",
       "sector": "Banca",
       "news": [
+        {
+          "title": "Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
+          "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
+          "summary": "Beneath the languished moves in the main stock-market indexes, there were some disturbing features.",
+          "published": "2026-09-30T10:15:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
         {
           "title": "Goldman Sachs CEO succession planning faces one big problem",
           "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
@@ -142,97 +110,81 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Google paga a 100 editores por contenido para su búsqueda con IA",
-          "link": "https://es.investing.com/news/stock-market-news/google-paga-a-100-editores-por-contenido-para-su-busqueda-con-ia-93CH-3854573",
-          "summary": "",
-          "published": "2026-09-29T23:54:45+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Anthropic canaliza el 47% de sus ventas a través de Amazon y Google",
-          "link": "https://es.investing.com/news/stock-market-news/anthropic-canaliza-el-47-de-sus-ventas-a-traves-de-amazon-y-google-3854402",
-          "summary": "",
-          "published": "2026-09-29T20:58:20+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
-          "link": "https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories",
-          "summary": "Amid a “flight to quality,” Microsoft’s stock has stood out as an AI winner, according to one analyst",
-          "published": "2026-09-29T21:18:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft",
-          "link": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
-          "summary": "",
-          "published": "2026-09-23T04:46:53+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BA",
-      "name": "Boeing",
-      "exchange": "NYSE",
-      "sector": "Industria",
-      "news": [
-        {
-          "title": "Boeing gana contrato naval de 20.000 millones de dólares para caza de nueva generación",
-          "link": "https://es.investing.com/news/stock-market-news/boeing-gana-contrato-naval-de-20000-millones-de-dolares-para-caza-de-nueva-generacion-3854497",
-          "summary": "",
-          "published": "2026-09-29T21:54:49+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "WFC",
-      "name": "Wells Fargo",
+      "ticker": "DB",
+      "name": "Deutsche Bank",
       "exchange": "NYSE",
       "sector": "Banca",
       "news": [
         {
-          "title": "S&P sube la calificación de Wells Fargo a A- tras mejoras en gestión de riesgos",
-          "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-wells-fargo-a-a-tras-mejoras-en-gestion-de-riesgos-3854427",
+          "title": "Deutsche Bank y J.P. Morgan inician cobertura de Nordnet con visiones dispares",
+          "link": "https://es.investing.com/news/stock-market-news/deutsche-bank-y-jp-morgan-inician-cobertura-de-nordnet-con-visiones-dispares-3855184",
           "summary": "",
-          "published": "2026-09-29T21:09:28+00:00",
+          "published": "2026-09-30T10:32:10+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Anthropic canaliza el 47% de sus ventas a través de Amazon y Google",
-          "link": "https://es.investing.com/news/stock-market-news/anthropic-canaliza-el-47-de-sus-ventas-a-traves-de-amazon-y-google-3854402",
+          "title": "There’s a new Wall Street TACO index — and this one is saying it’s time for Trump to strike a deal",
+          "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
+          "summary": "JPMorgan has devised a TACO barometer, referring to the expression Trump Always Chickens Out ,as a way to predict the behavior of the mercurial world leader.",
+          "published": "2026-09-30T09:16:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix",
+      "exchange": "NASDAQ",
+      "sector": "Medios",
+      "news": [
+        {
+          "title": "Netflix stars Nick and Vanessa Lachey list $8.1 million L.A. home they bought from Naomi Osaka",
+          "link": "https://www.marketwatch.com/story/netflix-stars-nick-and-vanessa-lachey-list-8-1-million-l-a-home-they-bought-from-naomi-osaka-0cdb873b?mod=mw_rss_topstories",
+          "summary": "TV stars Nick and Vanessa Lachey are bidding farewell to their longtime “dream home,” listing the Tarzana property for $8.1 million as they prepare to leave California altogether.",
+          "published": "2026-09-30T09:02:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
+          "link": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-29T12:03:19+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
           "summary": "",
-          "published": "2026-09-29T20:58:20+00:00",
-          "source_short": "Investing",
+          "published": "2026-09-23T04:24:33+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
+          "summary": "",
+          "published": "2026-09-23T04:17:10+00:00",
+          "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
@@ -622,6 +574,22 @@
       ]
     },
     {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft",
+          "link": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
+          "summary": "",
+          "published": "2026-09-23T04:46:53+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "CRM",
       "name": "Salesforce",
       "exchange": "NYSE",
@@ -784,29 +752,128 @@
   ],
   "sin_accion": [
     {
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
-      "published": "2026-09-30T00:30:00+00:00",
+      "title": "Fondos de pensiones de EE.UU. venderán 33.000 millones en bolsa",
+      "link": "https://es.investing.com/news/stock-market-news/fondos-de-pensiones-de-eeuu-venderan-33000-millones-en-bolsa-3855187",
+      "summary": "",
+      "published": "2026-09-30T10:32:58+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen hoy las acciones de AppLovin?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-applovin-93CH-3855178",
+      "summary": "",
+      "published": "2026-09-30T10:30:46+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Southern Company?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-southern-company-93CH-3855177",
+      "summary": "",
+      "published": "2026-09-30T10:30:45+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones estadounidenses en máximos, pero esta cadena de restaurantes sube un 11% esta semana",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-estadounidenses-en-maximos-pero-esta-cadena-de-restaurantes-sube-un-11-esta-semana-3855170",
+      "summary": "",
+      "published": "2026-09-30T10:26:49+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Yiren Digital?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-yiren-digital-93CH-3855156",
+      "summary": "",
+      "published": "2026-09-30T10:23:46+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El regulador británico advierte que la adquisición de Brink’s podría dañar la competencia en cajeros",
+      "link": "https://es.investing.com/news/stock-market-news/el-regulador-britanico-advierte-que-la-adquisicion-de-brinks-podria-danar-la-competencia-en-cajeros-93CH-3855137",
+      "summary": "",
+      "published": "2026-09-30T10:18:49+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "He’s been badmouthing Treasury bonds since 2020, but now ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
+      "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
+      "summary": "Investors have become accustomed to returns distorted by artificially low interest rates. 5% on bonds and 6% on stocks are more realistic and Bianco finds value in U.S. Treasury notes now.",
+      "published": "2026-09-30T09:32:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Robinhood presenta agentes de IA para el trading automatizado",
-      "link": "https://es.investing.com/news/stock-market-news/robinhood-presenta-agentes-de-ia-para-el-trading-automatizado-3854578",
-      "summary": "",
-      "published": "2026-09-30T00:06:49+00:00",
-      "source_short": "Investing",
+      "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
+      "link": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
+      "summary": "Strategists at the bank said a rally at the end of the year would likely depend on oil prices lowering or stabilizing even as the historically best-performing quarter approaches.",
+      "published": "2026-09-30T09:20:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué se dispara hoy la acción de Vanda Pharmaceuticals?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-vanda-pharmaceuticals-93CH-3854566",
-      "summary": "",
-      "published": "2026-09-29T23:39:42+00:00",
-      "source_short": "Investing",
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+      "published": "2026-09-30T09:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
+      "link": "https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html",
+      "summary": "Singapore state investor Temasek plans to open offices in Riyadh and Abu Dhabi by the first half of 2027, its most significant Mideast expansion to date.",
+      "published": "2026-09-30T08:45:42+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+      "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+      "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
+      "published": "2026-09-30T03:39:08+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+      "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+      "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
+      "published": "2026-09-30T02:50:35+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "published": "2026-09-30T01:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
+      "published": "2026-09-30T00:30:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -820,84 +887,12 @@
       "tickers": []
     },
     {
-      "title": "Accelevation fija el precio de su OPV en 18 dólares por acción en el Nasdaq",
-      "link": "https://es.investing.com/news/stock-market-news/accelevation-fija-el-precio-de-su-opv-en-18-dolares-por-accion-en-el-nasdaq-432SI-3854555",
-      "summary": "",
-      "published": "2026-09-29T23:16:02+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "summary": "“As a country, we have grown dangerously comfortable.”",
-      "published": "2026-09-29T23:03:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "México prohíbe la doble nacionalidad de próximos presidentes y gobernadores",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-prohibe-la-doble-nacionalidad-de-proximos-presidentes-y-gobernadores/",
       "summary": "Quienes aspiren a la presidencia o gubernatura de alguna de las 32 entidades de México tendrán que renunciar a otra nacionalidad antes del registro de su candidatura.",
       "published": "2026-09-29T22:58:02+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "summary": "“We have an ironclad prenup.”",
-      "published": "2026-09-29T22:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
-      "link": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories",
-      "summary": "The Paramount financing will be a closely watched barometer of dealmaking appetite despite rising borrowing costs in 2026.",
-      "published": "2026-09-29T21:56:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
-      "link": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
-      "summary": "The recent Starship launch helps SpaceX with a number of priorities that could help its stock reach $900 over the long run, an analyst says.",
-      "published": "2026-09-29T21:53:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "American y Alaska amplían sus acuerdos de reparto de ingresos",
-      "link": "https://es.investing.com/news/stock-market-news/american-y-alaska-amplian-sus-acuerdos-de-reparto-de-ingresos-3854472",
-      "summary": "",
-      "published": "2026-09-29T21:35:54+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las mejores acciones de aerolíneas ante la volatilidad del combustible",
-      "link": "https://es.investing.com/news/stock-market-news/las-mejores-acciones-de-aerolineas-ante-la-volatilidad-del-combustible-3854420",
-      "summary": "",
-      "published": "2026-09-29T21:05:56+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Esta es la mejor acción biotecnológica según B. Riley Securities",
-      "link": "https://es.investing.com/news/stock-market-news/esta-es-la-mejor-accion-biotecnologica-segun-b-riley-securities-3854396",
-      "summary": "",
-      "published": "2026-09-29T20:54:17+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -919,15 +914,6 @@
       "tickers": []
     },
     {
-      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
-      "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
-      "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
-      "published": "2026-09-29T07:19:38+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
       "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
       "summary": "Almost half of the stocks in the S&P 500 have a negative beta, evidence of a chasm between the entire index and its individual components.",
@@ -943,24 +929,6 @@
       "published": "2026-09-28T15:50:48+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
-      "link": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
-      "summary": "The lists included U.S. imports of toys, sports equipment and Christmas decorations, while U.S. farm products appeared on the list of Chinese imports.",
-      "published": "2026-09-28T08:31:33+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
-      "link": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
-      "summary": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
-      "published": "2026-09-28T07:22:06+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1146,7 +1114,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 29,
+    "acciones_con_noticias": 28,
     "sin_accion": 40
   }
 }
