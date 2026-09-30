@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T10:41:12.077579+00:00",
+  "generated_at": "2026-09-30T18:31:54.955782+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10279.8,
+      "ventana_horas": 10292.7,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.5,
+      "ventana_horas": 1.3,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 175.8,
+      "ventana_horas": 167.8,
       "ok": true
     },
     {
@@ -64,11 +64,99 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 11.2,
+      "ventana_horas": 1.9,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "PEMEX",
+      "name": "Pemex",
+      "exchange": "Estatal (deuda)",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Pemex acumula déficit comercial de US$4.000 millones por importación de combustibles",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-acumula-deficit-comercial-de-us4000-millones-por-importacion-de-combustibles/",
+          "summary": "La balanza negativa de Pemex representa un incremento de 300% en su comparación anual.",
+          "published": "2026-09-30T11:51:01+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Pemex enfrenta déficit superior a US$5.000 millones por volatilidad petrolera: Moody’s",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-enfrenta-deficit-superior-a-us5000-millones-por-volatilidad-petrolera-moodys/",
+          "summary": "La calificadora estimó que Pemex necesitará apoyo del Gobierno por US$10.000 millones anuales hacia 2030.",
+          "published": "2026-09-25T00:42:54+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Fitch mantiene calificación de Pemex como bono basura a un escalón del grado de inversión",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fitch-mantiene-calificacion-de-pemex-como-bono-basura-a-un-escalon-del-grado-de-inversion/",
+          "summary": "La agencia dijo que la calificación de Pemex refleja su vínculo con el Gobierno de México",
+          "published": "2026-09-24T15:37:59+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum minimiza apoyo para Pemex en 2027 tras incumplir promesa",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-minimiza-apoyo-para-pemex-en-2027-tras-incumplir-promesa/",
+          "summary": "La Secretaría de Hacienda propuso una transferencia a Pemex por MXN$81.100 millones para el pago de vencimientos de deuda y créditos bancarios.",
+          "published": "2026-09-09T20:22:23+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "México alista recorte al presupuesto de Pemex y CFE, pero las compensará con transferencias",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-recorte-al-presupuesto-de-pemex-y-cfe-pero-las-compensara-con-transferencias/",
+          "summary": "Hacienda propuso un recorte presupuestal de 1 y 8% a las empresas estatales Pemex y CFE en 2027.",
+          "published": "2026-09-09T10:00:00+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum incumple promesa de autosuficiencia presupuestal de Pemex para 2027",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-incumple-promesa-de-autosuficiencia-presupuestal-de-pemex-para-2027/",
+          "summary": "La Secretaría de Hacienda y Crédito Público planteó una transferencia presupuestal a la petrolera mexicana Pemex por MXN$81.100 millones.",
+          "published": "2026-09-09T00:54:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Riesgos macroeconómicos de México también pueden impactar a Pemex: Fitch",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/riesgos-macroeconomicos-de-mexico-tambien-pueden-impactar-a-pemex-fitch/",
+          "summary": "La calificadora de riesgo crediticio ve algunos riesgos derivados de la economía mexicana que pueden impactar a la petrolera estatal.",
+          "published": "2026-09-08T12:59:22+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Pemex y Sindicato pactan aumento salarial 2026-2027 por encima de la inflación",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-y-sindicato-pactan-aumento-salarial-2026-2027-por-encima-de-la-inflacion/",
+          "summary": "Juan Carlos Carpio, director general de Pemex, y el líder sindical Luis Ricardo Aldana Prieto encabezaron la firma del acuerdo salarial para el periodo 2026-2027.",
+          "published": "2026-09-04T22:59:37+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Director de Pemex busca acelerar nuevas alianzas con empresas privadas",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/director-de-pemex-busca-acelerar-nuevas-alianzas-con-empresas-privadas/",
+          "summary": "La colaboración con empresas privadas busca ampliar la capacidad de inversión de Pemex.",
+          "published": "2026-09-03T00:03:33+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Pemex actualiza datos de desempeño operativo tras casi una semana de retraso",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-retrasa-la-publicacion-del-desempeno-de-la-produccion-de-julio/",
+          "summary": "Después del mediodía de este martes, tras el segundo informe de Gobierno de la presidenta, Pemex actualizó las estadísticas petroleras de julio.",
+          "published": "2026-09-01T12:59:10+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
     {
       "ticker": "GS",
       "name": "Goldman Sachs",
@@ -76,11 +164,11 @@
       "sector": "Banca",
       "news": [
         {
-          "title": "Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
-          "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
-          "summary": "Beneath the languished moves in the main stock-market indexes, there were some disturbing features.",
-          "published": "2026-09-30T10:15:00+00:00",
-          "source_short": "MarketW",
+          "title": "Goldman Sachs retrasa su previsión de subida de tipos a diciembre",
+          "link": "https://es.investing.com/news/stock-market-news/goldman-sachs-retrasa-su-prevision-de-subida-de-tipos-a-diciembre-93CH-3856101",
+          "summary": "",
+          "published": "2026-09-30T18:05:43+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
@@ -110,49 +198,41 @@
       ]
     },
     {
-      "ticker": "DB",
-      "name": "Deutsche Bank",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
       "news": [
         {
-          "title": "Deutsche Bank y J.P. Morgan inician cobertura de Nordnet con visiones dispares",
-          "link": "https://es.investing.com/news/stock-market-news/deutsche-bank-y-jp-morgan-inician-cobertura-de-nordnet-con-visiones-dispares-3855184",
+          "title": "Google pide al tribunal de la UE suspender orden de compartir datos con rivales de IA",
+          "link": "https://es.investing.com/news/stock-market-news/google-pide-al-tribunal-de-la-ue-suspender-orden-de-compartir-datos-con-rivales-de-ia-3856080",
           "summary": "",
-          "published": "2026-09-30T10:32:10+00:00",
+          "published": "2026-09-30T17:28:43+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
+        },
         {
-          "title": "There’s a new Wall Street TACO index — and this one is saying it’s time for Trump to strike a deal",
-          "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
-          "summary": "JPMorgan has devised a TACO barometer, referring to the expression Trump Always Chickens Out ,as a way to predict the behavior of the mercurial world leader.",
-          "published": "2026-09-30T09:16:00+00:00",
+          "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
+          "link": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
+          "summary": "A critical bottleneck in data centers is creating a massive runway for networking stocks like Celestica, according to Bernstein.",
+          "published": "2026-09-30T16:29:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix",
-      "exchange": "NASDAQ",
-      "sector": "Medios",
+      "ticker": "BA",
+      "name": "Boeing",
+      "exchange": "NYSE",
+      "sector": "Industria",
       "news": [
         {
-          "title": "Netflix stars Nick and Vanessa Lachey list $8.1 million L.A. home they bought from Naomi Osaka",
-          "link": "https://www.marketwatch.com/story/netflix-stars-nick-and-vanessa-lachey-list-8-1-million-l-a-home-they-bought-from-naomi-osaka-0cdb873b?mod=mw_rss_topstories",
-          "summary": "TV stars Nick and Vanessa Lachey are bidding farewell to their longtime “dream home,” listing the Tarzana property for $8.1 million as they prepare to leave California altogether.",
-          "published": "2026-09-30T09:02:00+00:00",
-          "source_short": "MarketW",
+          "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
+          "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-30T11:38:54+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -242,94 +322,6 @@
           "published": "2026-09-28T11:29:38+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "PEMEX",
-      "name": "Pemex",
-      "exchange": "Estatal (deuda)",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Pemex enfrenta déficit superior a US$5.000 millones por volatilidad petrolera: Moody’s",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-enfrenta-deficit-superior-a-us5000-millones-por-volatilidad-petrolera-moodys/",
-          "summary": "La calificadora estimó que Pemex necesitará apoyo del Gobierno por US$10.000 millones anuales hacia 2030.",
-          "published": "2026-09-25T00:42:54+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Fitch mantiene calificación de Pemex como bono basura a un escalón del grado de inversión",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fitch-mantiene-calificacion-de-pemex-como-bono-basura-a-un-escalon-del-grado-de-inversion/",
-          "summary": "La agencia dijo que la calificación de Pemex refleja su vínculo con el Gobierno de México",
-          "published": "2026-09-24T15:37:59+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum minimiza apoyo para Pemex en 2027 tras incumplir promesa",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-minimiza-apoyo-para-pemex-en-2027-tras-incumplir-promesa/",
-          "summary": "La Secretaría de Hacienda propuso una transferencia a Pemex por MXN$81.100 millones para el pago de vencimientos de deuda y créditos bancarios.",
-          "published": "2026-09-09T20:22:23+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "México alista recorte al presupuesto de Pemex y CFE, pero las compensará con transferencias",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-recorte-al-presupuesto-de-pemex-y-cfe-pero-las-compensara-con-transferencias/",
-          "summary": "Hacienda propuso un recorte presupuestal de 1 y 8% a las empresas estatales Pemex y CFE en 2027.",
-          "published": "2026-09-09T10:00:00+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum incumple promesa de autosuficiencia presupuestal de Pemex para 2027",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-incumple-promesa-de-autosuficiencia-presupuestal-de-pemex-para-2027/",
-          "summary": "La Secretaría de Hacienda y Crédito Público planteó una transferencia presupuestal a la petrolera mexicana Pemex por MXN$81.100 millones.",
-          "published": "2026-09-09T00:54:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Riesgos macroeconómicos de México también pueden impactar a Pemex: Fitch",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/riesgos-macroeconomicos-de-mexico-tambien-pueden-impactar-a-pemex-fitch/",
-          "summary": "La calificadora de riesgo crediticio ve algunos riesgos derivados de la economía mexicana que pueden impactar a la petrolera estatal.",
-          "published": "2026-09-08T12:59:22+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Pemex y Sindicato pactan aumento salarial 2026-2027 por encima de la inflación",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-y-sindicato-pactan-aumento-salarial-2026-2027-por-encima-de-la-inflacion/",
-          "summary": "Juan Carlos Carpio, director general de Pemex, y el líder sindical Luis Ricardo Aldana Prieto encabezaron la firma del acuerdo salarial para el periodo 2026-2027.",
-          "published": "2026-09-04T22:59:37+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Director de Pemex busca acelerar nuevas alianzas con empresas privadas",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/director-de-pemex-busca-acelerar-nuevas-alianzas-con-empresas-privadas/",
-          "summary": "La colaboración con empresas privadas busca ampliar la capacidad de inversión de Pemex.",
-          "published": "2026-09-03T00:03:33+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Pemex actualiza datos de desempeño operativo tras casi una semana de retraso",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-retrasa-la-publicacion-del-desempeno-de-la-produccion-de-julio/",
-          "summary": "Después del mediodía de este martes, tras el segundo informe de Gobierno de la presidenta, Pemex actualizó las estadísticas petroleras de julio.",
-          "published": "2026-09-01T12:59:10+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum publica decreto para ampliar transparencia del Gobierno, filiales de Pemex y CFE",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-publica-decreto-para-ampliar-transparencia-del-gobierno-filiales-de-pemex-y-cfe/",
-          "summary": "La disposiciones establecidas en el decreto publicado la tarde de este martes se incorporarán en una próxima reforma a la Ley General de Transparencia.",
-          "published": "2026-08-05T03:39:02+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
         }
       ]
     },
@@ -752,83 +744,128 @@
   ],
   "sin_accion": [
     {
-      "title": "Fondos de pensiones de EE.UU. venderán 33.000 millones en bolsa",
-      "link": "https://es.investing.com/news/stock-market-news/fondos-de-pensiones-de-eeuu-venderan-33000-millones-en-bolsa-3855187",
-      "summary": "",
-      "published": "2026-09-30T10:32:58+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de AppLovin?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-applovin-93CH-3855178",
-      "summary": "",
-      "published": "2026-09-30T10:30:46+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Southern Company?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-southern-company-93CH-3855177",
-      "summary": "",
-      "published": "2026-09-30T10:30:45+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones estadounidenses en máximos, pero esta cadena de restaurantes sube un 11% esta semana",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-estadounidenses-en-maximos-pero-esta-cadena-de-restaurantes-sube-un-11-esta-semana-3855170",
-      "summary": "",
-      "published": "2026-09-30T10:26:49+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Yiren Digital?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-yiren-digital-93CH-3855156",
-      "summary": "",
-      "published": "2026-09-30T10:23:46+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El regulador británico advierte que la adquisición de Brink’s podría dañar la competencia en cajeros",
-      "link": "https://es.investing.com/news/stock-market-news/el-regulador-britanico-advierte-que-la-adquisicion-de-brinks-podria-danar-la-competencia-en-cajeros-93CH-3855137",
-      "summary": "",
-      "published": "2026-09-30T10:18:49+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "He’s been badmouthing Treasury bonds since 2020, but now ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
-      "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
-      "summary": "Investors have become accustomed to returns distorted by artificially low interest rates. 5% on bonds and 6% on stocks are more realistic and Bianco finds value in U.S. Treasury notes now.",
-      "published": "2026-09-30T09:32:00+00:00",
+      "title": "This chart shows that buying and holding stocks beats ‘sell in May and go away’ and other gimmicks",
+      "link": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
+      "summary": "Followers of ‘sell in May and go away’ have lost out on a stock rally",
+      "published": "2026-09-30T18:20:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
-      "link": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
-      "summary": "Strategists at the bank said a rally at the end of the year would likely depend on oil prices lowering or stabilizing even as the historically best-performing quarter approaches.",
-      "published": "2026-09-30T09:20:00+00:00",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "summary": "“We have an ironclad prenup.”",
+      "published": "2026-09-30T18:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
-      "published": "2026-09-30T09:15:00+00:00",
+      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
+      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
+      "summary": "Medicare beneficiaries can change their coverage during open enrollment, which begins Oct. 15.",
+      "published": "2026-09-30T18:03:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Liquidia se desploman tras fallo judicial a favor de United Therapeutics",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-liquidia-se-desploman-tras-fallo-judicial-a-favor-de-united-therapeutics-3856096",
+      "summary": "",
+      "published": "2026-09-30T17:53:27+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Bélgica amplía las negociaciones con Engie sobre activos nucleares hasta el 4 de noviembre",
+      "link": "https://es.investing.com/news/stock-market-news/belgica-amplia-las-negociaciones-con-engie-sobre-activos-nucleares-hasta-el-4-de-noviembre-93CH-3856094",
+      "summary": "",
+      "published": "2026-09-30T17:48:10+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "SpaceXAI estudia un modelo de precios de cuatro niveles para Grok y X",
+      "link": "https://es.investing.com/news/stock-market-news/spacexai-estudia-un-modelo-de-precios-de-cuatro-niveles-para-grok-y-x-3856092",
+      "summary": "",
+      "published": "2026-09-30T17:45:16+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Accelevation caen un 2,5% en su debut a 17,55 dólares",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-accelevation-caen-un-25-en-su-debut-a-1755-dolares-3856084",
+      "summary": "",
+      "published": "2026-09-30T17:38:26+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "summary": "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
+      "published": "2026-09-30T17:38:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
+      "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+      "summary": "President Donald Trump is spending time this week talking up big job-creating projects in battleground states.",
+      "published": "2026-09-30T17:37:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "published": "2026-09-30T17:31:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "La SEC propone ampliar el acceso a inversiones privadas",
+      "link": "https://es.investing.com/news/stock-market-news/la-sec-propone-ampliar-el-acceso-a-inversiones-privadas-93CH-3856066",
+      "summary": "",
+      "published": "2026-09-30T17:16:08+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "S&P y Moody’s rebajen la calificación de Hormel Foods tras el acuerdo de 1.055 millones de dólares con Brakebush",
+      "link": "https://es.investing.com/news/stock-market-news/sp-y-moodys-rebajen-la-calificacion-de-hormel-foods-tras-el-acuerdo-de-1055-millones-de-dolares-con-brakebush-3856061",
+      "summary": "",
+      "published": "2026-09-30T17:05:40+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
+      "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "2026-09-30T17:04:42+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
+      "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+      "published": "2026-09-30T14:31:26+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -860,33 +897,6 @@
       "tickers": []
     },
     {
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-      "published": "2026-09-30T01:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
-      "published": "2026-09-30T00:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "summary": "“I am a retired senior citizen living check-to-check.”",
-      "published": "2026-09-29T23:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "México prohíbe la doble nacionalidad de próximos presidentes y gobernadores",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-prohibe-la-doble-nacionalidad-de-proximos-presidentes-y-gobernadores/",
       "summary": "Quienes aspiren a la presidencia o gubernatura de alguna de las 32 entidades de México tendrán que renunciar a otra nacionalidad antes del registro de su candidatura.",
@@ -900,24 +910,6 @@
       "link": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
       "summary": "The higher-than-consensus expectations are a bet that the U.S. had another strong month of job growth.",
       "published": "2026-09-29T20:33:08+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-      "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
-      "summary": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
-      "published": "2026-09-29T14:37:07+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
-      "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
-      "summary": "Almost half of the stocks in the S&P 500 have a negative beta, evidence of a chasm between the entire index and its individual components.",
-      "published": "2026-09-28T17:53:31+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1114,7 +1106,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 28,
+    "acciones_con_noticias": 27,
     "sin_accion": 40
   }
 }
