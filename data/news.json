@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:31:54.955782+00:00",
+  "generated_at": "2026-10-01T00:40:15.483405+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10292.7,
+      "ventana_horas": 10303.2,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.3,
+      "ventana_horas": 3.7,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 167.8,
+      "ventana_horas": 162.8,
       "ok": true
     },
     {
@@ -64,11 +64,27 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.9,
+      "ventana_horas": 5.0,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Google shows it’s not out of the AI race just yet",
+          "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
+          "summary": "The company’s Gemini 4 Argon announcement shows Google is back with the pack when it comes to cutting-edge AI models.",
+          "published": "2026-09-30T22:51:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
@@ -164,14 +180,6 @@
       "sector": "Banca",
       "news": [
         {
-          "title": "Goldman Sachs retrasa su previsión de subida de tipos a diciembre",
-          "link": "https://es.investing.com/news/stock-market-news/goldman-sachs-retrasa-su-prevision-de-subida-de-tipos-a-diciembre-93CH-3856101",
-          "summary": "",
-          "published": "2026-09-30T18:05:43+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
           "title": "Goldman Sachs CEO succession planning faces one big problem",
           "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
           "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
@@ -198,30 +206,6 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Google pide al tribunal de la UE suspender orden de compartir datos con rivales de IA",
-          "link": "https://es.investing.com/news/stock-market-news/google-pide-al-tribunal-de-la-ue-suspender-orden-de-compartir-datos-con-rivales-de-ia-3856080",
-          "summary": "",
-          "published": "2026-09-30T17:28:43+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
-          "link": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
-          "summary": "A critical bottleneck in data centers is creating a massive runway for networking stocks like Celestica, according to Bernstein.",
-          "published": "2026-09-30T16:29:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "BA",
       "name": "Boeing",
       "exchange": "NYSE",
@@ -233,38 +217,6 @@
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-09-30T11:38:54+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
-          "link": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-29T12:03:19+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
-          "summary": "",
-          "published": "2026-09-23T04:24:33+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
-          "summary": "",
-          "published": "2026-09-23T04:17:10+00:00",
-          "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
@@ -306,6 +258,38 @@
           "published": "2026-09-03T02:59:17+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
+          "link": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-29T12:03:19+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
+          "summary": "",
+          "published": "2026-09-23T04:24:33+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
+          "summary": "",
+          "published": "2026-09-23T04:17:10+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -518,38 +502,6 @@
       ]
     },
     {
-      "ticker": "MCD",
-      "name": "McDonald's",
-      "exchange": "NYSE",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: McDonald's, Cracker Barrel, Alibaba, Worthington & more",
-          "link": "https://www.cnbc.com/2026/09/23/stocks-making-the-biggest-moves-midday-mcd-cbrl-baba-wor-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-09-23T17:15:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BABA",
-      "name": "Alibaba",
-      "exchange": "NYSE",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: McDonald's, Cracker Barrel, Alibaba, Worthington & more",
-          "link": "https://www.cnbc.com/2026/09/23/stocks-making-the-biggest-moves-midday-mcd-cbrl-baba-wor-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-09-23T17:15:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "PLTR",
       "name": "Palantir",
       "exchange": "NASDAQ",
@@ -744,73 +696,82 @@
   ],
   "sin_accion": [
     {
-      "title": "This chart shows that buying and holding stocks beats ‘sell in May and go away’ and other gimmicks",
-      "link": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
-      "summary": "Followers of ‘sell in May and go away’ have lost out on a stock rally",
-      "published": "2026-09-30T18:20:00+00:00",
+      "title": "Transurban comprará participaciones en autopistas de peaje de Sídney por 4.500 millones de dólares australianos",
+      "link": "https://es.investing.com/news/stock-market-news/transurban-comprara-participaciones-en-autopistas-de-peaje-de-sidney-por-4500-millones-de-dolares-australianos-3856336",
+      "summary": "",
+      "published": "2026-10-01T00:25:38+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "published": "2026-10-01T00:20:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "summary": "“We have an ironclad prenup.”",
-      "published": "2026-09-30T18:15:00+00:00",
+      "title": "Paramount y Warner Bros. Discovery esperan cerrar su fusión el 6 de octubre",
+      "link": "https://es.investing.com/news/stock-market-news/paramount-y-warner-bros-discovery-esperan-cerrar-su-fusion-el-6-de-octubre-3856334",
+      "summary": "",
+      "published": "2026-10-01T00:19:14+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+      "published": "2026-10-01T00:11:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
-      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
-      "summary": "Medicare beneficiaries can change their coverage during open enrollment, which begins Oct. 15.",
-      "published": "2026-09-30T18:03:00+00:00",
-      "source_short": "MarketW",
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+      "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "summary": "Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
+      "published": "2026-09-30T23:44:28+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de Liquidia se desploman tras fallo judicial a favor de United Therapeutics",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-liquidia-se-desploman-tras-fallo-judicial-a-favor-de-united-therapeutics-3856096",
+      "title": "“El contrabando es un cáncer”: responde secretario de Hacienda a acusación de oposición sobre huachicol fiscal",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-contrabando-es-un-cancer-responde-secretario-de-hacienda-a-acusacion-de-oposicion-sobre-huachicol-fiscal/",
+      "summary": "El secretario Édgar Amador dijo que para 2027 se propone una reforma al Impuesto Especial sobre Producción y Servicios sobre trazabilidad en el mercado de hidrocarburos.",
+      "published": "2026-09-30T22:19:38+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Directores ejecutivos de tecnología cuestionan al líder de Anthropic sobre IA",
+      "link": "https://es.investing.com/news/stock-market-news/directores-ejecutivos-de-tecnologia-cuestionan-al-lider-de-anthropic-sobre-ia-3856305",
       "summary": "",
-      "published": "2026-09-30T17:53:27+00:00",
+      "published": "2026-09-30T22:03:21+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Bélgica amplía las negociaciones con Engie sobre activos nucleares hasta el 4 de noviembre",
-      "link": "https://es.investing.com/news/stock-market-news/belgica-amplia-las-negociaciones-con-engie-sobre-activos-nucleares-hasta-el-4-de-noviembre-93CH-3856094",
+      "title": "Moody’s rebaja Skillsoft a Caa2 por su elevada deuda",
+      "link": "https://es.investing.com/news/stock-market-news/moodys-rebaja-skillsoft-a-caa2-por-su-elevada-deuda-3856286",
       "summary": "",
-      "published": "2026-09-30T17:48:10+00:00",
+      "published": "2026-09-30T21:27:55+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "SpaceXAI estudia un modelo de precios de cuatro niveles para Grok y X",
-      "link": "https://es.investing.com/news/stock-market-news/spacexai-estudia-un-modelo-de-precios-de-cuatro-niveles-para-grok-y-x-3856092",
-      "summary": "",
-      "published": "2026-09-30T17:45:16+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Accelevation caen un 2,5% en su debut a 17,55 dólares",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-accelevation-caen-un-25-en-su-debut-a-1755-dolares-3856084",
-      "summary": "",
-      "published": "2026-09-30T17:38:26+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "These bond strategies can help you get a safe 5% return on your cash",
-      "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
-      "summary": "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
-      "published": "2026-09-30T17:38:00+00:00",
+      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
+      "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
+      "summary": "The S&P 500 has gained slightly in September, but three-quarters of its components have declined.",
+      "published": "2026-09-30T21:22:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -819,34 +780,52 @@
       "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
       "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
       "summary": "President Donald Trump is spending time this week talking up big job-creating projects in battleground states.",
-      "published": "2026-09-30T17:37:00+00:00",
+      "published": "2026-09-30T21:16:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-      "published": "2026-09-30T17:31:00+00:00",
-      "source_short": "MarketW",
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+      "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+      "published": "2026-09-30T21:09:42+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "La SEC propone ampliar el acceso a inversiones privadas",
-      "link": "https://es.investing.com/news/stock-market-news/la-sec-propone-ampliar-el-acceso-a-inversiones-privadas-93CH-3856066",
+      "title": "Las acciones de Logistic Properties of Americas suben tras venta de activo en Perú",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-logistic-properties-of-americas-suben-tras-venta-de-activo-en-peru-3856265",
       "summary": "",
-      "published": "2026-09-30T17:16:08+00:00",
+      "published": "2026-09-30T21:02:49+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "S&P y Moody’s rebajen la calificación de Hormel Foods tras el acuerdo de 1.055 millones de dólares con Brakebush",
-      "link": "https://es.investing.com/news/stock-market-news/sp-y-moodys-rebajen-la-calificacion-de-hormel-foods-tras-el-acuerdo-de-1055-millones-de-dolares-con-brakebush-3856061",
+      "title": "How the ‘AI put’ has become the only thing that matters for stocks",
+      "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+      "summary": "While investors worry a spike in global bond yields will trigger a selloff in U.S. equities, strategists at BofA Global Research say the real threat lies elsewhere.",
+      "published": "2026-09-30T20:59:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A brutal September for bonds points to an even darker October",
+      "link": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
+      "summary": "September has been a brutal month for the bond market. If history is any guide, October might be even worse.",
+      "published": "2026-09-30T20:56:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "La valoración de Kalshi podría alcanzar los 40.000 millones en su ronda previa a la OPV",
+      "link": "https://es.investing.com/news/stock-market-news/la-valoracion-de-kalshi-podria-alcanzar-los-40000-millones-en-su-ronda-previa-a-la-opv-3856256",
       "summary": "",
-      "published": "2026-09-30T17:05:40+00:00",
+      "published": "2026-09-30T20:54:25+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -855,16 +834,7 @@
       "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
       "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
       "summary": "These are the stocks posting the largest moves midday.",
-      "published": "2026-09-30T17:04:42+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
-      "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-      "published": "2026-09-30T14:31:26+00:00",
+      "published": "2026-09-30T19:20:18+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -903,15 +873,6 @@
       "published": "2026-09-29T22:58:02+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
-      "link": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
-      "summary": "The higher-than-consensus expectations are a bet that the U.S. had another strong month of job growth.",
-      "published": "2026-09-29T20:33:08+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1059,15 +1020,6 @@
       "tickers": []
     },
     {
-      "title": "México será el país más afectado ante la posible prohibición de exportaciones de diésel en EE.UU.",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-sera-el-pais-mas-afectado-ante-la-posible-prohibicion-de-exportaciones-de-diesel-en-eeuu/",
-      "summary": "Las importaciones mexicanas posicionan al país como el principal mercado de diésel estadounidense por encima de Chile, Brasil, Países Bajos y Reino Unido.",
-      "published": "2026-09-23T13:20:34+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
       "title": "Pressure from the bond market hits a new level, and US stocks slide on worries about inflation",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-060041660.html",
       "summary": "",
@@ -1106,7 +1058,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 27,
+    "acciones_con_noticias": 25,
     "sin_accion": 40
   }
 }
