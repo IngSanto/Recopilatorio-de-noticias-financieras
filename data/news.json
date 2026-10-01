@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:40:15.483405+00:00",
+  "generated_at": "2026-10-01T11:07:55.708614+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10303.2,
+      "ventana_horas": 10310.8,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 3.7,
+      "ventana_horas": 0.4,
       "ok": true
     },
     {
@@ -64,22 +64,62 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 5.0,
+      "ventana_horas": 10.1,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "Google shows it’s not out of the AI race just yet",
-          "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
-          "summary": "The company’s Gemini 4 Argon announcement shows Google is back with the pack when it comes to cutting-edge AI models.",
-          "published": "2026-09-30T22:51:00+00:00",
+          "title": "¿Por qué sube hoy la acción de Oracle?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-oracle-93CH-3856965",
+          "summary": "",
+          "published": "2026-10-01T10:31:08+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
+          "link": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
+          "summary": "Tencent signed a five-year deal which allows it to access artificial-intelligence chips not previously available in the country, according to the Financial Times.",
+          "published": "2026-10-01T10:10:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "WFC",
+      "name": "Wells Fargo",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Wells Fargo nombra 13 acciones sobreponderadas para el cuarto trimestre",
+          "link": "https://es.investing.com/news/stock-market-news/wells-fargo-nombra-13-acciones-sobreponderadas-para-el-cuarto-trimestre-93CH-3856968",
+          "summary": "",
+          "published": "2026-10-01T10:31:46+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "0700",
+      "name": "Tencent",
+      "exchange": "HKEX",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
+          "link": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
+          "summary": "Tencent signed a five-year deal which allows it to access artificial-intelligence chips not previously available in the country, according to the Financial Times.",
+          "published": "2026-10-01T10:10:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         }
@@ -174,38 +214,6 @@
       ]
     },
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Goldman Sachs CEO succession planning faces one big problem",
-          "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-          "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
-          "published": "2026-09-29T20:50:10+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
-          "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
-          "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
-          "published": "2026-09-29T12:00:33+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
-          "published": "2026-09-19T12:50:49+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "BA",
       "name": "Boeing",
       "exchange": "NYSE",
@@ -258,6 +266,38 @@
           "published": "2026-09-03T02:59:17+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Goldman Sachs CEO succession planning faces one big problem",
+          "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
+          "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
+          "published": "2026-09-29T20:50:10+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+          "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+          "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
+          "published": "2026-09-29T12:00:33+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+          "published": "2026-09-19T12:50:49+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -376,14 +416,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/exclusiva-cfe-busca-emitir-nueva-fibra-e-con-portafolio-de-centrales-electricas/",
           "summary": "En entrevista exclusiva con Bloomberg Línea, el director de finanzas de CFE detalló que la compañía busca financiamiento de inversiones a través de una nueva Fibra.",
           "published": "2026-08-05T16:53:14+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum publica decreto para ampliar transparencia del Gobierno, filiales de Pemex y CFE",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-publica-decreto-para-ampliar-transparencia-del-gobierno-filiales-de-pemex-y-cfe/",
-          "summary": "La disposiciones establecidas en el decreto publicado la tarde de este martes se incorporarán en una próxima reforma a la Ley General de Transparencia.",
-          "published": "2026-08-05T03:39:02+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -696,39 +728,129 @@
   ],
   "sin_accion": [
     {
-      "title": "Transurban comprará participaciones en autopistas de peaje de Sídney por 4.500 millones de dólares australianos",
-      "link": "https://es.investing.com/news/stock-market-news/transurban-comprara-participaciones-en-autopistas-de-peaje-de-sidney-por-4500-millones-de-dolares-australianos-3856336",
+      "title": "Encuesta de BTIG: usuarios de GLP-1 reducen 500 calorías diarias",
+      "link": "https://es.investing.com/news/stock-market-news/encuesta-de-btig-usuarios-de-glp1-reducen-500-calorias-diarias-93CH-3857057",
       "summary": "",
-      "published": "2026-10-01T00:25:38+00:00",
+      "published": "2026-10-01T10:52:41+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-      "published": "2026-10-01T00:20:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Paramount y Warner Bros. Discovery esperan cerrar su fusión el 6 de octubre",
-      "link": "https://es.investing.com/news/stock-market-news/paramount-y-warner-bros-discovery-esperan-cerrar-su-fusion-el-6-de-octubre-3856334",
+      "title": "BofA se muestra alcista en Dassault ante posibles pedidos del Rafale",
+      "link": "https://es.investing.com/news/stock-market-news/bofa-se-muestra-alcista-en-dassault-ante-posibles-pedidos-del-rafale-3857044",
       "summary": "",
-      "published": "2026-10-01T00:19:14+00:00",
+      "published": "2026-10-01T10:50:10+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
-      "published": "2026-10-01T00:11:00+00:00",
+      "title": "¿Por qué cae hoy la acción de Q32 Bio?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-q32-bio-93CH-3857001",
+      "summary": "",
+      "published": "2026-10-01T10:45:19+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los fabricantes de autos de EE.UU. perderán cuota ante rivales asiáticos por alza de combustible",
+      "link": "https://es.investing.com/news/stock-market-news/los-fabricantes-de-autos-de-eeuu-perderan-cuota-ante-rivales-asiaticos-por-alza-de-combustible-3857012",
+      "summary": "",
+      "published": "2026-10-01T10:45:14+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Nu Holdings?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-nu-holdings-93CH-3856989",
+      "summary": "",
+      "published": "2026-10-01T10:39:01+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de Rocket Lab se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-rocket-lab-se-disparan-hoy-93CH-3856977",
+      "summary": "",
+      "published": "2026-10-01T10:35:06+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "summary": "“We have an ironclad prenup.”",
+      "published": "2026-10-01T10:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "France’s bond market is stumbling. Should Americans care?",
+      "link": "https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories",
+      "summary": "As French bond yields rise, is it a threat to the U.S.?",
+      "published": "2026-10-01T09:39:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Retail investors are aggressively piling into this bold contrarian bet through one ETF.",
+      "link": "https://www.marketwatch.com/story/retail-investors-are-aggressively-piling-into-this-bold-contrarian-bet-through-one-etf-da26f208?mod=mw_rss_topstories",
+      "summary": "After a harrowing third quarter for Treasurys and as the stock market stalls , bond yields at multi-decade highs are attracting retail investors into fixed-income ETFs..",
+      "published": "2026-10-01T09:23:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+      "published": "2026-10-01T09:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Angelina Jolie sells L.A. mansion with illustrious Hollywood history for $24.75 million",
+      "link": "https://www.marketwatch.com/story/angelina-jolie-sells-l-a-mansion-with-illustrious-hollywood-history-for-24-75-million-d0e38495?mod=mw_rss_topstories",
+      "summary": "Angelina Jolie has sold her enormous Los Angeles estate for $24.75 million—months after putting the opulent property on the market and confessing she wants to leave the U.S. for good.",
+      "published": "2026-10-01T09:04:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "AMLO reaparece por sexta ocasión con crítica a Estados Unidos por consumo de drogas",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/amlo-reaparece-por-sexta-ocasion-con-critica-a-estados-unidos-por-consumo-de-drogas/",
+      "summary": "El expresidente mexicano, quien prometió retirarse de la vida pública al finalizar su mandato, difundió un video en redes sociales para hablar sobre su nuevo libro “Pueblo”.",
+      "published": "2026-10-01T05:59:25+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
+      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "summary": "At today’s prices and rates, even the average used vehicle can exceed some commonly used affordability measures.",
+      "published": "2026-10-01T02:35:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Trump todavía considera prohibir las exportaciones de diésel",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/trump-todavia-considera-prohibir-las-exportaciones-de-diesel/",
+      "summary": "El mandatario y su equipo creen que la restricción ayudará al precio del diésel pero tendría un impacto negativo en la gasolina.",
+      "published": "2026-10-01T01:42:28+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -750,83 +872,11 @@
       "tickers": []
     },
     {
-      "title": "Directores ejecutivos de tecnología cuestionan al líder de Anthropic sobre IA",
-      "link": "https://es.investing.com/news/stock-market-news/directores-ejecutivos-de-tecnologia-cuestionan-al-lider-de-anthropic-sobre-ia-3856305",
-      "summary": "",
-      "published": "2026-09-30T22:03:21+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Moody’s rebaja Skillsoft a Caa2 por su elevada deuda",
-      "link": "https://es.investing.com/news/stock-market-news/moodys-rebaja-skillsoft-a-caa2-por-su-elevada-deuda-3856286",
-      "summary": "",
-      "published": "2026-09-30T21:27:55+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
-      "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
-      "summary": "The S&P 500 has gained slightly in September, but three-quarters of its components have declined.",
-      "published": "2026-09-30T21:22:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
-      "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
-      "summary": "President Donald Trump is spending time this week talking up big job-creating projects in battleground states.",
-      "published": "2026-09-30T21:16:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
       "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
       "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
       "published": "2026-09-30T21:09:42+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Logistic Properties of Americas suben tras venta de activo en Perú",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-logistic-properties-of-americas-suben-tras-venta-de-activo-en-peru-3856265",
-      "summary": "",
-      "published": "2026-09-30T21:02:49+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "How the ‘AI put’ has become the only thing that matters for stocks",
-      "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
-      "summary": "While investors worry a spike in global bond yields will trigger a selloff in U.S. equities, strategists at BofA Global Research say the real threat lies elsewhere.",
-      "published": "2026-09-30T20:59:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A brutal September for bonds points to an even darker October",
-      "link": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
-      "summary": "September has been a brutal month for the bond market. If history is any guide, October might be even worse.",
-      "published": "2026-09-30T20:56:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "La valoración de Kalshi podría alcanzar los 40.000 millones en su ronda previa a la OPV",
-      "link": "https://es.investing.com/news/stock-market-news/la-valoracion-de-kalshi-podria-alcanzar-los-40000-millones-en-su-ronda-previa-a-la-opv-3856256",
-      "summary": "",
-      "published": "2026-09-30T20:54:25+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1002,24 +1052,6 @@
       "tickers": []
     },
     {
-      "title": "México y EE.UU. acuerdan postergar cuarta ronda de negociación del T-MEC",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-y-eeuu-acuerdan-postergar-cuarta-ronda-de-negociacion-del-t-mec/",
-      "summary": "El subsecretario de Comercio Exterior de México, Luis Rosendo Gutiérrez, dijo que es probable que la nueva ronda de negociaciones bilaterales ocurra hacia octubre.",
-      "published": "2026-09-24T03:17:54+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Peso mexicano se deprecia al nivel más bajo desde julio en víspera de decisión de Banxico",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-se-deprecia-al-nivel-mas-bajo-desde-julio-en-vispera-de-decision-de-banxico/",
-      "summary": "La moneda mexicana lidera las pérdidas en una canasta de las 16 mayores divisas seguidas por Bloomberg.",
-      "published": "2026-09-24T00:34:25+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
       "title": "Pressure from the bond market hits a new level, and US stocks slide on worries about inflation",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-060041660.html",
       "summary": "",
@@ -1058,7 +1090,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 25,
+    "acciones_con_noticias": 27,
     "sin_accion": 40
   }
 }
