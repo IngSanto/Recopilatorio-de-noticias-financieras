@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T11:07:55.708614+00:00",
+  "generated_at": "2026-10-01T18:59:06.471014+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10310.8,
+      "ventana_horas": 10316.7,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.4,
+      "ventana_horas": 1.1,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 162.8,
+      "ventana_horas": 174.9,
       "ok": true
     },
     {
@@ -64,63 +64,87 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 10.1,
+      "ventana_horas": 3.6,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "¿Por qué sube hoy la acción de Oracle?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-oracle-93CH-3856965",
-          "summary": "",
-          "published": "2026-10-01T10:31:08+00:00",
-          "source_short": "Investing",
+          "title": "Mark Zuckerberg is coming for Apple’s empire",
+          "link": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
+          "summary": "Apple has a grip on consumer technology through its iPhone business, but Meta is betting that the AI era warrants different types of hardware.",
+          "published": "2026-10-01T16:47:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
-          "link": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
-          "summary": "Tencent signed a five-year deal which allows it to access artificial-intelligence chips not previously available in the country, according to the Financial Times.",
-          "published": "2026-10-01T10:10:00+00:00",
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-01T15:14:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+          "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
+          "summary": "",
+          "published": "2026-09-23T04:33:16+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Tesla’s delivery report is just around the corner. Expect a sales drop.",
+          "link": "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b?mod=mw_rss_topstories",
+          "summary": "Investors have become less interested in Tesla’s EV business lately, but Friday’s report still has the potential to be market-moving.",
+          "published": "2026-10-01T15:43:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "WFC",
-      "name": "Wells Fargo",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Wells Fargo nombra 13 acciones sobreponderadas para el cuarto trimestre",
-          "link": "https://es.investing.com/news/stock-market-news/wells-fargo-nombra-13-acciones-sobreponderadas-para-el-cuarto-trimestre-93CH-3856968",
-          "summary": "",
-          "published": "2026-10-01T10:31:46+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "0700",
-      "name": "Tencent",
-      "exchange": "HKEX",
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
-          "link": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
-          "summary": "Tencent signed a five-year deal which allows it to access artificial-intelligence chips not previously available in the country, according to the Financial Times.",
-          "published": "2026-10-01T10:10:00+00:00",
-          "source_short": "MarketW",
+          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-01T15:14:36+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -410,14 +434,6 @@
           "published": "2026-08-11T21:14:36+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        },
-        {
-          "title": "Exclusiva: CFE busca emitir nueva Fibra E con portafolio de centrales eléctricas",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/exclusiva-cfe-busca-emitir-nueva-fibra-e-con-portafolio-de-centrales-electricas/",
-          "summary": "En entrevista exclusiva con Bloomberg Línea, el director de finanzas de CFE detalló que la compañía busca financiamiento de inversiones a través de una nueva Fibra.",
-          "published": "2026-08-05T16:53:14+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
         }
       ]
     },
@@ -582,22 +598,6 @@
       ]
     },
     {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-          "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
-          "summary": "",
-          "published": "2026-09-23T04:33:16+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "BAC",
       "name": "Bank of America",
       "exchange": "NYSE",
@@ -640,22 +640,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/primark-llega-a-mexico-la-alianza-con-liverpool-que-traera-al-gigante-de-la-moda-al-pais/",
           "summary": "La cadena de fast fashion irlandesa fundada en 1969 opera más de 500 tiendas en 19 mercados globales.",
           "published": "2026-09-10T16:11:19+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -728,82 +712,100 @@
   ],
   "sin_accion": [
     {
-      "title": "Encuesta de BTIG: usuarios de GLP-1 reducen 500 calorías diarias",
-      "link": "https://es.investing.com/news/stock-market-news/encuesta-de-btig-usuarios-de-glp1-reducen-500-calorias-diarias-93CH-3857057",
-      "summary": "",
-      "published": "2026-10-01T10:52:41+00:00",
-      "source_short": "Investing",
+      "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
+      "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
+      "summary": "These are some of the stocks posting the largest moves midday.",
+      "published": "2026-10-01T18:50:03+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "BofA se muestra alcista en Dassault ante posibles pedidos del Rafale",
-      "link": "https://es.investing.com/news/stock-market-news/bofa-se-muestra-alcista-en-dassault-ante-posibles-pedidos-del-rafale-3857044",
-      "summary": "",
-      "published": "2026-10-01T10:50:10+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Q32 Bio?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-q32-bio-93CH-3857001",
-      "summary": "",
-      "published": "2026-10-01T10:45:19+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Los fabricantes de autos de EE.UU. perderán cuota ante rivales asiáticos por alza de combustible",
-      "link": "https://es.investing.com/news/stock-market-news/los-fabricantes-de-autos-de-eeuu-perderan-cuota-ante-rivales-asiaticos-por-alza-de-combustible-3857012",
-      "summary": "",
-      "published": "2026-10-01T10:45:14+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Nu Holdings?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-nu-holdings-93CH-3856989",
-      "summary": "",
-      "published": "2026-10-01T10:39:01+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de Rocket Lab se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-rocket-lab-se-disparan-hoy-93CH-3856977",
-      "summary": "",
-      "published": "2026-10-01T10:35:06+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "summary": "“We have an ironclad prenup.”",
-      "published": "2026-10-01T10:15:00+00:00",
+      "title": "Financial stocks are falling below a key chart level to warn the worst is yet to come",
+      "link": "https://www.marketwatch.com/story/financial-stocks-are-falling-below-a-key-chart-level-to-warn-the-worst-is-yet-to-come-86e43092?mod=mw_rss_topstories",
+      "summary": "Financial stocks have struggled over the past several weeks, and it’s becoming clear the decline may not be over.",
+      "published": "2026-10-01T18:38:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "France’s bond market is stumbling. Should Americans care?",
-      "link": "https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories",
-      "summary": "As French bond yields rise, is it a threat to the U.S.?",
-      "published": "2026-10-01T09:39:00+00:00",
+      "title": "BofA Securities señala sus principales valores mineros ante la mejora del cobre",
+      "link": "https://es.investing.com/news/stock-market-news/bofa-securities-senala-sus-principales-valores-mineros-ante-la-mejora-del-cobre-3857921",
+      "summary": "",
+      "published": "2026-10-01T18:34:37+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Mattel suben por el interés de Authentic Brands en una adquisición",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-mattel-suben-por-el-interes-de-authentic-brands-en-una-adquisicion-3857918",
+      "summary": "",
+      "published": "2026-10-01T18:29:12+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Raymond James detecta una caída generalizada en acciones minoristas en el 3T26",
+      "link": "https://es.investing.com/news/stock-market-news/raymond-james-detecta-una-caida-generalizada-en-acciones-minoristas-en-el-3t26-93CH-3857915",
+      "summary": "",
+      "published": "2026-10-01T18:26:55+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Maple Leaf Foods?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-maple-leaf-foods-93CH-3857902",
+      "summary": "",
+      "published": "2026-10-01T18:12:13+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
+      "link": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
+      "summary": "Widening credit spreads send an important signal that investors should heed about which stocks to buy and which to avoid",
+      "published": "2026-10-01T18:10:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Retail investors are aggressively piling into this bold contrarian bet through one ETF.",
-      "link": "https://www.marketwatch.com/story/retail-investors-are-aggressively-piling-into-this-bold-contrarian-bet-through-one-etf-da26f208?mod=mw_rss_topstories",
-      "summary": "After a harrowing third quarter for Treasurys and as the stock market stalls , bond yields at multi-decade highs are attracting retail investors into fixed-income ETFs..",
-      "published": "2026-10-01T09:23:00+00:00",
+      "title": "¿Por qué las acciones de Enerflex se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-enerflex-se-disparan-hoy-93CH-3857899",
+      "summary": "",
+      "published": "2026-10-01T18:07:41+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Canadian Natural Resources?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-canadian-natural-resources-93CH-3857897",
+      "summary": "",
+      "published": "2026-10-01T18:07:13+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Trump’s SEC wants to allow fund managers to charge extra fees for better performance. Here’s why it’s a terrible idea.",
+      "link": "https://www.marketwatch.com/story/trumps-sec-wants-to-allow-fund-managers-to-charge-extra-fees-for-better-performance-heres-why-its-a-terrible-idea-61f6e0cc?mod=mw_rss_topstories",
+      "summary": "Think twice before embracing any new fund with high performance-related fees in your 401(k).",
+      "published": "2026-10-01T17:16:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here’s how it worked out.",
+      "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
+      "summary": "Adjustable-rate mortgages have made a comeback as mortgage rates surge and buyers seek relief from high housing costs.",
+      "published": "2026-10-01T16:51:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -812,18 +814,36 @@
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-      "published": "2026-10-01T09:15:00+00:00",
+      "published": "2026-10-01T16:16:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Angelina Jolie sells L.A. mansion with illustrious Hollywood history for $24.75 million",
-      "link": "https://www.marketwatch.com/story/angelina-jolie-sells-l-a-mansion-with-illustrious-hollywood-history-for-24-75-million-d0e38495?mod=mw_rss_topstories",
-      "summary": "Angelina Jolie has sold her enormous Los Angeles estate for $24.75 million—months after putting the opulent property on the market and confessing she wants to leave the U.S. for good.",
-      "published": "2026-10-01T09:04:00+00:00",
+      "title": "30-year mortgage rate posts biggest jump in four years — to nearly 7.3%",
+      "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-posts-biggest-jump-in-four-years-e288f596?mod=mw_rss_topstories",
+      "summary": "Mortgage rates surged to roughly a three-year high, a fresh setback for an already depressed housing market.",
+      "published": "2026-10-01T16:06:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+      "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+      "published": "2026-10-01T14:24:36+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Hacienda ve “manejable” nivel de deuda de México y tipo de cambio en línea con Paquete Económico 2027",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hacienda-ve-manejable-nivel-de-deuda-de-mexico-y-tipo-de-cambio-en-linea-con-paquete-economico-2027/",
+      "summary": "El secretario de Hacienda, Édgar Amador, aseguró que la consolidación fiscal que se propone es “responsable” y pidió no “menospreciar” los datos de crecimiento económico.",
+      "published": "2026-10-01T11:50:30+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -833,15 +853,6 @@
       "published": "2026-10-01T05:59:25+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
-      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
-      "summary": "At today’s prices and rates, even the average used vehicle can exceed some commonly used affordability measures.",
-      "published": "2026-10-01T02:35:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -872,15 +883,6 @@
       "tickers": []
     },
     {
-      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-      "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-      "published": "2026-09-30T21:09:42+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
       "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
       "summary": "These are the stocks posting the largest moves midday.",
@@ -903,15 +905,6 @@
       "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
       "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
       "published": "2026-09-30T03:39:08+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
-      "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
-      "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
-      "published": "2026-09-30T02:50:35+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1043,15 +1036,6 @@
       "tickers": []
     },
     {
-      "title": "Huracán Polo regresa a categoría 5 mientras avanza por las costas del Pacífico de México",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/huracan-polo-regresa-a-categoria-5-mientras-avanza-por-las-costas-del-pacifico-de-mexico/",
-      "summary": "La actualización en la categoría del huracán ocurrió a las 18:40 horas, tiempo del centro de México.",
-      "published": "2026-09-24T03:22:47+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
       "title": "Pressure from the bond market hits a new level, and US stocks slide on worries about inflation",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-060041660.html",
       "summary": "",
@@ -1090,7 +1074,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 27,
+    "acciones_con_noticias": 26,
     "sin_accion": 40
   }
 }
