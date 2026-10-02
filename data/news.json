@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T10:41:36.224954+00:00",
+  "generated_at": "2026-10-02T18:38:33.096715+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10316.7,
+      "ventana_horas": 10339.9,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.3,
+      "ventana_horas": 1.5,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 479.3,
+      "ventana_horas": 506.0,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 176.6,
+      "ventana_horas": 167.4,
       "ok": true
     },
     {
@@ -64,111 +64,87 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 10.2,
+      "ventana_horas": 2.8,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "NVDA",
-      "name": "Nvidia",
+      "ticker": "NKE",
+      "name": "Nike",
+      "exchange": "NYSE",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-10-02T17:52:39+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Nike, ON Semiconductor, Synaptics, Vylor & more",
+          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-premarket-nike-on-semiconductor-synaptics-vylor-more.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-02T12:03:43+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
+          "summary": "",
+          "published": "2026-09-23T04:07:47+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "SBUX",
+      "name": "Starbucks",
+      "exchange": "NASDAQ",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "Starbucks pierde su recurso para desestimar demanda sindical por marcas",
+          "link": "https://es.investing.com/news/stock-market-news/starbucks-pierde-su-recurso-para-desestimar-demanda-sindical-por-marcas-93CH-3859548",
+          "summary": "",
+          "published": "2026-10-02T18:20:24+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-10-02T17:52:39+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet",
-          "link": "https://www.marketwatch.com/story/amazon-is-hiking-chip-rental-prices-and-reportedly-moving-nvidia-processors-off-the-balance-sheet-b205a0b0?mod=mw_rss_topstories",
-          "summary": "In a sign of the financing crunch facing the hyperscalers financing the AI revolution, Amazon has announced it is raising prices on how much it charges to rent high-performance microchips as it reportedly is going to sell and then lease back Nvidia chips.",
-          "published": "2026-10-02T09:07:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
-          "link": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-28T11:29:38+00:00",
+          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-10-02T17:52:39+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
-          "summary": "",
-          "published": "2026-09-23T04:24:33+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia doubles down on selling to both sides of the AI race",
-          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-doubles-down-selling-both-020300627.html",
-          "summary": "",
-          "published": "2026-09-23T02:03:00+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Las acciones de Meitu caen tras la rebaja de Goldman Sachs",
-          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-meitu-caen-tras-la-rebaja-de-goldman-sachs-93CH-3858748",
-          "summary": "",
-          "published": "2026-10-02T10:02:32+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Goldman Sachs CEO succession planning faces one big problem",
-          "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-          "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
-          "published": "2026-09-29T20:50:10+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
-          "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
-          "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
-          "published": "2026-09-29T12:00:33+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
-          "published": "2026-09-19T12:50:49+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet",
-          "link": "https://www.marketwatch.com/story/amazon-is-hiking-chip-rental-prices-and-reportedly-moving-nvidia-processors-off-the-balance-sheet-b205a0b0?mod=mw_rss_topstories",
-          "summary": "In a sign of the financing crunch facing the hyperscalers financing the AI revolution, Amazon has announced it is raising prices on how much it charges to rent high-performance microchips as it reportedly is going to sell and then lease back Nvidia chips.",
-          "published": "2026-10-02T09:07:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -302,6 +278,38 @@
       ]
     },
     {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Goldman Sachs CEO succession planning faces one big problem",
+          "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
+          "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
+          "published": "2026-09-29T20:50:10+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+          "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+          "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
+          "published": "2026-09-29T12:00:33+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+          "published": "2026-09-19T12:50:49+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "AMD",
       "name": "AMD",
       "exchange": "NASDAQ",
@@ -344,22 +352,6 @@
           "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-09-30T11:38:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
-          "link": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-28T11:29:38+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -430,26 +422,42 @@
       ]
     },
     {
-      "ticker": "NKE",
-      "name": "Nike",
-      "exchange": "NYSE",
-      "sector": "Consumo",
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
-          "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
+          "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
+          "link": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
           "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-25T11:40:42+00:00",
+          "published": "2026-09-28T11:29:38+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
-          "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
+          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
           "summary": "",
-          "published": "2026-09-23T04:07:47+00:00",
+          "published": "2026-09-23T04:24:33+00:00",
           "source_short": "Yahoo",
           "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia doubles down on selling to both sides of the AI race",
+          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-doubles-down-selling-both-020300627.html",
+          "summary": "",
+          "published": "2026-09-23T02:03:00+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -522,6 +530,22 @@
           "published": "2025-07-28T15:10:03+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
+          "link": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-28T11:29:38+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -720,64 +744,91 @@
   ],
   "sin_accion": [
     {
-      "title": "Here’s the bond-market alternative as U.S. and other developed markets debt deteriorate",
-      "link": "https://www.marketwatch.com/story/heres-the-bond-market-alternative-as-u-s-and-other-developed-markets-debt-deteriorate-e3d57b02?mod=mw_rss_topstories",
-      "summary": "Christopher Wood, of Jefferies, said Group of Seven bonds have entered a ‘structural bear market’ since March 2020.",
-      "published": "2026-10-02T10:25:00+00:00",
+      "title": "¿Por qué las acciones de NetApp alcanzan máximos históricos hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-netapp-alcanzan-maximos-historicos-hoy-93CH-3859544",
+      "summary": "",
+      "published": "2026-10-02T18:08:11+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Teradyne?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-teradyne-93CH-3859541",
+      "summary": "",
+      "published": "2026-10-02T18:04:19+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de la semana de Investing.com",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-la-semana-de-investingcom-3859543",
+      "summary": "",
+      "published": "2026-10-02T18:04:16+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Italia pide aclaraciones sobre los rumores de salida de Lagarde del BCE",
+      "link": "https://es.investing.com/news/stock-market-news/italia-pide-aclaraciones-sobre-los-rumores-de-salida-de-lagarde-del-bce-93CH-3859538",
+      "summary": "",
+      "published": "2026-10-02T17:49:54+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "How much higher can bond yields rise — and what does it mean for stocks?",
+      "link": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
+      "summary": "Also in Weekend Reads: Adjustable-rate mortgage loans, Gen Z entrepreneurs and advice from the Moneyist.",
+      "published": "2026-10-02T17:48:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Brazil is holding an election — and for the stock market, there’s more to gain than to lose, says fund manager",
-      "link": "https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories",
-      "summary": "Were Flavio Bolsonaro to outperform current polling Sunday, an emerging-market fund manager see the opportunity for a sharp rally in stocks",
-      "published": "2026-10-02T10:22:00+00:00",
+      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+      "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+      "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by more than 4%.",
+      "published": "2026-10-02T17:48:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "WarrenAI detecta 10 valores con caídas del 30%-65% y potencial hasta el 77%",
-      "link": "https://es.investing.com/news/stock-market-news/warrenai-detecta-10-valores-con-caidas-del-3065-y-potencial-hasta-el-77-3858790",
+      "title": "Men are losing ground in the labor market. Here's why",
+      "link": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
+      "summary": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
+      "published": "2026-10-02T17:38:59+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
+      "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+      "summary": "A weak U.S. labor report did what bad news hadn’t done in a while: It made U.S. debt look like a safe haven again — albeit briefly.",
+      "published": "2026-10-02T17:38:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Toromont Industries?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-toromont-industries-93CH-3859531",
       "summary": "",
-      "published": "2026-10-02T10:17:42+00:00",
+      "published": "2026-10-02T17:34:27+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de KION caen tras advertencia de beneficios en el tercer trimestre",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-kion-caen-tras-advertencia-de-beneficios-en-el-tercer-trimestre-93CH-3858788",
+      "title": "¿Por qué sube hoy la acción de Lundin Mining?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-lundin-mining-93CH-3859530",
       "summary": "",
-      "published": "2026-10-02T10:17:40+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Legrand?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-legrand-93CH-3858782",
-      "summary": "",
-      "published": "2026-10-02T10:15:52+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El flujo de petróleo por Ormuz repunta, pero los costes del diésel mantienen los precios elevados",
-      "link": "https://es.investing.com/news/stock-market-news/el-flujo-de-petroleo-por-ormuz-repunta-pero-los-costes-del-diesel-mantienen-los-precios-elevados-93CH-3858780",
-      "summary": "",
-      "published": "2026-10-02T10:15:26+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El regulador de Corea del Sur se reúne con bancos tras filtraciones de datos",
-      "link": "https://es.investing.com/news/stock-market-news/el-regulador-de-corea-del-sur-se-reune-con-bancos-tras-filtraciones-de-datos-93CH-3858779",
-      "summary": "",
-      "published": "2026-10-02T10:15:18+00:00",
+      "published": "2026-10-02T17:34:12+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -786,17 +837,44 @@
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-      "published": "2026-10-02T10:15:00+00:00",
+      "published": "2026-10-02T17:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Glencore eleva sus previsiones de beneficio en trading para 2026",
-      "link": "https://es.investing.com/news/stock-market-news/glencore-eleva-sus-previsiones-de-beneficio-en-trading-para-2026-93CH-3858774",
-      "summary": "",
-      "published": "2026-10-02T10:11:46+00:00",
-      "source_short": "Investing",
+      "title": "The U.S. can’t find enough of this critical machine component to win the humanoid-robots race",
+      "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
+      "summary": "Humanoid robots have the potential to revolutionize life as we know it — but the U.S. does not have a supply chain that can produce key parts.",
+      "published": "2026-10-02T17:29:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "This couple took out an adjustable-rate mortgage at 6.8% in 2023. Here’s how it’s worked out.",
+      "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
+      "summary": "Adjustable-rate mortgages have made a comeback as mortgage rates surge and buyers seek relief from high housing costs.",
+      "published": "2026-10-02T17:04:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+      "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+      "summary": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
+      "published": "2026-10-02T13:45:58+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+      "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "summary": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
+      "published": "2026-10-02T13:29:27+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -804,35 +882,26 @@
       "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
       "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
       "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-      "published": "2026-10-02T10:00:01+00:00",
+      "published": "2026-10-02T12:24:27+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Another viral AI doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
-      "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-      "summary": "Egan-Jones has become the latest to issue a viral AI doomsday report, zeroing in on difficulties facing screen-based workers and the housing market.",
-      "published": "2026-10-02T09:25:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
+      "title": "Ley Aduanera en México avanza con cambios sobre hidrocarburos y subvaluación",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/ley-aduanera-en-mexico-avanza-con-cambios-sobre-hidrocarburos-y-subvaluacion/",
+      "summary": "El dictamen de la Comisión de Hacienda fue remitido al Pleno de la Cámara de Diputados para su discusión la próxima semana.",
+      "published": "2026-10-02T11:03:51+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
-      "published": "2026-10-02T09:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Famed former Boston Celtics commentator lists sunny Boston penthouse for $1.5 million",
-      "link": "https://www.marketwatch.com/story/famed-former-boston-celtics-commentator-lists-sunny-boston-penthouse-for-1-5-million-dedfb48a?mod=mw_rss_topstories",
-      "summary": "A piece of sports history has officially hit the market, with former Boston Celtics commentator Mike Gorman listing his Boston penthouse for $1.495 million.",
-      "published": "2026-10-02T08:59:00+00:00",
-      "source_short": "MarketW",
+      "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
+      "link": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
+      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+      "published": "2026-10-02T11:03:31+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -841,6 +910,15 @@
       "link": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
       "summary": "Bitget has frozen a tiny fraction of the $387.5 million stolen in last week’s hack, and restored much of its protection fund.",
       "published": "2026-10-02T06:03:23+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The September jobs report will be released Friday. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
+      "summary": "Wall Street is looking for job growth of 84,000 to close out the summer.",
+      "published": "2026-10-01T18:55:02+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -891,15 +969,6 @@
       "tickers": []
     },
     {
-      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-      "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-      "summary": "Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
-      "published": "2026-09-30T23:44:28+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "“El contrabando es un cáncer”: responde secretario de Hacienda a acusación de oposición sobre huachicol fiscal",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-contrabando-es-un-cancer-responde-secretario-de-hacienda-a-acusacion-de-oposicion-sobre-huachicol-fiscal/",
       "summary": "El secretario Édgar Amador dijo que para 2027 se propone una reforma al Impuesto Especial sobre Producción y Servicios sobre trazabilidad en el mercado de hidrocarburos.",
@@ -909,10 +978,19 @@
       "tickers": []
     },
     {
-      "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
-      "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
-      "summary": "These are the stocks posting the largest moves midday.",
-      "published": "2026-09-30T19:20:18+00:00",
+      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+      "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "summary": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
+      "published": "2026-09-30T15:14:57+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
+      "link": "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
+      "summary": "Private job creation picked up in September after a brief slowdown.",
+      "published": "2026-09-30T14:42:04+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -924,6 +1002,15 @@
       "published": "2026-09-29T22:58:02+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+      "summary": "Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.",
+      "published": "2026-09-29T20:51:43+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -942,15 +1029,6 @@
       "published": "2026-09-28T05:00:00+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
-      "link": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
-      "summary": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition.",
-      "published": "2026-09-28T04:04:16+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -981,64 +1059,10 @@
       "tickers": []
     },
     {
-      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
-      "link": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
-      "summary": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
-      "published": "2026-09-25T13:48:19+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
-      "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
-      "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
-      "published": "2026-09-25T11:08:05+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
-      "link": "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html",
-      "summary": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
-      "published": "2026-09-25T10:25:01+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "El jitomate, la cebolla y el regreso a clases suben la inflación en septiembre en México",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-jitomate-la-cebolla-y-el-regreso-a-clases-suben-la-inflacion-en-septiembre-en-mexico/",
       "summary": "La inflación general se ubicó en 3,42% anual en la primera quincena de septiembre de 2026, reportó el Inegi.",
       "published": "2026-09-25T01:01:36+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Switzerland is keeping rates at 0% — for now",
-      "link": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
-      "summary": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
-      "published": "2026-09-24T11:34:56+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
-      "link": "https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html",
-      "summary": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
-      "published": "2026-09-24T08:13:01+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Industria energética de EE.UU. se une contra posible prohibición de Trump a exportaciones de diésel",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/industria-energetica-de-eeuu-se-une-contra-posible-prohibicion-de-trump-a-exportaciones-de-diesel/",
-      "summary": "Los grupos de presión empresarial advirtieron que la medida podría reducir la producción de combustibles en Estados Unidos e provocaría represalias de otros países.",
-      "published": "2026-09-24T05:44:13+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
@@ -1082,7 +1106,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 26,
+    "acciones_con_noticias": 28,
     "sin_accion": 40
   }
 }
