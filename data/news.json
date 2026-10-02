@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:59:06.471014+00:00",
+  "generated_at": "2026-10-02T00:59:17.578414+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.1,
+      "ventana_horas": 3.3,
       "ok": true
     },
     {
@@ -64,32 +64,88 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.6,
+      "ventana_horas": 4.3,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "AAPL",
-      "name": "Apple",
+      "ticker": "NVDA",
+      "name": "Nvidia",
       "exchange": "NASDAQ",
-      "sector": "Tecnología",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "Mark Zuckerberg is coming for Apple’s empire",
-          "link": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
-          "summary": "Apple has a grip on consumer technology through its iPhone business, but Meta is betting that the AI era warrants different types of hardware.",
-          "published": "2026-10-01T16:47:00+00:00",
+          "title": "Fondos estatales chinos financiaron compras de chips Nvidia restringidos",
+          "link": "https://es.investing.com/news/stock-market-news/fondos-estatales-chinos-financiaron-compras-de-chips-nvidia-restringidos-3858174",
+          "summary": "",
+          "published": "2026-10-01T21:29:42+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
+          "link": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-28T11:29:38+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
+          "summary": "",
+          "published": "2026-09-23T04:24:33+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia doubles down on selling to both sides of the AI race",
+          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-doubles-down-selling-both-020300627.html",
+          "summary": "",
+          "published": "2026-09-23T02:03:00+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "exchange": "NYSE",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
+          "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+          "summary": "The company has faced struggles in China and in its sneaker business.",
+          "published": "2026-10-02T00:13:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
+          "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
+          "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-25T11:40:42+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
+          "summary": "",
+          "published": "2026-09-23T04:07:47+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -118,17 +174,33 @@
       ]
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla",
+      "ticker": "NFLX",
+      "name": "Netflix",
       "exchange": "NASDAQ",
-      "sector": "Automotriz",
+      "sector": "Medios",
       "news": [
         {
-          "title": "Tesla’s delivery report is just around the corner. Expect a sales drop.",
-          "link": "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b?mod=mw_rss_topstories",
-          "summary": "Investors have become less interested in Tesla’s EV business lately, but Friday’s report still has the potential to be market-moving.",
-          "published": "2026-10-01T15:43:00+00:00",
-          "source_short": "MarketW",
+          "title": "Netflix se asocia con Filmin para ofrecer contenido seleccionado en España",
+          "link": "https://es.investing.com/news/stock-market-news/netflix-se-asocia-con-filmin-para-ofrecer-contenido-seleccionado-en-espana-93CH-3858235",
+          "summary": "",
+          "published": "2026-10-02T00:20:14+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "COP",
+      "name": "ConocoPhillips",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Venture Global sube tras acuerdo de suministro de GNL con ConocoPhillips",
+          "link": "https://es.investing.com/news/stock-market-news/venture-global-sube-tras-acuerdo-de-suministro-de-gnl-con-conocophillips-3858149",
+          "summary": "",
+          "published": "2026-10-01T21:07:54+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -238,62 +310,6 @@
       ]
     },
     {
-      "ticker": "BA",
-      "name": "Boeing",
-      "exchange": "NYSE",
-      "sector": "Industria",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
-          "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-30T11:38:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
-          "link": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-28T11:29:38+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
-          "summary": "",
-          "published": "2026-09-23T04:24:33+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia doubles down on selling to both sides of the AI race",
-          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-doubles-down-selling-both-020300627.html",
-          "summary": "",
-          "published": "2026-09-23T02:03:00+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "GS",
       "name": "Goldman Sachs",
       "exchange": "NYSE",
@@ -353,6 +369,22 @@
           "summary": "",
           "published": "2026-09-23T04:17:10+00:00",
           "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BA",
+      "name": "Boeing",
+      "exchange": "NYSE",
+      "sector": "Industria",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
+          "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-30T11:38:54+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -434,30 +466,6 @@
           "published": "2026-08-11T21:14:36+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "NKE",
-      "name": "Nike",
-      "exchange": "NYSE",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
-          "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-25T11:40:42+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
-          "summary": "",
-          "published": "2026-09-23T04:07:47+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -646,6 +654,22 @@
       ]
     },
     {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "GMEXICOB.MX",
       "name": "Grupo México",
       "exchange": "BMV",
@@ -712,101 +736,20 @@
   ],
   "sin_accion": [
     {
-      "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
-      "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
-      "summary": "These are some of the stocks posting the largest moves midday.",
-      "published": "2026-10-01T18:50:03+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Financial stocks are falling below a key chart level to warn the worst is yet to come",
-      "link": "https://www.marketwatch.com/story/financial-stocks-are-falling-below-a-key-chart-level-to-warn-the-worst-is-yet-to-come-86e43092?mod=mw_rss_topstories",
-      "summary": "Financial stocks have struggled over the past several weeks, and it’s becoming clear the decline may not be over.",
-      "published": "2026-10-01T18:38:00+00:00",
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+      "published": "2026-10-02T00:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "BofA Securities señala sus principales valores mineros ante la mejora del cobre",
-      "link": "https://es.investing.com/news/stock-market-news/bofa-securities-senala-sus-principales-valores-mineros-ante-la-mejora-del-cobre-3857921",
+      "title": "McDonald’s vende local en Hong Kong por 120 millones de dólares de HK",
+      "link": "https://es.investing.com/news/stock-market-news/mcdonalds-vende-local-en-hong-kong-por-120-millones-de-dolares-de-hk-93CH-3858236",
       "summary": "",
-      "published": "2026-10-01T18:34:37+00:00",
+      "published": "2026-10-02T00:24:31+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Mattel suben por el interés de Authentic Brands en una adquisición",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-mattel-suben-por-el-interes-de-authentic-brands-en-una-adquisicion-3857918",
-      "summary": "",
-      "published": "2026-10-01T18:29:12+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Raymond James detecta una caída generalizada en acciones minoristas en el 3T26",
-      "link": "https://es.investing.com/news/stock-market-news/raymond-james-detecta-una-caida-generalizada-en-acciones-minoristas-en-el-3t26-93CH-3857915",
-      "summary": "",
-      "published": "2026-10-01T18:26:55+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Maple Leaf Foods?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-maple-leaf-foods-93CH-3857902",
-      "summary": "",
-      "published": "2026-10-01T18:12:13+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
-      "link": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
-      "summary": "Widening credit spreads send an important signal that investors should heed about which stocks to buy and which to avoid",
-      "published": "2026-10-01T18:10:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de Enerflex se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-enerflex-se-disparan-hoy-93CH-3857899",
-      "summary": "",
-      "published": "2026-10-01T18:07:41+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Canadian Natural Resources?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-canadian-natural-resources-93CH-3857897",
-      "summary": "",
-      "published": "2026-10-01T18:07:13+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Trump’s SEC wants to allow fund managers to charge extra fees for better performance. Here’s why it’s a terrible idea.",
-      "link": "https://www.marketwatch.com/story/trumps-sec-wants-to-allow-fund-managers-to-charge-extra-fees-for-better-performance-heres-why-its-a-terrible-idea-61f6e0cc?mod=mw_rss_topstories",
-      "summary": "Think twice before embracing any new fund with high performance-related fees in your 401(k).",
-      "published": "2026-10-01T17:16:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here’s how it worked out.",
-      "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
-      "summary": "Adjustable-rate mortgages have made a comeback as mortgage rates surge and buyers seek relief from high housing costs.",
-      "published": "2026-10-01T16:51:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -814,17 +757,98 @@
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-      "published": "2026-10-01T16:16:00+00:00",
+      "published": "2026-10-02T00:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "30-year mortgage rate posts biggest jump in four years — to nearly 7.3%",
-      "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-posts-biggest-jump-in-four-years-e288f596?mod=mw_rss_topstories",
-      "summary": "Mortgage rates surged to roughly a three-year high, a fresh setback for an already depressed housing market.",
-      "published": "2026-10-01T16:06:00+00:00",
+      "title": "Moderna se unirá al Nasdaq-100 el 9 de octubre, reemplazando a Warner Bros.",
+      "link": "https://es.investing.com/news/stock-market-news/moderna-se-unira-al-nasdaq100-el-9-de-octubre-reemplazando-a-warner-bros-93CH-3858234",
+      "summary": "",
+      "published": "2026-10-02T00:14:38+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+      "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+      "summary": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount.",
+      "published": "2026-10-02T00:14:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Twilio se une al S&P 500 tras la reorganización de índices de S&P Dow Jones",
+      "link": "https://es.investing.com/news/stock-market-news/twilio-se-une-al-sp-500-tras-la-reorganizacion-de-indices-de-sp-dow-jones-3858199",
+      "summary": "",
+      "published": "2026-10-01T21:59:51+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de ChronoScale suben con objetivo de 1.000 millones en ingresos",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-chronoscale-suben-con-objetivo-de-1000-millones-en-ingresos-3858190",
+      "summary": "",
+      "published": "2026-10-01T21:52:33+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fitch sube la calificación de American Express a ’A+’ por sus comisiones",
+      "link": "https://es.investing.com/news/stock-market-news/fitch-sube-la-calificacion-de-american-express-a-a-por-sus-comisiones-3858183",
+      "summary": "",
+      "published": "2026-10-01T21:48:52+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
+      "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
+      "summary": "Annuity payout rates are closely tied to interest rates",
+      "published": "2026-10-01T21:27:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Energy Services of America caen tras anuncio de adquisición",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-energy-services-of-america-caen-tras-anuncio-de-adquisicion-3858151",
+      "summary": "",
+      "published": "2026-10-01T21:10:45+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The stock market is anything but normal right now — and these charts show it",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
+      "summary": "The S&P 500 is trading just shy of record territory, even as most individual stocks are struggling.",
+      "published": "2026-10-01T21:01:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Here’s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
+      "link": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
+      "summary": "Here’s a breakdown of how much more households items could cost due to a diesel premium",
+      "published": "2026-10-01T20:58:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
+      "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
+      "summary": "These are some of the stocks posting the largest moves midday.",
+      "published": "2026-10-01T18:50:03+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1074,7 +1098,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 26,
+    "acciones_con_noticias": 27,
     "sin_accion": 40
   }
 }
