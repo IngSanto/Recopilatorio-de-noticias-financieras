@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:38:33.096715+00:00",
+  "generated_at": "2026-10-03T00:36:37.360116+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10339.9,
+      "ventana_horas": 10350.7,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.5,
+      "ventana_horas": 1.7,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 167.4,
+      "ventana_horas": 168.4,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.8,
+      "ventana_horas": 2.3,
       "ok": true
     }
   ],
@@ -102,27 +102,19 @@
       ]
     },
     {
-      "ticker": "SBUX",
-      "name": "Starbucks",
-      "exchange": "NASDAQ",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "Starbucks pierde su recurso para desestimar demanda sindical por marcas",
-          "link": "https://es.investing.com/news/stock-market-news/starbucks-pierde-su-recurso-para-desestimar-demanda-sindical-por-marcas-93CH-3859548",
-          "summary": "",
-          "published": "2026-10-02T18:20:24+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "TSLA",
       "name": "Tesla",
       "exchange": "NASDAQ",
       "sector": "Automotriz",
       "news": [
+        {
+          "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+          "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+          "summary": "EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.",
+          "published": "2026-10-02T22:29:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
         {
           "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
           "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
@@ -744,56 +736,128 @@
   ],
   "sin_accion": [
     {
-      "title": "¿Por qué las acciones de NetApp alcanzan máximos históricos hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-netapp-alcanzan-maximos-historicos-hoy-93CH-3859544",
-      "summary": "",
-      "published": "2026-10-02T18:08:11+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Teradyne?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-teradyne-93CH-3859541",
-      "summary": "",
-      "published": "2026-10-02T18:04:19+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de la semana de Investing.com",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-la-semana-de-investingcom-3859543",
-      "summary": "",
-      "published": "2026-10-02T18:04:16+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Italia pide aclaraciones sobre los rumores de salida de Lagarde del BCE",
-      "link": "https://es.investing.com/news/stock-market-news/italia-pide-aclaraciones-sobre-los-rumores-de-salida-de-lagarde-del-bce-93CH-3859538",
-      "summary": "",
-      "published": "2026-10-02T17:49:54+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "How much higher can bond yields rise — and what does it mean for stocks?",
-      "link": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
-      "summary": "Also in Weekend Reads: Adjustable-rate mortgage loans, Gen Z entrepreneurs and advice from the Moneyist.",
-      "published": "2026-10-02T17:48:00+00:00",
+      "title": "Why Western Digital and Seagate are seeing big stock drops today",
+      "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "summary": "Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.",
+      "published": "2026-10-02T22:42:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-      "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by more than 4%.",
-      "published": "2026-10-02T17:48:00+00:00",
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+      "published": "2026-10-02T22:10:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "México debería considerar una consolidación más ambiciosa para que descienda la deuda: FMI",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-deberia-considerar-una-consolidacion-mas-ambiciosa-para-que-descienda-deuda-fmi/",
+      "summary": "El organismo financiero proyecta que el crecimiento del PIB se fortalecerá a 1,5% en 2026 y a 1,8% en 2027.",
+      "published": "2026-10-02T21:54:04+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "summary": "Is it time to dust off the financial playbook from that dismal decade?",
+      "published": "2026-10-02T21:54:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Ellison reorganiza el liderazgo de Warner Bros. antes del cierre del acuerdo",
+      "link": "https://es.investing.com/news/stock-market-news/ellison-reorganiza-el-liderazgo-de-warner-bros-antes-del-cierre-del-acuerdo-3859604",
+      "summary": "",
+      "published": "2026-10-02T20:53:13+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why mixing politics with your stock portfolio might be costing you money",
+      "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
+      "summary": "Data shows that partisan ETFs result in higher fees and lower market returns",
+      "published": "2026-10-02T20:43:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Bancos comunitarios demandan a regulador por licencias para empresas cripto",
+      "link": "https://es.investing.com/news/stock-market-news/bancos-comunitarios-demandan-a-regulador-por-licencias-para-empresas-cripto-93CH-3859600",
+      "summary": "",
+      "published": "2026-10-02T20:41:48+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
+      "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
+      "summary": "The Vatican has laid a moral blueprint for the technology, with Pope Leo maintaining that “algorithms lack the spark of humanity.”",
+      "published": "2026-10-02T20:40:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+      "published": "2026-10-02T20:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se desploma hoy la acción de Foghorn Therapeutics?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-foghorn-therapeutics-93CH-3859583",
+      "summary": "",
+      "published": "2026-10-02T19:46:30+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Nscale ficha al veterano de Meta Justin Osofsky como COO antes de su OPV",
+      "link": "https://es.investing.com/news/stock-market-news/nscale-ficha-al-veterano-de-meta-justin-osofsky-como-coo-antes-de-su-opv-3859581",
+      "summary": "",
+      "published": "2026-10-02T19:43:26+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Bayer invertirá 2.200 millones de dólares en una nueva planta en Ohio",
+      "link": "https://es.investing.com/news/stock-market-news/bayer-invertira-2200-millones-de-dolares-en-una-nueva-planta-en-ohio-93CH-3859578",
+      "summary": "",
+      "published": "2026-10-02T19:28:46+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Vistra rebotan tras informe de préstamo nuclear de 4.000 millones",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-vistra-rebotan-tras-informe-de-prestamo-nuclear-de-4000-millones-3859576",
+      "summary": "",
+      "published": "2026-10-02T19:26:31+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+      "published": "2026-10-02T18:49:03+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -803,60 +867,6 @@
       "summary": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
       "published": "2026-10-02T17:38:59+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
-      "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
-      "summary": "A weak U.S. labor report did what bad news hadn’t done in a while: It made U.S. debt look like a safe haven again — albeit briefly.",
-      "published": "2026-10-02T17:38:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Toromont Industries?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-toromont-industries-93CH-3859531",
-      "summary": "",
-      "published": "2026-10-02T17:34:27+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Lundin Mining?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-lundin-mining-93CH-3859530",
-      "summary": "",
-      "published": "2026-10-02T17:34:12+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-      "published": "2026-10-02T17:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The U.S. can’t find enough of this critical machine component to win the humanoid-robots race",
-      "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
-      "summary": "Humanoid robots have the potential to revolutionize life as we know it — but the U.S. does not have a supply chain that can produce key parts.",
-      "published": "2026-10-02T17:29:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "This couple took out an adjustable-rate mortgage at 6.8% in 2023. Here’s how it’s worked out.",
-      "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
-      "summary": "Adjustable-rate mortgages have made a comeback as mortgage rates surge and buyers seek relief from high housing costs.",
-      "published": "2026-10-02T17:04:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -874,15 +884,6 @@
       "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
       "summary": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
       "published": "2026-10-02T13:29:27+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-      "published": "2026-10-02T12:24:27+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1059,15 +1060,6 @@
       "tickers": []
     },
     {
-      "title": "El jitomate, la cebolla y el regreso a clases suben la inflación en septiembre en México",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-jitomate-la-cebolla-y-el-regreso-a-clases-suben-la-inflacion-en-septiembre-en-mexico/",
-      "summary": "La inflación general se ubicó en 3,42% anual en la primera quincena de septiembre de 2026, reportó el Inegi.",
-      "published": "2026-09-25T01:01:36+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
       "title": "Pressure from the bond market hits a new level, and US stocks slide on worries about inflation",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-060041660.html",
       "summary": "",
@@ -1106,7 +1098,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 28,
+    "acciones_con_noticias": 27,
     "sin_accion": 40
   }
 }
