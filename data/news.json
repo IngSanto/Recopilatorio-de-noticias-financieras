@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:00:35.965003+00:00",
+  "generated_at": "2026-10-03T17:32:22.925648+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10350.7,
+      "ventana_horas": 10363.8,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.7,
+      "ventana_horas": 21.2,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 168.4,
+      "ventana_horas": 181.7,
       "ok": true
     },
     {
@@ -64,35 +64,11 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 5.8,
+      "ventana_horas": 2.8,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
-          "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
-          "summary": "EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.",
-          "published": "2026-10-02T22:29:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-10-02T17:52:39+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
     {
       "ticker": "NKE",
       "name": "Nike",
@@ -121,6 +97,22 @@
           "summary": "",
           "published": "2026-09-23T04:07:47+00:00",
           "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-10-02T17:52:39+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -257,38 +249,6 @@
           "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
           "published": "2026-09-19T12:50:49+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
-          "link": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-29T12:03:19+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
-          "summary": "",
-          "published": "2026-09-23T04:24:33+00:00",
-          "source_short": "Yahoo",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
-          "summary": "",
-          "published": "2026-09-23T04:17:10+00:00",
-          "source_short": "Yahoo",
           "source_scope": "Internacional"
         }
       ]
@@ -450,6 +410,38 @@
           "published": "2026-09-03T02:59:17+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
+          "link": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-29T12:03:19+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+          "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
+          "summary": "",
+          "published": "2026-09-23T04:24:33+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
+          "summary": "",
+          "published": "2026-09-23T04:17:10+00:00",
+          "source_short": "Yahoo",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -736,30 +728,102 @@
   ],
   "sin_accion": [
     {
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
-      "published": "2026-10-03T02:16:00+00:00",
+      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
+      "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
+      "summary": "There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.",
+      "published": "2026-10-03T17:24:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Why Western Digital and Seagate are seeing big stock drops today",
-      "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
-      "summary": "Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.",
-      "published": "2026-10-02T22:42:00+00:00",
+      "title": "Switching jobs to get higher pay works best in these industries",
+      "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+      "summary": "Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.",
+      "published": "2026-10-03T16:42:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
-      "published": "2026-10-02T22:10:00+00:00",
+      "title": "Turquía amplía el requisito de margen reducido hasta el 30 de octubre",
+      "link": "https://es.investing.com/news/stock-market-news/turquia-amplia-el-requisito-de-margen-reducido-hasta-el-30-de-octubre-93CH-3859722",
+      "summary": "",
+      "published": "2026-10-03T16:33:31+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+      "published": "2026-10-03T16:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "published": "2026-10-03T16:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
+      "link": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
+      "summary": "The Points Guy’s Brian Kelly gave me a crash course in annual fees and redemptions to offset rising travel costs",
+      "published": "2026-10-03T15:42:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
+      "published": "2026-10-03T15:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El gobierno de EE.UU. prestará 4.200 millones de dólares a Vistra para ampliar su capacidad nuclear",
+      "link": "https://es.investing.com/news/stock-market-news/el-gobierno-de-eeuu-prestara-4200-millones-de-dolares-a-vistra-para-ampliar-su-capacidad-nuclear-3859719",
+      "summary": "",
+      "published": "2026-10-03T13:39:07+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+      "link": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+      "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
+      "published": "2026-10-03T13:12:27+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Renault invertirá más de 10.000 millones de euros en Francia para vehículos eléctricos",
+      "link": "https://es.investing.com/news/stock-market-news/renault-invertira-mas-de-10000-millones-de-euros-en-francia-para-vehiculos-electricos-93CH-3859713",
+      "summary": "",
+      "published": "2026-10-03T12:05:45+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "México reduce subsidios a gasolinas y sigue sin recaudar diésel tras liberación de reservas del G7",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-reduce-subsidios-a-gasolinas-y-sigue-sin-recaudar-diesel-tras-liberacion-de-reservas-del-g7/",
+      "summary": "México acumula cuatro semanas consecutivas sin recaudar el 100% del impuesto al diésel, además de mantener un subsidio adicional.",
+      "published": "2026-10-03T11:00:01+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -772,29 +836,11 @@
       "tickers": []
     },
     {
-      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
-      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-      "summary": "Is it time to dust off the financial playbook from that dismal decade?",
-      "published": "2026-10-02T21:54:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Ellison reorganiza el liderazgo de Warner Bros. antes del cierre del acuerdo",
       "link": "https://es.investing.com/news/stock-market-news/ellison-reorganiza-el-liderazgo-de-warner-bros-antes-del-cierre-del-acuerdo-3859604",
       "summary": "",
       "published": "2026-10-02T20:53:13+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Why mixing politics with your stock portfolio might be costing you money",
-      "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
-      "summary": "Data shows that partisan ETFs result in higher fees and lower market returns",
-      "published": "2026-10-02T20:43:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -808,46 +854,10 @@
       "tickers": []
     },
     {
-      "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
-      "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
-      "summary": "The Vatican has laid a moral blueprint for the technology, with Pope Leo maintaining that “algorithms lack the spark of humanity.”",
-      "published": "2026-10-02T20:40:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "¿Por qué se desploma hoy la acción de Foghorn Therapeutics?",
       "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-foghorn-therapeutics-93CH-3859583",
       "summary": "",
       "published": "2026-10-02T19:46:30+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Nscale ficha al veterano de Meta Justin Osofsky como COO antes de su OPV",
-      "link": "https://es.investing.com/news/stock-market-news/nscale-ficha-al-veterano-de-meta-justin-osofsky-como-coo-antes-de-su-opv-3859581",
-      "summary": "",
-      "published": "2026-10-02T19:43:26+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Bayer invertirá 2.200 millones de dólares en una nueva planta en Ohio",
-      "link": "https://es.investing.com/news/stock-market-news/bayer-invertira-2200-millones-de-dolares-en-una-nueva-planta-en-ohio-93CH-3859578",
-      "summary": "",
-      "published": "2026-10-02T19:28:46+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Vistra rebotan tras informe de préstamo nuclear de 4.000 millones",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-vistra-rebotan-tras-informe-de-prestamo-nuclear-de-4000-millones-3859576",
-      "summary": "",
-      "published": "2026-10-02T19:26:31+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -929,15 +939,6 @@
       "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
       "summary": "These are some of the stocks posting the largest moves midday.",
       "published": "2026-10-01T18:50:03+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-      "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-      "published": "2026-10-01T14:24:36+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1046,15 +1047,6 @@
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-se-debilita-esta-semana-hasta-su-peor-nivel-en-cinco-meses-tras-decision-de-banxico/",
       "summary": "La moneda mexicana cerró la cotización del viernes en MXN$17,68 por cada dólar estadounidense.",
       "published": "2026-09-25T23:19:12+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Sheinbaum se interesa en reunión con Xi mientras trabaja con Trump para reducir déficit comercial",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-se-interesa-en-reunion-con-xi-mientras-trabaja-con-trump-para-reducir-deficit-comercial/",
-      "summary": "La presidenta dijo que México está trabajando con la administración Trump para disminuir el déficit comercial que aqueja a Estados Unidos.",
-      "published": "2026-09-25T22:38:38+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
