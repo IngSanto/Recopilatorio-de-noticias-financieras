@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:32:22.925648+00:00",
+  "generated_at": "2026-10-03T23:58:10.576443+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 21.2,
+      "ventana_horas": 26.6,
       "ok": true
     },
     {
@@ -64,11 +64,27 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.8,
+      "ventana_horas": 4.9,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "NESN",
+      "name": "Nestlé",
+      "exchange": "SIX",
+      "sector": "Alimentos",
+      "news": [
+        {
+          "title": "Muestra de producto de Nestlé India declarada insegura por regulador alimentario",
+          "link": "https://es.investing.com/news/stock-market-news/muestra-de-producto-de-nestle-india-declarada-insegura-por-regulador-alimentario-93CH-3859736",
+          "summary": "",
+          "published": "2026-10-03T21:52:46+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "NKE",
       "name": "Nike",
@@ -218,38 +234,6 @@
           "published": "2026-09-01T12:59:10+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Goldman Sachs CEO succession planning faces one big problem",
-          "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-          "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
-          "published": "2026-09-29T20:50:10+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
-          "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
-          "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
-          "published": "2026-09-29T12:00:33+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
-          "published": "2026-09-19T12:50:49+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -410,6 +394,38 @@
           "published": "2026-09-03T02:59:17+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Goldman Sachs CEO succession planning faces one big problem",
+          "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
+          "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
+          "published": "2026-09-29T20:50:10+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+          "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+          "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
+          "published": "2026-09-29T12:00:33+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+          "published": "2026-09-19T12:50:49+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -728,6 +744,69 @@
   ],
   "sin_accion": [
     {
+      "title": "Cómo se compara Muse de Meta con Dots de OpenAI",
+      "link": "https://es.investing.com/news/stock-market-news/como-se-compara-muse-de-meta-con-dots-de-openai-3859737",
+      "summary": "",
+      "published": "2026-10-03T22:24:00+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Elecciones de mitad de mandato en EE.UU.: impacto esperado en las acciones",
+      "link": "https://es.investing.com/news/stock-market-news/elecciones-de-mitad-de-mandato-en-eeuu-impacto-esperado-en-las-acciones-3859733",
+      "summary": "",
+      "published": "2026-10-03T20:33:43+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Cómo la inversión en IA genera efectos multiplicadores inusualmente grandes",
+      "link": "https://es.investing.com/news/stock-market-news/como-la-inversion-en-ia-genera-efectos-multiplicadores-inusualmente-grandes-3859731",
+      "summary": "",
+      "published": "2026-10-03T20:21:01+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+      "published": "2026-10-03T20:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
+      "published": "2026-10-03T19:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "summary": "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
+      "published": "2026-10-03T18:49:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
+      "published": "2026-10-03T18:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
       "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
       "summary": "There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.",
@@ -751,42 +830,6 @@
       "summary": "",
       "published": "2026-10-03T16:33:31+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-      "published": "2026-10-03T16:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-      "published": "2026-10-03T16:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
-      "link": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
-      "summary": "The Points Guy’s Brian Kelly gave me a crash course in annual fees and redemptions to offset rising travel costs",
-      "published": "2026-10-03T15:42:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
-      "published": "2026-10-03T15:30:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -833,33 +876,6 @@
       "published": "2026-10-02T21:54:04+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Ellison reorganiza el liderazgo de Warner Bros. antes del cierre del acuerdo",
-      "link": "https://es.investing.com/news/stock-market-news/ellison-reorganiza-el-liderazgo-de-warner-bros-antes-del-cierre-del-acuerdo-3859604",
-      "summary": "",
-      "published": "2026-10-02T20:53:13+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Bancos comunitarios demandan a regulador por licencias para empresas cripto",
-      "link": "https://es.investing.com/news/stock-market-news/bancos-comunitarios-demandan-a-regulador-por-licencias-para-empresas-cripto-93CH-3859600",
-      "summary": "",
-      "published": "2026-10-02T20:41:48+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se desploma hoy la acción de Foghorn Therapeutics?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-foghorn-therapeutics-93CH-3859583",
-      "summary": "",
-      "published": "2026-10-02T19:46:30+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1090,7 +1106,7 @@
   ],
   "totales": {
     "articulos": 229,
-    "acciones_con_noticias": 27,
+    "acciones_con_noticias": 28,
     "sin_accion": 40
   }
 }
