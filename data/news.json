@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:44:09.807840+00:00",
+  "generated_at": "2026-10-04T17:47:01.814605+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 181.7,
+      "ventana_horas": 200.0,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 8.3,
+      "ventana_horas": 20.6,
       "ok": true
     }
   ],
@@ -82,94 +82,6 @@
           "published": "2026-10-03T21:52:46+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "PEMEX",
-      "name": "Pemex",
-      "exchange": "Estatal (deuda)",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Pemex acumula déficit comercial de US$4.000 millones por importación de combustibles",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-acumula-deficit-comercial-de-us4000-millones-por-importacion-de-combustibles/",
-          "summary": "La balanza negativa de Pemex representa un incremento de 300% en su comparación anual.",
-          "published": "2026-09-30T11:51:01+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Pemex enfrenta déficit superior a US$5.000 millones por volatilidad petrolera: Moody’s",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-enfrenta-deficit-superior-a-us5000-millones-por-volatilidad-petrolera-moodys/",
-          "summary": "La calificadora estimó que Pemex necesitará apoyo del Gobierno por US$10.000 millones anuales hacia 2030.",
-          "published": "2026-09-25T00:42:54+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Fitch mantiene calificación de Pemex como bono basura a un escalón del grado de inversión",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fitch-mantiene-calificacion-de-pemex-como-bono-basura-a-un-escalon-del-grado-de-inversion/",
-          "summary": "La agencia dijo que la calificación de Pemex refleja su vínculo con el Gobierno de México",
-          "published": "2026-09-24T15:37:59+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum minimiza apoyo para Pemex en 2027 tras incumplir promesa",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-minimiza-apoyo-para-pemex-en-2027-tras-incumplir-promesa/",
-          "summary": "La Secretaría de Hacienda propuso una transferencia a Pemex por MXN$81.100 millones para el pago de vencimientos de deuda y créditos bancarios.",
-          "published": "2026-09-09T20:22:23+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "México alista recorte al presupuesto de Pemex y CFE, pero las compensará con transferencias",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-recorte-al-presupuesto-de-pemex-y-cfe-pero-las-compensara-con-transferencias/",
-          "summary": "Hacienda propuso un recorte presupuestal de 1 y 8% a las empresas estatales Pemex y CFE en 2027.",
-          "published": "2026-09-09T10:00:00+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum incumple promesa de autosuficiencia presupuestal de Pemex para 2027",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-incumple-promesa-de-autosuficiencia-presupuestal-de-pemex-para-2027/",
-          "summary": "La Secretaría de Hacienda y Crédito Público planteó una transferencia presupuestal a la petrolera mexicana Pemex por MXN$81.100 millones.",
-          "published": "2026-09-09T00:54:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Riesgos macroeconómicos de México también pueden impactar a Pemex: Fitch",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/riesgos-macroeconomicos-de-mexico-tambien-pueden-impactar-a-pemex-fitch/",
-          "summary": "La calificadora de riesgo crediticio ve algunos riesgos derivados de la economía mexicana que pueden impactar a la petrolera estatal.",
-          "published": "2026-09-08T12:59:22+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Pemex y Sindicato pactan aumento salarial 2026-2027 por encima de la inflación",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-y-sindicato-pactan-aumento-salarial-2026-2027-por-encima-de-la-inflacion/",
-          "summary": "Juan Carlos Carpio, director general de Pemex, y el líder sindical Luis Ricardo Aldana Prieto encabezaron la firma del acuerdo salarial para el periodo 2026-2027.",
-          "published": "2026-09-04T22:59:37+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Director de Pemex busca acelerar nuevas alianzas con empresas privadas",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/director-de-pemex-busca-acelerar-nuevas-alianzas-con-empresas-privadas/",
-          "summary": "La colaboración con empresas privadas busca ampliar la capacidad de inversión de Pemex.",
-          "published": "2026-09-03T00:03:33+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Pemex actualiza datos de desempeño operativo tras casi una semana de retraso",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-retrasa-la-publicacion-del-desempeno-de-la-produccion-de-julio/",
-          "summary": "Después del mediodía de este martes, tras el segundo informe de Gobierno de la presidenta, Pemex actualizó las estadísticas petroleras de julio.",
-          "published": "2026-09-01T12:59:10+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
         }
       ]
     },
@@ -278,18 +190,90 @@
       ]
     },
     {
-      "ticker": "BA",
-      "name": "Boeing",
-      "exchange": "NYSE",
-      "sector": "Industria",
+      "ticker": "PEMEX",
+      "name": "Pemex",
+      "exchange": "Estatal (deuda)",
+      "sector": "Energía",
       "news": [
         {
-          "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
-          "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-30T11:38:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
+          "title": "Pemex acumula déficit comercial de US$4.000 millones por importación de combustibles",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-acumula-deficit-comercial-de-us4000-millones-por-importacion-de-combustibles/",
+          "summary": "La balanza negativa de Pemex representa un incremento de 300% en su comparación anual.",
+          "published": "2026-09-30T11:51:01+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Pemex enfrenta déficit superior a US$5.000 millones por volatilidad petrolera: Moody’s",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-enfrenta-deficit-superior-a-us5000-millones-por-volatilidad-petrolera-moodys/",
+          "summary": "La calificadora estimó que Pemex necesitará apoyo del Gobierno por US$10.000 millones anuales hacia 2030.",
+          "published": "2026-09-25T00:42:54+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Fitch mantiene calificación de Pemex como bono basura a un escalón del grado de inversión",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fitch-mantiene-calificacion-de-pemex-como-bono-basura-a-un-escalon-del-grado-de-inversion/",
+          "summary": "La agencia dijo que la calificación de Pemex refleja su vínculo con el Gobierno de México",
+          "published": "2026-09-24T15:37:59+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum minimiza apoyo para Pemex en 2027 tras incumplir promesa",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-minimiza-apoyo-para-pemex-en-2027-tras-incumplir-promesa/",
+          "summary": "La Secretaría de Hacienda propuso una transferencia a Pemex por MXN$81.100 millones para el pago de vencimientos de deuda y créditos bancarios.",
+          "published": "2026-09-09T20:22:23+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "México alista recorte al presupuesto de Pemex y CFE, pero las compensará con transferencias",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-recorte-al-presupuesto-de-pemex-y-cfe-pero-las-compensara-con-transferencias/",
+          "summary": "Hacienda propuso un recorte presupuestal de 1 y 8% a las empresas estatales Pemex y CFE en 2027.",
+          "published": "2026-09-09T10:00:00+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum incumple promesa de autosuficiencia presupuestal de Pemex para 2027",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-incumple-promesa-de-autosuficiencia-presupuestal-de-pemex-para-2027/",
+          "summary": "La Secretaría de Hacienda y Crédito Público planteó una transferencia presupuestal a la petrolera mexicana Pemex por MXN$81.100 millones.",
+          "published": "2026-09-09T00:54:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Riesgos macroeconómicos de México también pueden impactar a Pemex: Fitch",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/riesgos-macroeconomicos-de-mexico-tambien-pueden-impactar-a-pemex-fitch/",
+          "summary": "La calificadora de riesgo crediticio ve algunos riesgos derivados de la economía mexicana que pueden impactar a la petrolera estatal.",
+          "published": "2026-09-08T12:59:22+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Pemex y Sindicato pactan aumento salarial 2026-2027 por encima de la inflación",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-y-sindicato-pactan-aumento-salarial-2026-2027-por-encima-de-la-inflacion/",
+          "summary": "Juan Carlos Carpio, director general de Pemex, y el líder sindical Luis Ricardo Aldana Prieto encabezaron la firma del acuerdo salarial para el periodo 2026-2027.",
+          "published": "2026-09-04T22:59:37+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Director de Pemex busca acelerar nuevas alianzas con empresas privadas",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/director-de-pemex-busca-acelerar-nuevas-alianzas-con-empresas-privadas/",
+          "summary": "La colaboración con empresas privadas busca ampliar la capacidad de inversión de Pemex.",
+          "published": "2026-09-03T00:03:33+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Pemex actualiza datos de desempeño operativo tras casi una semana de retraso",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-retrasa-la-publicacion-del-desempeno-de-la-produccion-de-julio/",
+          "summary": "Después del mediodía de este martes, tras el segundo informe de Gobierno de la presidenta, Pemex actualizó las estadísticas petroleras de julio.",
+          "published": "2026-09-01T12:59:10+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -534,6 +518,22 @@
       ]
     },
     {
+      "ticker": "BA",
+      "name": "Boeing",
+      "exchange": "NYSE",
+      "sector": "Industria",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
+          "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-30T11:38:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "META",
       "name": "Meta Platforms",
       "exchange": "NASDAQ",
@@ -744,6 +744,42 @@
   ],
   "sin_accion": [
     {
+      "title": "Corporate America has never been this upbeat about future profits",
+      "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+      "summary": "As third-quarter earnings kick off this week, more companies than ever have expressed optimism about their bottom lines.",
+      "published": "2026-10-04T14:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
+      "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+      "summary": "If stocks see another big swoon this year, investors already know why.",
+      "published": "2026-10-04T13:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried",
+      "link": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+      "summary": "Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.",
+      "published": "2026-10-04T12:57:45+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+      "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+      "summary": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
+      "published": "2026-10-04T12:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Citi explica por qué las acciones de mejora del hogar van rezagadas en 2026",
       "link": "https://es.investing.com/news/stock-market-news/citi-explica-por-que-las-acciones-de-mejora-del-hogar-van-rezagadas-en-2026-3859754",
       "summary": "",
@@ -811,33 +847,6 @@
       "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
       "published": "2026-10-03T20:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
-      "published": "2026-10-03T19:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "These bond strategies can help you get a safe 5% return on your cash",
-      "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
-      "summary": "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
-      "published": "2026-10-03T18:49:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
-      "published": "2026-10-03T18:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -946,15 +955,6 @@
       "link": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
       "summary": "Wall Street is looking for job growth of 84,000 to close out the summer.",
       "published": "2026-10-01T18:55:02+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
-      "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
-      "summary": "These are some of the stocks posting the largest moves midday.",
-      "published": "2026-10-01T18:50:03+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
