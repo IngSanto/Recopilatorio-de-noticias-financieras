@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:00:13.742128+00:00",
+  "generated_at": "2026-10-07T00:53:48.882829+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.4,
+      "ventana_horas": 3.9,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 192.9,
+      "ventana_horas": 178.4,
       "ok": true
     },
     {
@@ -64,11 +64,83 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.4,
+      "ventana_horas": 4.4,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Las acciones de Black Hills suben un 5% tras acuerdo con Google por 1.800 millones de dólares",
+          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-black-hills-suben-un-5-tras-acuerdo-con-google-por-1800-millones-de-dolares-3863400",
+          "summary": "",
+          "published": "2026-10-06T21:29:12+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+          "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+          "summary": "Constellation’s stock is rising sharply following a deal that equates to as much power as would be supplied by a new nuclear reactor.",
+          "published": "2026-10-06T20:24:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-01T15:14:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "SpaceX busca recaudar 40.000 millones de dólares para comprar chips de Nvidia",
+          "link": "https://es.investing.com/news/stock-market-news/spacex-busca-recaudar-40000-millones-de-dolares-para-comprar-chips-de-nvidia-3863423",
+          "summary": "",
+          "published": "2026-10-06T23:27:11+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Boston Dynamics nombra al exejecutivo de Amazon Rohit Prasad como director ejecutivo",
+          "link": "https://es.investing.com/news/stock-market-news/boston-dynamics-nombra-al-exejecutivo-de-amazon-rohit-prasad-como-director-ejecutivo-3863413",
+          "summary": "",
+          "published": "2026-10-06T22:07:54+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "GS",
       "name": "Goldman Sachs",
@@ -105,94 +177,6 @@
           "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
           "published": "2026-09-19T12:50:49+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "¿Por qué sube hoy la acción de Broadcom?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-broadcom-93CH-3863229",
-          "summary": "",
-          "published": "2026-10-06T18:25:41+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-10-02T17:52:39+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "These 5 chip stocks are cheaper than the S&P 500 — and offer faster growth",
-          "link": "https://www.marketwatch.com/story/these-5-chip-stocks-are-cheaper-than-the-s-p-500-and-offer-faster-growth-f8ab4386?mod=mw_rss_topstories",
-          "summary": "Micron and Nvidia are among high-profile semiconductor companies that have been raking in cash and still have inexpensive stocks.",
-          "published": "2026-10-06T15:57:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "These 5 chip stocks are cheaper than the S&P 500 — and offer faster growth",
-          "link": "https://www.marketwatch.com/story/these-5-chip-stocks-are-cheaper-than-the-s-p-500-and-offer-faster-growth-f8ab4386?mod=mw_rss_topstories",
-          "summary": "Micron and Nvidia are among high-profile semiconductor companies that have been raking in cash and still have inexpensive stocks.",
-          "published": "2026-10-06T15:57:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-10-01T15:14:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "WFC",
-      "name": "Wells Fargo",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",
-          "link": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
-          "summary": "A Wells Fargo analyst warns of a near-term profit hit from AI infrastructure spending and legal costs — but thinks that will set up massive gains by 2028.",
-          "published": "2026-10-06T18:20:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -454,10 +438,26 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
+      "ticker": "AVGO",
+      "name": "Broadcom",
       "exchange": "NASDAQ",
-      "sector": "Tecnología",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-10-02T17:52:39+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
           "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
@@ -632,6 +632,123 @@
   ],
   "sin_accion": [
     {
+      "title": "Trump hablará con Putin sobre la peste neumónica tras muerte en laboratorio ruso",
+      "link": "https://es.investing.com/news/stock-market-news/trump-hablara-con-putin-sobre-la-peste-neumonica-tras-muerte-en-laboratorio-ruso-93CH-3863452",
+      "summary": "",
+      "published": "2026-10-07T00:41:41+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Tower?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-tower-93CH-3863451",
+      "summary": "",
+      "published": "2026-10-07T00:38:42+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Dicker Data?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-dicker-data-93CH-3863450",
+      "summary": "",
+      "published": "2026-10-07T00:38:35+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los futuros de las acciones en EE.UU. se estabilizan tras récords en S&P 500 y Nasdaq",
+      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-en-eeuu-se-estabilizan-tras-records-en-sp-500-y-nasdaq-3863443",
+      "summary": "",
+      "published": "2026-10-07T00:14:54+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "summary": "“Both properties will be solely in his name.”",
+      "published": "2026-10-06T22:54:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+      "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+      "summary": "The S&P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
+      "published": "2026-10-06T22:23:01+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "JetBlue obtiene la aprobación final de la FAA para adquirir slots de Spirit en LaGuardia",
+      "link": "https://es.investing.com/news/stock-market-news/jetblue-obtiene-la-aprobacion-final-de-la-faa-para-adquirir-slots-de-spirit-en-laguardia-3863406",
+      "summary": "",
+      "published": "2026-10-06T21:55:58+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+      "summary": "After trading sideways for much of the past year, the “Magnificent Seven” have been staging a comeback, helping to re-energize a bull market threatened by rising bond yields and stubbornly high crude-oil prices.",
+      "published": "2026-10-06T21:52:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Sigma Lithium suben tras el fallo judicial sobre sus licencias",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-sigma-lithium-suben-tras-el-fallo-judicial-sobre-sus-licencias-3863396",
+      "summary": "",
+      "published": "2026-10-06T21:21:26+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.",
+      "link": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
+      "summary": "Not just one, but two, major market turning points since 2000 have occurred on that day.",
+      "published": "2026-10-06T20:37:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
+      "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+      "summary": "Marvell’s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
+      "published": "2026-10-06T20:21:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "summary": "“People in the U.S. need to wake up.”",
+      "published": "2026-10-06T20:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+      "summary": "Parental controls aren’t just for kids anymore.",
+      "published": "2026-10-06T19:58:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "How event contract bundles are boosting volume on prediction markets",
       "link": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
       "summary": "Combo contracts are driving volume growth even as they make up a small, albeit consistent, share of transactions.",
@@ -646,114 +763,6 @@
       "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
       "published": "2026-10-06T18:41:32+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
-      "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
-      "summary": "This is going to bring a lot of problems that almost anyone could have predicted",
-      "published": "2026-10-06T18:39:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se desploma hoy la acción de Twist Bioscience?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-twist-bioscience-93CH-3863238",
-      "summary": "",
-      "published": "2026-10-06T18:37:59+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Capital Power?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-capital-power-93CH-3863236",
-      "summary": "",
-      "published": "2026-10-06T18:34:18+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Natera?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-natera-93CH-3863233",
-      "summary": "",
-      "published": "2026-10-06T18:30:40+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-      "published": "2026-10-06T18:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de Illumina?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-illumina-93CH-3863231",
-      "summary": "",
-      "published": "2026-10-06T18:27:52+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de CoreWeave?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-coreweave-93CH-3863230",
-      "summary": "",
-      "published": "2026-10-06T18:26:12+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
-      "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-      "summary": "Marvell’s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
-      "published": "2026-10-06T18:25:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Birchcliff Energy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-birchcliff-energy-93CH-3863227",
-      "summary": "",
-      "published": "2026-10-06T18:23:29+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "summary": "“Both properties swill be solely in his name.”",
-      "published": "2026-10-06T18:01:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
-      "published": "2026-10-06T18:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "America’s renters are emerging as a political movement",
-      "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
-      "summary": "Housing policy has long prioritized homeownership. As young Americans face the prospect of renting indefinitely, more tenants are seeking political clout.",
-      "published": "2026-10-06T17:58:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -798,15 +807,6 @@
       "link": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
       "summary": "The moves come after the first round results of Brazil's presidential election on Sunday. Bolsonaro will face incumbent Lula da Silva in a runoff on Oct. 25.",
       "published": "2026-10-05T20:41:23+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Cocoa prices are climbing again. Here’s why this time is different",
-      "link": "https://www.cnbc.com/2026/10/05/cocoa-prices-are-climbing-again-heres-why-this-time-is-different.html",
-      "summary": "Cocoa prices are rising again as El Niño threatens West African supplies. Chocolate makers have few easy fixes to absorb higher costs.",
-      "published": "2026-10-05T18:02:53+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
