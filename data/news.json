@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T00:53:48.882829+00:00",
+  "generated_at": "2026-10-07T11:17:26.488307+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10416.3,
+      "ventana_horas": 10453.4,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 3.9,
+      "ventana_horas": 0.5,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 524.1,
+      "ventana_horas": 508.4,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 178.4,
+      "ventana_horas": 186.3,
       "ok": true
     },
     {
@@ -64,89 +64,25 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 4.4,
+      "ventana_horas": 3.2,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Las acciones de Black Hills suben un 5% tras acuerdo con Google por 1.800 millones de dólares",
-          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-black-hills-suben-un-5-tras-acuerdo-con-google-por-1800-millones-de-dolares-3863400",
-          "summary": "",
-          "published": "2026-10-06T21:29:12+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-          "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-          "summary": "Constellation’s stock is rising sharply following a deal that equates to as much power as would be supplied by a new nuclear reactor.",
-          "published": "2026-10-06T20:24:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-10-01T15:14:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "SpaceX busca recaudar 40.000 millones de dólares para comprar chips de Nvidia",
-          "link": "https://es.investing.com/news/stock-market-news/spacex-busca-recaudar-40000-millones-de-dolares-para-comprar-chips-de-nvidia-3863423",
-          "summary": "",
-          "published": "2026-10-06T23:27:11+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Boston Dynamics nombra al exejecutivo de Amazon Rohit Prasad como director ejecutivo",
-          "link": "https://es.investing.com/news/stock-market-news/boston-dynamics-nombra-al-exejecutivo-de-amazon-rohit-prasad-como-director-ejecutivo-3863413",
-          "summary": "",
-          "published": "2026-10-06T22:07:54+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
     {
       "ticker": "GS",
       "name": "Goldman Sachs",
       "exchange": "NYSE",
       "sector": "Banca",
       "news": [
+        {
+          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+          "published": "2026-10-07T05:11:55+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
         {
           "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
           "link": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
@@ -176,6 +112,126 @@
           "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
           "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
           "published": "2026-09-19T12:50:49+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "SpaceX reportedly is looking to borrow as much money as the company generates in revenue to buy Nvidia chips",
+          "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+          "summary": "Elon Musk’s SpaceX is in talks with banks and investors to borrow $40 billion to fund a purchase of Nvidia chips, according to a Financial Times report.",
+          "published": "2026-10-07T11:11:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Elon Musk and Intel CEO shore up chipmaker’s role in Terafab project — and here’s what the news is doing to the stock.",
+          "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
+          "summary": "Elon Musk and Intel’s CEO have said the company’s involvement in the Terafab chip plant will continue, boosting shares.",
+          "published": "2026-10-07T10:24:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "¿Por qué sube hoy la acción de Intel?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-intel-93CH-3863941",
+          "summary": "",
+          "published": "2026-10-07T09:51:04+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "AMD’s chief executive is planning to invest ‘tens of billions’ as Asian tour addresses supply-chain chokepoints",
+          "link": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
+          "summary": "AMD’s CEO has been meeting executives in Taiwan and South Korea.",
+          "published": "2026-10-07T09:37:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
+          "link": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-09-29T12:03:19+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "UBS",
+      "name": "UBS",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "UBS rebaja Inchcape ante la caída prevista de beneficios en Asia-Pacífico",
+          "link": "https://es.investing.com/news/stock-market-news/ubs-rebaja-inchcape-ante-la-caida-prevista-de-beneficios-en-asiapacifico-3863996",
+          "summary": "",
+          "published": "2026-10-07T10:12:57+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Meta’s stock sees a golden cross as shares thrive since Muse introduction",
+          "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+          "summary": "Meta Platforms, whose stock has thrived after the introduction of an artificial-intelligence assistant, just got another piece of good news.",
+          "published": "2026-10-07T08:07:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "HSBC",
+      "name": "HSBC",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+          "published": "2026-10-07T05:11:55+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -338,14 +394,6 @@
           "published": "2026-08-19T21:12:42+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        },
-        {
-          "title": "Filial de CFE solicita permiso para nueva emisión de capital de Fibra E",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/filial-de-cfe-solicita-permiso-para-nueva-emision-de-capital-de-fibra-e/",
-          "summary": "Los recursos netos de la oferta global tienen como objeto final continuar financiando la expansión y modernización de la red eléctrica.",
-          "published": "2026-08-11T21:14:36+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
         }
       ]
     },
@@ -454,6 +502,22 @@
       ]
     },
     {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-01T15:14:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "MU",
       "name": "Micron",
       "exchange": "NASDAQ",
@@ -480,22 +544,6 @@
           "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-09-30T11:38:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
-          "link": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-29T12:03:19+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -632,48 +680,147 @@
   ],
   "sin_accion": [
     {
-      "title": "Trump hablará con Putin sobre la peste neumónica tras muerte en laboratorio ruso",
-      "link": "https://es.investing.com/news/stock-market-news/trump-hablara-con-putin-sobre-la-peste-neumonica-tras-muerte-en-laboratorio-ruso-93CH-3863452",
-      "summary": "",
-      "published": "2026-10-07T00:41:41+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Tower?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-tower-93CH-3863451",
-      "summary": "",
-      "published": "2026-10-07T00:38:42+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Dicker Data?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-dicker-data-93CH-3863450",
-      "summary": "",
-      "published": "2026-10-07T00:38:35+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Los futuros de las acciones en EE.UU. se estabilizan tras récords en S&P 500 y Nasdaq",
-      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-en-eeuu-se-estabilizan-tras-records-en-sp-500-y-nasdaq-3863443",
-      "summary": "",
-      "published": "2026-10-07T00:14:54+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
       "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "summary": "“Both properties will be solely in his name.”",
-      "published": "2026-10-06T22:54:00+00:00",
+      "published": "2026-10-07T10:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Quiere ser bajista en bolsa? BCA dice que vigile las subidas de impuestos en EE.UU.",
+      "link": "https://es.investing.com/news/stock-market-news/quiere-ser-bajista-en-bolsa-bca-dice-que-vigile-las-subidas-de-impuestos-en-eeuu-3864000",
+      "summary": "",
+      "published": "2026-10-07T10:12:11+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Northland Power completa la instalación de turbinas en Polonia",
+      "link": "https://es.investing.com/news/stock-market-news/northland-power-completa-la-instalacion-de-turbinas-en-polonia-93CH-3863990",
+      "summary": "",
+      "published": "2026-10-07T10:11:49+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de JetBlue Airways?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-jetblue-airways-93CH-3863960",
+      "summary": "",
+      "published": "2026-10-07T10:02:37+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen hoy las acciones de Mohawk Industries?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-mohawk-industries-93CH-3863946",
+      "summary": "",
+      "published": "2026-10-07T09:56:56+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Renault?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-renault-93CH-3863943",
+      "summary": "",
+      "published": "2026-10-07T09:55:48+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Es el 30,83% acumulado desde junio el inicio o el final de esta apuesta en chips?",
+      "link": "https://es.investing.com/news/stock-market-news/es-el-3083-acumulado-desde-junio-el-inicio-o-el-final-de-esta-apuesta-en-chips-3863935",
+      "summary": "",
+      "published": "2026-10-07T09:49:32+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
+      "link": "https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories",
+      "summary": "Investors are “underestimating the scale and scope” of the AI spending wave, said Dan Ives as he laid out five stocks to own.",
+      "published": "2026-10-07T09:33:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement.",
+      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
+      "published": "2026-10-07T09:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Josh Brolin sells Atlanta-area mansion for $4 million after slashing price",
+      "link": "https://www.marketwatch.com/story/josh-brolin-sells-atlanta-area-mansion-for-4-million-after-slashing-price-52561a89?mod=mw_rss_topstories",
+      "summary": "Actor Josh Brolin has sold his lavish Sandy Springs, Ga., estate for $4 million—a final sale price falling just under $1 million less than the original asking price of $4.999 million.",
+      "published": "2026-10-07T09:05:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A Laguna Beach gem renovated by Diane Keaton is up for grabs for $10.3 million",
+      "link": "https://www.marketwatch.com/story/a-laguna-beach-gem-renovated-by-diane-keaton-is-up-for-grabs-for-10-3-million-8e6e1927?mod=mw_rss_topstories",
+      "summary": "Boasting breathtaking views of the Pacific Ocean, the charming 4-bedroom home is located on a triangular 0.4-acre oceanfront lot with direct access to a sandy beach via a wooden staircase.",
+      "published": "2026-10-07T09:01:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A popular tech fund is now overbought. That’s no reason to sell, history shows.",
+      "link": "https://www.marketwatch.com/story/a-popular-tech-fund-is-now-overbought-thats-no-reason-to-sell-history-shows-d998aab3?mod=mw_rss_topstories",
+      "summary": "A surge to record highs for technology stocks has pushed them to what is considered by technical analysts to be overbought levels, but history shows investors should not use that as reason to cut their exposure.",
+      "published": "2026-10-07T08:01:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+      "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+      "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
+      "published": "2026-10-07T06:16:39+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Diputados aprueban Ley Aduanera con embargo precautorio en subvaluación de mercancías",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-aduanera-con-embargo-precautorio-en-subvaluacion-de-mercancias/",
+      "summary": "Carol Altamirano, presidente de la Comisión de Hacienda, dijo que la reforma plantea mecanismos legales para combatir la evasión y hacer frente al contrabando.",
+      "published": "2026-10-07T04:31:26+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+      "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
+      "summary": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
+      "published": "2026-10-07T03:00:22+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Grado de inversión de México no está en predicamento en el corto plazo: Hacienda",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grado-de-inversion-de-mexico-no-esta-en-predicamento-en-el-corto-plazo-hacienda/",
+      "summary": "El secretario de Hacienda, Édgar Amador, negó que el Gobierno esté aplicando subejercicios al gasto público durante 2026.",
+      "published": "2026-10-07T01:18:55+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -682,69 +829,6 @@
       "summary": "The S&P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
       "published": "2026-10-06T22:23:01+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "JetBlue obtiene la aprobación final de la FAA para adquirir slots de Spirit en LaGuardia",
-      "link": "https://es.investing.com/news/stock-market-news/jetblue-obtiene-la-aprobacion-final-de-la-faa-para-adquirir-slots-de-spirit-en-laguardia-3863406",
-      "summary": "",
-      "published": "2026-10-06T21:55:58+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
-      "summary": "After trading sideways for much of the past year, the “Magnificent Seven” have been staging a comeback, helping to re-energize a bull market threatened by rising bond yields and stubbornly high crude-oil prices.",
-      "published": "2026-10-06T21:52:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Sigma Lithium suben tras el fallo judicial sobre sus licencias",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-sigma-lithium-suben-tras-el-fallo-judicial-sobre-sus-licencias-3863396",
-      "summary": "",
-      "published": "2026-10-06T21:21:26+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.",
-      "link": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
-      "summary": "Not just one, but two, major market turning points since 2000 have occurred on that day.",
-      "published": "2026-10-06T20:37:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
-      "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-      "summary": "Marvell’s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
-      "published": "2026-10-06T20:21:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
-      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "summary": "“People in the U.S. need to wake up.”",
-      "published": "2026-10-06T20:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "summary": "Parental controls aren’t just for kids anymore.",
-      "published": "2026-10-06T19:58:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -780,15 +864,6 @@
       "link": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-premarket-constellation-energy-option-care-health-lennar-pg-and-more.html",
       "summary": "These are the stocks posting the largest moves in early trading.",
       "published": "2026-10-06T11:50:50+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
-      "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
-      "summary": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
-      "published": "2026-10-06T04:07:24+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -875,15 +950,6 @@
       "tickers": []
     },
     {
-      "title": "The September jobs report will be released Friday. Here's what to expect",
-      "link": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
-      "summary": "Wall Street is looking for job growth of 84,000 to close out the summer.",
-      "published": "2026-10-01T18:55:02+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Hacienda ve “manejable” nivel de deuda de México y tipo de cambio en línea con Paquete Económico 2027",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hacienda-ve-manejable-nivel-de-deuda-de-mexico-y-tipo-de-cambio-en-linea-con-paquete-economico-2027/",
       "summary": "El secretario de Hacienda, Édgar Amador, aseguró que la consolidación fiscal que se propone es “responsable” y pidió no “menospreciar” los datos de crecimiento económico.",
@@ -936,29 +1002,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Gasolineras en México suspenden venta de diésel para evitar pérdidas",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gasolineras-en-mexico-suspenden-venta-de-diesel-para-evitar-perdidas/",
-      "summary": "El Estado de México, Jalisco, Guanajuato, Sonora, Puebla y Zacatecas concentran más del 53% de las gasolineras que pausaron la oferta de diésel",
-      "published": "2026-09-28T05:00:00+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "México eleva subsidios a las gasolinas magna y premium entre expectativas de paz en Irán",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-eleva-subsidios-a-las-gasolinas-magna-y-premium-entre-expectativas-de-paz-en-iran/",
-      "summary": "La Secretaría de Hacienda y Crédito Público incrementó a 72% el subsidio a las gasolinas regular y premium, mantuvo el 100% al diésel y redujo su apoyo complementario.",
-      "published": "2026-09-26T13:29:47+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
-    "articulos": 180,
-    "acciones_con_noticias": 23,
+    "articulos": 179,
+    "acciones_con_noticias": 26,
     "sin_accion": 36
   }
 }
