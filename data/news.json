@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T11:33:52.631249+00:00",
+  "generated_at": "2026-10-08T19:22:18.725944+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10483.8,
+      "ventana_horas": 10489.2,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.5,
+      "ventana_horas": 0.0,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 505.2,
+      "ventana_horas": 525.1,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 197.8,
+      "ventana_horas": 198.2,
       "ok": true
     },
     {
@@ -64,11 +64,35 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 9.8,
+      "ventana_horas": 2.7,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Alphabet C consolida entre 335 $ y 350 $: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/alphabet-c-consolida-en-rango-332350--niveles-en-vivo-93CH-3861261",
+          "summary": "",
+          "published": "2026-10-08T19:09:11+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-01T15:14:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "TSLA",
       "name": "Tesla",
@@ -76,10 +100,10 @@
       "sector": "Automotriz",
       "news": [
         {
-          "title": "Eslovaquia aprobará el sistema FSD de Tesla en los próximos días",
-          "link": "https://es.investing.com/news/stock-market-news/eslovaquia-aprobara-el-sistema-fsd-de-tesla-en-los-proximos-dias-93CH-3865981",
+          "title": "Tesla consolida en $371,64 en punto muerto técnico: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/tesla-rompe-medias-clave-y-apunta-a-386--niveles-en-vivo-93CH-3861255",
           "summary": "",
-          "published": "2026-10-08T10:39:15+00:00",
+          "published": "2026-10-08T19:08:35+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
@@ -94,49 +118,137 @@
       ]
     },
     {
-      "ticker": "PEP",
-      "name": "PepsiCo",
+      "ticker": "NVDA",
+      "name": "Nvidia",
       "exchange": "NASDAQ",
-      "sector": "Alimentos",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "¿Por qué sube hoy la acción de PepsiCo?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-pepsico-93CH-3866007",
+          "title": "NVIDIA forma doji en soporte crítico de $230: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/nvidia-presiona-maximos-historicos-con-senales-de-sobrecompra-en-vivo-93CH-3861257",
           "summary": "",
-          "published": "2026-10-08T10:50:22+00:00",
+          "published": "2026-10-08T19:07:46+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
+        },
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
     {
-      "ticker": "DB",
-      "name": "Deutsche Bank",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Deutsche Bank prevé que el crecimiento de beneficios se mantenga en niveles récord en el tercer trimestre",
-          "link": "https://es.investing.com/news/stock-market-news/deutsche-bank-preve-que-el-crecimiento-de-beneficios-se-mantenga-en-niveles-record-en-el-tercer-trimestre-3866000",
-          "summary": "",
-          "published": "2026-10-08T10:42:29+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "005930",
-      "name": "Samsung Electronics",
-      "exchange": "KRX",
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "exchange": "NASDAQ",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "Samsung just did something no tech company has ever done, but investors still aren’t satisfied",
-          "link": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
-          "summary": "Since the stock peaked in June, Samsung shareholders have been unimpressed with record profits and shareholder return programs.",
-          "published": "2026-10-08T09:50:00+00:00",
+          "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
+          "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
+          "summary": "Palantir’s total addressable market could get a lot bigger, while its business model should sustain its lead against competitors, an analyst says",
+          "published": "2026-10-08T16:32:00+00:00",
           "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
+          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-08T12:28:26+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
+          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-08T12:28:26+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-10-02T17:52:39+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Meta Platforms en rango decisivo $712-$745: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/meta-platforms-consolida-entre-715-y-780-niveles-en-vivo-93CH-3861264",
+          "summary": "",
+          "published": "2026-10-08T19:09:41+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "name": "IBM",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "IBM consolida en bear flag: niveles clave en tiempo real",
+          "link": "https://es.investing.com/news/stock-market-news/ibm-presiona-soporte-en-21860-niveles-actualizados-93CH-3861266",
+          "summary": "",
+          "published": "2026-10-08T19:08:28+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "AMD rompe soporte clave con señal bajista: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/amd-consolida-tras-avance-parabolico-con-senales-mixtas-niveles-en-vivo-93CH-3861263",
+          "summary": "",
+          "published": "2026-10-08T19:08:23+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Oracle en soporte clave 132,60 $: niveles en tiempo real",
+          "link": "https://es.investing.com/news/stock-market-news/oracle-atrapado-entre-sma50-y-fibonacci-382-niveles-en-vivo-93CH-3861250",
+          "summary": "",
+          "published": "2026-10-08T19:08:14+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -454,38 +566,6 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-10-02T17:52:39+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-10-01T15:14:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "BA",
       "name": "Boeing",
       "exchange": "NYSE",
@@ -598,22 +678,6 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "NSANY",
       "name": "Nissan",
       "exchange": "OTC",
@@ -632,30 +696,111 @@
   ],
   "sin_accion": [
     {
-      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
-      "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
-      "summary": "Bill Hench, of First Eagle, stepped away from the artificial-intelligence trade with small-capitalization bets on a recovery of the U.S. housing construction market.",
-      "published": "2026-10-08T11:31:00+00:00",
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "summary": "“Both properties will be solely in his name.”",
+      "published": "2026-10-08T19:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Jefferies mejora su recomendación sobre Royal Caribbean por perspectivas de rentabilidad",
-      "link": "https://es.investing.com/news/stock-market-news/jefferies-mejora-su-recomendacion-sobre-royal-caribbean-por-perspectivas-de-rentabilidad-3866069",
+      "title": "ServiceNow consolida en triángulo simétrico: niveles en vivo",
+      "link": "https://es.investing.com/news/stock-market-news/servicenow-en-rango-1314014220--niveles-en-vivo-93CH-3861268",
       "summary": "",
-      "published": "2026-10-08T11:05:53+00:00",
+      "published": "2026-10-08T19:09:39+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué las acciones de Helen of Troy se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-helen-of-troy-se-disparan-hoy-93CH-3866042",
+      "title": "Galicia ADR en zona de peligro: soporte 35,21 USD en la mira",
+      "link": "https://es.investing.com/news/stock-market-news/galicia-adr-en-tendencia-bajista-rebotes-para-vender-en-tiempo-real-93CH-3861262",
       "summary": "",
-      "published": "2026-10-08T11:01:57+00:00",
+      "published": "2026-10-08T19:09:32+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Futuros del Nasdaq 100: doble techo activo cerca de máximos: niveles en vivo",
+      "link": "https://es.investing.com/news/stock-market-news/futuros-del-nasdaq-100-al-filo-de-maximos-con-divergencia-rsi-en-vivo-93CH-3861258",
+      "summary": "",
+      "published": "2026-10-08T19:08:29+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
+      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
+      "published": "2026-10-08T19:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The options market is reminding investors there’s a cure for rising bond yields — higher yields",
+      "link": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
+      "summary": "The MOVE Index — the Treasury market’s “fear gauge” — has reached heights that in the past suggested yields may have peaked, at least for now.",
+      "published": "2026-10-08T18:51:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+      "published": "2026-10-08T18:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
+      "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+      "summary": "Higher bond yields aren’t only about inflation and the Iran war. But it means a higher cost of capital.",
+      "published": "2026-10-08T18:19:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+      "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "summary": "It doesn’t matter if you are a Republican or Democrat. Math is math.",
+      "published": "2026-10-08T18:08:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
+      "link": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
+      "summary": "Gas prices are expected to remain above $4 per gallon on Nov. 3, according to traders on prediction market platform Kalshi.",
+      "published": "2026-10-08T17:51:51+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+      "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+      "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+      "published": "2026-10-08T17:31:03+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Minuta de Banxico revela que tres miembros abren la puerta a un recorte de la tasa de interés",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/minuta-de-banxico-revela-que-tres-miembros-abren-la-puerta-a-un-recorte-de-la-tasa-de-interes/",
+      "summary": "La postura de los tres miembros ocurre luego de que Banxico enfatizó que no reaccionaría de manera mecánica a los ajustes de la Fed.",
+      "published": "2026-10-08T16:23:18+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -665,87 +810,6 @@
       "published": "2026-10-08T11:00:00+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
-      "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
-      "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
-      "published": "2026-10-08T11:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de Constellation Brands?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-constellation-brands-93CH-3866011",
-      "summary": "",
-      "published": "2026-10-08T10:52:47+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Los futuros del TSX caen por tensiones en bonos y alza del petróleo",
-      "link": "https://es.investing.com/news/stock-market-news/los-futuros-del-tsx-caen-por-tensiones-en-bonos-y-alza-del-petroleo-3866023",
-      "summary": "",
-      "published": "2026-10-08T10:50:08+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Generac?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-generac-93CH-3865986",
-      "summary": "",
-      "published": "2026-10-08T10:40:58+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Sherwin-Williams?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-sherwinwilliams-93CH-3865985",
-      "summary": "",
-      "published": "2026-10-08T10:40:14+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A true ‘nuclear renaissance’ is taking shape, and these stocks could be big winners",
-      "link": "https://www.marketwatch.com/story/a-true-nuclear-renaissance-is-taking-shape-and-these-stocks-could-be-big-winners-e04f7364?mod=mw_rss_topstories",
-      "summary": "The nuclear-energy industry has been having a moment, but analysts say some companies look better positioned than others to capitalize on a wave of AI-fueled demand.",
-      "published": "2026-10-08T10:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "summary": "“Both properties will be solely in his name.”",
-      "published": "2026-10-08T10:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
-      "link": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
-      "summary": "The S&P 500 moves on days oil prices have gained 3% may come as a surprise.",
-      "published": "2026-10-08T09:33:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
-      "link": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
-      "summary": "The spread between France’s 10-year government bond and Germany’s equivalent reached its widest last week in available Bloomberg data, dating back to 1990.",
-      "published": "2026-10-08T09:32:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -893,15 +957,6 @@
       "tickers": []
     },
     {
-      "title": "How event contract bundles are boosting volume on prediction markets",
-      "link": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
-      "summary": "Combo contracts are driving volume growth even as they make up a small, albeit consistent, share of transactions.",
-      "published": "2026-10-06T18:46:16+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
       "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
       "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
@@ -917,15 +972,6 @@
       "published": "2026-10-05T15:26:47+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
-      "link": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
-      "summary": "Moody's predicts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.",
-      "published": "2026-10-05T05:00:01+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -945,20 +991,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Ley Aduanera en México avanza con cambios sobre hidrocarburos y subvaluación",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/ley-aduanera-en-mexico-avanza-con-cambios-sobre-hidrocarburos-y-subvaluacion/",
-      "summary": "El dictamen de la Comisión de Hacienda fue remitido al Pleno de la Cámara de Diputados para su discusión la próxima semana.",
-      "published": "2026-10-02T11:03:51+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 24,
-    "sin_accion": 36
+    "acciones_con_noticias": 26,
+    "sin_accion": 33
   }
 }
