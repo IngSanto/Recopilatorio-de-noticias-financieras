@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:10:14.490996+00:00",
+  "generated_at": "2026-10-08T11:33:52.631249+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10470.4,
+      "ventana_horas": 10483.8,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 3.8,
+      "ventana_horas": 0.5,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 190.2,
+      "ventana_horas": 197.8,
       "ok": true
     },
     {
@@ -64,11 +64,83 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 5.0,
+      "ventana_horas": 9.8,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Eslovaquia aprobará el sistema FSD de Tesla en los próximos días",
+          "link": "https://es.investing.com/news/stock-market-news/eslovaquia-aprobara-el-sistema-fsd-de-tesla-en-los-proximos-dias-93CH-3865981",
+          "summary": "",
+          "published": "2026-10-08T10:39:15+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-10-02T17:52:39+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo",
+      "exchange": "NASDAQ",
+      "sector": "Alimentos",
+      "news": [
+        {
+          "title": "¿Por qué sube hoy la acción de PepsiCo?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-pepsico-93CH-3866007",
+          "summary": "",
+          "published": "2026-10-08T10:50:22+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "DB",
+      "name": "Deutsche Bank",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Deutsche Bank prevé que el crecimiento de beneficios se mantenga en niveles récord en el tercer trimestre",
+          "link": "https://es.investing.com/news/stock-market-news/deutsche-bank-preve-que-el-crecimiento-de-beneficios-se-mantenga-en-niveles-record-en-el-tercer-trimestre-3866000",
+          "summary": "",
+          "published": "2026-10-08T10:42:29+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "Samsung Electronics",
+      "exchange": "KRX",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Samsung just did something no tech company has ever done, but investors still aren’t satisfied",
+          "link": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
+          "summary": "Since the stock peaked in June, Samsung shareholders have been unimpressed with record profits and shareholder return programs.",
+          "published": "2026-10-08T09:50:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "GS",
       "name": "Goldman Sachs",
@@ -100,100 +172,12 @@
           "source_scope": "Internacional"
         },
         {
-          "title": "Goldman Sachs CEO succession planning faces one big problem",
-          "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-          "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
-          "published": "2026-09-29T20:50:10+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
           "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
           "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
           "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
           "published": "2026-09-19T12:50:49+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
-          "link": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
-          "summary": "Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device.",
-          "published": "2026-10-07T19:12:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
-          "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
-          "summary": "A report says SpaceX is considering raising $40 billion to finance the purchase of advanced graphic processing units and related systems.",
-          "published": "2026-10-07T18:22:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Broadcom, Oracle y SpaceX buscan megaoperaciones de deuda para la IA",
-          "link": "https://es.investing.com/news/stock-market-news/broadcom-oracle-y-spacex-buscan-megaoperaciones-de-deuda-para-la-ia-3865315",
-          "summary": "",
-          "published": "2026-10-07T21:28:28+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-10-02T17:52:39+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "name": "ExxonMobil",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Exxon reparará un oleoducto marino en Guyana a partir del 14 de octubre",
-          "link": "https://es.investing.com/news/stock-market-news/exxon-reparara-un-oleoducto-marino-en-guyana-a-partir-del-14-de-octubre-93CH-3865308",
-          "summary": "",
-          "published": "2026-10-07T21:13:48+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Terminal de combustibles de Grupo Simsa opera con normalidad pese a investigación de la Fiscalía mexicana",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/terminal-de-combustibles-de-grupo-simsa-opera-con-normalidad-pese-a-investigacion-de-la-fiscalia-mexicana/",
-          "summary": "Exxon y Marathon son empresas que almacenan combustible en la terminal con capacidad para 60 millones de litros, según personas consultadas por Bloomberg Línea.",
-          "published": "2026-09-19T02:52:49+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
         }
       ]
     },
@@ -217,38 +201,6 @@
           "summary": "These are the stocks posting the largest moves in the premarket.",
           "published": "2026-10-01T15:14:36+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Broadcom, Oracle y SpaceX buscan megaoperaciones de deuda para la IA",
-          "link": "https://es.investing.com/news/stock-market-news/broadcom-oracle-y-spacex-buscan-megaoperaciones-de-deuda-para-la-ia-3865315",
-          "summary": "",
-          "published": "2026-10-07T21:28:28+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
-          "link": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
-          "summary": "Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device.",
-          "published": "2026-10-07T19:12:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -502,10 +454,10 @@
       ]
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla",
+      "ticker": "AVGO",
+      "name": "Broadcom",
       "exchange": "NASDAQ",
-      "sector": "Automotriz",
+      "sector": "Semiconductores",
       "news": [
         {
           "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
@@ -560,6 +512,22 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
           "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
           "published": "2026-09-26T00:25:22+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "name": "ExxonMobil",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Terminal de combustibles de Grupo Simsa opera con normalidad pese a investigación de la Fiscalía mexicana",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/terminal-de-combustibles-de-grupo-simsa-opera-con-normalidad-pese-a-investigacion-de-la-fiscalia-mexicana/",
+          "summary": "Exxon y Marathon son empresas que almacenan combustible en la terminal con capacidad para 60 millones de litros, según personas consultadas por Bloomberg Línea.",
+          "published": "2026-09-19T02:52:49+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -630,6 +598,22 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "NSANY",
       "name": "Nissan",
       "exchange": "OTC",
@@ -644,67 +628,141 @@
           "source_scope": "México"
         }
       ]
-    },
-    {
-      "ticker": "BP",
-      "name": "BP",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Angélica Ruiz deja la presidencia de BP en México",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/angelica-ruiz-deja-la-presidencia-de-bp-en-mexico/",
-          "summary": "La economista mexicana también dejó su cargo como vicepresidenta senior de BP en Latinoamérica.",
-          "published": "2026-08-18T03:23:57+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
     }
   ],
   "sin_accion": [
     {
-      "title": "La OPV de Blue Origin está a años vista, pero tiene sentido, dice Bezos",
-      "link": "https://es.investing.com/news/stock-market-news/la-opv-de-blue-origin-esta-a-anos-vista-pero-tiene-sentido-dice-bezos-3865389",
+      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
+      "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
+      "summary": "Bill Hench, of First Eagle, stepped away from the artificial-intelligence trade with small-capitalization bets on a recovery of the U.S. housing construction market.",
+      "published": "2026-10-08T11:31:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Jefferies mejora su recomendación sobre Royal Caribbean por perspectivas de rentabilidad",
+      "link": "https://es.investing.com/news/stock-market-news/jefferies-mejora-su-recomendacion-sobre-royal-caribbean-por-perspectivas-de-rentabilidad-3866069",
       "summary": "",
-      "published": "2026-10-08T00:53:01+00:00",
+      "published": "2026-10-08T11:05:53+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy con fuerza la acción de LG Energy Solution?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-con-fuerza-la-accion-de-lg-energy-solution-93CH-3865387",
+      "title": "¿Por qué las acciones de Helen of Troy se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-helen-of-troy-se-disparan-hoy-93CH-3866042",
       "summary": "",
-      "published": "2026-10-08T00:52:46+00:00",
+      "published": "2026-10-08T11:01:57+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "México importa más diésel del que registra la Secretaría de Energía, según datos de EE.UU.",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico-importa-mas-diesel-del-que-registra-la-secretaria-de-energia-segun-datos-de-eeuu/",
+      "summary": "La diferencia entre los datos del Gobierno estadounidense y mexicano es de 35.000 barriles diarios de diésel este año.",
+      "published": "2026-10-08T11:00:00+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
       "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
       "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
       "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
-      "published": "2026-10-07T22:32:00+00:00",
+      "published": "2026-10-08T11:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Solidigm elige bancos líderes para una gran OPV en EE.UU.",
-      "link": "https://es.investing.com/news/stock-market-news/solidigm-elige-bancos-lideres-para-una-gran-opv-en-eeuu-3865335",
+      "title": "¿Por qué caen hoy las acciones de Constellation Brands?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-constellation-brands-93CH-3866011",
       "summary": "",
-      "published": "2026-10-07T21:49:54+00:00",
+      "published": "2026-10-08T10:52:47+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "General Dynamics nombra a Danny Deep como nuevo director ejecutivo",
-      "link": "https://es.investing.com/news/stock-market-news/general-dynamics-nombra-a-danny-deep-como-nuevo-director-ejecutivo-3865330",
+      "title": "Los futuros del TSX caen por tensiones en bonos y alza del petróleo",
+      "link": "https://es.investing.com/news/stock-market-news/los-futuros-del-tsx-caen-por-tensiones-en-bonos-y-alza-del-petroleo-3866023",
       "summary": "",
-      "published": "2026-10-07T21:40:17+00:00",
+      "published": "2026-10-08T10:50:08+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Generac?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-generac-93CH-3865986",
+      "summary": "",
+      "published": "2026-10-08T10:40:58+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Sherwin-Williams?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-sherwinwilliams-93CH-3865985",
+      "summary": "",
+      "published": "2026-10-08T10:40:14+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A true ‘nuclear renaissance’ is taking shape, and these stocks could be big winners",
+      "link": "https://www.marketwatch.com/story/a-true-nuclear-renaissance-is-taking-shape-and-these-stocks-could-be-big-winners-e04f7364?mod=mw_rss_topstories",
+      "summary": "The nuclear-energy industry has been having a moment, but analysts say some companies look better positioned than others to capitalize on a wave of AI-fueled demand.",
+      "published": "2026-10-08T10:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "summary": "“Both properties will be solely in his name.”",
+      "published": "2026-10-08T10:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
+      "link": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
+      "summary": "The S&P 500 moves on days oil prices have gained 3% may come as a surprise.",
+      "published": "2026-10-08T09:33:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
+      "link": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
+      "summary": "The spread between France’s 10-year government bond and Germany’s equivalent reached its widest last week in available Bloomberg data, dating back to 1990.",
+      "published": "2026-10-08T09:32:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
+      "link": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
+      "summary": "A recovery in China's largest cities real estate markets could come as soon as next year, the S&P ratings agency said.",
+      "published": "2026-10-08T09:27:31+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Huawei doubles down on smartphones as EV sales slow",
+      "link": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
+      "summary": "Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue.",
+      "published": "2026-10-08T08:04:11+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -715,51 +773,6 @@
       "published": "2026-10-07T21:33:35+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Profound Medical suben un 20% tras mejorar sus previsiones de ingresos del tercer trimestre",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-profound-medical-suben-un-20-tras-mejorar-sus-previsiones-de-ingresos-del-tercer-trimestre-3865321",
-      "summary": "",
-      "published": "2026-10-07T21:32:49+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Valneva?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-valneva-93CH-3865303",
-      "summary": "",
-      "published": "2026-10-07T21:05:52+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-      "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
-      "summary": "Technology is the only one of the S&P 500’s 11 sectors that gained since Sept. 1, as Treasury yields have climbed to multi-decade highs.",
-      "published": "2026-10-07T20:58:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Options traders are betting on a dramatic drop in interest rates",
-      "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
-      "summary": "Recent options activity points to bullish positioning for long-term bonds and utilities.",
-      "published": "2026-10-07T20:36:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
-      "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
-      "summary": "September’s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
-      "published": "2026-10-07T19:35:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -781,15 +794,6 @@
       "tickers": []
     },
     {
-      "title": "Stocks are increasingly their own best hedge. This chart shows why.",
-      "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
-      "summary": "For decades, investors concerned about stocks sought succor in the bond market. But these days, the best shield against an outbreak of volatility might just be owning other stocks.",
-      "published": "2026-10-07T18:31:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Producción y exportación de autos en México sufren la mayor caída en 2026 por aranceles",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/produccion-y-exportacion-de-autos-en-mexico-sufren-la-mayor-caida-en-2026-por-aranceles/",
       "summary": "La producción de vehículos cayó 15,1% anual en septiembre y la exportación se contrajo 11,9%.",
@@ -805,15 +809,6 @@
       "published": "2026-10-07T18:01:06+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
-      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
-      "published": "2026-10-07T17:45:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -907,28 +902,10 @@
       "tickers": []
     },
     {
-      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-      "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-      "published": "2026-10-06T18:41:32+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
       "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
       "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
       "published": "2026-10-06T15:52:22+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Constellation Energy, Option Care Health, Lennar, P&G and more",
-      "link": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-premarket-constellation-energy-option-care-health-lennar-pg-and-more.html",
-      "summary": "These are the stocks posting the largest moves in early trading.",
-      "published": "2026-10-06T11:50:50+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -974,15 +951,6 @@
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/ley-aduanera-en-mexico-avanza-con-cambios-sobre-hidrocarburos-y-subvaluacion/",
       "summary": "El dictamen de la Comisión de Hacienda fue remitido al Pleno de la Cámara de Diputados para su discusión la próxima semana.",
       "published": "2026-10-02T11:03:51+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Hacienda ve “manejable” nivel de deuda de México y tipo de cambio en línea con Paquete Económico 2027",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hacienda-ve-manejable-nivel-de-deuda-de-mexico-y-tipo-de-cambio-en-linea-con-paquete-economico-2027/",
-      "summary": "El secretario de Hacienda, Édgar Amador, aseguró que la consolidación fiscal que se propone es “responsable” y pidió no “menospreciar” los datos de crecimiento económico.",
-      "published": "2026-10-01T11:50:30+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
