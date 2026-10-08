@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:27:58.266675+00:00",
+  "generated_at": "2026-10-08T01:10:14.490996+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10466.9,
+      "ventana_horas": 10470.4,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.0,
+      "ventana_horas": 3.8,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 4.6,
+      "ventana_horas": 5.0,
       "ok": true
     }
   ],
@@ -150,40 +150,16 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
+      "ticker": "AVGO",
+      "name": "Broadcom",
       "exchange": "NASDAQ",
-      "sector": "Tecnología",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "Alphabet C comprimida entre 343 $ y 348 $: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/alphabet-c-consolida-en-rango-332350--niveles-en-vivo-93CH-3861261",
+          "title": "Broadcom, Oracle y SpaceX buscan megaoperaciones de deuda para la IA",
+          "link": "https://es.investing.com/news/stock-market-news/broadcom-oracle-y-spacex-buscan-megaoperaciones-de-deuda-para-la-ia-3865315",
           "summary": "",
-          "published": "2026-10-07T19:09:00+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-10-01T15:14:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Tesla atrapada entre 385 $ y 365 $: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/tesla-rompe-medias-clave-y-apunta-a-386--niveles-en-vivo-93CH-3861255",
-          "summary": "",
-          "published": "2026-10-07T19:08:58+00:00",
+          "published": "2026-10-07T21:28:28+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
@@ -194,6 +170,30 @@
           "published": "2026-10-02T17:52:39+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "name": "ExxonMobil",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Exxon reparará un oleoducto marino en Guyana a partir del 14 de octubre",
+          "link": "https://es.investing.com/news/stock-market-news/exxon-reparara-un-oleoducto-marino-en-guyana-a-partir-del-14-de-octubre-93CH-3865308",
+          "summary": "",
+          "published": "2026-10-07T21:13:48+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Terminal de combustibles de Grupo Simsa opera con normalidad pese a investigación de la Fiscalía mexicana",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/terminal-de-combustibles-de-grupo-simsa-opera-con-normalidad-pese-a-investigacion-de-la-fiscalia-mexicana/",
+          "summary": "Exxon y Marathon son empresas que almacenan combustible en la terminal con capacidad para 60 millones de litros, según personas consultadas por Bloomberg Línea.",
+          "published": "2026-09-19T02:52:49+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -222,6 +222,22 @@
       ]
     },
     {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Broadcom, Oracle y SpaceX buscan megaoperaciones de deuda para la IA",
+          "link": "https://es.investing.com/news/stock-market-news/broadcom-oracle-y-spacex-buscan-megaoperaciones-de-deuda-para-la-ia-3865315",
+          "summary": "",
+          "published": "2026-10-07T21:28:28+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "MSFT",
       "name": "Microsoft",
       "exchange": "NASDAQ",
@@ -233,70 +249,6 @@
           "summary": "Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device.",
           "published": "2026-10-07T19:12:00+00:00",
           "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "AMD rechazada en máximos históricos: pullback en curso, niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/amd-consolida-tras-avance-parabolico-con-senales-mixtas-niveles-en-vivo-93CH-3861263",
-          "summary": "",
-          "published": "2026-10-07T19:08:43+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "IBM",
-      "name": "IBM",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "IBM atrapada entre soporte Fibonacci y resistencia: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/ibm-presiona-soporte-en-21860-niveles-actualizados-93CH-3861266",
-          "summary": "",
-          "published": "2026-10-07T19:08:25+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Meta Platforms consolida entre $715 y $745: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/meta-platforms-consolida-entre-715-y-780-niveles-en-vivo-93CH-3861264",
-          "summary": "",
-          "published": "2026-10-07T19:08:22+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Oracle consolida en banderín bajista bajo SMA 50: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/oracle-atrapado-entre-sma50-y-fibonacci-382-niveles-en-vivo-93CH-3861250",
-          "summary": "",
-          "published": "2026-10-07T19:08:01+00:00",
-          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -550,16 +502,32 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom",
+      "ticker": "TSLA",
+      "name": "Tesla",
       "exchange": "NASDAQ",
-      "sector": "Semiconductores",
+      "sector": "Automotriz",
       "news": [
         {
           "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
           "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
           "summary": "These are some of the stocks posting the largest moves midday.",
           "published": "2026-10-02T17:52:39+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-01T15:14:36+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -592,22 +560,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
           "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
           "published": "2026-09-26T00:25:22+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "name": "ExxonMobil",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Terminal de combustibles de Grupo Simsa opera con normalidad pese a investigación de la Fiscalía mexicana",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/terminal-de-combustibles-de-grupo-simsa-opera-con-normalidad-pese-a-investigacion-de-la-fiscalia-mexicana/",
-          "summary": "Exxon y Marathon son empresas que almacenan combustible en la terminal con capacidad para 60 millones de litros, según personas consultadas por Bloomberg Línea.",
-          "published": "2026-09-19T02:52:49+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -712,38 +664,101 @@
   ],
   "sin_accion": [
     {
-      "title": "ServiceNow consolida entre $134 y $141 sobre Ichimoku: niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/servicenow-en-rango-1314014220--niveles-en-vivo-93CH-3861268",
+      "title": "La OPV de Blue Origin está a años vista, pero tiene sentido, dice Bezos",
+      "link": "https://es.investing.com/news/stock-market-news/la-opv-de-blue-origin-esta-a-anos-vista-pero-tiene-sentido-dice-bezos-3865389",
       "summary": "",
-      "published": "2026-10-07T19:09:43+00:00",
+      "published": "2026-10-08T00:53:01+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Galicia ADR bajista: resistencia en $38,70 y Bear Flag activo",
-      "link": "https://es.investing.com/news/stock-market-news/galicia-adr-en-tendencia-bajista-rebotes-para-vender-en-tiempo-real-93CH-3861262",
+      "title": "¿Por qué sube hoy con fuerza la acción de LG Energy Solution?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-con-fuerza-la-accion-de-lg-energy-solution-93CH-3865387",
       "summary": "",
-      "published": "2026-10-07T19:08:27+00:00",
+      "published": "2026-10-08T00:52:46+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Futuros del Nasdaq 100 rechazan máximo histórico: niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/futuros-del-nasdaq-100-al-filo-de-maximos-con-divergencia-rsi-en-vivo-93CH-3861258",
+      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+      "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+      "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
+      "published": "2026-10-07T22:32:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Solidigm elige bancos líderes para una gran OPV en EE.UU.",
+      "link": "https://es.investing.com/news/stock-market-news/solidigm-elige-bancos-lideres-para-una-gran-opv-en-eeuu-3865335",
       "summary": "",
-      "published": "2026-10-07T19:07:51+00:00",
+      "published": "2026-10-07T21:49:54+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "SanDisk consolida entre 200 SMA e Ichimoku: niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/sandisk-en-zona-critica-soporte-ichimoku-decide-la-tendencia-93CH-3861248",
+      "title": "General Dynamics nombra a Danny Deep como nuevo director ejecutivo",
+      "link": "https://es.investing.com/news/stock-market-news/general-dynamics-nombra-a-danny-deep-como-nuevo-director-ejecutivo-3865330",
       "summary": "",
-      "published": "2026-10-07T19:07:42+00:00",
+      "published": "2026-10-07T21:40:17+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Financiera Adventus Capital realiza la primera emisión simplificada de deuda en la Bolsa Mexicana",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/financiera-adventus-capital-realiza-la-primera-emision-simplificada-de-deuda-en-la-bolsa-mexicana/",
+      "summary": "La sociedad financiera de objeto múltiple (sofom) especializada en financiamiento empresarial y estructurado colocó MXN$560 millones.",
+      "published": "2026-10-07T21:33:35+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Profound Medical suben un 20% tras mejorar sus previsiones de ingresos del tercer trimestre",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-profound-medical-suben-un-20-tras-mejorar-sus-previsiones-de-ingresos-del-tercer-trimestre-3865321",
+      "summary": "",
+      "published": "2026-10-07T21:32:49+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Valneva?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-valneva-93CH-3865303",
+      "summary": "",
+      "published": "2026-10-07T21:05:52+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
+      "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
+      "summary": "Technology is the only one of the S&P 500’s 11 sectors that gained since Sept. 1, as Treasury yields have climbed to multi-decade highs.",
+      "published": "2026-10-07T20:58:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Options traders are betting on a dramatic drop in interest rates",
+      "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
+      "summary": "Recent options activity points to bullish positioning for long-term bonds and utilities.",
+      "published": "2026-10-07T20:36:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+      "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+      "summary": "September’s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
+      "published": "2026-10-07T19:35:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -775,12 +790,12 @@
       "tickers": []
     },
     {
-      "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
-      "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
-      "summary": "September’s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
-      "published": "2026-10-07T18:28:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
+      "title": "Producción y exportación de autos en México sufren la mayor caída en 2026 por aranceles",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/produccion-y-exportacion-de-autos-en-mexico-sufren-la-mayor-caida-en-2026-por-aranceles/",
+      "summary": "La producción de vehículos cayó 15,1% anual en septiembre y la exportación se contrajo 11,9%.",
+      "published": "2026-10-07T18:02:07+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -797,33 +812,6 @@
       "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
       "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
       "published": "2026-10-07T17:45:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Washington and Wall Street chose to delay paying their bills — and to put them on your tab",
-      "link": "https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories",
-      "summary": "The polite word for what the government and Wall Street are doing is deferring payment, like opening a tab at a bar that somebody else will pay later.",
-      "published": "2026-10-07T17:36:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The ‘Magnificent Seven’ are now big enough to move the economy. Why that could be a problem.",
-      "link": "https://www.marketwatch.com/story/the-magnificent-seven-are-now-big-enough-to-move-the-economy-why-that-could-be-a-problem-56d174db?mod=mw_rss_topstories",
-      "summary": "Imagine a small group of companies whose value is greater than the entire economy of almost every single country in the world. By market value, that’s roughly where the “Magnificent Seven” group of tech companies now stands.",
-      "published": "2026-10-07T17:32:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "summary": "Parental controls aren’t just for kids anymore",
-      "published": "2026-10-07T17:27:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -887,6 +875,15 @@
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grado-de-inversion-de-mexico-no-esta-en-predicamento-en-el-corto-plazo-hacienda/",
       "summary": "El secretario de Hacienda, Édgar Amador, negó que el Gobierno esté aplicando subejercicios al gasto público durante 2026.",
       "published": "2026-10-07T01:18:55+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Diputados aprueban Ley de Economía Digital para reducir el uso de efectivo en México",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-de-economia-digital-para-reducir-el-uso-de-efectivo-en-mexico/",
+      "summary": "Los legisladores avalaron en lo general la nueva Ley que hará obligatorios los pagos digitales y electrónicos en algunos sectores con 330 a favor y 122 en contra.",
+      "published": "2026-10-07T00:26:31+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
@@ -989,38 +986,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "AMLO reaparece por sexta ocasión con crítica a Estados Unidos por consumo de drogas",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/amlo-reaparece-por-sexta-ocasion-con-critica-a-estados-unidos-por-consumo-de-drogas/",
-      "summary": "El expresidente mexicano, quien prometió retirarse de la vida pública al finalizar su mandato, difundió un video en redes sociales para hablar sobre su nuevo libro “Pueblo”.",
-      "published": "2026-10-01T05:59:25+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Trump todavía considera prohibir las exportaciones de diésel",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/trump-todavia-considera-prohibir-las-exportaciones-de-diesel/",
-      "summary": "El mandatario y su equipo creen que la restricción ayudará al precio del diésel pero tendría un impacto negativo en la gasolina.",
-      "published": "2026-10-01T01:42:28+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "“El contrabando es un cáncer”: responde secretario de Hacienda a acusación de oposición sobre huachicol fiscal",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-contrabando-es-un-cancer-responde-secretario-de-hacienda-a-acusacion-de-oposicion-sobre-huachicol-fiscal/",
-      "summary": "El secretario Édgar Amador dijo que para 2027 se propone una reforma al Impuesto Especial sobre Producción y Servicios sobre trazabilidad en el mercado de hidrocarburos.",
-      "published": "2026-09-30T22:19:38+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 27,
-    "sin_accion": 34
+    "acciones_con_noticias": 24,
+    "sin_accion": 36
   }
 }
