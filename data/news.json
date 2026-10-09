@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:22:18.725944+00:00",
+  "generated_at": "2026-10-09T01:19:25.800153+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.0,
+      "ventana_horas": 3.8,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 198.2,
+      "ventana_horas": 196.6,
       "ok": true
     },
     {
@@ -64,59 +64,11 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.7,
+      "ventana_horas": 4.0,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Alphabet C consolida entre 335 $ y 350 $: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/alphabet-c-consolida-en-rango-332350--niveles-en-vivo-93CH-3861261",
-          "summary": "",
-          "published": "2026-10-08T19:09:11+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-10-01T15:14:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Tesla consolida en $371,64 en punto muerto técnico: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/tesla-rompe-medias-clave-y-apunta-a-386--niveles-en-vivo-93CH-3861255",
-          "summary": "",
-          "published": "2026-10-08T19:08:35+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-10-02T17:52:39+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
     {
       "ticker": "NVDA",
       "name": "Nvidia",
@@ -124,11 +76,19 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "NVIDIA forma doji en soporte crítico de $230: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/nvidia-presiona-maximos-historicos-con-senales-de-sobrecompra-en-vivo-93CH-3861257",
+          "title": "Nvidia planea invertir en d-Matrix, rival en chips de IA",
+          "link": "https://es.investing.com/news/stock-market-news/nvidia-planea-invertir-en-dmatrix-rival-en-chips-de-ia-93CH-3867175",
           "summary": "",
-          "published": "2026-10-08T19:07:46+00:00",
+          "published": "2026-10-09T00:11:19+00:00",
           "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
+          "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
+          "summary": "OpenAI’s annualized revenue reportedly fell short of expectations — but analysts say that reflects differences in how the figure is reported, not weakness in AI demand.",
+          "published": "2026-10-08T22:08:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
@@ -142,6 +102,38 @@
       ]
     },
     {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
+          "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
+          "summary": "OpenAI’s annualized revenue reportedly fell short of expectations — but analysts say that reflects differences in how the figure is reported, not weakness in AI demand.",
+          "published": "2026-10-08T22:08:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
+          "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-07T16:52:14+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-01T15:14:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "PLTR",
       "name": "Palantir",
       "exchange": "NASDAQ",
@@ -151,7 +143,7 @@
           "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
           "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
           "summary": "Palantir’s total addressable market could get a lot bigger, while its business model should sustain its lead against competitors, an analyst says",
-          "published": "2026-10-08T16:32:00+00:00",
+          "published": "2026-10-08T21:56:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
@@ -166,89 +158,33 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom",
+      "ticker": "SBUX",
+      "name": "Starbucks",
       "exchange": "NASDAQ",
-      "sector": "Semiconductores",
+      "sector": "Consumo",
       "news": [
         {
-          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
-          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-08T12:28:26+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-10-02T17:52:39+00:00",
-          "source_short": "CNBC",
+          "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+          "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+          "summary": "Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.",
+          "published": "2026-10-08T23:14:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
+      "ticker": "PEP",
+      "name": "PepsiCo",
       "exchange": "NASDAQ",
-      "sector": "Tecnología",
+      "sector": "Alimentos",
       "news": [
         {
-          "title": "Meta Platforms en rango decisivo $712-$745: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/meta-platforms-consolida-entre-715-y-780-niveles-en-vivo-93CH-3861264",
-          "summary": "",
-          "published": "2026-10-08T19:09:41+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "IBM",
-      "name": "IBM",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "IBM consolida en bear flag: niveles clave en tiempo real",
-          "link": "https://es.investing.com/news/stock-market-news/ibm-presiona-soporte-en-21860-niveles-actualizados-93CH-3861266",
-          "summary": "",
-          "published": "2026-10-08T19:08:28+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "AMD rompe soporte clave con señal bajista: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/amd-consolida-tras-avance-parabolico-con-senales-mixtas-niveles-en-vivo-93CH-3861263",
-          "summary": "",
-          "published": "2026-10-08T19:08:23+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Oracle en soporte clave 132,60 $: niveles en tiempo real",
-          "link": "https://es.investing.com/news/stock-market-news/oracle-atrapado-entre-sma50-y-fibonacci-382-niveles-en-vivo-93CH-3861250",
-          "summary": "",
-          "published": "2026-10-08T19:08:14+00:00",
-          "source_short": "Investing",
+          "title": "PepsiCo CEO’s message to employees: If you’re not producing growth, you’re out",
+          "link": "https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories",
+          "summary": "PepsiCo CEO Ramon Laguarta says that everything at the company that is not related to growth will not be part of the company.",
+          "published": "2026-10-08T21:43:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -294,24 +230,24 @@
       ]
     },
     {
-      "ticker": "MU",
-      "name": "Micron",
+      "ticker": "AVGO",
+      "name": "Broadcom",
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
-          "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-10-07T16:52:14+00:00",
+          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
+          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-08T12:28:26+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-10-01T15:14:36+00:00",
+          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-10-02T17:52:39+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -566,16 +502,32 @@
       ]
     },
     {
-      "ticker": "BA",
-      "name": "Boeing",
-      "exchange": "NYSE",
-      "sector": "Industria",
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
       "news": [
         {
-          "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
-          "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-09-30T11:38:54+00:00",
+          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-10-02T17:52:39+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-01T15:14:36+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -696,38 +648,56 @@
   ],
   "sin_accion": [
     {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "summary": "“Both properties will be solely in his name.”",
-      "published": "2026-10-08T19:15:00+00:00",
+      "title": "Las acciones de SoftBank caen por informe sobre ingresos de OpenAI",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-softbank-caen-por-informe-sobre-ingresos-de-openai-3867186",
+      "summary": "",
+      "published": "2026-10-09T01:04:36+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+      "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+      "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
+      "published": "2026-10-09T00:52:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "ServiceNow consolida en triángulo simétrico: niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/servicenow-en-rango-1314014220--niveles-en-vivo-93CH-3861268",
+      "title": "Hitachi se une al programa de ciberseguridad de Anthropic",
+      "link": "https://es.investing.com/news/stock-market-news/hitachi-se-une-al-programa-de-ciberseguridad-de-anthropic-3867183",
       "summary": "",
-      "published": "2026-10-08T19:09:39+00:00",
+      "published": "2026-10-09T00:48:31+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Galicia ADR en zona de peligro: soporte 35,21 USD en la mira",
-      "link": "https://es.investing.com/news/stock-market-news/galicia-adr-en-tendencia-bajista-rebotes-para-vender-en-tiempo-real-93CH-3861262",
+      "title": "Los futuros de las acciones en EE.UU. se estabilizan tras la caída del Nasdaq",
+      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-en-eeuu-se-estabilizan-tras-la-caida-del-nasdaq-3867180",
       "summary": "",
-      "published": "2026-10-08T19:09:32+00:00",
+      "published": "2026-10-09T00:36:40+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Futuros del Nasdaq 100: doble techo activo cerca de máximos: niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/futuros-del-nasdaq-100-al-filo-de-maximos-con-divergencia-rsi-en-vivo-93CH-3861258",
-      "summary": "",
-      "published": "2026-10-08T19:08:29+00:00",
-      "source_short": "Investing",
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "summary": "Seven tips for painlessly moving in retirement.",
+      "published": "2026-10-09T00:03:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+      "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+      "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+      "published": "2026-10-08T23:57:23+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -735,16 +705,43 @@
       "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
       "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
       "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
-      "published": "2026-10-08T19:00:00+00:00",
+      "published": "2026-10-08T22:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "The options market is reminding investors there’s a cure for rising bond yields — higher yields",
-      "link": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
-      "summary": "The MOVE Index — the Treasury market’s “fear gauge” — has reached heights that in the past suggested yields may have peaked, at least for now.",
-      "published": "2026-10-08T18:51:00+00:00",
+      "title": "¿Por qué cae hoy la acción de T-Mobile?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-tmobile-93CH-3867136",
+      "summary": "",
+      "published": "2026-10-08T21:58:29+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de AT&T?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-att-93CH-3867135",
+      "summary": "",
+      "published": "2026-10-08T21:58:08+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen las acciones de Verizon hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-las-acciones-de-verizon-hoy-93CH-3867134",
+      "summary": "",
+      "published": "2026-10-08T21:58:01+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "summary": "“Both properties will be solely in his name.”",
+      "published": "2026-10-08T21:45:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -753,25 +750,16 @@
       "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
       "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
       "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-      "published": "2026-10-08T18:30:00+00:00",
+      "published": "2026-10-08T21:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
-      "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
-      "summary": "Higher bond yields aren’t only about inflation and the Iran war. But it means a higher cost of capital.",
-      "published": "2026-10-08T18:19:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
-      "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
-      "summary": "It doesn’t matter if you are a Republican or Democrat. Math is math.",
-      "published": "2026-10-08T18:08:00+00:00",
+      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+      "summary": "Parental controls aren’t just for kids anymore",
+      "published": "2026-10-08T20:55:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -948,15 +936,6 @@
       "tickers": []
     },
     {
-      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-      "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
-      "summary": "The S&P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
-      "published": "2026-10-06T22:23:01+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
       "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
       "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
@@ -995,7 +974,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 26,
-    "sin_accion": 33
+    "acciones_con_noticias": 23,
+    "sin_accion": 36
   }
 }
