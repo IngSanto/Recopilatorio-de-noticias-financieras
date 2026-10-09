@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T11:28:25.256373+00:00",
+  "generated_at": "2026-10-09T18:56:16.801062+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10507.8,
+      "ventana_horas": 10512.2,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.7,
+      "ventana_horas": 2.9,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 525.1,
+      "ventana_horas": 483.3,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 203.2,
+      "ventana_horas": 195.7,
       "ok": true
     },
     {
@@ -64,11 +64,27 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 11.2,
+      "ventana_horas": 1.9,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Microsoft is nearing a big milestone that solidifies its revival",
+          "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+          "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
+          "published": "2026-10-09T18:06:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
@@ -152,54 +168,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/director-de-pemex-busca-acelerar-nuevas-alianzas-con-empresas-privadas/",
           "summary": "La colaboración con empresas privadas busca ampliar la capacidad de inversión de Pemex.",
           "published": "2026-09-03T00:03:33+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "UBS",
-      "name": "UBS",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "UBS rebaja Pearson tras las ganancias bursátiles que limitan el potencial alcista",
-          "link": "https://es.investing.com/news/stock-market-news/ubs-rebaja-pearson-tras-las-ganancias-bursatiles-que-limitan-el-potencial-alcista-3867788",
-          "summary": "",
-          "published": "2026-10-09T10:49:17+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "UBS elige las mejores acciones mineras de oro ante las presiones de costes en 2027",
-          "link": "https://es.investing.com/news/stock-market-news/ubs-elige-las-mejores-acciones-mineras-de-oro-ante-las-presiones-de-costes-en-2027-3867754",
-          "summary": "",
-          "published": "2026-10-09T10:27:42+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders",
-          "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-          "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
-          "published": "2026-10-09T10:04:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -326,22 +294,6 @@
       ]
     },
     {
-      "ticker": "ITUB",
-      "name": "Itaú Unibanco",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC & more",
-          "link": "https://www.cnbc.com/2026/10/05/stocks-making-the-biggest-moves-premarket-dkng-itub-ptc.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-05T12:01:15+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "CFE",
       "name": "Comisión Federal de Electricidad",
       "exchange": "Estatal (deuda)",
@@ -462,6 +414,22 @@
       ]
     },
     {
+      "ticker": "ITUB",
+      "name": "Itaú Unibanco",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC & more",
+          "link": "https://www.cnbc.com/2026/10/05/stocks-making-the-biggest-moves-premarket-dkng-itub-ptc.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-05T12:01:15+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "TSLA",
       "name": "Tesla",
       "exchange": "NASDAQ",
@@ -542,6 +510,22 @@
       ]
     },
     {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "GMEXICOB.MX",
       "name": "Grupo México",
       "exchange": "BMV",
@@ -588,58 +572,177 @@
           "source_scope": "México"
         }
       ]
-    },
-    {
-      "ticker": "NSANY",
-      "name": "Nissan",
-      "exchange": "OTC",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Nissan confía en su posicionamiento en México frente a nuevos competidores: CEO",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/nissan-confia-en-su-posicionamiento-en-mexico-frente-a-nuevos-competidores-ceo/",
-          "summary": "La automotriz japonesa puede defenderse ante nuevos jugadores en México, dijo Iván Espinosa, líder global de la automotriz.",
-          "published": "2026-08-20T20:32:12+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
     }
   ],
   "sin_accion": [
     {
-      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
-      "published": "2026-10-09T11:15:00+00:00",
+      "title": "Stocks making the biggest moves midday: T-Mobile, Verizon, AT&T, Crown Castle, Teva & more",
+      "link": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-midday-tmus-vz-t-cci-teva.html",
+      "summary": "These are some of the stocks posting the largest moves midday.",
+      "published": "2026-10-09T18:54:18+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies",
+      "link": "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5?mod=mw_rss_topstories",
+      "summary": "Supply disruptions during the Atlantic hurricane season usually end up being a blip. This year could be very different.",
+      "published": "2026-10-09T18:44:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Los futuros del TSX suben levemente ante datos de empleo y caída del petróleo",
-      "link": "https://es.investing.com/news/stock-market-news/los-futuros-del-tsx-suben-levemente-ante-datos-de-empleo-y-caida-del-petroleo-3867860",
-      "summary": "",
-      "published": "2026-10-09T11:10:13+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Aging bull: Why the four-year old stock-market rally can still pack a punch",
-      "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
-      "summary": "History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.",
-      "published": "2026-10-09T11:02:00+00:00",
+      "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "summary": "“I presume these are sophisticated investors taking a profit.”",
+      "published": "2026-10-09T18:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Galp estudia la venta de su cartera de clientes residenciales",
-      "link": "https://es.investing.com/news/stock-market-news/galp-estudia-la-venta-de-su-cartera-de-clientes-residenciales-93CH-3867815",
+      "title": "vVardis solicita su OPV en EE.UU. con pérdidas netas y crecimiento de ingresos",
+      "link": "https://es.investing.com/news/stock-market-news/vvardis-solicita-su-opv-en-eeuu-con-perdidas-netas-y-crecimiento-de-ingresos-3868520",
       "summary": "",
-      "published": "2026-10-09T11:01:09+00:00",
+      "published": "2026-10-09T18:24:46+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "HIMS sube un 7% por los péptidos, pero Citi ve un 17% de caída",
+      "link": "https://es.investing.com/news/stock-market-news/hims-sube-un-7-por-los-peptidos-pero-citi-ve-un-17-de-caida-93CH-3868518",
+      "summary": "",
+      "published": "2026-10-09T18:23:26+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las mejores acciones de semiconductores de IA según Stifel",
+      "link": "https://es.investing.com/news/stock-market-news/las-mejores-acciones-de-semiconductores-de-ia-segun-stifel-3868517",
+      "summary": "",
+      "published": "2026-10-09T18:21:12+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "summary": "Telecommunications stocks were seeing their worst daily drops in over a decade.",
+      "published": "2026-10-09T18:16:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why you need to take a closer look at your favorite stock index",
+      "link": "https://www.marketwatch.com/story/why-you-need-to-take-a-closer-look-at-your-favorite-stock-index-479fb494?mod=mw_rss_topstories",
+      "summary": "Also in Weekend Reads: A positive case for the bond market, how prediction markets can pull you in, and a warning to those who benefit from GLP-1s.",
+      "published": "2026-10-09T18:04:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "summary": "“Both properties will be solely in his name.”",
+      "published": "2026-10-09T18:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+      "published": "2026-10-09T18:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Tata Motors eleva su oferta por Iveco a 14,40 euros por acción",
+      "link": "https://es.investing.com/news/stock-market-news/tata-motors-eleva-su-oferta-por-iveco-a-1440-euros-por-accion-93CH-3868490",
+      "summary": "",
+      "published": "2026-10-09T17:18:33+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Geely Auto entra en el mercado canadiense con lanzamiento en 2027",
+      "link": "https://es.investing.com/news/stock-market-news/geely-auto-entra-en-el-mercado-canadiense-con-lanzamiento-en-2027-93CH-3868473",
+      "summary": "",
+      "published": "2026-10-09T16:36:32+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se desploman hoy las acciones de Cable One?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploman-hoy-las-acciones-de-cable-one-93CH-3868472",
+      "summary": "",
+      "published": "2026-10-09T16:30:11+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+      "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+      "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+      "published": "2026-10-09T16:10:41+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Estados Unidos vuelve a equivocarse sobre exportaciones de petróleo a México",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/estados-unidos-reporta-exportacion-de-petroleo-a-mexico-por-600000-barriles/",
+      "summary": "La Oficina del Censo de EE.UU. ya había rectificado en 2019 sus registros de una presunta exportación de crudo a México.",
+      "published": "2026-10-09T15:22:22+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+      "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+      "summary": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
+      "published": "2026-10-09T13:09:19+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Delta Air Lines, SpaceX, T-Mobile, Humana & more",
+      "link": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-premarket-dal-spcx-tmus.html",
+      "summary": "These are the stocks posting the largest moves premarket.",
+      "published": "2026-10-09T12:31:29+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Qué esperar de Banxico ahora que abre la puerta a recortar la tasa de interés?",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/que-esperar-de-banxico-ahora-que-abre-la-puerta-a-recortar-la-tasa-de-interes/",
+      "summary": "La Minuta mostró que tres de los cinco integrantes de la Junta de Gobierno abrieron el debate sobre un posible recorte de tasas, aunque persisten diferencias sobre cuándo podría ocurrir.",
+      "published": "2026-10-09T12:29:25+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
+      "link": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+      "summary": "Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives.",
+      "published": "2026-10-09T12:01:26+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -650,78 +753,6 @@
       "published": "2026-10-09T11:00:00+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "BMO recorta perspectivas del sector químico por disrupciones en el Estrecho de Ormuz",
-      "link": "https://es.investing.com/news/stock-market-news/bmo-recorta-perspectivas-del-sector-quimico-por-disrupciones-en-el-estrecho-de-ormuz-93CH-3867801",
-      "summary": "",
-      "published": "2026-10-09T10:58:17+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Semtech?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-semtech-93CH-3867797",
-      "summary": "",
-      "published": "2026-10-09T10:54:58+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de Astera Labs?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-astera-labs-93CH-3867789",
-      "summary": "",
-      "published": "2026-10-09T10:51:16+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Truist ve valor en acciones de bancos medianos antes de resultados",
-      "link": "https://es.investing.com/news/stock-market-news/truist-ve-valor-en-acciones-de-bancos-medianos-antes-de-resultados-93CH-3867771",
-      "summary": "",
-      "published": "2026-10-09T10:46:35+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-      "published": "2026-10-09T10:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I feel like a loser’: My ETFs go up one day and crash the next. Is this a bad sign?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "summary": "“I presume these are sophisticated investors taking a profit.”",
-      "published": "2026-10-09T09:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Why the price of this one ETF has gone exponential",
-      "link": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
-      "summary": "An exchange-traded fund tied to freight futures is surging.",
-      "published": "2026-10-09T09:12:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Jelly Roll and Bunnie Xo set to sell $7 million Tennessee home he gave her in divorce",
-      "link": "https://www.marketwatch.com/story/jelly-roll-and-bunnie-xo-set-to-sell-7-million-tennessee-home-he-gave-her-in-divorce-85dcb7c3?mod=mw_rss_topstories",
-      "summary": "Jelly Roll and Bunnie Xo are bidding farewell to their $7 million Tennessee home, which the country singer handed over to his former wife following their divorce.",
-      "published": "2026-10-09T08:58:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -779,15 +810,6 @@
       "tickers": []
     },
     {
-      "title": "Huawei doubles down on smartphones as EV sales slow",
-      "link": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
-      "summary": "Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue.",
-      "published": "2026-10-08T08:04:11+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Financiera Adventus Capital realiza la primera emisión simplificada de deuda en la Bolsa Mexicana",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/financiera-adventus-capital-realiza-la-primera-emision-simplificada-de-deuda-en-la-bolsa-mexicana/",
       "summary": "La sociedad financiera de objeto múltiple (sofom) especializada en financiamiento empresarial y estructurado colocó MXN$560 millones.",
@@ -801,15 +823,6 @@
       "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
       "summary": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
       "published": "2026-10-07T18:44:36+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
-      "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
-      "summary": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
-      "published": "2026-10-07T18:42:36+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -830,15 +843,6 @@
       "published": "2026-10-07T18:01:06+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Constellation Brands, Flutter Entertainment, Neogen & more",
-      "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-premarket-stz-flut-neog.html",
-      "summary": "These are the stocks posting the largest moves in early trading.",
-      "published": "2026-10-07T12:53:39+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -878,15 +882,6 @@
       "tickers": []
     },
     {
-      "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
-      "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
-      "summary": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
-      "published": "2026-10-07T03:00:22+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Grado de inversión de México no está en predicamento en el corto plazo: Hacienda",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grado-de-inversion-de-mexico-no-esta-en-predicamento-en-el-corto-plazo-hacienda/",
       "summary": "El secretario de Hacienda, Édgar Amador, negó que el Gobierno esté aplicando subejercicios al gasto público durante 2026.",
@@ -903,38 +898,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-      "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-      "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
-      "published": "2026-10-06T15:52:22+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Sheinbaum minimiza pérdida de aliados en Latinoamérica tras derrota de Lula en Brasil",
-      "link": "https://www.bloomberglinea.com/latinoamerica/sheinbaum-minimiza-perdida-de-aliados-en-latinoamerica-tras-derrota-de-lula-en-brasil/",
-      "summary": "La presidenta de México comentó que esperará a la segunda vuelta para emitir una opinión.",
-      "published": "2026-10-05T15:26:47+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "México reduce subsidios a gasolinas y sigue sin recaudar diésel tras liberación de reservas del G7",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-reduce-subsidios-a-gasolinas-y-sigue-sin-recaudar-diesel-tras-liberacion-de-reservas-del-g7/",
-      "summary": "México acumula cuatro semanas consecutivas sin recaudar el 100% del impuesto al diésel, además de mantener un subsidio adicional.",
-      "published": "2026-10-03T11:00:01+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 22,
+    "acciones_con_noticias": 21,
     "sin_accion": 36
   }
 }
