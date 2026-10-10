@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T01:05:17.774371+00:00",
+  "generated_at": "2026-10-10T10:45:51.721562+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.9,
+      "ventana_horas": 13.0,
       "ok": true
     },
     {
@@ -64,63 +64,31 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.2,
+      "ventana_horas": 13.5,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "AAPL",
-      "name": "Apple",
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
       "exchange": "NASDAQ",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
-          "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-          "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
-          "published": "2026-10-09T21:30:00+00:00",
-          "source_short": "MarketW",
+          "title": "5 grandes movimientos de analistas en IA: Google reafirmado como favorito tras el lanzamiento del agente Gemini",
+          "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-google-reafirmado-como-favorito-tras-el-lanzamiento-del-agente-gemini-3868700",
+          "summary": "",
+          "published": "2026-10-10T08:26:12+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Microsoft is nearing a big milestone that solidifies its revival",
-          "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-          "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
-          "published": "2026-10-09T21:24:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "F",
-      "name": "Ford Motor Company",
-      "exchange": "NYSE",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Moody’s revisa perspectiva de Crescent Energy a positiva tras acuerdo en Eagle Ford",
-          "link": "https://es.investing.com/news/stock-market-news/moodys-revisa-perspectiva-de-crescent-energy-a-positiva-tras-acuerdo-en-eagle-ford-3868548",
-          "summary": "",
-          "published": "2026-10-09T19:31:09+00:00",
-          "source_short": "Investing",
+          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-01T15:14:36+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -210,6 +178,62 @@
           "published": "2026-09-03T00:03:33+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+          "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+          "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+          "published": "2026-10-09T21:30:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Microsoft is nearing a big milestone that solidifies its revival",
+          "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+          "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
+          "published": "2026-10-09T21:24:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "F",
+      "name": "Ford Motor Company",
+      "exchange": "NYSE",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Moody’s revisa perspectiva de Crescent Energy a positiva tras acuerdo en Eagle Ford",
+          "link": "https://es.investing.com/news/stock-market-news/moodys-revisa-perspectiva-de-crescent-energy-a-positiva-tras-acuerdo-en-eagle-ford-3868548",
+          "summary": "",
+          "published": "2026-10-09T19:31:09+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -486,22 +510,6 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-          "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-10-01T15:14:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "C",
       "name": "Citigroup / Banamex",
       "exchange": "NYSE",
@@ -600,19 +608,46 @@
   ],
   "sin_accion": [
     {
-      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-      "published": "2026-10-10T00:15:00+00:00",
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "summary": "“I presume these are sophisticated investors taking a profit.”",
+      "published": "2026-10-10T10:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "summary": "“I presume these are sophisticated investors taking a profit.”",
-      "published": "2026-10-10T00:00:00+00:00",
+      "title": "Las acciones bancarias europeas caen ante el alza de los rendimientos",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-bancarias-europeas-caen-un-8-ante-el-alza-de-los-rendimientos-3868692",
+      "summary": "",
+      "published": "2026-10-10T06:33:42+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Por qué el mercado bursátil chino se está perdiendo el rally de la IA",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-el-mercado-bursatil-chino-se-esta-perdiendo-el-rally-de-la-ia-3868687",
+      "summary": "",
+      "published": "2026-10-10T05:58:41+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Nuvacore, respaldada por Sequoia, busca valoración de 2.500 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/nuvacore-respaldada-por-sequoia-busca-valoracion-de-2500-millones-de-dolares-3868667",
+      "summary": "",
+      "published": "2026-10-10T01:08:34+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+      "published": "2026-10-10T00:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -685,33 +720,6 @@
       "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-cnh-industrial-93CH-3868556",
       "summary": "",
       "published": "2026-10-09T19:55:05+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de Deere & Company?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-deere--company-93CH-3868555",
-      "summary": "",
-      "published": "2026-10-09T19:48:55+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de maquinaria agrícola caen por investigación regulatoria y precios",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-maquinaria-agricola-caen-por-investigacion-regulatoria-y-precios-3868545",
-      "summary": "",
-      "published": "2026-10-09T19:28:45+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "S&P Global sube la calificación de United Rentals a grado de inversión",
-      "link": "https://es.investing.com/news/stock-market-news/sp-global-sube-la-calificacion-de-united-rentals-a-grado-de-inversion-3868543",
-      "summary": "",
-      "published": "2026-10-09T19:27:28+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
