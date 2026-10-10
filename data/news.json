@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:56:16.801062+00:00",
+  "generated_at": "2026-10-10T01:05:17.774371+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10512.2,
+      "ventana_horas": 10517.6,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 2.9,
+      "ventana_horas": 0.9,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 483.3,
+      "ventana_horas": 486.5,
       "ok": true
     },
     {
@@ -64,11 +64,35 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.9,
+      "ventana_horas": 3.2,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+          "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+          "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+          "published": "2026-10-09T21:30:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
     {
       "ticker": "MSFT",
       "name": "Microsoft",
@@ -79,8 +103,24 @@
           "title": "Microsoft is nearing a big milestone that solidifies its revival",
           "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
           "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
-          "published": "2026-10-09T18:06:00+00:00",
+          "published": "2026-10-09T21:24:00+00:00",
           "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "F",
+      "name": "Ford Motor Company",
+      "exchange": "NYSE",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Moody’s revisa perspectiva de Crescent Energy a positiva tras acuerdo en Eagle Ford",
+          "link": "https://es.investing.com/news/stock-market-news/moodys-revisa-perspectiva-de-crescent-energy-a-positiva-tras-acuerdo-en-eagle-ford-3868548",
+          "summary": "",
+          "published": "2026-10-09T19:31:09+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -174,46 +214,6 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
-          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-08T12:28:26+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-10-02T17:52:39+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
-          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-08T12:28:26+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "GS",
       "name": "Goldman Sachs",
       "exchange": "NYSE",
@@ -254,6 +254,30 @@
       ]
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
+          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-08T12:28:26+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-10-02T17:52:39+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "MU",
       "name": "Micron",
       "exchange": "NASDAQ",
@@ -272,6 +296,22 @@
           "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
           "summary": "These are the stocks posting the largest moves in the premarket.",
           "published": "2026-10-01T15:14:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
+          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-08T12:28:26+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -510,22 +550,6 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "GMEXICOB.MX",
       "name": "Grupo México",
       "exchange": "BMV",
@@ -576,19 +600,10 @@
   ],
   "sin_accion": [
     {
-      "title": "Stocks making the biggest moves midday: T-Mobile, Verizon, AT&T, Crown Castle, Teva & more",
-      "link": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-midday-tmus-vz-t-cci-teva.html",
-      "summary": "These are some of the stocks posting the largest moves midday.",
-      "published": "2026-10-09T18:54:18+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies",
-      "link": "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5?mod=mw_rss_topstories",
-      "summary": "Supply disruptions during the Atlantic hurricane season usually end up being a blip. This year could be very different.",
-      "published": "2026-10-09T18:44:00+00:00",
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+      "published": "2026-10-10T00:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -597,52 +612,7 @@
       "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
       "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "summary": "“I presume these are sophisticated investors taking a profit.”",
-      "published": "2026-10-09T18:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "vVardis solicita su OPV en EE.UU. con pérdidas netas y crecimiento de ingresos",
-      "link": "https://es.investing.com/news/stock-market-news/vvardis-solicita-su-opv-en-eeuu-con-perdidas-netas-y-crecimiento-de-ingresos-3868520",
-      "summary": "",
-      "published": "2026-10-09T18:24:46+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "HIMS sube un 7% por los péptidos, pero Citi ve un 17% de caída",
-      "link": "https://es.investing.com/news/stock-market-news/hims-sube-un-7-por-los-peptidos-pero-citi-ve-un-17-de-caida-93CH-3868518",
-      "summary": "",
-      "published": "2026-10-09T18:23:26+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las mejores acciones de semiconductores de IA según Stifel",
-      "link": "https://es.investing.com/news/stock-market-news/las-mejores-acciones-de-semiconductores-de-ia-segun-stifel-3868517",
-      "summary": "",
-      "published": "2026-10-09T18:21:12+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-      "summary": "Telecommunications stocks were seeing their worst daily drops in over a decade.",
-      "published": "2026-10-09T18:16:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Why you need to take a closer look at your favorite stock index",
-      "link": "https://www.marketwatch.com/story/why-you-need-to-take-a-closer-look-at-your-favorite-stock-index-479fb494?mod=mw_rss_topstories",
-      "summary": "Also in Weekend Reads: A positive case for the bond market, how prediction markets can pull you in, and a warning to those who benefit from GLP-1s.",
-      "published": "2026-10-09T18:04:00+00:00",
+      "published": "2026-10-10T00:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -651,43 +621,97 @@
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
       "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "summary": "“Both properties will be solely in his name.”",
-      "published": "2026-10-09T18:00:00+00:00",
+      "published": "2026-10-09T23:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-      "published": "2026-10-09T18:00:00+00:00",
+      "title": "How to provide guaranteed retirement income while paying no commissions",
+      "link": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
+      "summary": "Unlike the stock market, whose future returns are anything but assured, a TIPS ladder’s payout is guaranteed.",
+      "published": "2026-10-09T22:41:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Tata Motors eleva su oferta por Iveco a 14,40 euros por acción",
-      "link": "https://es.investing.com/news/stock-market-news/tata-motors-eleva-su-oferta-por-iveco-a-1440-euros-por-accion-93CH-3868490",
+      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+      "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+      "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
+      "published": "2026-10-09T22:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+      "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+      "summary": "A new report paints OpenAI’s financial picture in a more optimistic light.",
+      "published": "2026-10-09T21:27:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Trump y Putin acuerdan que Rusia suministre diésel al mercado global",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/trump-y-putin-acuerdan-que-rusia-suministre-diesel-al-mercado-global/",
+      "summary": "El presidente de Estados Unidos acordó la liberación inmediata de más de 300.000 toneladas de diésel ruso al mercado estadounidense y global.",
+      "published": "2026-10-09T20:45:59+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Hunterbrook revela posición corta en Meta mientras datos alternativos señalan enfriamiento de Muse",
+      "link": "https://es.investing.com/news/stock-market-news/hunterbrook-revela-posicion-corta-en-meta-mientras-datos-alternativos-senalan-enfriamiento-de-muse-3868566",
       "summary": "",
-      "published": "2026-10-09T17:18:33+00:00",
+      "published": "2026-10-09T20:08:20+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Geely Auto entra en el mercado canadiense con lanzamiento en 2027",
-      "link": "https://es.investing.com/news/stock-market-news/geely-auto-entra-en-el-mercado-canadiense-con-lanzamiento-en-2027-93CH-3868473",
+      "title": "¿Por qué caen hoy las acciones de AGCO?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-agco-93CH-3868557",
       "summary": "",
-      "published": "2026-10-09T16:36:32+00:00",
+      "published": "2026-10-09T20:00:30+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué se desploman hoy las acciones de Cable One?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploman-hoy-las-acciones-de-cable-one-93CH-3868472",
+      "title": "¿Por qué caen hoy las acciones de CNH Industrial?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-cnh-industrial-93CH-3868556",
       "summary": "",
-      "published": "2026-10-09T16:30:11+00:00",
+      "published": "2026-10-09T19:55:05+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen hoy las acciones de Deere & Company?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-deere--company-93CH-3868555",
+      "summary": "",
+      "published": "2026-10-09T19:48:55+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de maquinaria agrícola caen por investigación regulatoria y precios",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-maquinaria-agricola-caen-por-investigacion-regulatoria-y-precios-3868545",
+      "summary": "",
+      "published": "2026-10-09T19:28:45+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "S&P Global sube la calificación de United Rentals a grado de inversión",
+      "link": "https://es.investing.com/news/stock-market-news/sp-global-sube-la-calificacion-de-united-rentals-a-grado-de-inversion-3868543",
+      "summary": "",
+      "published": "2026-10-09T19:27:28+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -696,7 +720,16 @@
       "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
       "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
       "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
-      "published": "2026-10-09T16:10:41+00:00",
+      "published": "2026-10-09T19:18:24+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Stocks making the biggest moves midday: T-Mobile, Verizon, AT&T, Crown Castle, Teva & more",
+      "link": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-midday-tmus-vz-t-cci-teva.html",
+      "summary": "These are some of the stocks posting the largest moves midday.",
+      "published": "2026-10-09T18:57:23+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -889,20 +922,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Diputados aprueban Ley de Economía Digital para reducir el uso de efectivo en México",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-de-economia-digital-para-reducir-el-uso-de-efectivo-en-mexico/",
-      "summary": "Los legisladores avalaron en lo general la nueva Ley que hará obligatorios los pagos digitales y electrónicos en algunos sectores con 330 a favor y 122 en contra.",
-      "published": "2026-10-07T00:26:31+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 21,
+    "acciones_con_noticias": 22,
     "sin_accion": 36
   }
 }
