@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T00:20:04.591031+00:00",
+  "generated_at": "2026-10-11T10:58:51.677472+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 14.3,
+      "ventana_horas": 19.8,
       "ok": true
     },
     {
@@ -568,6 +568,15 @@
   ],
   "sin_accion": [
     {
+      "title": "Los inversores extranjeros huyen de las acciones de Corea del Sur",
+      "link": "https://es.investing.com/news/stock-market-news/los-inversores-extranjeros-huyen-de-las-acciones-de-corea-del-sur-3868799",
+      "summary": "",
+      "published": "2026-10-11T02:23:04+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Infosys no prevé un impacto significativo por la suspensión del programa PERM en EE.UU.",
       "link": "https://es.investing.com/news/stock-market-news/infosys-no-preve-un-impacto-significativo-por-la-suspension-del-programa-perm-en-eeuu-3868747",
       "summary": "",
@@ -662,15 +671,6 @@
       "link": "https://es.investing.com/news/stock-market-news/china-propone-prohibir-manillas-ocultas-y-controles-virtuales-en-coches-3868720",
       "summary": "",
       "published": "2026-10-10T12:47:48+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Podrían los diferenciales de bonos franceses frenar el rally de las acciones europeas?",
-      "link": "https://es.investing.com/news/stock-market-news/podrian-los-diferenciales-de-bonos-franceses-frenar-el-rally-de-las-acciones-europeas-3868718",
-      "summary": "",
-      "published": "2026-10-10T12:18:32+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
