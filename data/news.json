@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T10:58:51.677472+00:00",
+  "generated_at": "2026-10-11T18:22:27.306485+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 19.8,
+      "ventana_horas": 28.1,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 212.2,
+      "ventana_horas": 221.6,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.9,
+      "ventana_horas": 20.9,
       "ok": true
     }
   ],
@@ -190,46 +190,6 @@
       ]
     },
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
-          "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-10-07T16:52:14+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
-          "published": "2026-10-07T11:55:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
-          "link": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
-          "summary": "Goldman Sachs says tight refinery capacity could keep diesel prices elevated through 2027, with high margins needed to curb demand and rebuild inventories.",
-          "published": "2026-10-06T08:47:30+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
-          "published": "2026-09-19T12:50:49+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "AVGO",
       "name": "Broadcom",
       "exchange": "NASDAQ",
@@ -264,38 +224,6 @@
           "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-10-08T12:28:26+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
-          "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-10-07T16:52:14+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "HSBC",
-      "name": "HSBC",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
-          "published": "2026-10-07T11:55:36+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -346,6 +274,46 @@
           "published": "2026-08-28T11:52:59+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
+          "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-07T16:52:14+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+          "published": "2026-10-07T11:55:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
+          "link": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
+          "summary": "Goldman Sachs says tight refinery capacity could keep diesel prices elevated through 2027, with high margins needed to curb demand and rebuild inventories.",
+          "published": "2026-10-06T08:47:30+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+          "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+          "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+          "published": "2026-09-19T12:50:49+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -418,6 +386,38 @@
           "published": "2025-07-28T15:10:03+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
+          "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-07T16:52:14+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "HSBC",
+      "name": "HSBC",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+          "published": "2026-10-07T11:55:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -568,6 +568,78 @@
   ],
   "sin_accion": [
     {
+      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+      "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
+      "published": "2026-10-11T16:35:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+      "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+      "summary": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices — but one expert warns markets have gotten “extremely complacent.”",
+      "published": "2026-10-11T14:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The bull market is turning 4 years old — but yields could crash the party",
+      "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+      "summary": "For four years, tech has been the answer to almost every question about this bull market.",
+      "published": "2026-10-11T13:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Por qué las ’acciones de internet’ caen con fuerza pese al alza del Nasdaq",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-internet-caen-con-fuerza-pese-al-alza-del-nasdaq-3868852",
+      "summary": "",
+      "published": "2026-10-11T12:32:13+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "summary": "“I presume these are sophisticated investors taking a profit.”",
+      "published": "2026-10-11T12:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
+      "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+      "summary": "The big banks kick off earnings season on Tuesday, to provide a first read on the health of the economy in a rising-yield environment.",
+      "published": "2026-10-11T12:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+      "published": "2026-10-11T12:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "This Chinese memory chip maker has global potential and is poised to outperform",
+      "link": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html",
+      "summary": "The stakes are rising for China's memory chip maker CXMT ahead of its earnings release, expected Oct. 31.",
+      "published": "2026-10-11T11:39:38+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Los inversores extranjeros huyen de las acciones de Corea del Sur",
       "link": "https://es.investing.com/news/stock-market-news/los-inversores-extranjeros-huyen-de-las-acciones-de-corea-del-sur-3868799",
       "summary": "",
@@ -582,60 +654,6 @@
       "summary": "",
       "published": "2026-10-10T20:14:06+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "summary": "Risk comes in many forms, even with “safe” investments.",
-      "published": "2026-10-10T19:44:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "summary": "Parental controls aren’t just for kids anymore",
-      "published": "2026-10-10T19:44:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
-      "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
-      "summary": "Don’t just focus on stock picks when you’re thinking of building retirement wealth",
-      "published": "2026-10-10T19:44:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
-      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-      "summary": "Seven tips for painlessly moving in retirement.",
-      "published": "2026-10-10T19:44:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
-      "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
-      "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
-      "published": "2026-10-10T19:44:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
-      "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-      "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
-      "published": "2026-10-10T19:44:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -662,15 +680,6 @@
       "link": "https://es.investing.com/news/stock-market-news/philips-gana-batalla-judicial-en-paises-bajos-por-el-retiro-de-dispositivos-3868724",
       "summary": "",
       "published": "2026-10-10T14:05:05+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "China propone prohibir manillas ocultas y controles virtuales en coches",
-      "link": "https://es.investing.com/news/stock-market-news/china-propone-prohibir-manillas-ocultas-y-controles-virtuales-en-coches-3868720",
-      "summary": "",
-      "published": "2026-10-10T12:47:48+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -799,15 +808,6 @@
       "published": "2026-10-08T11:00:00+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
-      "link": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-      "summary": "A recovery in China's largest cities real estate markets could come as soon as next year, the S&P ratings agency said.",
-      "published": "2026-10-08T09:27:31+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
