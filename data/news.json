@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T12:21:10.422426+00:00",
+  "generated_at": "2026-10-12T21:49:38.973169+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10517.6,
+      "ventana_horas": 10587.1,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.5,
+      "ventana_horas": 1.4,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 439.5,
+      "ventana_horas": 442.1,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 241.3,
+      "ventana_horas": 244.8,
       "ok": true
     },
     {
@@ -64,70 +64,38 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.2,
+      "ventana_horas": 4.8,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "Here’s why Goldman Sachs just flipped bullish on stocks for the rest of the year",
-          "link": "https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories",
-          "summary": "Goldman Sachs is leaning more heavily into stocks for the remainder of the year. That’s down to earnings and a market that is cheaper overall.",
-          "published": "2026-10-12T09:14:00+00:00",
+          "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+          "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+          "summary": "The chip makers introduced hardware and software designs for future AI data centers, but the revenue potential is still far out, an analyst says.",
+          "published": "2026-10-12T21:19:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
-          "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-10-07T16:52:14+00:00",
-          "source_short": "CNBC",
+          "title": "Las acciones de Navitas suben un 5% tras su alianza con Nvidia en IA",
+          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-navitas-suben-un-5-tras-su-alianza-con-nvidia-en-ia-3870678",
+          "summary": "",
+          "published": "2026-10-12T20:24:35+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
-          "published": "2026-10-07T11:55:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
-          "link": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
-          "summary": "Goldman Sachs says tight refinery capacity could keep diesel prices elevated through 2027, with high margins needed to curb demand and rebuild inventories.",
-          "published": "2026-10-06T08:47:30+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "C",
-      "name": "Citigroup / Banamex",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Mired in their worst losing streak in years, small caps could be the best way for investors to play crucial CPI data",
-          "link": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
-          "summary": "Stuart Kaiser, of Citigroup, recommends buying iShares Russell 2000 exchange-traded fund call options before the consumer-price index for September is released on Wednesday.",
-          "published": "2026-10-12T11:30:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
-          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
-          "published": "2026-09-26T00:25:22+00:00",
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -140,6 +108,14 @@
       "sector": "Tecnología",
       "news": [
         {
+          "title": "These stocks could be the future winners — and losers — of a massive shift in IT spending",
+          "link": "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05?mod=mw_rss_topstories",
+          "summary": "As more money flows toward AI software offerings, Salesforce could deepen its customer relationships while Adobe looks vulnerable, analysts say.",
+          "published": "2026-10-12T16:47:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
           "link": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
           "summary": "These are the stocks posting the largest moves in early trading.",
@@ -150,32 +126,96 @@
       ]
     },
     {
-      "ticker": "DB",
-      "name": "Deutsche Bank",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "Deutsche Bank rebaja perspectivas de flatexDEGIRO por desaceleración en captación de clientes",
-          "link": "https://es.investing.com/news/stock-market-news/deutsche-bank-rebaja-perspectivas-de-flatexdegiro-por-desaceleracion-en-captacion-de-clientes-3869891",
+          "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+          "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+          "summary": "The chip makers introduced hardware and software designs for future AI data centers, but the revenue potential is still far out, an analyst says.",
+          "published": "2026-10-12T21:19:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo",
+      "exchange": "NASDAQ",
+      "sector": "Alimentos",
+      "news": [
+        {
+          "title": "PepsiCo rebaja el valor de los bonos de Poppi ante la desaceleración del crecimiento",
+          "link": "https://es.investing.com/news/stock-market-news/pepsico-rebaja-el-valor-de-los-bonos-de-poppi-ante-la-desaceleracion-del-crecimiento-3870704",
           "summary": "",
-          "published": "2026-10-12T11:51:03+00:00",
+          "published": "2026-10-12T20:52:54+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "MS",
-      "name": "Morgan Stanley",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
       "news": [
         {
-          "title": "The bond market is doing the Fed’s job, and that could be good news for stocks, says Morgan Stanley strategist",
-          "link": "https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories",
-          "summary": "A stronger dollar, higher bond market yields and elevated gas prices are already tightening financial conditions in the U.S. to the point that Kevin Warsh may not even need to hike rates.",
-          "published": "2026-10-12T09:23:00+00:00",
+          "title": "Microsoft hits a big milestone that solidifies its revival",
+          "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+          "summary": "Microsoft has reclaimed a $4 trillion market cap on Monday — and fresh records are in sight.",
+          "published": "2026-10-12T20:40:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "name": "Disney",
+      "exchange": "NYSE",
+      "sector": "Medios",
+      "news": [
+        {
+          "title": "Epic Games retrasa su título con Disney y apuesta por la IA como modelo principal",
+          "link": "https://es.investing.com/news/stock-market-news/epic-games-retrasa-su-titulo-con-disney-y-apuesta-por-la-ia-como-modelo-principal-3870614",
+          "summary": "",
+          "published": "2026-10-12T19:55:46+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "These stocks could be the future winners — and losers — of a massive shift in IT spending",
+          "link": "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05?mod=mw_rss_topstories",
+          "summary": "As more money flows toward AI software offerings, Salesforce could deepen its customer relationships while Adobe looks vulnerable, analysts say.",
+          "published": "2026-10-12T16:47:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Buy these stocks as plays on Google’s big spending, analyst says",
+          "link": "https://www.marketwatch.com/story/buy-these-stocks-as-plays-on-googles-big-spending-analyst-says-a159c170?mod=mw_rss_topstories",
+          "summary": "Google Cloud is growing fast, but several chip makers and networking providers could be better ways to capitalize on that trend, according to Melius Research.",
+          "published": "2026-10-12T16:31:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         }
@@ -270,30 +310,6 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
-          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-08T12:28:26+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-10-02T17:52:39+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "JPM",
       "name": "JPMorgan Chase",
       "exchange": "NYSE",
@@ -304,22 +320,6 @@
           "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
           "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
           "published": "2026-10-10T15:00:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
-          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-08T12:28:26+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -374,24 +374,56 @@
       ]
     },
     {
-      "ticker": "NKE",
-      "name": "Nike",
+      "ticker": "GS",
+      "name": "Goldman Sachs",
       "exchange": "NYSE",
-      "sector": "Consumo",
+      "sector": "Banca",
       "news": [
+        {
+          "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
+          "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-07T16:52:14+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+          "published": "2026-10-07T11:55:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
+          "link": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
+          "summary": "Goldman Sachs says tight refinery capacity could keep diesel prices elevated through 2027, with high margins needed to curb demand and rebuild inventories.",
+          "published": "2026-10-06T08:47:30+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
+          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-08T12:28:26+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
         {
           "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
           "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
           "summary": "These are some of the stocks posting the largest moves midday.",
           "published": "2026-10-02T17:52:39+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Nike, ON Semiconductor, Synaptics, Vylor & more",
-          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-premarket-nike-on-semiconductor-synaptics-vylor-more.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-02T12:03:43+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -442,6 +474,22 @@
           "published": "2025-07-28T15:10:03+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
+          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-08T12:28:26+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -506,6 +554,38 @@
           "published": "2026-10-02T17:52:39+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "exchange": "NYSE",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+          "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-10-02T17:52:39+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup / Banamex",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
+          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
+          "published": "2026-09-26T00:25:22+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -588,103 +668,150 @@
           "source_scope": "México"
         }
       ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
     }
   ],
   "sin_accion": [
     {
+      "title": "S&P Dow Jones Indices lanza un índice conjunto con HKEX",
+      "link": "https://es.investing.com/news/stock-market-news/sp-dow-jones-indices-lanza-un-indice-conjunto-con-hkex-93CH-3870716",
+      "summary": "",
+      "published": "2026-10-12T21:19:28+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Mueller Water Products caen tras anuncio de cambio de CFO",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-mueller-water-products-caen-tras-anuncio-de-cambio-de-cfo-3870720",
+      "summary": "",
+      "published": "2026-10-12T21:19:26+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+      "published": "2026-10-12T21:16:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Elon Musk gasta 366 millones de dólares en las elecciones de medio mandato de 2026",
+      "link": "https://es.investing.com/news/stock-market-news/elon-musk-gasta-366-millones-de-dolares-en-las-elecciones-de-medio-mandato-de-2026-3870707",
+      "summary": "",
+      "published": "2026-10-12T20:53:31+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Kroger recortará más de un tercio de su plantilla corporativa en una gran reestructuración",
+      "link": "https://es.investing.com/news/stock-market-news/kroger-recortara-mas-de-un-tercio-de-su-plantilla-corporativa-en-una-gran-reestructuracion-3870701",
+      "summary": "",
+      "published": "2026-10-12T20:46:54+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
+      "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+      "summary": "The sharp moves could partly be a reaction to recent cautious commentary on AI spending.",
+      "published": "2026-10-12T20:46:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "summary": "“I’m in my 60s, recently retired and living my best life.”",
+      "published": "2026-10-12T20:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de FormFactor suben tras inversión de 300 millones de dólares de Teradyne",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-formfactor-suben-tras-inversion-de-300-millones-de-dolares-de-teradyne-3870650",
+      "summary": "",
+      "published": "2026-10-12T20:18:47+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Syndax caen tras el fracaso de un ensayo clínico para la FPI",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-syndax-caen-tras-el-fracaso-de-un-ensayo-clinico-para-la-fpi-3870626",
+      "summary": "",
+      "published": "2026-10-12T20:06:48+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
+      "link": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
+      "summary": "The company’s stock was up more than 3% following the release of Muse Wonder and Muse Wonder Full, which analysts expect to drive new business opportunities.",
+      "published": "2026-10-12T19:43:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Trump’s ‘energy ceasefire’ collides with real-world problems of dwindling fuel supplies",
+      "link": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
+      "summary": "Oil markets were struggling on Monday to gauge how President Donald Trump’s new declaration of an “energy ceasefire” between Russia and Ukraine might help mitigate a deepening global oil crisis as the Middle East conflict drags on.",
+      "published": "2026-10-12T18:36:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+      "link": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+      "summary": "The S&P 500 has climbed almost 120% since its closing low on Oct. 12, 2022.",
+      "published": "2026-10-12T18:18:39+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Crisis de agua contaminada confronta a Sheinbaum con gobernador de Jalisco por esquema privado de obras",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/crisis-de-agua-contaminada-confronta-a-sheinbaum-con-gobernador-de-jalisco-por-esquema-privado-de-obras/",
+      "summary": "El gobernador Pablo Lemus planteó a la presidenta mexicana una solución bajo el modelo de “Construcción, Mantenimiento, Rehabilitación y Operación” por parte del sector privado.",
+      "published": "2026-10-12T18:13:21+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+      "published": "2026-10-12T17:15:21+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
       "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "summary": "“I presume these are sophisticated investors taking a profit.”",
-      "published": "2026-10-12T12:15:00+00:00",
+      "published": "2026-10-12T16:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-      "published": "2026-10-12T12:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de SSP Group?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-ssp-group-93CH-3869917",
-      "summary": "",
-      "published": "2026-10-12T12:02:15+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "IonQ adquirirá Elisity por hasta 1.300 millones de dólares en acciones",
-      "link": "https://es.investing.com/news/stock-market-news/ionq-adquirira-elisity-por-hasta-1300-millones-de-dolares-en-acciones-93CH-3869906",
-      "summary": "",
-      "published": "2026-10-12T11:59:37+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de IonQ?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-ionq-93CH-3869905",
-      "summary": "",
-      "published": "2026-10-12T11:58:38+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Raymond James mejora T-Mobile y dice que el temor a SpaceX es exagerado",
-      "link": "https://es.investing.com/news/stock-market-news/raymond-james-mejora-tmobile-y-dice-que-el-temor-a-spacex-es-exagerado-3869888",
-      "summary": "",
-      "published": "2026-10-12T11:47:27+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Citi nombra su principal acción de productos químicos especiales",
-      "link": "https://es.investing.com/news/stock-market-news/citi-nombra-su-principal-accion-de-productos-quimicos-especiales-3869885",
-      "summary": "",
-      "published": "2026-10-12T11:46:42+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Opel camino de lanzar un SUV eléctrico con Leapmotor a mediados de 2028",
-      "link": "https://es.investing.com/news/stock-market-news/opel-camino-de-lanzar-un-suv-electrico-con-leapmotor-a-mediados-de-2028-93CH-3869870",
-      "summary": "",
-      "published": "2026-10-12T11:41:19+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
-      "link": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
-      "summary": "One highly rated fund manager shares some top picks, including two names many U.S. investors will be unfamiliar with.",
-      "published": "2026-10-12T11:34:00+00:00",
-      "source_short": "MarketW",
+      "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+      "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+      "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
+      "published": "2026-10-12T15:37:26+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -692,27 +819,18 @@
       "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
       "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
       "summary": "The U.S. economists were awarded for work that underpins the models used by central banks and governments to stabilize the economy.",
-      "published": "2026-10-12T11:30:46+00:00",
+      "published": "2026-10-12T14:09:02+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
-      "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
-      "summary": "The big banks kick off earnings season on Tuesday, to provide a first read on the health of the economy in a rising-yield environment.",
-      "published": "2026-10-12T11:07:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Fed officials want to hold off a rate hike this month. Will this week’s inflation data let them?",
-      "link": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
-      "summary": "A troubling rise in prices might trigger an interest-rate move at the Fed’s meeting in late October.",
-      "published": "2026-10-12T11:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
+      "title": "México espera lanzar esquema de financiamiento para proyectos de energía antes de concluir 2026",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-espera-lanzar-esquema-de-financiamiento-para-proyectos-de-energia-antes-de-concluir-2026/",
+      "summary": "Jorge Mendoza, director general de Banobras, dijo a Bloomberg Línea que el esquema de financiamiento ya tiene asignado su administrador y está a la espera de los proyectos.",
+      "published": "2026-10-12T13:24:20+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -721,15 +839,6 @@
       "summary": "India inflations jumps for the 11-straight month, raising prospects of a further interest rate hike",
       "published": "2026-10-12T10:49:24+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "summary": "“I’m in my 60s, recently retired and living my best life.”",
-      "published": "2026-10-12T10:15:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -815,39 +924,12 @@
       "tickers": []
     },
     {
-      "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
-      "link": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
-      "summary": "Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives.",
-      "published": "2026-10-09T12:01:26+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "México no tiene reservas de gas natural en ductos: analistas",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-no-tiene-reservas-de-gas-natural-en-ductos-analistas/",
       "summary": "Expertos en gas natural consideran que el problema de contar los ductos como presuntas reservas crea la sensación de que México tiene una protección cuando no es así.",
       "published": "2026-10-09T11:00:00+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-      "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-      "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
-      "published": "2026-10-09T06:30:01+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
-      "link": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
-      "summary": "Gas prices are expected to remain above $4 per gallon on Nov. 3, according to traders on prediction market platform Kalshi.",
-      "published": "2026-10-08T17:51:51+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -912,29 +994,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Diputados aprueban Ley Aduanera con embargo precautorio en subvaluación de mercancías",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-aduanera-con-embargo-precautorio-en-subvaluacion-de-mercancias/",
-      "summary": "Carol Altamirano, presidente de la Comisión de Hacienda, dijo que la reforma plantea mecanismos legales para combatir la evasión y hacer frente al contrabando.",
-      "published": "2026-10-07T04:31:26+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Grado de inversión de México no está en predicamento en el corto plazo: Hacienda",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grado-de-inversion-de-mexico-no-esta-en-predicamento-en-el-corto-plazo-hacienda/",
-      "summary": "El secretario de Hacienda, Édgar Amador, negó que el Gobierno esté aplicando subejercicios al gasto público durante 2026.",
-      "published": "2026-10-07T01:18:55+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 23,
+    "acciones_con_noticias": 27,
     "sin_accion": 36
   }
 }
