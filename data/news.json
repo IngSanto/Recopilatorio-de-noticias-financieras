@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T09:40:38.775486+00:00",
+  "generated_at": "2026-10-14T18:08:15.372052+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.8,
+      "ventana_horas": 2.6,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 450.0,
+      "ventana_horas": 397.3,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 198.3,
+      "ventana_horas": 190.4,
       "ok": true
     },
     {
@@ -64,23 +64,87 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 12.8,
+      "ventana_horas": 3.0,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "ASML",
-      "name": "ASML",
+      "ticker": "MU",
+      "name": "Micron",
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Chip bellwether ASML says customers are already asking to place orders — for 2030",
-          "link": "https://www.marketwatch.com/story/chip-bellwether-asml-says-customers-are-already-asking-to-place-orders-for-2030-b3aa1a90?mod=mw_rss_topstories",
-          "summary": "The Dutch supplier for the semiconductor industry said there is strong interest in placing orders for 2029 and 2030.",
-          "published": "2026-10-14T08:41:00+00:00",
+          "title": "Micron wins praise from Elon Musk for not being too greedy",
+          "link": "https://www.marketwatch.com/story/micron-wins-praise-from-elon-musk-for-not-being-too-greedy-616fa15f?mod=mw_rss_topstories",
+          "summary": "Top memory-chip providers have ample room to raise prices further, but Musk thinks Micron isn’t squeezing its customers to an excessive degree.",
+          "published": "2026-10-14T15:07:00+00:00",
           "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+          "summary": "These are the stocks posting the largest moves before the bell.",
+          "published": "2026-10-13T11:49:04+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
+          "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-07T16:52:14+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "El director ejecutivo de Nvidia cortaría el suministro de chips ante una IA insegura",
+          "link": "https://es.investing.com/news/stock-market-news/el-director-ejecutivo-de-nvidia-dice-que-detendria-el-suministro-de-chips-a-empresas-con-ia-insegura-3874254",
+          "summary": "",
+          "published": "2026-10-14T17:55:33+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "MS",
+      "name": "Morgan Stanley",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+          "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+          "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+          "published": "2026-10-14T17:08:23+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Morgan Stanley reafirma a Wells Fargo como su principal apuesta tras los resultados del 3T26",
+          "link": "https://es.investing.com/news/stock-market-news/morgan-stanley-reafirma-a-wells-fargo-como-su-principal-apuesta-tras-los-resultados-del-3t26-3874190",
+          "summary": "",
+          "published": "2026-10-14T15:48:05+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -92,10 +156,74 @@
       "sector": "Banca",
       "news": [
         {
-          "title": "¿Por qué cae hoy la acción de Bank of America?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-bank-of-america-93CH-3872973",
+          "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+          "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+          "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+          "published": "2026-10-14T16:49:11+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
+          "link": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-14T11:36:25+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BLK",
+      "name": "BlackRock",
+      "exchange": "NYSE",
+      "sector": "Finanzas",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
+          "link": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-14T11:36:25+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Grupo México y BlackRock buscarán nuevos proyectos en América tras cerrar fusión de activos eléctricos",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-mexico-y-blackrock-buscaran-nuevos-proyectos-en-america-tras-cerrar-fusion-de-activos-electricos/",
+          "summary": "La compañía industrial informó que ha concluido la transacción, estimada en US$800 millones, para formar un generador privado líder en México.",
+          "published": "2026-09-09T04:25:20+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "WFC",
+      "name": "Wells Fargo",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Morgan Stanley reafirma a Wells Fargo como su principal apuesta tras los resultados del 3T26",
+          "link": "https://es.investing.com/news/stock-market-news/morgan-stanley-reafirma-a-wells-fargo-como-su-principal-apuesta-tras-los-resultados-del-3t26-3874190",
           "summary": "",
-          "published": "2026-10-14T08:38:43+00:00",
+          "published": "2026-10-14T15:48:05+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Meta amplía WhatsApp con llamadas para usuarios sin cuenta",
+          "link": "https://es.investing.com/news/stock-market-news/meta-amplia-whatsapp-con-llamadas-para-usuarios-sin-cuenta-3874175",
+          "summary": "",
+          "published": "2026-10-14T15:29:30+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
@@ -128,30 +256,6 @@
           "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
           "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
           "published": "2026-10-10T15:00:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-          "summary": "These are the stocks posting the largest moves before the bell.",
-          "published": "2026-10-13T11:49:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
-          "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-10-07T16:52:14+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -328,14 +432,6 @@
           "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
           "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
           "published": "2026-10-07T11:55:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
-          "link": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
-          "summary": "Goldman Sachs says tight refinery capacity could keep diesel prices elevated through 2027, with high margins needed to curb demand and rebuild inventories.",
-          "published": "2026-10-06T08:47:30+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -516,110 +612,132 @@
           "source_scope": "México"
         }
       ]
-    },
-    {
-      "ticker": "BLK",
-      "name": "BlackRock",
-      "exchange": "NYSE",
-      "sector": "Finanzas",
-      "news": [
-        {
-          "title": "Grupo México y BlackRock buscarán nuevos proyectos en América tras cerrar fusión de activos eléctricos",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-mexico-y-blackrock-buscaran-nuevos-proyectos-en-america-tras-cerrar-fusion-de-activos-electricos/",
-          "summary": "La compañía industrial informó que ha concluido la transacción, estimada en US$800 millones, para formar un generador privado líder en México.",
-          "published": "2026-09-09T04:25:20+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
     }
   ],
   "sin_accion": [
     {
-      "title": "¿Por qué suben hoy las acciones de Big Yellow?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-suben-hoy-las-acciones-de-big-yellow-93CH-3873084",
-      "summary": "",
-      "published": "2026-10-14T09:27:57+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "GSK planea recortar hasta 1.217 empleos en Bélgica",
-      "link": "https://es.investing.com/news/stock-market-news/gsk-planea-recortar-hasta-1217-empleos-en-belgica-93CH-3873082",
-      "summary": "",
-      "published": "2026-10-14T09:27:41+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Kion recorta perspectivas para 2026 y retrasa objetivos de margen",
-      "link": "https://es.investing.com/news/stock-market-news/kion-recorta-perspectivas-para-2026-y-retrasa-objetivos-de-margen-3873074",
-      "summary": "",
-      "published": "2026-10-14T09:21:31+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "summary": "“I lost my job and eventually my home — and it’s still hard.”",
-      "published": "2026-10-14T09:15:00+00:00",
+      "title": "These unpopular solutions could rescue Social Security’s finances. Here’s who could pay the most.",
+      "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+      "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
+      "published": "2026-10-14T18:06:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué se dispara hoy la acción de Liquidia?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-liquidia-93CH-3873025",
-      "summary": "",
-      "published": "2026-10-14T09:03:29+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘Sopranos’ star Steven Van Zandt is selling his Greenwich Village penthouse for $19 million",
-      "link": "https://www.marketwatch.com/story/sopranos-star-steven-van-zandt-is-selling-his-greenwich-village-penthouse-for-19-million-ad250720?mod=mw_rss_topstories",
-      "summary": "Musician and actor Steven Van Zandt is ready to part with his Greenwich Village penthouse, hiking the price up by $4 million after initially listing it in June of this year.",
-      "published": "2026-10-14T09:03:00+00:00",
+      "title": "Will mortgage rates stay above 7% in 2027?",
+      "link": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
+      "summary": "Two new forecasts spell bad news for home buyers and sellers",
+      "published": "2026-10-14T18:01:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy la acción de GameStop?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-gamestop-93CH-3873023",
+      "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+      "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+      "summary": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
+      "published": "2026-10-14T17:54:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "How high inflation became a 'fact of life' in the U.S.",
+      "link": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+      "summary": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
+      "published": "2026-10-14T17:20:23+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Anduril permite a empleados vender acciones con valoración de 90.000 millones",
+      "link": "https://es.investing.com/news/stock-market-news/anduril-permite-a-empleados-vender-acciones-con-valoracion-de-90000-millones-3874244",
       "summary": "",
-      "published": "2026-10-14T09:02:45+00:00",
+      "published": "2026-10-14T17:20:12+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy la acción de Audioboom?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-audioboom-93CH-3872998",
+      "title": "3 things that are driving inflation higher",
+      "link": "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories",
+      "summary": "Struggling with elevated prices? You don’t have to look much further than your local gas station.",
+      "published": "2026-10-14T16:50:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+      "link": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
+      "summary": "There isn’t any way to spin Wednesday’s hot consumer-price index report as good, especially when looking at the bond market’s reaction.",
+      "published": "2026-10-14T16:27:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+      "published": "2026-10-14T16:20:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El jefe de infraestructura de OpenAI, Sachin Katti, dejará la empresa el próximo mes",
+      "link": "https://es.investing.com/news/stock-market-news/el-jefe-de-infraestructura-de-openai-sachin-katti-dejara-la-empresa-el-proximo-mes-3874225",
       "summary": "",
-      "published": "2026-10-14T08:52:44+00:00",
+      "published": "2026-10-14T16:19:58+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de GEN Restaurant Group suben tras venta de activos por 100 millones de dólares a Chubby",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-gen-restaurant-group-suben-tras-venta-de-activos-por-100-millones-de-dolares-a-chubby-3874214",
+      "summary": "",
+      "published": "2026-10-14T16:09:57+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Jones Lang LaSalle caen tras reestructuración directiva",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-jones-lang-lasalle-caen-tras-reestructuracion-directiva-3874202",
+      "summary": "",
+      "published": "2026-10-14T16:04:27+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de MaxCyte suben un 25% tras elevar su previsión de ingresos para 2026",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-maxcyte-suben-un-25-tras-elevar-su-prevision-de-ingresos-para-2026-3874196",
+      "summary": "",
+      "published": "2026-10-14T16:00:20+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El precio de las acciones de Skydance se ajusta tras la distribución de warrants",
+      "link": "https://es.investing.com/news/stock-market-news/el-precio-de-las-acciones-de-skydance-se-ajusta-tras-la-distribucion-de-warrants-3874178",
+      "summary": "",
+      "published": "2026-10-14T15:29:47+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+      "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
+      "published": "2026-10-14T13:53:28+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -651,47 +769,11 @@
       "tickers": []
     },
     {
-      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
-      "published": "2026-10-14T01:31:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-      "published": "2026-10-14T01:25:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
       "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
       "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
       "published": "2026-10-13T23:05:12+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-      "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-      "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
-      "published": "2026-10-13T21:02:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
-      "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-      "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
-      "published": "2026-10-13T20:42:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -736,24 +818,6 @@
       "link": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
       "summary": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
       "published": "2026-10-13T06:20:55+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-      "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
-      "summary": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
-      "published": "2026-10-13T04:54:07+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
-      "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
-      "summary": "The IMF raised its 2026 global growth forecast to 3.1%, warning that resilience is tested by energy constraints and looming fiscal risks.",
-      "published": "2026-10-13T04:10:49+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -878,7 +942,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 20,
+    "acciones_con_noticias": 22,
     "sin_accion": 36
   }
 }
