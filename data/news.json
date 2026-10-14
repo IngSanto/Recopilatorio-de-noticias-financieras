@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:28:29.803109+00:00",
+  "generated_at": "2026-10-14T09:40:38.775486+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10596.8,
+      "ventana_horas": 10620.6,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 2.4,
+      "ventana_horas": 0.8,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 465.9,
+      "ventana_horas": 450.0,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 197.0,
+      "ventana_horas": 198.3,
       "ok": true
     },
     {
@@ -64,11 +64,43 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 0.8,
+      "ventana_horas": 12.8,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "ASML",
+      "name": "ASML",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Chip bellwether ASML says customers are already asking to place orders — for 2030",
+          "link": "https://www.marketwatch.com/story/chip-bellwether-asml-says-customers-are-already-asking-to-place-orders-for-2030-b3aa1a90?mod=mw_rss_topstories",
+          "summary": "The Dutch supplier for the semiconductor industry said there is strong interest in placing orders for 2029 and 2030.",
+          "published": "2026-10-14T08:41:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BAC",
+      "name": "Bank of America",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "¿Por qué cae hoy la acción de Bank of America?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-bank-of-america-93CH-3872973",
+          "summary": "",
+          "published": "2026-10-14T08:38:43+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "JPM",
       "name": "JPMorgan Chase",
@@ -108,14 +140,6 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Micron’s stock extends declines as China competition heats up",
-          "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
-          "summary": "Even Elon Musk says Chinese memory-chip makers are catching up.",
-          "published": "2026-10-13T20:25:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
           "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
           "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
           "summary": "These are the stocks posting the largest moves before the bell.",
@@ -129,102 +153,6 @@
           "summary": "These are the stocks posting the largest moves midday.",
           "published": "2026-10-07T16:52:14+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TLEVISACPO.MX",
-      "name": "Grupo Televisa",
-      "exchange": "BMV",
-      "sector": "Medios",
-      "news": [
-        {
-          "title": "¿Por qué las acciones de Grupo Televisa se disparan hoy?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-grupo-televisa-se-disparan-hoy-93CH-3872570",
-          "summary": "",
-          "published": "2026-10-13T22:02:26+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "AT&T vende su filial en México a Televisa y Fintech Holdings por 2.000 millones de dólares",
-          "link": "https://es.investing.com/news/stock-market-news/att-vende-su-filial-en-mexico-a-televisa-y-fintech-holdings-por-2000-millones-de-dolares-3872557",
-          "summary": "",
-          "published": "2026-10-13T21:34:53+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
-          "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
-          "summary": "The comments made by Broadcom’s CEO at a conference in Singapore have been cited as a reason for microchip stocks’ slumps on both Monday and Tuesday.",
-          "published": "2026-10-13T20:27:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
-          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-08T12:28:26+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BAC",
-      "name": "Bank of America",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "¿Por qué cae hoy la acción de Bank of America?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-bank-of-america-93CH-3872569",
-          "summary": "",
-          "published": "2026-10-13T22:02:16+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Oracle pide a FERC acelerar el gasoducto de Nuevo México para el Proyecto Jupiter",
-          "link": "https://es.investing.com/news/stock-market-news/oracle-pide-a-ferc-acelerar-el-gasoducto-de-nuevo-mexico-para-el-proyecto-jupiter-3872546",
-          "summary": "",
-          "published": "2026-10-13T21:22:37+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ARAMCO",
-      "name": "Saudi Aramco",
-      "exchange": "Tadawul",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "La sede de Aramco en Dhahran es alcanzada en un ataque huthi",
-          "link": "https://es.investing.com/news/stock-market-news/la-sede-de-aramco-en-dhahran-es-alcanzada-en-un-ataque-huthi-3872538",
-          "summary": "",
-          "published": "2026-10-13T21:02:17+00:00",
-          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -462,6 +390,22 @@
       ]
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
+          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-08T12:28:26+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "PLTR",
       "name": "Palantir",
       "exchange": "NASDAQ",
@@ -608,11 +552,119 @@
   ],
   "sin_accion": [
     {
-      "title": "¿Por qué las acciones de Enovix se disparan en el mercado fuera de hora?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-enovix-se-disparan-en-el-mercado-fuera-de-hora-93CH-3872589",
+      "title": "¿Por qué suben hoy las acciones de Big Yellow?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-suben-hoy-las-acciones-de-big-yellow-93CH-3873084",
       "summary": "",
-      "published": "2026-10-13T23:26:21+00:00",
+      "published": "2026-10-14T09:27:57+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "GSK planea recortar hasta 1.217 empleos en Bélgica",
+      "link": "https://es.investing.com/news/stock-market-news/gsk-planea-recortar-hasta-1217-empleos-en-belgica-93CH-3873082",
+      "summary": "",
+      "published": "2026-10-14T09:27:41+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Kion recorta perspectivas para 2026 y retrasa objetivos de margen",
+      "link": "https://es.investing.com/news/stock-market-news/kion-recorta-perspectivas-para-2026-y-retrasa-objetivos-de-margen-3873074",
+      "summary": "",
+      "published": "2026-10-14T09:21:31+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "summary": "“I lost my job and eventually my home — and it’s still hard.”",
+      "published": "2026-10-14T09:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Liquidia?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-liquidia-93CH-3873025",
+      "summary": "",
+      "published": "2026-10-14T09:03:29+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘Sopranos’ star Steven Van Zandt is selling his Greenwich Village penthouse for $19 million",
+      "link": "https://www.marketwatch.com/story/sopranos-star-steven-van-zandt-is-selling-his-greenwich-village-penthouse-for-19-million-ad250720?mod=mw_rss_topstories",
+      "summary": "Musician and actor Steven Van Zandt is ready to part with his Greenwich Village penthouse, hiking the price up by $4 million after initially listing it in June of this year.",
+      "published": "2026-10-14T09:03:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de GameStop?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-gamestop-93CH-3873023",
+      "summary": "",
+      "published": "2026-10-14T09:02:45+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Audioboom?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-audioboom-93CH-3872998",
+      "summary": "",
+      "published": "2026-10-14T08:52:44+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
+      "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
+      "summary": "The Philippine central bank is running policy scenarios for a severe El Niño on top of the oil shock, with inflation at a three-year high.",
+      "published": "2026-10-14T04:24:28+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Diputados aprueban Ley de Derechos 2027 con aumento en cuotas, trámites y permisos",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-de-derechos-2027-con-aumento-en-cuotas-tramites-y-permisos/",
+      "summary": "El Gobierno mexicano proyecta ingresos por el cobro de derechos por MXN$177.185 millones para el 2027.",
+      "published": "2026-10-14T03:43:34+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "China's exports and imports surge past expectations in September",
+      "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "summary": "The country's customs agency released September trade data on Wednesday.",
+      "published": "2026-10-14T03:41:36+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
+      "published": "2026-10-14T01:31:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+      "published": "2026-10-14T01:25:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -626,33 +678,6 @@
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy la acción de GameStop?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-gamestop-93CH-3872567",
-      "summary": "",
-      "published": "2026-10-13T22:01:01+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Liquidia suben un 40% tras acuerdo por 380,7 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-liquidia-suben-un-40-tras-acuerdo-por-3807-millones-de-dolares-3872566",
-      "summary": "",
-      "published": "2026-10-13T21:56:58+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "S&P revisa perspectiva de Brinker a positiva por crecimiento de tráfico y menor deuda",
-      "link": "https://es.investing.com/news/stock-market-news/sp-revisa-perspectiva-de-brinker-a-positiva-por-crecimiento-de-trafico-y-menor-deuda-3872561",
-      "summary": "",
-      "published": "2026-10-13T21:47:53+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
       "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
       "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
@@ -662,55 +687,10 @@
       "tickers": []
     },
     {
-      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
-      "published": "2026-10-13T21:01:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "TRexBio recauda 116,7 millones de dólares en su OPV en Nasdaq a 14 dólares por acción",
-      "link": "https://es.investing.com/news/stock-market-news/trexbio-recauda-1167-millones-de-dolares-en-su-opv-en-nasdaq-a-14-dolares-por-accion-432SI-3872534",
-      "summary": "",
-      "published": "2026-10-13T21:00:02+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
       "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
       "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
       "published": "2026-10-13T20:42:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
-      "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-      "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator tumbling.",
-      "published": "2026-10-13T20:41:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
-      "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
-      "summary": "AST’s commercial rollout could face delays due to satellite-launch challenges and SpaceX’s growing ambitions, an analyst warns.",
-      "published": "2026-10-13T20:32:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-      "published": "2026-10-13T20:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -806,30 +786,12 @@
       "tickers": []
     },
     {
-      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-      "link": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
-      "summary": "The S&P 500 has climbed almost 120% since its closing low on Oct. 12, 2022.",
-      "published": "2026-10-12T18:18:39+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Crisis de agua contaminada confronta a Sheinbaum con gobernador de Jalisco por esquema privado de obras",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/crisis-de-agua-contaminada-confronta-a-sheinbaum-con-gobernador-de-jalisco-por-esquema-privado-de-obras/",
       "summary": "El gobernador Pablo Lemus planteó a la presidenta mexicana una solución bajo el modelo de “Construcción, Mantenimiento, Rehabilitación y Operación” por parte del sector privado.",
       "published": "2026-10-12T18:13:21+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-      "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-      "summary": "The U.S. economists were awarded for work that underpins the models used by central banks and governments to stabilize the economy.",
-      "published": "2026-10-12T14:09:02+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -912,20 +874,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Sheinbaum justifica proyectos de Gas Natural Licuado en el Golfo de California por soberanía",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-justifica-proyectos-de-gas-natural-licuado-en-el-golfo-de-california-por-soberania/",
-      "summary": "La mandataria precisó en su conferencia de prensa matutina que los proyectos recibieron autorizaciones previas en el Gobierno del expresidente Andrés Manuel López Obrador.",
-      "published": "2026-10-07T18:01:06+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 22,
-    "sin_accion": 35
+    "acciones_con_noticias": 20,
+    "sin_accion": 36
   }
 }
