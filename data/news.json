@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:56:09.012219+00:00",
+  "generated_at": "2026-10-14T00:28:29.803109+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.2,
+      "ventana_horas": 2.4,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 193.7,
+      "ventana_horas": 197.0,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.9,
+      "ventana_horas": 0.8,
       "ok": true
     }
   ],
@@ -79,7 +79,7 @@
           "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
           "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
           "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
-          "published": "2026-10-13T18:46:27+00:00",
+          "published": "2026-10-13T20:48:37+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         },
@@ -102,35 +102,19 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "NVIDIA testea soporte clave en 226 $: niveles en tiempo real",
-          "link": "https://es.investing.com/news/stock-market-news/nvidia-presiona-soporte-clave-en-22677-niveles-en-vivo-93CH-3870417",
-          "summary": "",
-          "published": "2026-10-13T19:07:39+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "MU",
       "name": "Micron",
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
+        {
+          "title": "Micron’s stock extends declines as China competition heats up",
+          "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+          "summary": "Even Elon Musk says Chinese memory-chip makers are catching up.",
+          "published": "2026-10-13T20:25:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
         {
           "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
           "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
@@ -150,80 +134,96 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
+      "ticker": "TLEVISACPO.MX",
+      "name": "Grupo Televisa",
+      "exchange": "BMV",
+      "sector": "Medios",
       "news": [
         {
-          "title": "Alphabet C testea resistencia clave en $350,73: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/alphabet-c-atrapada-entre-soporte-y-resistencia-en-353-en-vivo-93CH-3870419",
+          "title": "¿Por qué las acciones de Grupo Televisa se disparan hoy?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-grupo-televisa-se-disparan-hoy-93CH-3872570",
           "summary": "",
-          "published": "2026-10-13T19:08:54+00:00",
+          "published": "2026-10-13T22:02:26+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "AT&T vende su filial en México a Televisa y Fintech Holdings por 2.000 millones de dólares",
+          "link": "https://es.investing.com/news/stock-market-news/att-vende-su-filial-en-mexico-a-televisa-y-fintech-holdings-por-2000-millones-de-dolares-3872557",
+          "summary": "",
+          "published": "2026-10-13T21:34:53+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Meta Platforms toca resistencia de doble techo en $779,69: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/meta-platforms-cerca-de-resistencia-745750-niveles-en-vivo-93CH-3870420",
-          "summary": "",
-          "published": "2026-10-13T19:08:48+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Tesla atrapada en rango: soporte clave en $367: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/tesla-en-rango-lateral-soporte-clave-368372--niveles-en-vivo-93CH-3870415",
-          "summary": "",
-          "published": "2026-10-13T19:08:07+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
+      "ticker": "AVGO",
+      "name": "Broadcom",
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "AMD en punto de inflexión sobre SMA(50): niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/amd-atrapada-entre-medias-moviles-clave-niveles-en-vivo-93CH-3870422",
+          "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
+          "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
+          "summary": "The comments made by Broadcom’s CEO at a conference in Singapore have been cited as a reason for microchip stocks’ slumps on both Monday and Tuesday.",
+          "published": "2026-10-13T20:27:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
+          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-08T12:28:26+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BAC",
+      "name": "Bank of America",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "¿Por qué cae hoy la acción de Bank of America?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-bank-of-america-93CH-3872569",
           "summary": "",
-          "published": "2026-10-13T19:08:06+00:00",
+          "published": "2026-10-13T22:02:16+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "IBM",
-      "name": "IBM",
+      "ticker": "ORCL",
+      "name": "Oracle",
       "exchange": "NYSE",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "IBM frena en resistencia Fibonacci e Ichimoku: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/ibm-atrapada-entre-soporte-y-resistencia-clave-niveles-en-vivo-93CH-3870425",
+          "title": "Oracle pide a FERC acelerar el gasoducto de Nuevo México para el Proyecto Jupiter",
+          "link": "https://es.investing.com/news/stock-market-news/oracle-pide-a-ferc-acelerar-el-gasoducto-de-nuevo-mexico-para-el-proyecto-jupiter-3872546",
           "summary": "",
-          "published": "2026-10-13T19:07:42+00:00",
+          "published": "2026-10-13T21:22:37+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ARAMCO",
+      "name": "Saudi Aramco",
+      "exchange": "Tadawul",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "La sede de Aramco en Dhahran es alcanzada en un ataque huthi",
+          "link": "https://es.investing.com/news/stock-market-news/la-sede-de-aramco-en-dhahran-es-alcanzada-en-un-ataque-huthi-3872538",
+          "summary": "",
+          "published": "2026-10-13T21:02:17+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
@@ -462,22 +462,6 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
-          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-08T12:28:26+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "PLTR",
       "name": "Palantir",
       "exchange": "NASDAQ",
@@ -604,9 +588,133 @@
           "source_scope": "México"
         }
       ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
     }
   ],
   "sin_accion": [
+    {
+      "title": "¿Por qué las acciones de Enovix se disparan en el mercado fuera de hora?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-enovix-se-disparan-en-el-mercado-fuera-de-hora-93CH-3872589",
+      "summary": "",
+      "published": "2026-10-13T23:26:21+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+      "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+      "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+      "published": "2026-10-13T23:05:12+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de GameStop?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-gamestop-93CH-3872567",
+      "summary": "",
+      "published": "2026-10-13T22:01:01+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Liquidia suben un 40% tras acuerdo por 380,7 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-liquidia-suben-un-40-tras-acuerdo-por-3807-millones-de-dolares-3872566",
+      "summary": "",
+      "published": "2026-10-13T21:56:58+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "S&P revisa perspectiva de Brinker a positiva por crecimiento de tráfico y menor deuda",
+      "link": "https://es.investing.com/news/stock-market-news/sp-revisa-perspectiva-de-brinker-a-positiva-por-crecimiento-de-trafico-y-menor-deuda-3872561",
+      "summary": "",
+      "published": "2026-10-13T21:47:53+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
+      "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
+      "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
+      "published": "2026-10-13T21:02:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
+      "published": "2026-10-13T21:01:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "TRexBio recauda 116,7 millones de dólares en su OPV en Nasdaq a 14 dólares por acción",
+      "link": "https://es.investing.com/news/stock-market-news/trexbio-recauda-1167-millones-de-dolares-en-su-opv-en-nasdaq-a-14-dolares-por-accion-432SI-3872534",
+      "summary": "",
+      "published": "2026-10-13T21:00:02+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+      "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+      "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
+      "published": "2026-10-13T20:42:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
+      "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+      "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator tumbling.",
+      "published": "2026-10-13T20:41:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
+      "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
+      "summary": "AST’s commercial rollout could face delays due to satellite-launch challenges and SpaceX’s growing ambitions, an analyst warns.",
+      "published": "2026-10-13T20:32:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+      "published": "2026-10-13T20:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
     {
       "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
       "link": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
@@ -617,101 +725,11 @@
       "tickers": []
     },
     {
-      "title": "CVS llega a un acuerdo de 315 millones de dólares con el Departamento de Justicia",
-      "link": "https://es.investing.com/news/stock-market-news/cvs-llega-a-un-acuerdo-de-315-millones-de-dolares-con-el-departamento-de-justicia-3872418",
-      "summary": "",
-      "published": "2026-10-13T19:17:16+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "ServiceNow consolida entre $134 y $145: niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/servicenow-atrapada-en-rango-140145-usd-niveles-en-vivo-93CH-3870421",
-      "summary": "",
-      "published": "2026-10-13T19:09:38+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Galicia ADR bajo presión: bear flag activo en soporte clave",
-      "link": "https://es.investing.com/news/stock-market-news/galicia-adr-al-borde-del-soporte-3521-niveles-en-vivo-93CH-3870424",
-      "summary": "",
-      "published": "2026-10-13T19:08:50+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Futuros del Nasdaq 100 en soporte crítico 30.600: niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/futuros-del-nasdaq-100-en-sobreventa-extrema-niveles-en-vivo-93CH-3870418",
-      "summary": "",
-      "published": "2026-10-13T19:07:41+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
-      "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
-      "summary": "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
-      "published": "2026-10-13T18:44:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
-      "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
-      "summary": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
-      "published": "2026-10-13T18:11:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "The latest inflation data is expected to show price increases are accelerating",
       "link": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
       "summary": "Economists expect the consumer price index for September to rise 0.6% on the month and 3.6% year over year.",
       "published": "2026-10-13T18:05:57+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
-      "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-      "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
-      "published": "2026-10-13T17:54:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
-      "published": "2026-10-13T17:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-      "published": "2026-10-13T17:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "How to read your body’s warning signs years before you get sick",
-      "link": "https://www.marketwatch.com/story/how-to-read-your-bodys-warning-signs-years-before-you-get-sick-3fb8c82d?mod=mw_rss_topstories",
-      "summary": "Most of us don’t just want to live longer lives. We want to live longer and healthier lives.",
-      "published": "2026-10-13T17:22:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -803,15 +821,6 @@
       "published": "2026-10-12T18:13:21+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-      "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-      "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
-      "published": "2026-10-12T15:37:26+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -916,7 +925,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 23,
-    "sin_accion": 34
+    "acciones_con_noticias": 22,
+    "sin_accion": 35
   }
 }
