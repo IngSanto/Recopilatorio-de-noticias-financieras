@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:38:45.671160+00:00",
+  "generated_at": "2026-10-16T23:45:08.358087+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10663.9,
+      "ventana_horas": 10685.8,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.1,
+      "ventana_horas": 2.2,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 357.5,
+      "ventana_horas": 344.8,
       "ok": true
     },
     {
@@ -64,38 +64,46 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.1,
+      "ventana_horas": 2.2,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Elon Musk may have just taken a major step toward consolidating his empire",
-          "link": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
-          "summary": "Tesla’s newly unveiled flying sports car, which features SpaceX rocket thrusters, could help Musk push for a merger between his two biggest companies, analysts say,",
-          "published": "2026-10-16T16:39:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Tesla con Roadster sufre del comprar rumor, vender noticia ¿invertir antes del 3T?",
-          "link": "https://es.investing.com/news/stock-market-news/tesla-con-roadster-sufre-del-comprar-rumor-vender-noticia-invertir-antes-del-3t-3877858",
+          "title": "Proofpoint recurre a JPMorgan y UBS para un acuerdo de deuda de 1.250 millones de dólares",
+          "link": "https://es.investing.com/news/stock-market-news/proofpoint-recurre-a-jpmorgan-y-ubs-para-un-acuerdo-de-deuda-de-1250-millones-de-dolares-93CH-3877999",
           "summary": "",
-          "published": "2026-10-16T16:30:09+00:00",
+          "published": "2026-10-16T21:23:35+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
-          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-16T11:43:42+00:00",
+          "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+          "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+          "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+          "published": "2026-10-13T20:48:37+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+          "summary": "These are the stocks posting the largest moves before the bell.",
+          "published": "2026-10-13T11:49:04+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+          "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+          "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
+          "published": "2026-10-10T15:00:01+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -126,26 +134,34 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
+      "ticker": "UBS",
+      "name": "UBS",
+      "exchange": "NYSE",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
-          "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-          "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
-          "published": "2026-10-16T14:40:00+00:00",
-          "source_short": "MarketW",
+          "title": "Proofpoint recurre a JPMorgan y UBS para un acuerdo de deuda de 1.250 millones de dólares",
+          "link": "https://es.investing.com/news/stock-market-news/proofpoint-recurre-a-jpmorgan-y-ubs-para-un-acuerdo-de-deuda-de-1250-millones-de-dolares-93CH-3877999",
+          "summary": "",
+          "published": "2026-10-16T21:23:35+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
-        },
+        }
+      ]
+    },
+    {
+      "ticker": "BA",
+      "name": "Boeing",
+      "exchange": "NYSE",
+      "sector": "Industria",
+      "news": [
         {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
+          "title": "La FAA se acerca a la aprobación del Boeing 737 MAX 10",
+          "link": "https://es.investing.com/news/stock-market-news/la-faa-se-acerca-a-la-aprobacion-del-boeing-737-max-10-3877946",
+          "summary": "",
+          "published": "2026-10-16T19:56:48+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -161,54 +177,6 @@
           "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
           "published": "2026-10-16T16:46:18+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
-          "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-          "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
-          "published": "2026-10-16T14:40:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "005930",
-      "name": "Samsung Electronics",
-      "exchange": "KRX",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
-          "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-          "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
-          "published": "2026-10-16T14:40:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NKE",
-      "name": "Nike",
-      "exchange": "NYSE",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "The stock market has already crashed: Why a Wall Street veteran says Nike is the ultimate turnaround trade.",
-          "link": "https://www.marketwatch.com/story/the-stock-market-has-already-crashed-why-a-wall-street-veteran-says-nike-is-the-ultimate-turnaround-trade-f4429eb3?mod=mw_rss_topstories",
-          "summary": "Larry McDonald says the S&P 500’s record chasing is hiding lots of companies with sliding stocks. He has ideas on how to play that.",
-          "published": "2026-10-16T14:28:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -302,6 +270,22 @@
       ]
     },
     {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
+          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-16T11:43:42+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "BAC",
       "name": "Bank of America",
       "exchange": "NYSE",
@@ -328,38 +312,6 @@
           "link": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-10-14T11:36:25+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-          "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-          "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
-          "published": "2026-10-13T20:48:37+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-          "summary": "These are the stocks posting the largest moves before the bell.",
-          "published": "2026-10-13T11:49:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-          "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-          "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
-          "published": "2026-10-10T15:00:01+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -590,6 +542,22 @@
       ]
     },
     {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "GMEXICOB.MX",
       "name": "Grupo México",
       "exchange": "BMV",
@@ -624,64 +592,136 @@
   ],
   "sin_accion": [
     {
+      "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+      "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+      "published": "2026-10-16T22:34:29+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+      "published": "2026-10-16T22:33:05+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "summary": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+      "published": "2026-10-16T21:59:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+      "summary": "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”",
+      "published": "2026-10-16T21:43:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+      "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+      "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
+      "published": "2026-10-16T21:35:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+      "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
+      "published": "2026-10-16T21:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+      "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+      "published": "2026-10-16T21:21:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
       "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
       "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
-      "published": "2026-10-16T17:35:00+00:00",
+      "published": "2026-10-16T21:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "La FAA prohíbe drones no autorizados en la frontera entre EE.UU. y México",
-      "link": "https://es.investing.com/news/stock-market-news/la-faa-prohibe-drones-no-autorizados-en-la-frontera-entre-eeuu-y-mexico-93CH-3877894",
+      "title": "Moody’s mejora la calificación de Egipto a B3 por reformas fiscales",
+      "link": "https://es.investing.com/news/stock-market-news/moodys-mejora-la-calificacion-de-egipto-a-b3-por-reformas-fiscales-3877991",
       "summary": "",
-      "published": "2026-10-16T17:17:27+00:00",
+      "published": "2026-10-16T21:05:06+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "City Therapeutics se dispara en su debut bursátil tras ampliar su OPV de 200 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/city-therapeutics-se-dispara-en-su-debut-bursatil-tras-ampliar-su-opv-de-200-millones-de-dolares-3877891",
+      "title": "Grupo Gigante nombra a José Antonio Meade como presidente del Consejo de Administración",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-gigante-nombra-a-jose-antonio-meade-como-presidente-del-consejo-de-administracion/",
+      "summary": "El economista y exfuncionario amplía su participación como consejero en el sector privado.",
+      "published": "2026-10-16T20:59:46+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Sound Inpatient se acerca a una refinanciación de 1.000 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/sound-inpatient-se-acerca-a-una-refinanciacion-de-1000-millones-de-dolares-93CH-3877985",
       "summary": "",
-      "published": "2026-10-16T17:09:59+00:00",
+      "published": "2026-10-16T20:49:44+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Here’s how the Fed should reveal its outlook for the economy",
-      "link": "https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories",
-      "summary": "As Chairman Kevin Warsh looks to revamp the central bank’s communication strategy, the dot plot is ripe for change.",
-      "published": "2026-10-16T17:07:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
-      "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-      "summary": "Spending all your cash first can make your income surge in later years.",
-      "published": "2026-10-16T16:39:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Corporacion America Airports?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-corporacion-america-airports-93CH-3877876",
+      "title": "Las acciones de Celanese caen tras subir precios del LCP a nivel global",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-celanese-caen-tras-subir-precios-del-lcp-a-nivel-global-3877979",
       "summary": "",
-      "published": "2026-10-16T16:35:13+00:00",
+      "published": "2026-10-16T20:36:19+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy la acción de NiSource?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-nisource-93CH-3877875",
+      "title": "¿Por qué sube hoy la acción de Rock Tech Lithium?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-rock-tech-lithium-93CH-3877967",
       "summary": "",
-      "published": "2026-10-16T16:34:59+00:00",
+      "published": "2026-10-16T20:30:36+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Con estos ’hacks’ de la IA podrás aprovechar al máximo la temporada de reportes 3T",
+      "link": "https://es.investing.com/news/stock-market-news/con-estos-hacks-de-la-ia-podras-aprovechar-al-maximo-la-temporada-de-reportes-3t-3877965",
+      "summary": "",
+      "published": "2026-10-16T20:22:12+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Moody’s mejora la calificación de CVR Energy a B1 por su balance",
+      "link": "https://es.investing.com/news/stock-market-news/moodys-mejora-la-calificacion-de-cvr-energy-a-b1-por-su-balance-3877958",
+      "summary": "",
+      "published": "2026-10-16T20:11:21+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -701,51 +741,6 @@
       "summary": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
       "published": "2026-10-16T16:27:31+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de Emergent Biosolutions?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-emergent-biosolutions-93CH-3877864",
-      "summary": "",
-      "published": "2026-10-16T16:13:58+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Ironwood Pharmaceuticals?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-ironwood-pharmaceuticals-93CH-3877863",
-      "summary": "",
-      "published": "2026-10-16T16:13:55+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
-      "link": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
-      "summary": "Many of the best-performing stocks of 2026 fell this week, while this year’s biggest losers also changed course,",
-      "published": "2026-10-16T16:09:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-      "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-      "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes",
-      "published": "2026-10-16T16:05:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-      "published": "2026-10-16T15:00:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -813,28 +808,10 @@
       "tickers": []
     },
     {
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
-      "published": "2026-10-15T12:11:15+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix & more",
       "link": "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html",
       "summary": "These are the stocks posting the largest moves premarket.",
       "published": "2026-10-15T12:02:13+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "In charts: How one of the world's biggest economies got trapped by debt",
-      "link": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
-      "summary": "France opens debate on its 2027 budget as high deficits, rising debt and student protests intensify pressure on lawmakers.",
-      "published": "2026-10-15T09:54:54+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -937,20 +914,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "México importa más diésel del que registra la Secretaría de Energía, según datos de EE.UU.",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico-importa-mas-diesel-del-que-registra-la-secretaria-de-energia-segun-datos-de-eeuu/",
-      "summary": "La diferencia entre los datos del Gobierno estadounidense y mexicano es de 35.000 barriles diarios de diésel este año.",
-      "published": "2026-10-08T11:00:00+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 23,
+    "acciones_con_noticias": 22,
     "sin_accion": 36
   }
 }
