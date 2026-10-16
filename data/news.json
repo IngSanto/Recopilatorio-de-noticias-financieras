@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:13:31.873549+00:00",
+  "generated_at": "2026-10-16T17:38:45.671160+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.7,
+      "ventana_horas": 1.1,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 361.0,
+      "ventana_horas": 357.5,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 182.9,
+      "ventana_horas": 190.9,
       "ok": true
     },
     {
@@ -64,11 +64,155 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 12.0,
+      "ventana_horas": 3.1,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Elon Musk may have just taken a major step toward consolidating his empire",
+          "link": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
+          "summary": "Tesla’s newly unveiled flying sports car, which features SpaceX rocket thrusters, could help Musk push for a merger between his two biggest companies, analysts say,",
+          "published": "2026-10-16T16:39:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Tesla con Roadster sufre del comprar rumor, vender noticia ¿invertir antes del 3T?",
+          "link": "https://es.investing.com/news/stock-market-news/tesla-con-roadster-sufre-del-comprar-rumor-vender-noticia-invertir-antes-del-3t-3877858",
+          "summary": "",
+          "published": "2026-10-16T16:30:09+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
+          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-16T11:43:42+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup / Banamex",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+          "published": "2026-10-16T16:46:18+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
+          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
+          "published": "2026-09-26T00:25:22+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+          "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+          "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
+          "published": "2026-10-16T14:40:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard",
+      "exchange": "NYSE",
+      "sector": "Pagos",
+      "news": [
+        {
+          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+          "published": "2026-10-16T16:46:18+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+          "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+          "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
+          "published": "2026-10-16T14:40:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "Samsung Electronics",
+      "exchange": "KRX",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+          "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+          "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
+          "published": "2026-10-16T14:40:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "exchange": "NYSE",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "The stock market has already crashed: Why a Wall Street veteran says Nike is the ultimate turnaround trade.",
+          "link": "https://www.marketwatch.com/story/the-stock-market-has-already-crashed-why-a-wall-street-veteran-says-nike-is-the-ultimate-turnaround-trade-f4429eb3?mod=mw_rss_topstories",
+          "summary": "Larry McDonald says the S&P 500’s record chasing is hiding lots of companies with sliding stocks. He has ideas on how to play that.",
+          "published": "2026-10-16T14:28:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
@@ -154,70 +298,6 @@
           "published": "2026-09-08T12:59:22+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "¿Por qué las acciones de Tesla se disparan hoy?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-tesla-se-disparan-hoy-93CH-3876749",
-          "summary": "",
-          "published": "2026-10-16T08:27:31+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Tesla finally delivers on its promise to create a flying car",
-          "link": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
-          "summary": "Tesla’s demonstration of a levitating Roadster sports car was “an engineering flex with no commercial value beyond embarrassing traditional car makers.”",
-          "published": "2026-10-16T02:42:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-          "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-          "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
-          "published": "2026-10-15T21:23:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "PEP",
-      "name": "PepsiCo",
-      "exchange": "NASDAQ",
-      "sector": "Alimentos",
-      "news": [
-        {
-          "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
-          "link": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
-          "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
-          "published": "2026-10-15T23:29:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -342,22 +422,6 @@
       ]
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
-          "link": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-10-12T12:20:13+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "CFE",
       "name": "Comisión Federal de Electricidad",
       "exchange": "Estatal (deuda)",
@@ -446,32 +510,16 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
-          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-08T12:28:26+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "exchange": "NASDAQ",
+      "ticker": "CRM",
+      "name": "Salesforce",
+      "exchange": "NYSE",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
-          "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-08T12:28:26+00:00",
+          "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
+          "link": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-10-12T12:20:13+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -510,22 +558,6 @@
       ]
     },
     {
-      "ticker": "C",
-      "name": "Citigroup / Banamex",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
-          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
-          "published": "2026-09-26T00:25:22+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "XOM",
       "name": "ExxonMobil",
       "exchange": "NYSE",
@@ -558,22 +590,6 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "GMEXICOB.MX",
       "name": "Grupo México",
       "exchange": "BMV",
@@ -588,77 +604,147 @@
           "source_scope": "México"
         }
       ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
     }
   ],
   "sin_accion": [
     {
-      "title": "The pull of Nashville: A dozen celebrities who have moved to Tennessee, and why",
-      "link": "https://www.marketwatch.com/story/the-pull-of-nashville-a-dozen-celebrities-who-have-moved-to-tennessee-and-why-68446959?mod=mw_rss_topstories",
-      "summary": "Nashville has long been home to many big names in R&B and country music, but over the last few years, celebrities from a variety of industries have flocked to the Music City.",
-      "published": "2026-10-16T09:05:00+00:00",
+      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+      "published": "2026-10-16T17:35:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de Verbio suben un 10% tras la mejora de Jefferies",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-verbio-suben-un-10-tras-la-mejora-de-jefferies-3876816",
+      "title": "La FAA prohíbe drones no autorizados en la frontera entre EE.UU. y México",
+      "link": "https://es.investing.com/news/stock-market-news/la-faa-prohibe-drones-no-autorizados-en-la-frontera-entre-eeuu-y-mexico-93CH-3877894",
       "summary": "",
-      "published": "2026-10-16T09:03:38+00:00",
+      "published": "2026-10-16T17:17:27+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "El Banco Mundial planea quintuplicar su negocio de minerales críticos",
-      "link": "https://es.investing.com/news/stock-market-news/el-banco-mundial-planea-quintuplicar-su-negocio-de-minerales-criticos-93CH-3876813",
+      "title": "City Therapeutics se dispara en su debut bursátil tras ampliar su OPV de 200 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/city-therapeutics-se-dispara-en-su-debut-bursatil-tras-ampliar-su-opv-de-200-millones-de-dolares-3877891",
       "summary": "",
-      "published": "2026-10-16T09:02:44+00:00",
+      "published": "2026-10-16T17:09:59+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de CoreWeave caen de nuevo por preocupaciones sobre su deuda",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-coreweave-caen-de-nuevo-por-preocupaciones-sobre-su-deuda-93CH-3876805",
+      "title": "Here’s how the Fed should reveal its outlook for the economy",
+      "link": "https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories",
+      "summary": "As Chairman Kevin Warsh looks to revamp the central bank’s communication strategy, the dot plot is ripe for change.",
+      "published": "2026-10-16T17:07:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+      "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+      "summary": "Spending all your cash first can make your income surge in later years.",
+      "published": "2026-10-16T16:39:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Corporacion America Airports?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-corporacion-america-airports-93CH-3877876",
       "summary": "",
-      "published": "2026-10-16T08:59:42+00:00",
+      "published": "2026-10-16T16:35:13+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de defensa suben en medio de las tensiones en Ucrania",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-defensa-suben-en-medio-de-las-tensiones-en-ucrania-3876790",
+      "title": "¿Por qué sube hoy la acción de NiSource?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-nisource-93CH-3877875",
       "summary": "",
-      "published": "2026-10-16T08:56:33+00:00",
+      "published": "2026-10-16T16:34:59+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué se dispara hoy la acción de Verbio Vereinigte Bioenergie?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-verbio-vereinigte-bioenergie-93CH-3876772",
+      "title": "Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa & more",
+      "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "published": "2026-10-16T16:29:16+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+      "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+      "summary": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
+      "published": "2026-10-16T16:27:31+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen hoy las acciones de Emergent Biosolutions?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-emergent-biosolutions-93CH-3877864",
       "summary": "",
-      "published": "2026-10-16T08:49:00+00:00",
+      "published": "2026-10-16T16:13:58+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy la acción de HeLIX Exploration?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-helix-exploration-93CH-3876771",
+      "title": "¿Por qué cae hoy la acción de Ironwood Pharmaceuticals?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-ironwood-pharmaceuticals-93CH-3877863",
       "summary": "",
-      "published": "2026-10-16T08:47:10+00:00",
+      "published": "2026-10-16T16:13:55+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
-      "link": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
-      "summary": "Federal Reserve Chair Kevin Warsh had an opportunity Thursday night to shape expectations heading into the central bank’s interest-rate-setting meeting in two week’s time — and in keeping with his practice of leaving markets guessing, he chose not to.",
-      "published": "2026-10-16T07:07:00+00:00",
+      "title": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
+      "link": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
+      "summary": "Many of the best-performing stocks of 2026 fell this week, while this year’s biggest losers also changed course,",
+      "published": "2026-10-16T16:09:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+      "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes",
+      "published": "2026-10-16T16:05:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+      "published": "2026-10-16T15:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -669,42 +755,6 @@
       "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
       "published": "2026-10-15T23:00:01+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "summary": "”I earn $110,000 a year.”",
-      "published": "2026-10-15T22:31:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-      "published": "2026-10-15T22:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-      "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
-      "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
-      "published": "2026-10-15T21:56:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
-      "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
-      "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
-      "published": "2026-10-15T21:21:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -790,15 +840,6 @@
       "tickers": []
     },
     {
-      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-      "link": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-      "summary": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.",
-      "published": "2026-10-15T09:02:31+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Diputados aprueban Ley de Ingresos 2027 con bolsa de MXN$10,6 billones y déficit fiscal “complejo”",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-de-ingresos-2027-con-bolsa-de-mxn106-billones-y-complejo-deficit-fiscal/",
       "summary": "La Ley de Ingresos contempla MXN$1,7 billones de endeudamiento y un déficit fiscal de 3,9% del PIB para 2027.",
@@ -821,15 +862,6 @@
       "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
       "summary": "The country's customs agency released September trade data on Wednesday.",
       "published": "2026-10-14T03:41:36+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-      "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-      "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
-      "published": "2026-10-13T23:05:12+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -918,7 +950,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 22,
+    "acciones_con_noticias": 23,
     "sin_accion": 36
   }
 }
