@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T23:45:08.150321+00:00",
+  "generated_at": "2026-10-16T09:13:31.873549+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10656.9,
+      "ventana_horas": 10663.9,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.2,
+      "ventana_horas": 0.7,
       "ok": true
     },
     {
@@ -64,89 +64,25 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 4.5,
+      "ventana_horas": 12.0,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-          "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-          "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
-          "published": "2026-10-15T21:23:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "PEP",
-      "name": "PepsiCo",
-      "exchange": "NASDAQ",
-      "sector": "Alimentos",
-      "news": [
-        {
-          "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
-          "link": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
-          "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
-          "published": "2026-10-15T23:29:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "name": "Eli Lilly",
-      "exchange": "NYSE",
-      "sector": "Salud",
-      "news": [
-        {
-          "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
-          "link": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
-          "summary": "Shares of AbbVie, Eli Lilly and Gilead Sciences closed near record highs",
-          "published": "2026-10-15T20:29:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BNS",
-      "name": "Scotiabank",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Diamondback y Expand Energy, las mejores opciones según Scotiabank",
-          "link": "https://es.investing.com/news/stock-market-news/diamondback-y-expand-energy-las-mejores-opciones-segun-scotiabank-3876343",
-          "summary": "",
-          "published": "2026-10-15T20:22:09+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
       "exchange": "Estatal (deuda)",
       "sector": "Energía",
       "news": [
+        {
+          "title": "HR Ratings rebaja calificación crediticia de México por deterioro fiscal y arrastra a Pemex",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hr-ratings-rebaja-calificacion-crediticia-de-mexico-por-deterioro-en-balances-fiscales/",
+          "summary": "La agencia calificadora mantuvo la perspectiva estable de la nota soberana.",
+          "published": "2026-10-15T23:06:23+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
         {
           "title": "Pemex planea construir una biorrefinería en el sureste de México",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-planea-construir-una-biorrefineria-en-el-sureste-de-mexico/",
@@ -218,14 +154,70 @@
           "published": "2026-09-08T12:59:22+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "¿Por qué las acciones de Tesla se disparan hoy?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-tesla-se-disparan-hoy-93CH-3876749",
+          "summary": "",
+          "published": "2026-10-16T08:27:31+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
         },
         {
-          "title": "Pemex y Sindicato pactan aumento salarial 2026-2027 por encima de la inflación",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-y-sindicato-pactan-aumento-salarial-2026-2027-por-encima-de-la-inflacion/",
-          "summary": "Juan Carlos Carpio, director general de Pemex, y el líder sindical Luis Ricardo Aldana Prieto encabezaron la firma del acuerdo salarial para el periodo 2026-2027.",
-          "published": "2026-09-04T22:59:37+00:00",
+          "title": "Tesla finally delivers on its promise to create a flying car",
+          "link": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+          "summary": "Tesla’s demonstration of a levitating Roadster sports car was “an engineering flex with no commercial value beyond embarrassing traditional car makers.”",
+          "published": "2026-10-16T02:42:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+          "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+          "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
+          "published": "2026-10-15T21:23:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo",
+      "exchange": "NASDAQ",
+      "sector": "Alimentos",
+      "news": [
+        {
+          "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+          "link": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+          "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
+          "published": "2026-10-15T23:29:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -256,22 +248,6 @@
           "link": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-10-14T11:36:25+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MS",
-      "name": "Morgan Stanley",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-          "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-          "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
-          "published": "2026-10-14T20:22:09+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -330,6 +306,22 @@
           "published": "2026-09-09T04:25:20+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "MS",
+      "name": "Morgan Stanley",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+          "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+          "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+          "published": "2026-10-14T20:22:09+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -400,14 +392,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-reporta-apagon-electrico-en-el-sureste-de-mexico/",
           "summary": "La compañía eléctrica sufrió un corte de suministro eléctrico que afectó a 745.500 clientes en los estados de Chiapas, Campeche, Quintana Roo y Yucatán.",
           "published": "2026-09-01T05:21:45+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE dependerá del sector privado para financiar la mayoría de sus inversiones con Sheinbaum",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-dependera-del-sector-privado-para-financiar-la-mayoria-de-sus-inversiones-con-sheinbaum/",
-          "summary": "La empresa eléctrica prevé inversiones por US$37.500 millones para nuevas centrales, redes eléctricas y ductos durante el sexenio de la presidenta mexicana.",
-          "published": "2026-08-28T11:52:59+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -608,6 +592,78 @@
   ],
   "sin_accion": [
     {
+      "title": "The pull of Nashville: A dozen celebrities who have moved to Tennessee, and why",
+      "link": "https://www.marketwatch.com/story/the-pull-of-nashville-a-dozen-celebrities-who-have-moved-to-tennessee-and-why-68446959?mod=mw_rss_topstories",
+      "summary": "Nashville has long been home to many big names in R&B and country music, but over the last few years, celebrities from a variety of industries have flocked to the Music City.",
+      "published": "2026-10-16T09:05:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Verbio suben un 10% tras la mejora de Jefferies",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-verbio-suben-un-10-tras-la-mejora-de-jefferies-3876816",
+      "summary": "",
+      "published": "2026-10-16T09:03:38+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El Banco Mundial planea quintuplicar su negocio de minerales críticos",
+      "link": "https://es.investing.com/news/stock-market-news/el-banco-mundial-planea-quintuplicar-su-negocio-de-minerales-criticos-93CH-3876813",
+      "summary": "",
+      "published": "2026-10-16T09:02:44+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de CoreWeave caen de nuevo por preocupaciones sobre su deuda",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-coreweave-caen-de-nuevo-por-preocupaciones-sobre-su-deuda-93CH-3876805",
+      "summary": "",
+      "published": "2026-10-16T08:59:42+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de defensa suben en medio de las tensiones en Ucrania",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-defensa-suben-en-medio-de-las-tensiones-en-ucrania-3876790",
+      "summary": "",
+      "published": "2026-10-16T08:56:33+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Verbio Vereinigte Bioenergie?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-verbio-vereinigte-bioenergie-93CH-3876772",
+      "summary": "",
+      "published": "2026-10-16T08:49:00+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de HeLIX Exploration?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-helix-exploration-93CH-3876771",
+      "summary": "",
+      "published": "2026-10-16T08:47:10+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+      "link": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
+      "summary": "Federal Reserve Chair Kevin Warsh had an opportunity Thursday night to shape expectations heading into the central bank’s interest-rate-setting meeting in two week’s time — and in keeping with his practice of leaving markets guessing, he chose not to.",
+      "published": "2026-10-16T07:07:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "People in China are spending nearly as much of their income as Americans on healthcare",
       "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
       "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
@@ -626,7 +682,7 @@
       "tickers": []
     },
     {
-      "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
       "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
       "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
       "published": "2026-10-15T22:15:00+00:00",
@@ -644,64 +700,10 @@
       "tickers": []
     },
     {
-      "title": "¿Por qué las acciones de Cohen & Steers se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-cohen--steers-se-disparan-hoy-93CH-3876425",
-      "summary": "",
-      "published": "2026-10-15T21:35:06+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de Varonis suben hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-varonis-suben-hoy-93CH-3876424",
-      "summary": "",
-      "published": "2026-10-15T21:34:47+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué suben hoy las acciones de Alcoa?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-suben-hoy-las-acciones-de-alcoa-93CH-3876423",
-      "summary": "",
-      "published": "2026-10-15T21:34:45+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
       "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
       "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
       "published": "2026-10-15T21:21:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Acciones de SITE Centers se disparan con dividendo especial de 3 dólares",
-      "link": "https://es.investing.com/news/stock-market-news/acciones-de-site-centers-se-disparan-con-dividendo-especial-de-3-dolares-3876411",
-      "summary": "",
-      "published": "2026-10-15T21:06:56+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Algunos inversores presionan para reducir la valoración de Anthropic a 1,5 billones",
-      "link": "https://es.investing.com/news/stock-market-news/algunos-inversores-presionan-para-reducir-la-valoracion-de-anthropic-a-15-billones-3876407",
-      "summary": "",
-      "published": "2026-10-15T21:05:03+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
-      "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
-      "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
-      "published": "2026-10-15T21:03:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -712,24 +714,6 @@
       "summary": "These are the stocks posting the largest moves in extended trading.",
       "published": "2026-10-15T20:48:50+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Los tres cofundadores de CoreWeave vendieron 3.300 millones de dólares en acciones desde la OPV",
-      "link": "https://es.investing.com/news/stock-market-news/los-tres-cofundadores-de-coreweave-vendieron-3300-millones-de-dolares-en-acciones-desde-la-opv-3876381",
-      "summary": "",
-      "published": "2026-10-15T20:47:03+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
-      "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
-      "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
-      "published": "2026-10-15T20:40:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -934,7 +918,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 23,
+    "acciones_con_noticias": 22,
     "sin_accion": 36
   }
 }
