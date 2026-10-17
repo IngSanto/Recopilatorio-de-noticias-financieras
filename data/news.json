@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T23:45:08.358087+00:00",
+  "generated_at": "2026-10-17T08:44:49.554530+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 2.2,
+      "ventana_horas": 6.9,
       "ok": true
     },
     {
@@ -110,24 +110,24 @@
       ]
     },
     {
-      "ticker": "C",
-      "name": "Citigroup / Banamex",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
       "news": [
         {
-          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-          "published": "2026-10-16T16:46:18+00:00",
-          "source_short": "CNBC",
+          "title": "¿Importará Starlink Mobile para Apple?",
+          "link": "https://es.investing.com/news/stock-market-news/importara-starlink-mobile-para-apple-3878048",
+          "summary": "",
+          "published": "2026-10-17T00:39:39+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
-          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
-          "published": "2026-09-26T00:25:22+00:00",
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -145,38 +145,6 @@
           "summary": "",
           "published": "2026-10-16T21:23:35+00:00",
           "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BA",
-      "name": "Boeing",
-      "exchange": "NYSE",
-      "sector": "Industria",
-      "news": [
-        {
-          "title": "La FAA se acerca a la aprobación del Boeing 737 MAX 10",
-          "link": "https://es.investing.com/news/stock-market-news/la-faa-se-acerca-a-la-aprobacion-del-boeing-737-max-10-3877946",
-          "summary": "",
-          "published": "2026-10-16T19:56:48+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MA",
-      "name": "Mastercard",
-      "exchange": "NYSE",
-      "sector": "Pagos",
-      "news": [
-        {
-          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-          "published": "2026-10-16T16:46:18+00:00",
-          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -266,6 +234,46 @@
           "published": "2026-09-08T12:59:22+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup / Banamex",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+          "published": "2026-10-16T16:46:18+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
+          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
+          "published": "2026-09-26T00:25:22+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard",
+      "exchange": "NYSE",
+      "sector": "Pagos",
+      "news": [
+        {
+          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+          "published": "2026-10-16T16:46:18+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -542,22 +550,6 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "GMEXICOB.MX",
       "name": "Grupo México",
       "exchange": "BMV",
@@ -591,6 +583,15 @@
     }
   ],
   "sin_accion": [
+    {
+      "title": "La OPV de 3.200 millones de dólares de Jio pone a prueba el apetito inversor",
+      "link": "https://es.investing.com/news/stock-market-news/la-opv-de-3200-millones-de-dolares-de-jio-pone-a-prueba-el-apetito-inversor-3878067",
+      "summary": "",
+      "published": "2026-10-17T03:00:26+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
     {
       "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
       "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
@@ -713,15 +714,6 @@
       "link": "https://es.investing.com/news/stock-market-news/con-estos-hacks-de-la-ia-podras-aprovechar-al-maximo-la-temporada-de-reportes-3t-3877965",
       "summary": "",
       "published": "2026-10-16T20:22:12+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Moody’s mejora la calificación de CVR Energy a B1 por su balance",
-      "link": "https://es.investing.com/news/stock-market-news/moodys-mejora-la-calificacion-de-cvr-energy-a-b1-por-su-balance-3877958",
-      "summary": "",
-      "published": "2026-10-16T20:11:21+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -918,7 +910,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 22,
+    "acciones_con_noticias": 21,
     "sin_accion": 36
   }
 }
