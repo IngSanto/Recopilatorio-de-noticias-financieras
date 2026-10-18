@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:18:08.809804+00:00",
+  "generated_at": "2026-10-18T09:00:32.823390+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 20.8,
+      "ventana_horas": 28.7,
       "ok": true
     },
     {
@@ -70,6 +70,62 @@
   ],
   "tickers": [
     {
+      "ticker": "CRM",
+      "name": "Salesforce",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "5 grandes movimientos de analistas en IA: Meta logra el objetivo más alto; Salesforce sube dos escalones",
+          "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-meta-logra-el-objetivo-mas-alto-salesforce-sube-dos-escalones-3878193",
+          "summary": "",
+          "published": "2026-10-18T07:29:05+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
+          "link": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-10-12T12:20:13+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NESN",
+      "name": "Nestlé",
+      "exchange": "SIX",
+      "sector": "Alimentos",
+      "news": [
+        {
+          "title": "Nestlé y Unilever enfrentan medidas regulatorias en India por publicidad engañosa",
+          "link": "https://es.investing.com/news/stock-market-news/nestle-y-unilever-enfrentan-medidas-regulatorias-en-india-por-publicidad-enganosa-3878194",
+          "summary": "",
+          "published": "2026-10-18T07:40:53+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "UL",
+      "name": "Unilever",
+      "exchange": "NYSE",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "Nestlé y Unilever enfrentan medidas regulatorias en India por publicidad engañosa",
+          "link": "https://es.investing.com/news/stock-market-news/nestle-y-unilever-enfrentan-medidas-regulatorias-en-india-por-publicidad-enganosa-3878194",
+          "summary": "",
+          "published": "2026-10-18T07:40:53+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "AAPL",
       "name": "Apple",
       "exchange": "NASDAQ",
@@ -81,14 +137,6 @@
           "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
           "published": "2026-10-17T18:40:00+00:00",
           "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "¿Importará Starlink Mobile para Apple?",
-          "link": "https://es.investing.com/news/stock-market-news/importara-starlink-mobile-para-apple-3878048",
-          "summary": "",
-          "published": "2026-10-17T00:39:39+00:00",
-          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
@@ -161,118 +209,6 @@
           "summary": "As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors.",
           "published": "2026-10-17T12:01:00+00:00",
           "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Proofpoint recurre a JPMorgan y UBS para un acuerdo de deuda de 1.250 millones de dólares",
-          "link": "https://es.investing.com/news/stock-market-news/proofpoint-recurre-a-jpmorgan-y-ubs-para-un-acuerdo-de-deuda-de-1250-millones-de-dolares-93CH-3877999",
-          "summary": "",
-          "published": "2026-10-16T21:23:35+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-          "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-          "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
-          "published": "2026-10-13T20:48:37+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-          "summary": "These are the stocks posting the largest moves before the bell.",
-          "published": "2026-10-13T11:49:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-          "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-          "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
-          "published": "2026-10-10T15:00:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "C",
-      "name": "Citigroup / Banamex",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-          "published": "2026-10-16T16:46:18+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
-          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
-          "published": "2026-09-26T00:25:22+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "UBS",
-      "name": "UBS",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Proofpoint recurre a JPMorgan y UBS para un acuerdo de deuda de 1.250 millones de dólares",
-          "link": "https://es.investing.com/news/stock-market-news/proofpoint-recurre-a-jpmorgan-y-ubs-para-un-acuerdo-de-deuda-de-1250-millones-de-dolares-93CH-3877999",
-          "summary": "",
-          "published": "2026-10-16T21:23:35+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MA",
-      "name": "Mastercard",
-      "exchange": "NYSE",
-      "sector": "Pagos",
-      "news": [
-        {
-          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-          "published": "2026-10-16T16:46:18+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
-          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-16T11:43:42+00:00",
-          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -398,6 +334,30 @@
       ]
     },
     {
+      "ticker": "C",
+      "name": "Citigroup / Banamex",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+          "published": "2026-10-16T16:46:18+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
+          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
+          "published": "2026-09-26T00:25:22+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "BLK",
       "name": "BlackRock",
       "exchange": "NYSE",
@@ -418,6 +378,38 @@
           "published": "2026-09-09T04:25:20+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard",
+      "exchange": "NYSE",
+      "sector": "Pagos",
+      "news": [
+        {
+          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+          "published": "2026-10-16T16:46:18+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
+          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-16T11:43:42+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -474,6 +466,38 @@
           "published": "2026-09-01T05:21:45+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+          "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+          "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+          "published": "2026-10-13T20:48:37+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+          "summary": "These are the stocks posting the largest moves before the bell.",
+          "published": "2026-10-13T11:49:04+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+          "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+          "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
+          "published": "2026-10-10T15:00:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -536,22 +560,6 @@
           "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
           "summary": "These are the stocks posting the largest moves before the bell.",
           "published": "2026-10-13T11:49:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
-          "link": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-10-12T12:20:13+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -656,6 +664,15 @@
   ],
   "sin_accion": [
     {
+      "title": "Las acciones asiáticas de IA caen ante el alza de los costes de financiación",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-asiaticas-de-ia-caen-ante-el-alza-de-los-costes-de-financiacion-3878178",
+      "summary": "",
+      "published": "2026-10-18T02:00:03+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
       "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
       "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes.",
@@ -759,15 +776,6 @@
       "link": "https://es.investing.com/news/stock-market-news/el-indice-sox-de-semiconductores-registra-su-racha-bajista-mas-larga-desde-2008-3878131",
       "summary": "",
       "published": "2026-10-17T12:04:36+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Citi ve una demanda resistente para las OPV de IA china pese a las valoraciones",
-      "link": "https://es.investing.com/news/stock-market-news/citi-ve-una-demanda-resistente-para-las-opv-de-ia-china-pese-a-las-valoraciones-3878110",
-      "summary": "",
-      "published": "2026-10-17T08:41:17+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -982,7 +990,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 25,
+    "acciones_con_noticias": 26,
     "sin_accion": 36
   }
 }
