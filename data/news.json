@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:28:30.849823+00:00",
+  "generated_at": "2026-10-19T10:11:31.421612+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10685.8,
+      "ventana_horas": 10741.8,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 29.3,
+      "ventana_horas": 0.9,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 389.4,
+      "ventana_horas": 398.7,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 195.2,
+      "ventana_horas": 238.0,
       "ok": true
     },
     {
@@ -64,11 +64,139 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 22.1,
+      "ventana_horas": 20.0,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
+          "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+          "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+          "published": "2026-10-19T10:00:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+          "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+          "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+          "published": "2026-10-13T20:48:37+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+          "summary": "These are the stocks posting the largest moves before the bell.",
+          "published": "2026-10-13T11:49:04+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+          "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+          "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
+          "published": "2026-10-10T15:00:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Big tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
+          "link": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
+          "summary": "Goldman Sachs says consumer-facing laggard stocks are the best way forward as earnings growth is set to slow next year and big tech stocks struggle.",
+          "published": "2026-10-19T09:58:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+          "published": "2026-10-07T11:55:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "¿Por qué las acciones de Intel están subiendo hoy?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-intel-estan-subiendo-hoy-93CH-3878749",
+          "summary": "",
+          "published": "2026-10-19T09:45:35+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "WALMEX.MX",
+      "name": "Walmart de México",
+      "exchange": "BMV",
+      "sector": "Retail",
+      "news": [
+        {
+          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa mexicana",
+          "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
+          "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
+          "published": "2026-10-19T05:00:00+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "CEMEXCPO.MX",
+      "name": "Cemex",
+      "exchange": "BMV",
+      "sector": "Materiales",
+      "news": [
+        {
+          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa mexicana",
+          "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
+          "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
+          "published": "2026-10-19T05:00:00+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "CX",
+      "name": "Cemex (ADR)",
+      "exchange": "NYSE",
+      "sector": "Materiales",
+      "news": [
+        {
+          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa mexicana",
+          "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
+          "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
+          "published": "2026-10-19T05:00:00+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
     {
       "ticker": "BA",
       "name": "Boeing",
@@ -81,78 +209,6 @@
           "summary": "Boeing, Meta and EchoStar recorded steep charges and expenses a year ago, which are expected to make this latest quarter’s results look especially strong by comparison.",
           "published": "2026-10-18T14:00:00+00:00",
           "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "5 grandes movimientos de analistas en IA: Meta logra el objetivo más alto; Salesforce sube dos escalones",
-          "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-meta-logra-el-objetivo-mas-alto-salesforce-sube-dos-escalones-3878193",
-          "summary": "",
-          "published": "2026-10-18T07:29:05+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
-          "link": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-10-12T12:20:13+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NESN",
-      "name": "Nestlé",
-      "exchange": "SIX",
-      "sector": "Alimentos",
-      "news": [
-        {
-          "title": "Nestlé y Unilever enfrentan medidas regulatorias en India por publicidad engañosa",
-          "link": "https://es.investing.com/news/stock-market-news/nestle-y-unilever-enfrentan-medidas-regulatorias-en-india-por-publicidad-enganosa-3878194",
-          "summary": "",
-          "published": "2026-10-18T07:40:53+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "UL",
-      "name": "Unilever",
-      "exchange": "NYSE",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "Nestlé y Unilever enfrentan medidas regulatorias en India por publicidad engañosa",
-          "link": "https://es.investing.com/news/stock-market-news/nestle-y-unilever-enfrentan-medidas-regulatorias-en-india-por-publicidad-enganosa-3878194",
-          "summary": "",
-          "published": "2026-10-18T07:40:53+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BRK.B",
-      "name": "Berkshire Hathaway",
-      "exchange": "NYSE",
-      "sector": "Finanzas",
-      "news": [
-        {
-          "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
-          "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-          "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
-          "published": "2026-10-17T15:11:30+00:00",
-          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -270,6 +326,22 @@
       ]
     },
     {
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway",
+      "exchange": "NYSE",
+      "sector": "Finanzas",
+      "news": [
+        {
+          "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
+          "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+          "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+          "published": "2026-10-17T15:11:30+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "MA",
       "name": "Mastercard",
       "exchange": "NYSE",
@@ -368,38 +440,6 @@
           "link": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-10-14T11:36:25+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-          "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-          "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
-          "published": "2026-10-13T20:48:37+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-          "summary": "These are the stocks posting the largest moves before the bell.",
-          "published": "2026-10-13T11:49:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-          "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-          "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
-          "published": "2026-10-10T15:00:01+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -510,16 +550,16 @@
       ]
     },
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
+      "ticker": "CRM",
+      "name": "Salesforce",
       "exchange": "NYSE",
-      "sector": "Banca",
+      "sector": "Tecnología",
       "news": [
         {
-          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
-          "published": "2026-10-07T11:55:36+00:00",
+          "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
+          "link": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-10-12T12:20:13+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -624,29 +664,92 @@
   ],
   "sin_accion": [
     {
-      "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+      "title": "Grupos europeos de telecomunicaciones exploran una oferta conjunta de espectro satelital",
+      "link": "https://es.investing.com/news/stock-market-news/grupos-europeos-de-telecomunicaciones-exploran-una-oferta-conjunta-de-espectro-satelital-3878727",
+      "summary": "",
+      "published": "2026-10-19T09:30:32+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "France and the U.S. share the same debt trap. Only one has a global lifeline.",
+      "link": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories",
+      "summary": "France and the U.S. have similar debt dynamics.",
+      "published": "2026-10-19T09:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de Pets at Home alcanzan un nuevo un máximo de 52 semanas?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-pets-at-home-alcanzan-un-nuevo-un-maximo-de-52-semanas-93CH-3878719",
+      "summary": "",
+      "published": "2026-10-19T09:21:59+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de OHB?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-ohb-93CH-3878709",
+      "summary": "",
+      "published": "2026-10-19T09:09:06+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "+34% en el mes: la gran tecnología rota hacia estas pequeñas y medianas capitalizaciones seleccionadas por IA",
+      "link": "https://es.investing.com/news/stock-market-news/34-mensual-la-ia-detecta-estas-pequenas-y-medianas-empresas-fuera-del-radar-3878712",
+      "summary": "",
+      "published": "2026-10-19T09:07:52+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Serica Energy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-serica-energy-93CH-3878703",
+      "summary": "",
+      "published": "2026-10-19T09:03:01+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Kelly Clarkson’s expensive purchases: A multi-million dollar real-estate portfolio that spans the country",
+      "link": "https://www.marketwatch.com/story/kelly-clarksons-expensive-purchases-a-multi-million-dollar-real-estate-portfolio-that-spans-the-country-fe1d3bc7?mod=mw_rss_topstories",
+      "summary": "From a sprawling waterfront mansion in Tennessee and a lavish California estate to a cozy Montana ranch, Kelly Clarkson is no stranger to expensive purchases.",
+      "published": "2026-10-19T09:03:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The Beach Boys’ Mike Love goes the extra mile to protect the land around $43 million Lake Tahoe estate",
+      "link": "https://www.marketwatch.com/story/the-beach-boys-mike-love-goes-the-extra-mile-to-protect-the-land-around-43-million-lake-tahoe-estate-06c5606e?mod=mw_rss_topstories",
+      "summary": "Beach Boys star Mike Love has revealed the extraordinary lengths he went to preserve the natural beauty surrounding his sprawling $43 million Lake Tahoe estate.",
+      "published": "2026-10-19T09:01:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "VW planea congelar salarios hasta 2030 para 660.000 empleados",
+      "link": "https://es.investing.com/news/stock-market-news/vw-planea-congelar-salarios-hasta-2030-para-660000-empleados-93CH-3878700",
+      "summary": "",
+      "published": "2026-10-19T08:58:41+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
       "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-      "summary": "India's finance minister said that continued capital outflows are one of the biggest risks for the country in 2027.",
-      "published": "2026-10-18T23:00:01+00:00",
+      "summary": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
+      "published": "2026-10-19T08:23:33+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Anthropic destina el 5% de sus acciones a un nuevo fondo de beneficio público",
-      "link": "https://es.investing.com/news/stock-market-news/anthropic-destina-el-5-de-sus-acciones-a-un-nuevo-fondo-de-beneficio-publico-3878266",
-      "summary": "",
-      "published": "2026-10-18T18:28:23+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Vista previa de resultados europeos del Q3: ¿Pueden cumplir las altas expectativas?",
-      "link": "https://es.investing.com/news/stock-market-news/vista-previa-de-resultados-europeos-del-q3-pueden-cumplir-las-altas-expectativas-3878264",
-      "summary": "",
-      "published": "2026-10-18T18:03:11+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -674,69 +777,6 @@
       "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
       "published": "2026-10-18T16:00:00+00:00",
       "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
-      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-      "published": "2026-10-18T15:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
-      "published": "2026-10-18T15:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-      "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-      "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
-      "published": "2026-10-18T13:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Dos acciones para comprar ante preocupaciones sobre financiación en IA",
-      "link": "https://es.investing.com/news/stock-market-news/compra-estas-2-acciones-ante-preocupaciones-por-financiacion-de-ia-3878214",
-      "summary": "",
-      "published": "2026-10-18T12:16:35+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones asiáticas de IA caen ante el alza de los costes de financiación",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-asiaticas-de-ia-caen-ante-el-alza-de-los-costes-de-financiacion-3878178",
-      "summary": "",
-      "published": "2026-10-18T02:00:03+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Mercedes presenta un SUV eléctrico y amplía su gama premium de vehículos eléctricos",
-      "link": "https://es.investing.com/news/stock-market-news/mercedes-presenta-un-suv-electrico-y-amplia-su-gama-premium-de-vehiculos-electricos-3878151",
-      "summary": "",
-      "published": "2026-10-17T17:51:40+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Acciones de memoria: ¿está justificado el muro de preocupación?",
-      "link": "https://es.investing.com/news/stock-market-news/acciones-de-memoria-esta-justificado-el-muro-de-preocupacion-3878147",
-      "summary": "",
-      "published": "2026-10-17T16:15:25+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -950,7 +990,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 24,
+    "acciones_con_noticias": 26,
     "sin_accion": 36
   }
 }
