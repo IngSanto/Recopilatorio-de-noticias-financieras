@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:11:31.421612+00:00",
+  "generated_at": "2026-10-19T19:26:02.494672+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10741.8,
+      "ventana_horas": 10749.5,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.9,
+      "ventana_horas": 0.0,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 398.7,
+      "ventana_horas": 349.6,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 238.0,
+      "ventana_horas": 217.7,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 20.0,
+      "ventana_horas": 3.9,
       "ok": true
     }
   ],
@@ -76,10 +76,10 @@
       "sector": "Banca",
       "news": [
         {
-          "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
+          "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
           "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
           "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-          "published": "2026-10-19T10:00:01+00:00",
+          "published": "2026-10-19T12:34:01+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         },
@@ -110,24 +110,80 @@
       ]
     },
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "Big tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
-          "link": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
-          "summary": "Goldman Sachs says consumer-facing laggard stocks are the best way forward as earnings growth is set to slow next year and big tech stocks struggle.",
-          "published": "2026-10-19T09:58:00+00:00",
+          "title": "NVIDIA forma bandera bajista en zona clave: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/nvidia-cae-bajo-la-mm200-en-zona-de-soporte-clave-niveles-en-vivo-93CH-3879714",
+          "summary": "",
+          "published": "2026-10-19T19:07:47+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Micron and other chip stocks spring back to life after bruising selloff",
+          "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+          "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+          "published": "2026-10-19T16:59:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
-          "published": "2026-10-07T11:55:36+00:00",
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Tesla en punto crítico sobre la 200 SMA: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/tesla-en-punto-de-inflexion-soporte-35375--decide-el-rumbo-93CH-3879712",
+          "summary": "",
+          "published": "2026-10-19T19:08:21+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
+          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-16T11:43:42+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Micron and other chip stocks spring back to life after bruising selloff",
+          "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+          "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+          "published": "2026-10-19T16:59:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+          "summary": "These are the stocks posting the largest moves before the bell.",
+          "published": "2026-10-13T11:49:04+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -140,11 +196,99 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "¿Por qué las acciones de Intel están subiendo hoy?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-intel-estan-subiendo-hoy-93CH-3878749",
+          "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+          "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
+          "summary": "Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
+          "published": "2026-10-19T16:42:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Alphabet C presiona soporte 338-340 USD con bandera bajista: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/alphabet-c-presiona-soporte-fibonacci-618-niveles-en-vivo-93CH-3879711",
           "summary": "",
-          "published": "2026-10-19T09:45:35+00:00",
+          "published": "2026-10-19T19:08:42+00:00",
           "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Meta Platforms rompe soporte clave: giro bajista en tiempo real",
+          "link": "https://es.investing.com/news/stock-market-news/meta-platforms-rompe-ichimoku-y-activa-doble-techo-niveles-en-vivo-93CH-3879721",
+          "summary": "",
+          "published": "2026-10-19T19:08:33+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "name": "IBM",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "IBM frente a resistencia clave en $240,31: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/ibm-frena-el-rally-ante-resistencia-clave-23950--niveles-en-vivo-93CH-3879716",
+          "summary": "",
+          "published": "2026-10-19T19:08:01+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Oracle cae 23% desde máximos con soporte clave en 127,40 USD: en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/oracle-en-tendencia-bajista-soporte-12640-bajo-presion-niveles-en-vivo-93CH-3879699",
+          "summary": "",
+          "published": "2026-10-19T19:07:58+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -194,22 +338,6 @@
           "published": "2026-10-19T05:00:00+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "BA",
-      "name": "Boeing",
-      "exchange": "NYSE",
-      "sector": "Industria",
-      "news": [
-        {
-          "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
-          "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
-          "summary": "Boeing, Meta and EchoStar recorded steep charges and expenses a year ago, which are expected to make this latest quarter’s results look especially strong by comparison.",
-          "published": "2026-10-18T14:00:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -352,22 +480,6 @@
           "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
           "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
           "published": "2026-10-16T16:46:18+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
-          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-16T11:43:42+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -534,22 +646,6 @@
       ]
     },
     {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-          "summary": "These are the stocks posting the largest moves before the bell.",
-          "published": "2026-10-13T11:49:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "CRM",
       "name": "Salesforce",
       "exchange": "NYSE",
@@ -560,6 +656,22 @@
           "link": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
           "summary": "These are the stocks posting the largest moves in early trading.",
           "published": "2026-10-12T12:20:13+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+          "published": "2026-10-07T11:55:36+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -644,129 +756,104 @@
           "source_scope": "México"
         }
       ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
     }
   ],
   "sin_accion": [
     {
-      "title": "Grupos europeos de telecomunicaciones exploran una oferta conjunta de espectro satelital",
-      "link": "https://es.investing.com/news/stock-market-news/grupos-europeos-de-telecomunicaciones-exploran-una-oferta-conjunta-de-espectro-satelital-3878727",
-      "summary": "",
-      "published": "2026-10-19T09:30:32+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "France and the U.S. share the same debt trap. Only one has a global lifeline.",
-      "link": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories",
-      "summary": "France and the U.S. have similar debt dynamics.",
-      "published": "2026-10-19T09:30:00+00:00",
+      "title": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
+      "link": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
+      "summary": "Analysts argue CoreWeave’s underlying economics are far sturdier than nervous debt and equity investors realize.",
+      "published": "2026-10-19T19:17:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué las acciones de Pets at Home alcanzan un nuevo un máximo de 52 semanas?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-pets-at-home-alcanzan-un-nuevo-un-maximo-de-52-semanas-93CH-3878719",
+      "title": "Galicia ADR sobrevendido: ¿rebote trampa o caída libre?: Niveles en vivo",
+      "link": "https://es.investing.com/news/stock-market-news/galicia-adr-bajista-en-3587-usd-con-bear-flag-activa-niveles-en-vivo-93CH-3879717",
       "summary": "",
-      "published": "2026-10-19T09:21:59+00:00",
+      "published": "2026-10-19T19:09:27+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué se dispara hoy la acción de OHB?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-ohb-93CH-3878709",
+      "title": "ServiceNow rechaza 154 $ y activa trampa alcista: niveles en vivo",
+      "link": "https://es.investing.com/news/stock-market-news/servicenow-cae-en-trampa-alcista-tras-rechazo-en-154-niveles-en-vivo-93CH-3879720",
       "summary": "",
-      "published": "2026-10-19T09:09:06+00:00",
+      "published": "2026-10-19T19:09:23+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "+34% en el mes: la gran tecnología rota hacia estas pequeñas y medianas capitalizaciones seleccionadas por IA",
-      "link": "https://es.investing.com/news/stock-market-news/34-mensual-la-ia-detecta-estas-pequenas-y-medianas-empresas-fuera-del-radar-3878712",
+      "title": "Futuros del Nasdaq 100 rebotan pero chocan con resistencia: niveles en vivo",
+      "link": "https://es.investing.com/news/stock-market-news/futuros-del-nasdaq-100-bajo-medias-clave-con-adx-en-47-niveles-en-vivo-93CH-3879713",
       "summary": "",
-      "published": "2026-10-19T09:07:52+00:00",
+      "published": "2026-10-19T19:07:54+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué cae hoy la acción de Serica Energy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-serica-energy-93CH-3878703",
+      "title": "SanDisk en fuerte bajista: soportes clave en vivo",
+      "link": "https://es.investing.com/news/stock-market-news/sandisk-presiona-soporte-fibonacci-618-niveles-en-vivo-93CH-3879702",
       "summary": "",
-      "published": "2026-10-19T09:03:01+00:00",
+      "published": "2026-10-19T19:07:47+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Kelly Clarkson’s expensive purchases: A multi-million dollar real-estate portfolio that spans the country",
-      "link": "https://www.marketwatch.com/story/kelly-clarksons-expensive-purchases-a-multi-million-dollar-real-estate-portfolio-that-spans-the-country-fe1d3bc7?mod=mw_rss_topstories",
-      "summary": "From a sprawling waterfront mansion in Tennessee and a lavish California estate to a cozy Montana ranch, Kelly Clarkson is no stranger to expensive purchases.",
-      "published": "2026-10-19T09:03:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The Beach Boys’ Mike Love goes the extra mile to protect the land around $43 million Lake Tahoe estate",
-      "link": "https://www.marketwatch.com/story/the-beach-boys-mike-love-goes-the-extra-mile-to-protect-the-land-around-43-million-lake-tahoe-estate-06c5606e?mod=mw_rss_topstories",
-      "summary": "Beach Boys star Mike Love has revealed the extraordinary lengths he went to preserve the natural beauty surrounding his sprawling $43 million Lake Tahoe estate.",
-      "published": "2026-10-19T09:01:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "VW planea congelar salarios hasta 2030 para 660.000 empleados",
-      "link": "https://es.investing.com/news/stock-market-news/vw-planea-congelar-salarios-hasta-2030-para-660000-empleados-93CH-3878700",
-      "summary": "",
-      "published": "2026-10-19T08:58:41+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
-      "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-      "summary": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
-      "published": "2026-10-19T08:23:33+00:00",
+      "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+      "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+      "summary": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+      "published": "2026-10-19T18:36:21+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-      "published": "2026-10-18T17:00:00+00:00",
+      "title": "One of this year’s most important relationships in global financial markets is falling apart",
+      "link": "https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories",
+      "summary": "One of the most important relationships in global markets has started to unravel over the past couple of weeks. Investors are scrambling to figure out what it might mean for the economy, and their portfolios.",
+      "published": "2026-10-19T17:43:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "summary": "”I earn $110,000 a year.”",
-      "published": "2026-10-18T16:15:00+00:00",
+      "title": "When should you dump your target-date funds?",
+      "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+      "summary": "Target-date funds aren’t necessarily built to handle many of the decisions retirees face.",
+      "published": "2026-10-19T17:31:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
+      "published": "2026-10-19T17:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+      "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+      "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
+      "published": "2026-10-19T16:42:14+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
+      "link": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
+      "summary": "Outsized positions have made many higher-education endowments less diversified and more at risk when shares slide",
+      "published": "2026-10-19T16:35:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -775,8 +862,26 @@
       "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
       "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
       "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-      "published": "2026-10-18T16:00:00+00:00",
+      "published": "2026-10-19T16:00:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Peso mexicano pierde terreno frente al dólar: ¿qué pasará si Banxico vuelve a recortar la tasa?",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-pierde-terreno-frente-al-dolar-que-pasara-si-banxico-vuelve-a-recortar-la-tasa/",
+      "summary": "En las últimas cinco semanas, el peso mexicano se ha depreciado 7,8% frente al dólar estadounidense.",
+      "published": "2026-10-19T12:40:18+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
+      "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "summary": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
+      "published": "2026-10-19T08:23:33+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -880,24 +985,6 @@
       "tickers": []
     },
     {
-      "title": "Economists: Hot PPI shows Fed's work is not done",
-      "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
-      "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
-      "published": "2026-10-15T15:37:59+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix & more",
-      "link": "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html",
-      "summary": "These are the stocks posting the largest moves premarket.",
-      "published": "2026-10-15T12:02:13+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Diputados aprueban Ley de Ingresos 2027 con bolsa de MXN$10,6 billones y déficit fiscal “complejo”",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-de-ingresos-2027-con-bolsa-de-mxn106-billones-y-complejo-deficit-fiscal/",
       "summary": "La Ley de Ingresos contempla MXN$1,7 billones de endeudamiento y un déficit fiscal de 3,9% del PIB para 2027.",
@@ -977,20 +1064,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Minuta de Banxico revela que tres miembros abren la puerta a un recorte de la tasa de interés",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/minuta-de-banxico-revela-que-tres-miembros-abren-la-puerta-a-un-recorte-de-la-tasa-de-interes/",
-      "summary": "La postura de los tres miembros ocurre luego de que Banxico enfatizó que no reaccionaría de manera mecánica a los ajustes de la Fed.",
-      "published": "2026-10-08T16:23:18+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 26,
-    "sin_accion": 36
+    "acciones_con_noticias": 30,
+    "sin_accion": 34
   }
 }
