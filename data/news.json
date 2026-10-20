@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:26:02.494672+00:00",
+  "generated_at": "2026-10-20T00:30:18.822266+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10749.5,
+      "ventana_horas": 10759.6,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.0,
+      "ventana_horas": 1.2,
       "ok": true
     },
     {
@@ -64,289 +64,25 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.9,
+      "ventana_horas": 1.4,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-          "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-          "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-          "published": "2026-10-19T12:34:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-          "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-          "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
-          "published": "2026-10-13T20:48:37+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-          "summary": "These are the stocks posting the largest moves before the bell.",
-          "published": "2026-10-13T11:49:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-          "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-          "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
-          "published": "2026-10-10T15:00:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "NVIDIA forma bandera bajista en zona clave: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/nvidia-cae-bajo-la-mm200-en-zona-de-soporte-clave-niveles-en-vivo-93CH-3879714",
-          "summary": "",
-          "published": "2026-10-19T19:07:47+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Micron and other chip stocks spring back to life after bruising selloff",
-          "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-          "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
-          "published": "2026-10-19T16:59:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Tesla en punto crítico sobre la 200 SMA: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/tesla-en-punto-de-inflexion-soporte-35375--decide-el-rumbo-93CH-3879712",
-          "summary": "",
-          "published": "2026-10-19T19:08:21+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
-          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-16T11:43:42+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Micron and other chip stocks spring back to life after bruising selloff",
-          "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-          "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
-          "published": "2026-10-19T16:59:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-          "summary": "These are the stocks posting the largest moves before the bell.",
-          "published": "2026-10-13T11:49:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
-          "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
-          "summary": "Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
-          "published": "2026-10-19T16:42:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Alphabet C presiona soporte 338-340 USD con bandera bajista: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/alphabet-c-presiona-soporte-fibonacci-618-niveles-en-vivo-93CH-3879711",
-          "summary": "",
-          "published": "2026-10-19T19:08:42+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Meta Platforms rompe soporte clave: giro bajista en tiempo real",
-          "link": "https://es.investing.com/news/stock-market-news/meta-platforms-rompe-ichimoku-y-activa-doble-techo-niveles-en-vivo-93CH-3879721",
-          "summary": "",
-          "published": "2026-10-19T19:08:33+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "IBM",
-      "name": "IBM",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "IBM frente a resistencia clave en $240,31: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/ibm-frena-el-rally-ante-resistencia-clave-23950--niveles-en-vivo-93CH-3879716",
-          "summary": "",
-          "published": "2026-10-19T19:08:01+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Oracle cae 23% desde máximos con soporte clave en 127,40 USD: en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/oracle-en-tendencia-bajista-soporte-12640-bajo-presion-niveles-en-vivo-93CH-3879699",
-          "summary": "",
-          "published": "2026-10-19T19:07:58+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "WALMEX.MX",
-      "name": "Walmart de México",
-      "exchange": "BMV",
-      "sector": "Retail",
-      "news": [
-        {
-          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa mexicana",
-          "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
-          "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
-          "published": "2026-10-19T05:00:00+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "CEMEXCPO.MX",
-      "name": "Cemex",
-      "exchange": "BMV",
-      "sector": "Materiales",
-      "news": [
-        {
-          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa mexicana",
-          "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
-          "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
-          "published": "2026-10-19T05:00:00+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "CX",
-      "name": "Cemex (ADR)",
-      "exchange": "NYSE",
-      "sector": "Materiales",
-      "news": [
-        {
-          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa mexicana",
-          "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
-          "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
-          "published": "2026-10-19T05:00:00+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
       "exchange": "Estatal (deuda)",
       "sector": "Energía",
       "news": [
+        {
+          "title": "Pemex reporta incendio en plataforma petrolera del Golfo de México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-reporta-incendio-en-plataforma-petrolera-del-golfo-de-mexico/",
+          "summary": "Embarcaciones contraincendios atienden la emergencia en una plataforma de Pemex en aguas mexicanas.",
+          "published": "2026-10-19T22:45:16+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
         {
           "title": "HR Ratings rebaja calificación crediticia de México por deterioro fiscal y arrastra a Pemex",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hr-ratings-rebaja-calificacion-crediticia-de-mexico-por-deterioro-en-balances-fiscales/",
@@ -418,12 +154,188 @@
           "published": "2026-09-09T00:54:03+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+          "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+          "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+          "published": "2026-10-19T12:34:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         },
         {
-          "title": "Riesgos macroeconómicos de México también pueden impactar a Pemex: Fitch",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/riesgos-macroeconomicos-de-mexico-tambien-pueden-impactar-a-pemex-fitch/",
-          "summary": "La calificadora de riesgo crediticio ve algunos riesgos derivados de la economía mexicana que pueden impactar a la petrolera estatal.",
-          "published": "2026-09-08T12:59:22+00:00",
+          "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+          "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+          "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+          "published": "2026-10-13T20:48:37+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+          "summary": "These are the stocks posting the largest moves before the bell.",
+          "published": "2026-10-13T11:49:04+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+          "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+          "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
+          "published": "2026-10-10T15:00:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Las acciones de 3M suben un 3% tras acuerdo con Amazon por 6.000 millones de dólares",
+          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-3m-suben-un-3-tras-acuerdo-con-amazon-por-6000-millones-de-dolares-3880104",
+          "summary": "",
+          "published": "2026-10-19T21:06:32+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Micron and other chip stocks spring back to life after bruising selloff",
+          "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+          "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+          "published": "2026-10-19T21:06:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Micron and other chip stocks spring back to life after bruising selloff",
+          "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+          "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+          "published": "2026-10-19T21:06:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+          "summary": "These are the stocks posting the largest moves before the bell.",
+          "published": "2026-10-13T11:49:04+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+          "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
+          "summary": "Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
+          "published": "2026-10-19T21:00:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "WALMEX.MX",
+      "name": "Walmart de México",
+      "exchange": "BMV",
+      "sector": "Retail",
+      "news": [
+        {
+          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa mexicana",
+          "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
+          "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
+          "published": "2026-10-19T05:00:00+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "CEMEXCPO.MX",
+      "name": "Cemex",
+      "exchange": "BMV",
+      "sector": "Materiales",
+      "news": [
+        {
+          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa mexicana",
+          "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
+          "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
+          "published": "2026-10-19T05:00:00+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "CX",
+      "name": "Cemex (ADR)",
+      "exchange": "NYSE",
+      "sector": "Materiales",
+      "news": [
+        {
+          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa mexicana",
+          "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
+          "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
+          "published": "2026-10-19T05:00:00+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -486,42 +398,18 @@
       ]
     },
     {
-      "ticker": "CFE",
-      "name": "Comisión Federal de Electricidad",
-      "exchange": "Estatal (deuda)",
-      "sector": "Energía",
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
       "news": [
         {
-          "title": "México alista recorte al presupuesto de Pemex y CFE, pero las compensará con transferencias",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-recorte-al-presupuesto-de-pemex-y-cfe-pero-las-compensara-con-transferencias/",
-          "summary": "Hacienda propuso un recorte presupuestal de 1 y 8% a las empresas estatales Pemex y CFE en 2027.",
-          "published": "2026-09-09T10:00:00+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE emite deuda de MXN$20.000 millones por refinanciamiento y proyectos eléctricos",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-emite-deuda-de-mxn20000-millones-por-refinanciamiento-y-proyectos-electricos/",
-          "summary": "La mitad del monto se destinará a refinanciar deuda y el resto a proyectos de inversión como centrales fotovoltaicas.",
-          "published": "2026-09-04T05:45:49+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE presenta denuncia por vandalismo ante la Fiscalía de México",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-denuncia-por-vandalismo-ante-la-fiscalia-de-mexico/",
-          "summary": "La empresa eléctrica señaló que el vandalismo fue similar a los ataques registrados en el mismo corredor eléctrico el 3 de junio de 2026.",
-          "published": "2026-09-03T03:52:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE reporta apagón eléctrico por vandalismo en el sureste de México",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-reporta-apagon-electrico-en-el-sureste-de-mexico/",
-          "summary": "La compañía eléctrica sufrió un corte de suministro eléctrico que afectó a 745.500 clientes en los estados de Chiapas, Campeche, Quintana Roo y Yucatán.",
-          "published": "2026-09-01T05:21:45+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
+          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
+          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-16T11:43:42+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -554,6 +442,38 @@
           "published": "2026-10-14T11:36:25+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "CFE",
+      "name": "Comisión Federal de Electricidad",
+      "exchange": "Estatal (deuda)",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "México alista recorte al presupuesto de Pemex y CFE, pero las compensará con transferencias",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-recorte-al-presupuesto-de-pemex-y-cfe-pero-las-compensara-con-transferencias/",
+          "summary": "Hacienda propuso un recorte presupuestal de 1 y 8% a las empresas estatales Pemex y CFE en 2027.",
+          "published": "2026-09-09T10:00:00+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "CFE emite deuda de MXN$20.000 millones por refinanciamiento y proyectos eléctricos",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-emite-deuda-de-mxn20000-millones-por-refinanciamiento-y-proyectos-electricos/",
+          "summary": "La mitad del monto se destinará a refinanciar deuda y el resto a proyectos de inversión como centrales fotovoltaicas.",
+          "published": "2026-09-04T05:45:49+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "CFE presenta denuncia por vandalismo ante la Fiscalía de México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-denuncia-por-vandalismo-ante-la-fiscalia-de-mexico/",
+          "summary": "La empresa eléctrica señaló que el vandalismo fue similar a los ataques registrados en el mismo corredor eléctrico el 3 de junio de 2026.",
+          "published": "2026-09-03T03:52:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -760,48 +680,120 @@
   ],
   "sin_accion": [
     {
-      "title": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
-      "link": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
-      "summary": "Analysts argue CoreWeave’s underlying economics are far sturdier than nervous debt and equity investors realize.",
-      "published": "2026-10-19T19:17:00+00:00",
+      "title": "Moody’s sube la calificación de Oshkosh a Baa2 por su sólida evolución",
+      "link": "https://es.investing.com/news/stock-market-news/moodys-sube-la-calificacion-de-oshkosh-a-baa2-por-su-solida-evolucion-3880131",
+      "summary": "",
+      "published": "2026-10-19T21:58:59+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
+      "link": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
+      "summary": "Research has found that it can take more than six months for professional athletes to return to play after being treated for a deep-vein thrombosis or pulmonary embolism.",
+      "published": "2026-10-19T21:58:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Galicia ADR sobrevendido: ¿rebote trampa o caída libre?: Niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/galicia-adr-bajista-en-3587-usd-con-bear-flag-activa-niveles-en-vivo-93CH-3879717",
+      "title": "El 1% de Eric Schmidt en Anthropic augura enormes ganancias antes de su OPV",
+      "link": "https://es.investing.com/news/stock-market-news/el-1-de-eric-schmidt-en-anthropic-augura-enormes-ganancias-antes-de-su-opv-3880129",
       "summary": "",
-      "published": "2026-10-19T19:09:27+00:00",
+      "published": "2026-10-19T21:56:05+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "ServiceNow rechaza 154 $ y activa trampa alcista: niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/servicenow-cae-en-trampa-alcista-tras-rechazo-en-154-niveles-en-vivo-93CH-3879720",
+      "title": "When should you dump your target-date funds?",
+      "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+      "summary": "Target-date funds aren’t necessarily built to handle many of the decisions retirees face.",
+      "published": "2026-10-19T21:37:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+      "link": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+      "summary": "Credit markets are sending unusually mixed messages to investors right now, and it’s making some people nervous.",
+      "published": "2026-10-19T21:36:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
+      "published": "2026-10-19T21:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+      "published": "2026-10-19T21:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube la acción de Tradeweb Markets en el mercado fuera de hora?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-la-accion-de-tradeweb-markets-en-el-mercado-fuera-de-hora-93CH-3880113",
       "summary": "",
-      "published": "2026-10-19T19:09:23+00:00",
+      "published": "2026-10-19T21:14:17+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Futuros del Nasdaq 100 rebotan pero chocan con resistencia: niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/futuros-del-nasdaq-100-bajo-medias-clave-con-adx-en-47-niveles-en-vivo-93CH-3879713",
+      "title": "¿Por qué sube la acción de Bitdeer Technologies tras el cierre?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-la-accion-de-bitdeer-technologies-tras-el-cierre-93CH-3880112",
       "summary": "",
-      "published": "2026-10-19T19:07:54+00:00",
+      "published": "2026-10-19T21:14:02+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "SanDisk en fuerte bajista: soportes clave en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/sandisk-presiona-soporte-fibonacci-618-niveles-en-vivo-93CH-3879702",
+      "title": "¿Por qué cae la acción de Crown tras el cierre del mercado?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-la-accion-de-crown-tras-el-cierre-del-mercado-93CH-3880109",
       "summary": "",
-      "published": "2026-10-19T19:07:47+00:00",
+      "published": "2026-10-19T21:11:12+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Steel Dynamics?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-steel-dynamics-93CH-3880108",
+      "summary": "",
+      "published": "2026-10-19T21:10:40+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "SpaceX earnings will be all about AI — for better or for worse",
+      "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
+      "summary": "SpaceX has been renting out access to computing power, which is a big source of revenue growth but also one that comes at a high cost.",
+      "published": "2026-10-19T21:02:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Trump propone a Sheinbaum ayudar con la producción petrolera de México",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/trump-propone-a-sheinbaum-ayudar-con-la-produccion-petrolera-de-mexico/",
+      "summary": "El mandatario también propuso que México aumente las compras de gas natural estadounidense",
+      "published": "2026-10-19T20:46:41+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -814,56 +806,11 @@
       "tickers": []
     },
     {
-      "title": "One of this year’s most important relationships in global financial markets is falling apart",
-      "link": "https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories",
-      "summary": "One of the most important relationships in global markets has started to unravel over the past couple of weeks. Investors are scrambling to figure out what it might mean for the economy, and their portfolios.",
-      "published": "2026-10-19T17:43:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "When should you dump your target-date funds?",
-      "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
-      "summary": "Target-date funds aren’t necessarily built to handle many of the decisions retirees face.",
-      "published": "2026-10-19T17:31:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
-      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
-      "published": "2026-10-19T17:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Anthropic is AI trade's last big hope for a major IPO this year",
       "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
       "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
       "published": "2026-10-19T16:42:14+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
-      "link": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
-      "summary": "Outsized positions have made many higher-education endowments less diversified and more at risk when shares slide",
-      "published": "2026-10-19T16:35:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-      "published": "2026-10-19T16:00:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1055,20 +1002,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "México no tiene reservas de gas natural en ductos: analistas",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-no-tiene-reservas-de-gas-natural-en-ductos-analistas/",
-      "summary": "Expertos en gas natural consideran que el problema de contar los ductos como presuntas reservas crea la sensación de que México tiene una protección cuando no es así.",
-      "published": "2026-10-09T11:00:00+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 30,
-    "sin_accion": 34
+    "acciones_con_noticias": 26,
+    "sin_accion": 36
   }
 }
