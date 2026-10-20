@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:30:18.822266+00:00",
+  "generated_at": "2026-10-20T09:35:14.410737+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.2,
+      "ventana_horas": 0.6,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 217.7,
+      "ventana_horas": 209.8,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.4,
+      "ventana_horas": 12.4,
       "ok": true
     }
   ],
@@ -158,6 +158,70 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "South Korean IPO flop is the latest in a string of disappointments for the global AI trade",
+          "link": "https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories",
+          "summary": "October alone has witnessed the shelving of three separate flotations planned for data-center providers, backed by AI powerhouses like Nvidia, Blackstone and SoftBank. Investors are not convinced of the sustainability of the capex outlay.",
+          "published": "2026-10-20T09:30:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Micron and other chip stocks spring back to life after bruising selloff",
+          "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+          "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+          "published": "2026-10-19T21:06:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
+          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
+          "published": "2026-09-03T02:59:17+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Goldman Sachs inicia cobertura de TAG Immobilien con ’compra’ y ve un potencial del 38%",
+          "link": "https://es.investing.com/news/stock-market-news/goldman-sachs-inicia-cobertura-de-tag-immobilien-con-compra-y-ve-un-potencial-del-38-3880647",
+          "summary": "",
+          "published": "2026-10-20T09:08:49+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "It’s a rough housing market, and Goldman Sachs expects it to get worse",
+          "link": "https://www.marketwatch.com/story/its-a-rough-housing-market-and-goldman-sachs-expects-it-to-get-worse-be2c5aac?mod=mw_rss_topstories",
+          "summary": "As bad as it is for the housing market — starts and transactions basically flat for the last three years with mortgage rates over 7%— it can get still get worse.",
+          "published": "2026-10-20T08:13:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+          "published": "2026-10-07T11:55:36+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "JPM",
       "name": "JPMorgan Chase",
       "exchange": "NYSE",
@@ -186,62 +250,6 @@
           "published": "2026-10-13T11:49:04+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-          "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-          "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
-          "published": "2026-10-10T15:00:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Las acciones de 3M suben un 3% tras acuerdo con Amazon por 6.000 millones de dólares",
-          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-3m-suben-un-3-tras-acuerdo-con-amazon-por-6000-millones-de-dolares-3880104",
-          "summary": "",
-          "published": "2026-10-19T21:06:32+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Micron and other chip stocks spring back to life after bruising selloff",
-          "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-          "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
-          "published": "2026-10-19T21:06:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/marcelo-ebrard-se-reune-con-jensen-huang-ceo-de-nvidia-de-que-hablaron/",
-          "summary": "El secretario de Economía mexicano también se reunió con Sam Altman, CEO de Open AI, y Tom Brown, co-fundador de Anthropic.",
-          "published": "2026-09-03T02:59:17+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
         }
       ]
     },
@@ -270,19 +278,27 @@
       ]
     },
     {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "INTC",
       "name": "Intel",
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
-        {
-          "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
-          "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
-          "summary": "Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
-          "published": "2026-10-19T21:00:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
         {
           "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
           "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
@@ -300,7 +316,7 @@
       "sector": "Retail",
       "news": [
         {
-          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa mexicana",
+          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa Mexicana",
           "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
           "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
           "published": "2026-10-19T05:00:00+00:00",
@@ -316,7 +332,7 @@
       "sector": "Materiales",
       "news": [
         {
-          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa mexicana",
+          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa Mexicana",
           "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
           "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
           "published": "2026-10-19T05:00:00+00:00",
@@ -332,7 +348,7 @@
       "sector": "Materiales",
       "news": [
         {
-          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa mexicana",
+          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa Mexicana",
           "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
           "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
           "published": "2026-10-19T05:00:00+00:00",
@@ -582,22 +598,6 @@
       ]
     },
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-          "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-          "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
-          "published": "2026-10-07T11:55:36+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "HSBC",
       "name": "HSBC",
       "exchange": "NYSE",
@@ -680,11 +680,92 @@
   ],
   "sin_accion": [
     {
-      "title": "Moody’s sube la calificación de Oshkosh a Baa2 por su sólida evolución",
-      "link": "https://es.investing.com/news/stock-market-news/moodys-sube-la-calificacion-de-oshkosh-a-baa2-por-su-solida-evolucion-3880131",
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
+      "published": "2026-10-20T09:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My unmarried partner of 17 years left me his $1.1 million home. His three children are livid. Should I share my inheritance?",
+      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "published": "2026-10-20T09:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Alvotech?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-alvotech-93CH-3880661",
       "summary": "",
-      "published": "2026-10-19T21:58:59+00:00",
+      "published": "2026-10-20T09:19:26+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Eni lanza un proyecto de hub de gas en el Desierto Occidental de Egipto",
+      "link": "https://es.investing.com/news/stock-market-news/eni-lanza-un-proyecto-de-hub-de-gas-en-el-desierto-occidental-de-egipto-93CH-3880650",
+      "summary": "",
+      "published": "2026-10-20T09:12:04+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The multi-million dollar real estate portfolio of Buffalo Bills QB Josh Allen and actress Hailee Steinfeld",
+      "link": "https://www.marketwatch.com/story/the-multi-million-dollar-real-estate-portfolio-of-buffalo-bills-qb-josh-allen-and-actress-hailee-steinfeld-58a9bd62?mod=mw_rss_topstories",
+      "summary": "Josh Allen reached another milestone in his NFL career, but his life away from football is equally impressive—including the real estate portfolio he shares with his actress wife, Hailee Steinfeld.",
+      "published": "2026-10-20T09:02:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Italia buscará 5.000 millones de euros del sector financiero para 2027",
+      "link": "https://es.investing.com/news/stock-market-news/italia-buscara-5000-millones-de-euros-del-sector-financiero-para-2027-93CH-3880626",
+      "summary": "",
+      "published": "2026-10-20T09:00:57+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Jefferies: las ventas de belleza online en China cayeron un 6% en septiembre",
+      "link": "https://es.investing.com/news/stock-market-news/jefferies-las-ventas-de-belleza-online-en-china-cayeron-un-6-en-septiembre-93CH-3880625",
+      "summary": "",
+      "published": "2026-10-20T08:59:32+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Eni lanza un proyecto de gas para aumentar la producción en Egipto",
+      "link": "https://es.investing.com/news/stock-market-news/eni-lanza-un-proyecto-de-gas-para-aumentar-la-produccion-en-egipto-93CH-3880624",
+      "summary": "",
+      "published": "2026-10-20T08:58:19+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Alvotech suben antes de la apertura tras aprobación de la FDA",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-alvotech-suben-antes-de-la-apertura-tras-aprobacion-de-la-fda-3880622",
+      "summary": "",
+      "published": "2026-10-20T08:52:53+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The world’s finance chiefs see new risks — and less China angst",
+      "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "published": "2026-10-20T05:27:53+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -694,15 +775,6 @@
       "summary": "Research has found that it can take more than six months for professional athletes to return to play after being treated for a deep-vein thrombosis or pulmonary embolism.",
       "published": "2026-10-19T21:58:00+00:00",
       "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El 1% de Eric Schmidt en Anthropic augura enormes ganancias antes de su OPV",
-      "link": "https://es.investing.com/news/stock-market-news/el-1-de-eric-schmidt-en-anthropic-augura-enormes-ganancias-antes-de-su-opv-3880129",
-      "summary": "",
-      "published": "2026-10-19T21:56:05+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -720,69 +792,6 @@
       "link": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
       "summary": "Credit markets are sending unusually mixed messages to investors right now, and it’s making some people nervous.",
       "published": "2026-10-19T21:36:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
-      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
-      "published": "2026-10-19T21:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-      "published": "2026-10-19T21:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube la acción de Tradeweb Markets en el mercado fuera de hora?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-la-accion-de-tradeweb-markets-en-el-mercado-fuera-de-hora-93CH-3880113",
-      "summary": "",
-      "published": "2026-10-19T21:14:17+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube la acción de Bitdeer Technologies tras el cierre?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-la-accion-de-bitdeer-technologies-tras-el-cierre-93CH-3880112",
-      "summary": "",
-      "published": "2026-10-19T21:14:02+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae la acción de Crown tras el cierre del mercado?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-la-accion-de-crown-tras-el-cierre-del-mercado-93CH-3880109",
-      "summary": "",
-      "published": "2026-10-19T21:11:12+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Steel Dynamics?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-steel-dynamics-93CH-3880108",
-      "summary": "",
-      "published": "2026-10-19T21:10:40+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "SpaceX earnings will be all about AI — for better or for worse",
-      "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
-      "summary": "SpaceX has been renting out access to computing power, which is a big source of revenue growth but also one that comes at a high cost.",
-      "published": "2026-10-19T21:02:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -900,15 +909,6 @@
       "link": "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-after-hours-ibkr-jbht-aa.html",
       "summary": "These are the stocks posting the largest moves in extended trading.",
       "published": "2026-10-15T20:48:50+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-      "link": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
-      "summary": "The latest 12-month period marked the strongest return for the university's fund since 2021.",
-      "published": "2026-10-15T19:53:49+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
