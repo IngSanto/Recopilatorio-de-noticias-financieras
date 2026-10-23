@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:56:13.083365+00:00",
+  "generated_at": "2026-10-23T23:54:22.563219+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.4,
+      "ventana_horas": 2.5,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 364.3,
+      "ventana_horas": 392.4,
       "ok": true
     },
     {
@@ -64,31 +64,79 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.0,
+      "ventana_horas": 2.8,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
       "news": [
         {
-          "title": "Goldman Sachs prevé caída de las bolsas por resultados tecnológicos",
-          "link": "https://es.investing.com/news/stock-market-news/goldman-sachs-preve-caida-de-las-bolsas-por-resultados-tecnologicos-93CH-3888714",
+          "title": "Alphabet, Microsoft y Amazon reportan la próxima semana: ¿en cuál invertir?",
+          "link": "https://es.investing.com/news/stock-market-news/alphabet-microsoft-y-amazon-reportan-la-proxima-semana-en-cual-invertir-3888763",
           "summary": "",
-          "published": "2026-10-23T17:12:15+00:00",
+          "published": "2026-10-23T19:40:09+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-          "published": "2026-10-21T15:30:50+00:00",
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
           "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber",
+      "exchange": "NYSE",
+      "sector": "Transporte y logística",
+      "news": [
+        {
+          "title": "Instacart sube un 10% ante posible venta a Uber o DoorDash",
+          "link": "https://es.investing.com/news/stock-market-news/instacart-sube-un-10-ante-posible-venta-a-uber-o-doordash-3888778",
+          "summary": "",
+          "published": "2026-10-23T20:06:34+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Alphabet, Microsoft y Amazon reportan la próxima semana: ¿en cuál invertir?",
+          "link": "https://es.investing.com/news/stock-market-news/alphabet-microsoft-y-amazon-reportan-la-proxima-semana-en-cual-invertir-3888763",
+          "summary": "",
+          "published": "2026-10-23T19:40:09+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Alphabet, Microsoft y Amazon reportan la próxima semana: ¿en cuál invertir?",
+          "link": "https://es.investing.com/news/stock-market-news/alphabet-microsoft-y-amazon-reportan-la-proxima-semana-en-cual-invertir-3888763",
+          "summary": "",
+          "published": "2026-10-23T19:40:09+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -358,6 +406,22 @@
       ]
     },
     {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+          "published": "2026-10-21T15:30:50+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "AEROMEX.MX",
       "name": "Aeroméxico",
       "exchange": "BMV",
@@ -538,22 +602,6 @@
           "published": "2025-07-28T15:10:03+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -752,101 +800,38 @@
   ],
   "sin_accion": [
     {
-      "title": "¿Por qué cae hoy la acción de Accenture?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-accenture-93CH-3888724",
-      "summary": "",
-      "published": "2026-10-23T17:43:40+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "summary": "”I earn $110,000 a year.”",
-      "published": "2026-10-23T17:00:00+00:00",
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+      "published": "2026-10-23T22:49:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-      "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-      "summary": "Store aisles are getting a digital makeover.",
-      "published": "2026-10-23T16:41:00+00:00",
+      "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+      "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+      "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
+      "published": "2026-10-23T22:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Lycia Therapeutics se dispara en su debut tras una OPV de 317,5 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/lycia-therapeutics-se-dispara-en-su-debut-tras-una-opv-de-3175-millones-de-dolares-3888703",
-      "summary": "",
-      "published": "2026-10-23T16:33:47+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Palo Alto Networks?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-palo-alto-networks-93CH-3888701",
-      "summary": "",
-      "published": "2026-10-23T16:32:15+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Check Point Software?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-check-point-software-93CH-3888700",
-      "summary": "",
-      "published": "2026-10-23T16:30:46+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de SentinelOne?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-sentinelone-93CH-3888698",
-      "summary": "",
-      "published": "2026-10-23T16:28:59+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de SentinelOne suben hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-sentinelone-suben-hoy-93CH-3888697",
-      "summary": "",
-      "published": "2026-10-23T16:28:43+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-      "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
-      "summary": "Market turmoil has created a remarkable opportunity in recent weeks for retirees and those seeking secure, stable income for life.",
-      "published": "2026-10-23T15:56:00+00:00",
+      "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+      "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+      "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
+      "published": "2026-10-23T21:46:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-      "published": "2026-10-23T15:31:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
-      "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
-      "summary": "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.",
-      "published": "2026-10-23T15:00:00+00:00",
-      "source_short": "MarketW",
+      "title": "La plataforma fintech OPay solicita una OPI de 336 millones de dólares en EE.UU.",
+      "link": "https://es.investing.com/news/stock-market-news/la-plataforma-fintech-opay-solicita-una-opi-de-336-millones-de-dolares-en-eeuu-3888851",
+      "summary": "",
+      "published": "2026-10-23T21:38:53+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -854,8 +839,80 @@
       "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
       "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
       "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
-      "published": "2026-10-23T14:40:00+00:00",
+      "published": "2026-10-23T21:13:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+      "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+      "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
+      "published": "2026-10-23T21:11:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
+      "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+      "summary": "The first Phase 3 data for a cancer vaccine has raised questions about whether the potential new treatment is needed.",
+      "published": "2026-10-23T21:06:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen hoy las acciones de Cumberland Pharmaceuticals?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-cumberland-pharmaceuticals-93CH-3888825",
+      "summary": "",
+      "published": "2026-10-23T21:05:06+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Maplebear?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-maplebear-93CH-3888818",
+      "summary": "",
+      "published": "2026-10-23T20:52:42+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+      "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+      "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
+      "published": "2026-10-23T20:49:42+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Acciones de Cumberland Pharmaceuticals caen tras resultados de ensayo",
+      "link": "https://es.investing.com/news/stock-market-news/acciones-de-cumberland-pharmaceuticals-caen-tras-resultados-de-ensayo-3888809",
+      "summary": "",
+      "published": "2026-10-23T20:38:19+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "OPI de Anthropic: ¿puede el crecimiento de 15x cubrir 600,000 mdd en compromisos?",
+      "link": "https://es.investing.com/news/stock-market-news/opi-de-anthropic-puede-el-crecimiento-de-15x-cubrir-600000-mdd-en-compromisos-3888799",
+      "summary": "",
+      "published": "2026-10-23T20:28:19+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Veritas explora la venta de Chromalloy tras la resiliencia del sector aéreo",
+      "link": "https://es.investing.com/news/stock-market-news/veritas-explora-la-venta-de-chromalloy-tras-la-resiliencia-del-sector-aereo-93CH-3888784",
+      "summary": "",
+      "published": "2026-10-23T20:14:46+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -882,15 +939,6 @@
       "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
       "summary": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
       "published": "2026-10-22T16:40:09+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-      "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-      "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
-      "published": "2026-10-22T13:18:36+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1078,7 +1126,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 31,
+    "acciones_con_noticias": 34,
     "sin_accion": 36
   }
 }
