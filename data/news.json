@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:07:20.556127+00:00",
+  "generated_at": "2026-10-23T00:04:05.086953+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10812.1,
+      "ventana_horas": 10832.0,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 2.2,
+      "ventana_horas": 3.1,
       "ok": true
     },
     {
@@ -64,11 +64,43 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.0,
+      "ventana_horas": 3.8,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "C",
+      "name": "Citigroup / Banamex",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Citigroup reúne a analistas en Ciudad de México para preparar la OPV de Banamex",
+          "link": "https://es.investing.com/news/stock-market-news/citigroup-reune-a-analistas-en-ciudad-de-mexico-para-preparar-la-opv-de-banamex-3886889",
+          "summary": "",
+          "published": "2026-10-22T21:23:21+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+          "published": "2026-10-16T16:46:18+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
+          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
+          "published": "2026-09-26T00:25:22+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
     {
       "ticker": "TSLA",
       "name": "Tesla",
@@ -76,18 +108,10 @@
       "sector": "Automotriz",
       "news": [
         {
-          "title": "Caída tecnológica: 5 acciones para comprar, 5 a evitar tras reportes Meta y Tesla",
-          "link": "https://es.investing.com/news/stock-market-news/caida-tecnologica-5-acciones-para-comprar-5-a-evitar-tras-reportes-meta-y-tesla-3886540",
-          "summary": "",
-          "published": "2026-10-22T16:22:12+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
+          "title": "3 big reasons Micron and other chip stocks fell hard on Thursday",
           "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
-          "summary": "Investors are spooked by Tesla’s cut to its near-term spending target and Lam Research’s weaker-than-expected forecast,",
-          "published": "2026-10-22T15:33:00+00:00",
+          "summary": "Investors are spooked by Tesla’s lower spending target, Lam Research’s weaker-than-expected forecast and a fresh reminder that the AI boom relies on outside funding.",
+          "published": "2026-10-22T21:19:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
@@ -108,10 +132,10 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
+          "title": "3 big reasons Micron and other chip stocks fell hard on Thursday",
           "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
-          "summary": "Investors are spooked by Tesla’s cut to its near-term spending target and Lam Research’s weaker-than-expected forecast,",
-          "published": "2026-10-22T15:33:00+00:00",
+          "summary": "Investors are spooked by Tesla’s lower spending target, Lam Research’s weaker-than-expected forecast and a fresh reminder that the AI boom relies on outside funding.",
+          "published": "2026-10-22T21:19:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
@@ -126,32 +150,32 @@
       ]
     },
     {
-      "ticker": "MRK",
-      "name": "Merck",
+      "ticker": "PG",
+      "name": "Procter & Gamble",
       "exchange": "NYSE",
-      "sector": "Salud",
+      "sector": "Consumo",
       "news": [
         {
-          "title": "Moderna’s stock tumbles after reported leak of data for cancer vaccine",
-          "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
-          "summary": "Moderna and Merck are expected to share the Phase 3 data for their experimental cancer vaccine this weekend at a medical conference.",
-          "published": "2026-10-22T18:03:00+00:00",
+          "title": "Americans are having fewer babies — and pampering them with luxury diapers",
+          "link": "https://www.marketwatch.com/story/americans-are-having-fewer-babies-and-pampering-them-with-luxury-diapers-a84222cd?mod=mw_rss_topstories",
+          "summary": "“Fewer babies in each household means parents spend more per baby,” Procter & Gamble’s CFO says.",
+          "published": "2026-10-22T21:28:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "PEP",
-      "name": "PepsiCo",
+      "ticker": "RIVN",
+      "name": "Rivian",
       "exchange": "NASDAQ",
-      "sector": "Alimentos",
+      "sector": "Automotriz",
       "news": [
         {
-          "title": "PepsiCo asegura su alianza con Taco Bell hasta 2036 tras perder a KFC",
-          "link": "https://es.investing.com/news/stock-market-news/pepsico-asegura-su-alianza-con-taco-bell-hasta-2036-tras-perder-a-kfc-3886541",
+          "title": "Rivian adquiere Third Dimension AI para impulsar la conducción autónoma",
+          "link": "https://es.investing.com/news/stock-market-news/rivian-adquiere-third-dimension-ai-para-impulsar-la-conduccion-autonoma-3886879",
           "summary": "",
-          "published": "2026-10-22T16:21:04+00:00",
+          "published": "2026-10-22T21:12:47+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
@@ -310,30 +334,6 @@
       ]
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix",
-      "exchange": "NASDAQ",
-      "sector": "Medios",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",
-          "link": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-21T11:49:11+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
-          "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html",
-          "summary": "Here are some of the companies making headlines after the closing bell.",
-          "published": "2026-10-20T22:55:27+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "AMXB.MX",
       "name": "América Móvil",
       "exchange": "BMV",
@@ -408,6 +408,30 @@
           "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
           "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
           "published": "2026-10-21T15:30:50+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix",
+      "exchange": "NASDAQ",
+      "sector": "Medios",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",
+          "link": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-21T11:49:11+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
+          "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html",
+          "summary": "Here are some of the companies making headlines after the closing bell.",
+          "published": "2026-10-20T22:55:27+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -582,62 +606,6 @@
       ]
     },
     {
-      "ticker": "CFE",
-      "name": "Comisión Federal de Electricidad",
-      "exchange": "Estatal (deuda)",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "México alista recorte al presupuesto de Pemex y CFE, pero las compensará con transferencias",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-recorte-al-presupuesto-de-pemex-y-cfe-pero-las-compensara-con-transferencias/",
-          "summary": "Hacienda propuso un recorte presupuestal de 1 y 8% a las empresas estatales Pemex y CFE en 2027.",
-          "published": "2026-09-09T10:00:00+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE emite deuda de MXN$20.000 millones por refinanciamiento y proyectos eléctricos",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-emite-deuda-de-mxn20000-millones-por-refinanciamiento-y-proyectos-electricos/",
-          "summary": "La mitad del monto se destinará a refinanciar deuda y el resto a proyectos de inversión como centrales fotovoltaicas.",
-          "published": "2026-09-04T05:45:49+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE presenta denuncia por vandalismo ante la Fiscalía de México",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-denuncia-por-vandalismo-ante-la-fiscalia-de-mexico/",
-          "summary": "La empresa eléctrica señaló que el vandalismo fue similar a los ataques registrados en el mismo corredor eléctrico el 3 de junio de 2026.",
-          "published": "2026-09-03T03:52:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "C",
-      "name": "Citigroup / Banamex",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-          "published": "2026-10-16T16:46:18+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
-          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
-          "published": "2026-09-26T00:25:22+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "BLK",
       "name": "BlackRock",
       "exchange": "NYSE",
@@ -680,6 +648,30 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-traxion-inicia-proceso-para-salir-de-la-bolsa-mexicana-de-valores/",
           "summary": "La compañía mexicana de transporte y logística ha visto un impacto en el precio y la liquidez de sus títulos en los últimos dos años.",
           "published": "2026-09-15T01:26:28+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "CFE",
+      "name": "Comisión Federal de Electricidad",
+      "exchange": "Estatal (deuda)",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "México alista recorte al presupuesto de Pemex y CFE, pero las compensará con transferencias",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-recorte-al-presupuesto-de-pemex-y-cfe-pero-las-compensara-con-transferencias/",
+          "summary": "Hacienda propuso un recorte presupuestal de 1 y 8% a las empresas estatales Pemex y CFE en 2027.",
+          "published": "2026-09-09T10:00:00+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "CFE emite deuda de MXN$20.000 millones por refinanciamiento y proyectos eléctricos",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-emite-deuda-de-mxn20000-millones-por-refinanciamiento-y-proyectos-electricos/",
+          "summary": "La mitad del monto se destinará a refinanciar deuda y el resto a proyectos de inversión como centrales fotovoltaicas.",
+          "published": "2026-09-04T05:45:49+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -808,73 +800,127 @@
   ],
   "sin_accion": [
     {
-      "title": "¿Por qué se desploma hoy la acción de Moderna?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-moderna-93CH-3886580",
+      "title": "SK Hynix cancela los planes de salida a bolsa de Solidigm",
+      "link": "https://es.investing.com/news/stock-market-news/sk-hynix-cancela-los-planes-de-salida-a-bolsa-de-solidigm-3886953",
       "summary": "",
-      "published": "2026-10-22T17:46:30+00:00",
+      "published": "2026-10-22T23:39:12+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-      "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-      "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
-      "published": "2026-10-22T17:29:00+00:00",
+      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "published": "2026-10-22T23:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
-      "published": "2026-10-22T17:24:00+00:00",
+      "title": "Regulador en México pone en la mira aceptación de vales de despensa en comercios",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/regulador-en-mexico-pone-en-la-mira-aceptacion-de-vales-de-despensa-en-comercios/",
+      "summary": "La investigación busca determinar si existen conductas que dificulten indebidamente que los proveedores de vales y medios de pago electrónicos compitan, dijo el regulador.",
+      "published": "2026-10-22T23:11:25+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+      "published": "2026-10-22T23:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
-      "link": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
-      "summary": "Beth Kobliner, author of “Get a Financial Life,” explains why today’s young people face a tougher financial world and reveals the three money moves she would make first.",
-      "published": "2026-10-22T17:21:00+00:00",
+      "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
+      "link": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
+      "summary": "Stop listening to market pundits and start looking at market performance.",
+      "published": "2026-10-22T22:54:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de Moderna se desploman por una aparente filtración de datos sobre su vacuna contra el cáncer",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-moderna-se-desploman-por-una-aparente-filtracion-de-datos-sobre-su-vacuna-contra-el-cancer-3886573",
+      "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
+      "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+      "summary": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
+      "published": "2026-10-22T22:17:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
+      "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+      "summary": "‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’",
+      "published": "2026-10-22T22:07:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Logan Energy explora opciones de venta, según Bloomberg",
+      "link": "https://es.investing.com/news/stock-market-news/logan-energy-explora-opciones-de-venta-segun-bloomberg-3886922",
       "summary": "",
-      "published": "2026-10-22T17:20:20+00:00",
+      "published": "2026-10-22T22:03:15+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
-      "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
-      "summary": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.",
-      "published": "2026-10-22T17:16:00+00:00",
-      "source_short": "MarketW",
+      "title": "Las acciones de Huron Consulting suben tras su inclusión en el S&P SmallCap 600",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-huron-consulting-suben-tras-su-inclusion-en-el-sp-smallcap-600-3886914",
+      "summary": "",
+      "published": "2026-10-22T21:57:24+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
-      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-      "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things",
-      "published": "2026-10-22T16:48:00+00:00",
-      "source_short": "MarketW",
+      "title": "SpaceX negocia acceso a 80.000 torres para crear una red inalámbrica nacional",
+      "link": "https://es.investing.com/news/stock-market-news/spacex-negocia-acceso-a-80000-torres-para-crear-una-red-inalambrica-nacional-3886912",
+      "summary": "",
+      "published": "2026-10-22T21:50:51+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Zuckerberg’s California tax move is a win for Meta — and for him",
-      "link": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
-      "summary": "He has bought some good PR and gets to live and work where he wants.",
-      "published": "2026-10-22T16:48:00+00:00",
+      "title": "Las acciones de Aardvark Therapeutics suben tras el levantamiento de la FDA",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-aardvark-therapeutics-suben-tras-el-levantamiento-de-la-fda-3886894",
+      "summary": "",
+      "published": "2026-10-22T21:27:46+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "México da un controvertido paso para endurecer las reglas de las pensiones del IMSS",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-da-un-controvertido-paso-para-endurecer-las-reglas-de-las-pensiones-del-imss/",
+      "summary": "La presidenta Claudia Sheinbaum dijo que los cambios a la Modalidad 40 fueron motivados porque se hallaron “fraudes” relacionados con el acceso a las pensiones altas.",
+      "published": "2026-10-22T21:14:59+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Movimientos en el mercado fuera de hora: WDC, BE, DECK, FIX, RNG",
+      "link": "https://es.investing.com/news/stock-market-news/movimientos-en-el-mercado-fuera-de-hora-wdc-be-deck-fix-rng-432SI-3886833",
+      "summary": "",
+      "published": "2026-10-22T20:48:04+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+      "link": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
+      "summary": "Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across financial markets.",
+      "published": "2026-10-22T20:46:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -885,42 +931,6 @@
       "summary": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
       "published": "2026-10-22T16:40:09+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Skydance revierten ganancias tras informe de inversión de 1.000 millones de dólares de Musk",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-skydance-revierten-ganancias-tras-informe-de-inversion-de-1000-millones-de-dolares-de-musk-3886544",
-      "summary": "",
-      "published": "2026-10-22T16:25:05+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de L’Oréal suben un 4% tras superar las ventas del tercer trimestre",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-loreal-suben-un-4-tras-superar-las-ventas-del-tercer-trimestre-3886531",
-      "summary": "",
-      "published": "2026-10-22T16:11:06+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Kevin Weil lanza Warp Sciences con 215 millones de dólares para automatizar el desarrollo de fármacos",
-      "link": "https://es.investing.com/news/stock-market-news/kevin-weil-lanza-warp-sciences-con-215-millones-de-dolares-para-automatizar-el-desarrollo-de-farmacos-93CH-3886511",
-      "summary": "",
-      "published": "2026-10-22T15:58:51+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Conversaciones de financiación valoran a Apex en 4.000 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/conversaciones-de-financiacion-valoran-a-apex-en-4000-millones-de-dolares-93CH-3886509",
-      "summary": "",
-      "published": "2026-10-22T15:58:15+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1109,24 +1119,6 @@
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-de-derechos-2027-con-aumento-en-cuotas-tramites-y-permisos/",
       "summary": "El Gobierno mexicano proyecta ingresos por el cobro de derechos por MXN$177.185 millones para el 2027.",
       "published": "2026-10-14T03:43:34+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Control de deducciones y Ley de Derechos con ajuste en cuota de turismo avanzan en Cámara de Diputados",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/control-de-deducciones-y-ley-de-derechos-con-ajuste-en-cuota-de-turismo-avanzan-en-camara-de-diputados/",
-      "summary": "La Comisión de Hacienda aprobó dos dictámenes del Paquete Económico 2027 en materia de ingresos, los cuales fueron remitidos al Pleno de la Cámara de Diputados.",
-      "published": "2026-10-13T03:56:09+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Crisis de agua contaminada confronta a Sheinbaum con gobernador de Jalisco por esquema privado de obras",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/crisis-de-agua-contaminada-confronta-a-sheinbaum-con-gobernador-de-jalisco-por-esquema-privado-de-obras/",
-      "summary": "El gobernador Pablo Lemus planteó a la presidenta mexicana una solución bajo el modelo de “Construcción, Mantenimiento, Rehabilitación y Operación” por parte del sector privado.",
-      "published": "2026-10-12T18:13:21+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
