@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T09:03:04.185363+00:00",
+  "generated_at": "2026-10-24T16:51:38.667088+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 11.7,
+      "ventana_horas": 2.8,
       "ok": true
     }
   ],
@@ -318,30 +318,6 @@
       ]
     },
     {
-      "ticker": "GM",
-      "name": "General Motors",
-      "exchange": "NYSE",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: Hasbro, Northrop Grumman, Equifax, General Motors & more",
-          "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-midday-has-noc-efx-gm.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-10-20T16:45:06+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: RTX, General Motors, Northrop Grumman, Steel Dynamics & more",
-          "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-premarket-rtx-gm-noc-stld.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-10-20T16:35:41+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "AMXB.MX",
       "name": "América Móvil",
       "exchange": "BMV",
@@ -438,22 +414,6 @@
       ]
     },
     {
-      "ticker": "HSBC",
-      "name": "HSBC",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-          "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-          "summary": "Data center campuses house the servers that power AI and cloud computing.",
-          "published": "2026-10-20T10:39:17+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "BAC",
       "name": "Bank of America",
       "exchange": "NYSE",
@@ -480,6 +440,30 @@
           "link": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-10-14T11:36:25+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GM",
+      "name": "General Motors",
+      "exchange": "NYSE",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: Hasbro, Northrop Grumman, Equifax, General Motors & more",
+          "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-midday-has-noc-efx-gm.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-20T16:45:06+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: RTX, General Motors, Northrop Grumman, Steel Dynamics & more",
+          "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-premarket-rtx-gm-noc-stld.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-10-20T16:35:41+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -602,6 +586,22 @@
           "published": "2025-07-28T15:10:03+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "HSBC",
+      "name": "HSBC",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+          "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+          "summary": "Data center campuses house the servers that power AI and cloud computing.",
+          "published": "2026-10-20T10:39:17+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -800,6 +800,60 @@
   ],
   "sin_accion": [
     {
+      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+      "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
+      "published": "2026-10-24T16:46:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+      "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
+      "summary": "Store aisles are getting a digital makeover.",
+      "published": "2026-10-24T16:18:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
+      "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
+      "summary": "Market turmoil has created a remarkable opportunity in recent weeks for retirees and those seeking secure, stable income for life.",
+      "published": "2026-10-24T16:04:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "published": "2026-10-24T16:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Money-saving habits to cope with higher prices — from our readers",
+      "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
+      "summary": "I asked people what they’re doing to make life more affordable today. I’ll definitely be trying some of these.",
+      "published": "2026-10-24T15:27:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
+      "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+      "summary": "“I am slightly anxious about purchasing something so big” from an online retailer known for cut-price duplicates of popular clothes and accessories.",
+      "published": "2026-10-24T15:10:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Las acciones suizas superan a Europa al retirarse inversores de la IA",
       "link": "https://es.investing.com/news/stock-market-news/las-acciones-suizas-superan-a-europa-al-retirarse-inversores-de-la-ia-3888926",
       "summary": "",
@@ -809,65 +863,11 @@
       "tickers": []
     },
     {
-      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-      "published": "2026-10-24T08:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-      "published": "2026-10-24T07:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-      "published": "2026-10-23T22:49:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-      "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
-      "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
-      "published": "2026-10-23T22:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
-      "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
-      "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
-      "published": "2026-10-23T21:46:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "La plataforma fintech OPay solicita una OPI de 336 millones de dólares en EE.UU.",
       "link": "https://es.investing.com/news/stock-market-news/la-plataforma-fintech-opay-solicita-una-opi-de-336-millones-de-dolares-en-eeuu-3888851",
       "summary": "",
       "published": "2026-10-23T21:38:53+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-      "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-      "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
-      "published": "2026-10-23T21:13:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
