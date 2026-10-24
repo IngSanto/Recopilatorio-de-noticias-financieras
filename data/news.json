@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T23:54:22.563219+00:00",
+  "generated_at": "2026-10-24T09:03:04.185363+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 2.5,
+      "ventana_horas": 12.6,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.8,
+      "ventana_horas": 11.7,
       "ok": true
     }
   ],
@@ -800,6 +800,33 @@
   ],
   "sin_accion": [
     {
+      "title": "Las acciones suizas superan a Europa al retirarse inversores de la IA",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-suizas-superan-a-europa-al-retirarse-inversores-de-la-ia-3888926",
+      "summary": "",
+      "published": "2026-10-24T08:07:38+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+      "published": "2026-10-24T08:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+      "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+      "published": "2026-10-24T07:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
       "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
       "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
@@ -845,24 +872,6 @@
       "tickers": []
     },
     {
-      "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
-      "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-      "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
-      "published": "2026-10-23T21:11:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
-      "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
-      "summary": "The first Phase 3 data for a cancer vaccine has raised questions about whether the potential new treatment is needed.",
-      "published": "2026-10-23T21:06:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "¿Por qué caen hoy las acciones de Cumberland Pharmaceuticals?",
       "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-cumberland-pharmaceuticals-93CH-3888825",
       "summary": "",
@@ -903,15 +912,6 @@
       "link": "https://es.investing.com/news/stock-market-news/opi-de-anthropic-puede-el-crecimiento-de-15x-cubrir-600000-mdd-en-compromisos-3888799",
       "summary": "",
       "published": "2026-10-23T20:28:19+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Veritas explora la venta de Chromalloy tras la resiliencia del sector aéreo",
-      "link": "https://es.investing.com/news/stock-market-news/veritas-explora-la-venta-de-chromalloy-tras-la-resiliencia-del-sector-aereo-93CH-3888784",
-      "summary": "",
-      "published": "2026-10-23T20:14:46+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
