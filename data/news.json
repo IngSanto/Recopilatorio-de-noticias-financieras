@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:51:38.667088+00:00",
+  "generated_at": "2026-10-24T23:31:05.471197+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 12.6,
+      "ventana_horas": 26.8,
       "ok": true
     },
     {
@@ -64,35 +64,11 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.8,
+      "ventana_horas": 4.0,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Alphabet, Microsoft y Amazon reportan la próxima semana: ¿en cuál invertir?",
-          "link": "https://es.investing.com/news/stock-market-news/alphabet-microsoft-y-amazon-reportan-la-proxima-semana-en-cual-invertir-3888763",
-          "summary": "",
-          "published": "2026-10-23T19:40:09+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
     {
       "ticker": "UBER",
       "name": "Uber",
@@ -104,38 +80,6 @@
           "link": "https://es.investing.com/news/stock-market-news/instacart-sube-un-10-ante-posible-venta-a-uber-o-doordash-3888778",
           "summary": "",
           "published": "2026-10-23T20:06:34+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Alphabet, Microsoft y Amazon reportan la próxima semana: ¿en cuál invertir?",
-          "link": "https://es.investing.com/news/stock-market-news/alphabet-microsoft-y-amazon-reportan-la-proxima-semana-en-cual-invertir-3888763",
-          "summary": "",
-          "published": "2026-10-23T19:40:09+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Alphabet, Microsoft y Amazon reportan la próxima semana: ¿en cuál invertir?",
-          "link": "https://es.investing.com/news/stock-market-news/alphabet-microsoft-y-amazon-reportan-la-proxima-semana-en-cual-invertir-3888763",
-          "summary": "",
-          "published": "2026-10-23T19:40:09+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
@@ -398,22 +342,6 @@
       ]
     },
     {
-      "ticker": "AEROMEX.MX",
-      "name": "Aeroméxico",
-      "exchange": "BMV",
-      "sector": "Aerolíneas",
-      "news": [
-        {
-          "title": "Acciones de Aeroméxico caen con fuerza tras sus resultados: qué decepcionó a Wall Street",
-          "link": "https://www.bloomberglinea.com/mercados/acciones-de-aeromexico-caen-con-fuerza-tras-sus-resultados-que-decepciono-a-wall-street/",
-          "summary": "Las perspectivas para el cierre del año decepcionaron, pero las recomendaciones de compra siguen dominando entre los analistas que cubren la aerolínea.",
-          "published": "2026-10-20T20:31:16+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "BAC",
       "name": "Bank of America",
       "exchange": "NYSE",
@@ -590,6 +518,22 @@
       ]
     },
     {
+      "ticker": "AEROMEX.MX",
+      "name": "Aeroméxico",
+      "exchange": "BMV",
+      "sector": "Aerolíneas",
+      "news": [
+        {
+          "title": "Acciones de Aeroméxico caen con fuerza tras sus resultados: qué decepcionó a Wall Street",
+          "link": "https://www.bloomberglinea.com/mercados/acciones-de-aeromexico-caen-con-fuerza-tras-sus-resultados-que-decepciono-a-wall-street/",
+          "summary": "Las perspectivas para el cierre del año decepcionaron, pero las recomendaciones de compra siguen dominando entre los analistas que cubren la aerolínea.",
+          "published": "2026-10-20T20:31:16+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "HSBC",
       "name": "HSBC",
       "exchange": "NYSE",
@@ -600,6 +544,22 @@
           "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
           "summary": "Data center campuses house the servers that power AI and cloud computing.",
           "published": "2026-10-20T10:39:17+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -800,56 +760,74 @@
   ],
   "sin_accion": [
     {
-      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
-      "published": "2026-10-24T16:46:00+00:00",
+      "title": "Por qué el mercado bursátil de Corea del Sur es la apuesta más pura en IA",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-el-mercado-bursatil-de-corea-del-sur-es-la-apuesta-mas-pura-en-ia-3888984",
+      "summary": "",
+      "published": "2026-10-24T22:55:32+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "summary": "“Nothing has been set aside for his needs.”",
+      "published": "2026-10-24T20:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-      "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-      "summary": "Store aisles are getting a digital makeover.",
-      "published": "2026-10-24T16:18:00+00:00",
+      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+      "published": "2026-10-24T20:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-      "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
-      "summary": "Market turmoil has created a remarkable opportunity in recent weeks for retirees and those seeking secure, stable income for life.",
-      "published": "2026-10-24T16:04:00+00:00",
+      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
+      "published": "2026-10-24T19:45:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-      "published": "2026-10-24T16:00:00+00:00",
+      "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
+      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+      "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
+      "published": "2026-10-24T18:45:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Money-saving habits to cope with higher prices — from our readers",
-      "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
-      "summary": "I asked people what they’re doing to make life more affordable today. I’ll definitely be trying some of these.",
-      "published": "2026-10-24T15:27:00+00:00",
+      "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
+      "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
+      "summary": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
+      "published": "2026-10-24T18:03:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
-      "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-      "summary": "“I am slightly anxious about purchasing something so big” from an online retailer known for cut-price duplicates of popular clothes and accessories.",
-      "published": "2026-10-24T15:10:00+00:00",
+      "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+      "summary": "“I’m 32 years old and feel like I should know how to do this stuff by now.”",
+      "published": "2026-10-24T17:39:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Apax, Nordic Capital y Dalmore estudian la compra del proveedor JLA Group",
+      "link": "https://es.investing.com/news/stock-market-news/apax-nordic-capital-y-dalmore-estudian-la-compra-del-proveedor-jla-group-3888970",
+      "summary": "",
+      "published": "2026-10-24T15:09:31+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -895,24 +873,6 @@
       "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
       "published": "2026-10-23T20:49:42+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Acciones de Cumberland Pharmaceuticals caen tras resultados de ensayo",
-      "link": "https://es.investing.com/news/stock-market-news/acciones-de-cumberland-pharmaceuticals-caen-tras-resultados-de-ensayo-3888809",
-      "summary": "",
-      "published": "2026-10-23T20:38:19+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "OPI de Anthropic: ¿puede el crecimiento de 15x cubrir 600,000 mdd en compromisos?",
-      "link": "https://es.investing.com/news/stock-market-news/opi-de-anthropic-puede-el-crecimiento-de-15x-cubrir-600000-mdd-en-compromisos-3888799",
-      "summary": "",
-      "published": "2026-10-23T20:28:19+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1126,7 +1086,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 34,
+    "acciones_con_noticias": 32,
     "sin_accion": 36
   }
 }
