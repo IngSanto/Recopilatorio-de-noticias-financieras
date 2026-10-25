@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:10:55.184018+00:00",
+  "generated_at": "2026-10-25T23:26:27.935614+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 31.3,
+      "ventana_horas": 26.6,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 4.3,
+      "ventana_horas": 7.2,
       "ok": true
     }
   ],
@@ -94,22 +94,6 @@
       ]
     },
     {
-      "ticker": "UBS",
-      "name": "UBS",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "UBS podría eliminar 12.000 empleos en Suiza si se endurecen las normas de capital",
-          "link": "https://es.investing.com/news/stock-market-news/ubs-podria-eliminar-12000-empleos-en-suiza-si-se-endurecen-las-normas-de-capital-3889035",
-          "summary": "",
-          "published": "2026-10-25T10:45:31+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "HSBC",
       "name": "HSBC",
       "exchange": "NYSE",
@@ -130,6 +114,70 @@
           "published": "2026-10-20T10:39:17+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "UBS",
+      "name": "UBS",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "UBS podría eliminar 12.000 empleos en Suiza si se endurecen las normas de capital",
+          "link": "https://es.investing.com/news/stock-market-news/ubs-podria-eliminar-12000-empleos-en-suiza-si-se-endurecen-las-normas-de-capital-3889035",
+          "summary": "",
+          "published": "2026-10-25T10:45:31+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMXB.MX",
+      "name": "América Móvil",
+      "exchange": "BMV",
+      "sector": "Telecom",
+      "news": [
+        {
+          "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
+          "summary": "Si se concreta la operación no habría razón para que América Móvil no pueda ofrecer todos los servicios de telecomunicaciones, consideró el CEO Daniel Hajj.",
+          "published": "2026-10-22T03:14:16+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "TLEVISACPO.MX",
+      "name": "Grupo Televisa",
+      "exchange": "BMV",
+      "sector": "Medios",
+      "news": [
+        {
+          "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
+          "summary": "Si se concreta la operación no habría razón para que América Móvil no pueda ofrecer todos los servicios de telecomunicaciones, consideró el CEO Daniel Hajj.",
+          "published": "2026-10-22T03:14:16+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AMX",
+      "name": "América Móvil (ADR)",
+      "exchange": "NYSE",
+      "sector": "Telecom",
+      "news": [
+        {
+          "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
+          "summary": "Si se concreta la operación no habría razón para que América Móvil no pueda ofrecer todos los servicios de telecomunicaciones, consideró el CEO Daniel Hajj.",
+          "published": "2026-10-22T03:14:16+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -216,70 +264,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-recorte-al-presupuesto-de-pemex-y-cfe-pero-las-compensara-con-transferencias/",
           "summary": "Hacienda propuso un recorte presupuestal de 1 y 8% a las empresas estatales Pemex y CFE en 2027.",
           "published": "2026-09-09T10:00:00+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AMXB.MX",
-      "name": "América Móvil",
-      "exchange": "BMV",
-      "sector": "Telecom",
-      "news": [
-        {
-          "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
-          "summary": "Si se concreta la operación no habría razón para que América Móvil no pueda ofrecer todos los servicios de telecomunicaciones, consideró el CEO Daniel Hajj.",
-          "published": "2026-10-22T03:14:16+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "TLEVISACPO.MX",
-      "name": "Grupo Televisa",
-      "exchange": "BMV",
-      "sector": "Medios",
-      "news": [
-        {
-          "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
-          "summary": "Si se concreta la operación no habría razón para que América Móvil no pueda ofrecer todos los servicios de telecomunicaciones, consideró el CEO Daniel Hajj.",
-          "published": "2026-10-22T03:14:16+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AMX",
-      "name": "América Móvil (ADR)",
-      "exchange": "NYSE",
-      "sector": "Telecom",
-      "news": [
-        {
-          "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
-          "summary": "Si se concreta la operación no habría razón para que América Móvil no pueda ofrecer todos los servicios de telecomunicaciones, consideró el CEO Daniel Hajj.",
-          "published": "2026-10-22T03:14:16+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "PBR",
-      "name": "Petrobras",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
-          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
-          "published": "2026-10-21T19:04:25+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -550,6 +534,22 @@
       ]
     },
     {
+      "ticker": "PBR",
+      "name": "Petrobras",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
+          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
+          "published": "2026-10-21T19:04:25+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "AEROMEX.MX",
       "name": "Aeroméxico",
       "exchange": "BMV",
@@ -776,6 +776,51 @@
   ],
   "sin_accion": [
     {
+      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+      "published": "2026-10-25T20:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+      "published": "2026-10-25T20:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+      "published": "2026-10-25T19:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "summary": "“Nothing has been set aside for his needs.”",
+      "published": "2026-10-25T18:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Oppenheimer ve mejora en software web y comercio en el T3, pero persiste la preocupación por la IA",
+      "link": "https://es.investing.com/news/stock-market-news/oppenheimer-ve-mejora-en-software-web-y-comercio-en-el-t3-pero-persiste-la-preocupacion-por-la-ia-3889107",
+      "summary": "",
+      "published": "2026-10-25T17:48:15+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
       "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
       "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
@@ -794,47 +839,11 @@
       "tickers": []
     },
     {
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
-      "published": "2026-10-25T17:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-      "published": "2026-10-25T16:45:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "¿Existe suficiente capital para financiar los ambiciosos planes de gasto en IA?",
       "link": "https://es.investing.com/news/stock-market-news/existe-suficiente-capital-para-financiar-los-ambiciosos-planes-de-gasto-en-ia-3889103",
       "summary": "",
       "published": "2026-10-25T15:27:32+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-      "published": "2026-10-25T14:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-      "published": "2026-10-25T14:00:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -870,15 +879,6 @@
       "link": "https://es.investing.com/news/stock-market-news/por-que-el-mercado-bursatil-de-corea-del-sur-es-la-apuesta-mas-pura-en-ia-3888984",
       "summary": "",
       "published": "2026-10-24T22:55:32+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Apax, Nordic Capital y Dalmore estudian la compra del proveedor JLA Group",
-      "link": "https://es.investing.com/news/stock-market-news/apax-nordic-capital-y-dalmore-estudian-la-compra-del-proveedor-jla-group-3888970",
-      "summary": "",
-      "published": "2026-10-24T15:09:31+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
