@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:31:05.471197+00:00",
+  "generated_at": "2026-10-25T09:19:43.177749+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 26.8,
+      "ventana_horas": 36.0,
       "ok": true
     },
     {
@@ -70,17 +70,49 @@
   ],
   "tickers": [
     {
-      "ticker": "UBER",
-      "name": "Uber",
+      "ticker": "GS",
+      "name": "Goldman Sachs",
       "exchange": "NYSE",
-      "sector": "Transporte y logística",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Instacart sube un 10% ante posible venta a Uber o DoorDash",
-          "link": "https://es.investing.com/news/stock-market-news/instacart-sube-un-10-ante-posible-venta-a-uber-o-doordash-3888778",
+          "title": "Goldman Sachs recorta en un 25% su objetivo para el Kospi por la caída de las acciones de IA",
+          "link": "https://es.investing.com/news/stock-market-news/goldman-sachs-recorta-en-un-25-su-objetivo-para-el-kospi-por-la-caida-de-las-acciones-de-ia-3889028",
           "summary": "",
-          "published": "2026-10-23T20:06:34+00:00",
+          "published": "2026-10-25T08:50:52+00:00",
           "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+          "published": "2026-10-21T15:30:50+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "HSBC",
+      "name": "HSBC",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "HSBC ve un optimismo cauteloso en la actividad de capital riesgo y capital privado",
+          "link": "https://es.investing.com/news/stock-market-news/hsbc-ve-un-optimismo-cauteloso-en-la-actividad-de-capital-riesgo-y-capital-privado-3889000",
+          "summary": "",
+          "published": "2026-10-25T02:48:10+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+          "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+          "summary": "Data center campuses house the servers that power AI and cloud computing.",
+          "published": "2026-10-20T10:39:17+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -326,22 +358,6 @@
       ]
     },
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-          "published": "2026-10-21T15:30:50+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "BAC",
       "name": "Bank of America",
       "exchange": "NYSE",
@@ -530,22 +546,6 @@
           "published": "2026-10-20T20:31:16+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "HSBC",
-      "name": "HSBC",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-          "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-          "summary": "Data center campuses house the servers that power AI and cloud computing.",
-          "published": "2026-10-20T10:39:17+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -760,6 +760,24 @@
   ],
   "sin_accion": [
     {
+      "title": "5 grandes movimientos de analistas en IA: meses \"únicamente ricos en catalizadores\" para SpaceX",
+      "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-meses-unicamente-ricos-en-catalizadores-para-spacex-3889021",
+      "summary": "",
+      "published": "2026-10-25T07:49:25+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones chinas se hunden ante la caída de las previsiones de beneficios",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-chinas-se-hunden-ante-la-caida-de-las-previsiones-de-beneficios-3888995",
+      "summary": "",
+      "published": "2026-10-25T01:37:10+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Por qué el mercado bursátil de Corea del Sur es la apuesta más pura en IA",
       "link": "https://es.investing.com/news/stock-market-news/por-que-el-mercado-bursatil-de-corea-del-sur-es-la-apuesta-mas-pura-en-ia-3888984",
       "summary": "",
@@ -845,24 +863,6 @@
       "link": "https://es.investing.com/news/stock-market-news/la-plataforma-fintech-opay-solicita-una-opi-de-336-millones-de-dolares-en-eeuu-3888851",
       "summary": "",
       "published": "2026-10-23T21:38:53+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de Cumberland Pharmaceuticals?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-cumberland-pharmaceuticals-93CH-3888825",
-      "summary": "",
-      "published": "2026-10-23T21:05:06+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Maplebear?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-maplebear-93CH-3888818",
-      "summary": "",
-      "published": "2026-10-23T20:52:42+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -1086,7 +1086,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 32,
+    "acciones_con_noticias": 31,
     "sin_accion": 36
   }
 }
