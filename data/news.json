@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:25:13.475444+00:00",
+  "generated_at": "2026-10-26T19:30:04.590357+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10903.9,
+      "ventana_horas": 10920.4,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.4,
+      "ventana_horas": 0.0,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 392.4,
+      "ventana_horas": 462.2,
       "ok": true
     },
     {
@@ -64,113 +64,25 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 16.2,
+      "ventana_horas": 3.2,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "MS",
-      "name": "Morgan Stanley",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley",
-          "link": "https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories",
-          "summary": "The chief stock-market strategist for Morgan Stanley is sticking with a forecast that the S&P 500 will end the year at 8,000, but growing caution is on display as he identified that support for the key semiconductor sector could come considerably lower.",
-          "published": "2026-10-26T09:02:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-          "published": "2026-10-21T15:30:50+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-          "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-          "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
-          "published": "2026-10-14T20:22:09+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "KeyBanc mantiene calificación sobreponderada en Intel con objetivo de 155 dólares",
-          "link": "https://es.investing.com/news/stock-market-news/keybanc-mantiene-calificacion-sobreponderada-en-intel-con-objetivo-de-155-dolares-93CH-3889582",
-          "summary": "",
-          "published": "2026-10-26T09:51:45+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Micron mantiene recomendación de compra en BofA por perspectivas de memoria",
-          "link": "https://es.investing.com/news/stock-market-news/micron-mantiene-recomendacion-de-compra-en-bofa-por-perspectivas-de-memoria-93CH-3889552",
-          "summary": "",
-          "published": "2026-10-26T09:43:35+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-          "summary": "These are the stocks posting the largest moves before the bell.",
-          "published": "2026-10-13T11:49:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "WFC",
-      "name": "Wells Fargo",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Wells Fargo recorta objetivos en maquinaria por preocupaciones sobre financiación de IA",
-          "link": "https://es.investing.com/news/stock-market-news/wells-fargo-recorta-objetivos-en-maquinaria-por-preocupaciones-sobre-financiacion-de-ia-93CH-3889592",
-          "summary": "",
-          "published": "2026-10-26T09:55:36+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
       "exchange": "Estatal (deuda)",
       "sector": "Energía",
       "news": [
+        {
+          "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
+          "summary": "La presidenta mexicana evitó responder si viajará a Brasil, pero detalló que retomará la aliaza estratégica entre ambas petroleras nacionales.",
+          "published": "2026-10-26T15:34:09+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
         {
           "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
@@ -242,14 +154,182 @@
           "published": "2026-09-09T20:22:23+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Tesla forma doji en la Banda Bollinger superior: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/tesla-rompe-rango-pero-sobreextendida-niveles-en-vivo-93CH-3890588",
+          "summary": "",
+          "published": "2026-10-26T19:08:37+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
         },
         {
-          "title": "México alista recorte al presupuesto de Pemex y CFE, pero las compensará con transferencias",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-recorte-al-presupuesto-de-pemex-y-cfe-pero-las-compensara-con-transferencias/",
-          "summary": "Hacienda propuso un recorte presupuestal de 1 y 8% a las empresas estatales Pemex y CFE en 2027.",
-          "published": "2026-09-09T10:00:00+00:00",
+          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
+          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-16T11:43:42+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "AMD rechaza en SMA(20) con bandera bajista activa: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/amd-prueba-soporte-fibonacci-618-bajo-presion-bajista-niveles-en-vivo-93CH-3890595",
+          "summary": "",
+          "published": "2026-10-26T19:08:20+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+          "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+          "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
+          "published": "2026-10-26T18:24:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "NVIDIA prueba soporte de la MM200 con divergencia RSI: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/nvidia-rechaza-sma-200-tras-doble-techo-niveles-en-vivo-93CH-3890586",
+          "summary": "",
+          "published": "2026-10-26T19:07:38+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+          "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+          "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
+          "published": "2026-10-26T18:24:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "PBR",
+      "name": "Petrobras",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
+          "summary": "La presidenta mexicana evitó responder si viajará a Brasil, pero detalló que retomará la aliaza estratégica entre ambas petroleras nacionales.",
+          "published": "2026-10-26T15:34:09+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
+          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
+          "published": "2026-10-21T19:04:25+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Meta Platforms en soporte 200 SMA con RSI extremo: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/meta-platforms-prueba-soporte-200-sma-tras-caida-niveles-en-vivo-93CH-3890592",
+          "summary": "",
+          "published": "2026-10-26T19:09:38+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Alphabet C sobrevende en 5h tras ruptura bajista: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/alphabet-c-en-sobreventa-extrema-tras-ruptura-bajista-niveles-en-vivo-93CH-3890590",
+          "summary": "",
+          "published": "2026-10-26T19:08:42+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "name": "IBM",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "IBM sobrecomprado con Doji en máximos: niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/ibm-sobrecomprado-tras-avance-parabolico-niveles-en-vivo-93CH-3890597",
+          "summary": "",
+          "published": "2026-10-26T19:08:27+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Oracle en canal bajista: niveles actualizados cada hora",
+          "link": "https://es.investing.com/news/stock-market-news/oracle-en-canal-bajista-bajo-todas-las-smas-niveles-en-vivo-93CH-3890579",
+          "summary": "",
+          "published": "2026-10-26T19:07:57+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+          "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+          "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
+          "published": "2026-10-26T18:24:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -320,6 +400,30 @@
           "link": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-10-14T11:36:25+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MS",
+      "name": "Morgan Stanley",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+          "published": "2026-10-21T15:30:50+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+          "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+          "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+          "published": "2026-10-14T20:22:09+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -518,22 +622,6 @@
       ]
     },
     {
-      "ticker": "PBR",
-      "name": "Petrobras",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
-          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
-          "published": "2026-10-21T19:04:25+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "GS",
       "name": "Goldman Sachs",
       "exchange": "NYSE",
@@ -586,6 +674,22 @@
       "name": "Amazon",
       "exchange": "NASDAQ",
       "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
           "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
@@ -678,16 +782,16 @@
       ]
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla",
+      "ticker": "MU",
+      "name": "Micron",
       "exchange": "NASDAQ",
-      "sector": "Automotriz",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
-          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-16T11:43:42+00:00",
+          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+          "summary": "These are the stocks posting the largest moves before the bell.",
+          "published": "2026-10-13T11:49:04+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -776,102 +880,111 @@
   ],
   "sin_accion": [
     {
+      "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
+      "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+      "summary": "McDonald’s franchisees have complained about “tough meat” and other issues with new hand-breaded chicken, an analyst said.",
+      "published": "2026-10-26T19:17:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Galicia ADR rebota en doble suelo: niveles en tiempo real",
+      "link": "https://es.investing.com/news/stock-market-news/galicia-adr-rompe-bandera-bajista-niveles-en-tiempo-real-93CH-3890591",
+      "summary": "",
+      "published": "2026-10-26T19:09:40+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "ServiceNow retrocede desde resistencia $159: niveles en vivo",
+      "link": "https://es.investing.com/news/stock-market-news/servicenow-muestra-divergencia-bajista-del-rsi-niveles-en-vivo-93CH-3890594",
+      "summary": "",
+      "published": "2026-10-26T19:09:33+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Futuros del Nasdaq 100 rebotan ante resistencia clave: niveles en vivo",
+      "link": "https://es.investing.com/news/stock-market-news/futuros-del-nasdaq-100-comprimen-soporte-clave-niveles-en-vivo-93CH-3890585",
+      "summary": "",
+      "published": "2026-10-26T19:08:34+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+      "published": "2026-10-26T18:33:51+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
       "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
       "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-      "published": "2026-10-26T10:15:00+00:00",
+      "published": "2026-10-26T18:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy la acción de Bayer?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-bayer-93CH-3889641",
-      "summary": "",
-      "published": "2026-10-26T10:06:14+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Cheesecake Factory was just the subject of unflattering headlines. It’s actually one of the hottest stocks around.",
-      "link": "https://www.marketwatch.com/story/cheesecake-factory-was-just-the-subject-of-unflattering-headlines-its-actually-one-of-the-hottest-stocks-around-8435cc63?mod=mw_rss_topstories",
-      "summary": "President Barack Obama over the weekend compared President Donald Trump’s White House modifications to “Saddam Hussein opening up a Cheesecake Factory.”",
-      "published": "2026-10-26T10:04:00+00:00",
+      "title": "These energy stocks are poised to profit from an imminent AI power crunch",
+      "link": "https://www.marketwatch.com/story/these-energy-stocks-are-poised-to-profit-from-an-imminent-ai-power-crunch-00c1a50d?mod=mw_rss_topstories",
+      "summary": "Bloom Energy and Solaris Energy would benefit from an urgency around securing power to AI developers.",
+      "published": "2026-10-26T18:10:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "KeyBanc se muestra positivo sobre Monolithic Power ante sus resultados",
-      "link": "https://es.investing.com/news/stock-market-news/keybanc-se-muestra-positivo-sobre-monolithic-power-ante-sus-resultados-93CH-3889587",
-      "summary": "",
-      "published": "2026-10-26T09:53:16+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Space Exploration Technologies?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-space-exploration-technologies-93CH-3889586",
-      "summary": "",
-      "published": "2026-10-26T09:52:48+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Raymond James ve oportunidades de financiación en IA para Apollo, Owl Rock y Ares",
-      "link": "https://es.investing.com/news/stock-market-news/raymond-james-ve-oportunidades-de-financiacion-en-ia-para-apollo-owl-rock-y-ares-93CH-3889564",
-      "summary": "",
-      "published": "2026-10-26T09:47:35+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Los fondos de cobertura recortan posiciones largas ante pérdidas por apuestas cortas",
-      "link": "https://es.investing.com/news/stock-market-news/los-fondos-de-cobertura-recortan-posiciones-largas-ante-perdidas-por-apuestas-cortas-93CH-3889553",
-      "summary": "",
-      "published": "2026-10-26T09:43:52+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "BofA rastrea datos de envíos que muestran recuperación del tránsito en el Mar Rojo",
-      "link": "https://es.investing.com/news/stock-market-news/bofa-rastrea-datos-de-envios-que-muestran-recuperacion-del-transito-en-el-mar-rojo-93CH-3889545",
-      "summary": "",
-      "published": "2026-10-26T09:41:51+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Tennis star Taylor Fritz is selling his condo for $860,000—with sweeping views of Miami",
-      "link": "https://www.marketwatch.com/story/tennis-star-taylor-fritz-is-selling-his-condo-for-860-000with-sweeping-views-of-miami-2db8d086?mod=mw_rss_topstories",
-      "summary": "Tennis star Taylor Fritz is serving up his Miami condo for $860,000, offering a buyer the chance to score a corner residence with sweeping views and a tennis court.",
-      "published": "2026-10-26T09:04:00+00:00",
+      "title": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
+      "link": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
+      "summary": "Christopher Jackson got hurt before his first NFL game. He now coaches teens on building wealth.",
+      "published": "2026-10-26T17:32:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 million Puerto Rico home",
-      "link": "https://www.marketwatch.com/story/tyler-perry-cuts-price-of-36-million-wyoming-property-on-37-acres-buys-30-million-puerto-rico-home-5eb819be?mod=mw_rss_topstories",
-      "summary": "Tyler Perry has slashed $3.5 million from the asking price of his Wyoming mansion—days after picking up a $30 million home in Puerto Rico.",
-      "published": "2026-10-26T09:01:00+00:00",
+      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
+      "published": "2026-10-26T17:19:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
-      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
-      "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
-      "published": "2026-10-26T01:50:00+00:00",
+      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+      "published": "2026-10-26T16:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Lula frena la ola de victorias conservadoras en América Latina y así queda el mapa político",
+      "link": "https://www.bloomberglinea.com/latinoamerica/lula-frena-la-ola-de-victorias-conservadoras-en-america-latina-y-asi-queda-el-mapa-politico/",
+      "summary": "El izquierdista y presidente de Brasil detuvo la oleada de siete victorias presidenciales del ala conservadora que se han registrado en la región desde 2025.",
+      "published": "2026-10-26T13:51:22+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "México sigue aumentando subsidio adicional al diésel para contener el precio",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-sigue-aumentando-subsidio-adicional-al-diesel-para-contener-el-precio/",
+      "summary": "El Gobierno mexicano acumula siete semanas consecutivas sin recaudar el 100% del Impuesto Especial sobre Producción y Servicios (IEPS) al diésel",
+      "published": "2026-10-26T11:20:11+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -881,15 +994,6 @@
       "published": "2026-10-25T23:04:00+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-      "published": "2026-10-25T20:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1010,15 +1114,6 @@
       "tickers": []
     },
     {
-      "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-      "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-      "summary": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
-      "published": "2026-10-19T18:36:21+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Anthropic is AI trade's last big hope for a major IPO this year",
       "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
       "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
@@ -1080,29 +1175,11 @@
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
-    },
-    {
-      "title": "Sheinbaum califica de “responsable” la actuación de Banxico por tasas más bajas",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-califica-de-responsable-la-actuacion-de-banxico-por-tasas-mas-bajas/",
-      "summary": "La presidenta de México considera que tasas de interés mas bajas ayudan a la inversión.",
-      "published": "2026-10-15T16:01:58+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Diputados aprueban Ley de Ingresos 2027 con bolsa de MXN$10,6 billones y déficit fiscal “complejo”",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-de-ingresos-2027-con-bolsa-de-mxn106-billones-y-complejo-deficit-fiscal/",
-      "summary": "La Ley de Ingresos contempla MXN$1,7 billones de endeudamiento y un déficit fiscal de 3,9% del PIB para 2027.",
-      "published": "2026-10-14T21:47:48+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 32,
-    "sin_accion": 36
+    "acciones_con_noticias": 38,
+    "sin_accion": 33
   }
 }
