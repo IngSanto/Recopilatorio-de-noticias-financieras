@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T23:26:27.935614+00:00",
+  "generated_at": "2026-10-26T10:25:13.475444+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10832.0,
+      "ventana_horas": 10903.9,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 26.6,
+      "ventana_horas": 0.4,
       "ok": true
     },
     {
@@ -64,23 +64,23 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 7.2,
+      "ventana_horas": 16.2,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
+      "ticker": "MS",
+      "name": "Morgan Stanley",
       "exchange": "NYSE",
       "sector": "Banca",
       "news": [
         {
-          "title": "Goldman Sachs recorta en un 25% su objetivo para el Kospi por la caída de las acciones de IA",
-          "link": "https://es.investing.com/news/stock-market-news/goldman-sachs-recorta-en-un-25-su-objetivo-para-el-kospi-por-la-caida-de-las-acciones-de-ia-3889028",
-          "summary": "",
-          "published": "2026-10-25T08:50:52+00:00",
-          "source_short": "Investing",
+          "title": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley",
+          "link": "https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories",
+          "summary": "The chief stock-market strategist for Morgan Stanley is sticking with a forecast that the S&P 500 will end the year at 8,000, but growing caution is on display as he identified that support for the key semiconductor sector could come considerably lower.",
+          "published": "2026-10-26T09:02:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
@@ -90,94 +90,78 @@
           "published": "2026-10-21T15:30:50+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "HSBC",
-      "name": "HSBC",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "HSBC ve un optimismo cauteloso en la actividad de capital riesgo y capital privado",
-          "link": "https://es.investing.com/news/stock-market-news/hsbc-ve-un-optimismo-cauteloso-en-la-actividad-de-capital-riesgo-y-capital-privado-3889000",
-          "summary": "",
-          "published": "2026-10-25T02:48:10+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
         },
         {
-          "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-          "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-          "summary": "Data center campuses house the servers that power AI and cloud computing.",
-          "published": "2026-10-20T10:39:17+00:00",
+          "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+          "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+          "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+          "published": "2026-10-14T20:22:09+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "UBS",
-      "name": "UBS",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "INTC",
+      "name": "Intel",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "UBS podría eliminar 12.000 empleos en Suiza si se endurecen las normas de capital",
-          "link": "https://es.investing.com/news/stock-market-news/ubs-podria-eliminar-12000-empleos-en-suiza-si-se-endurecen-las-normas-de-capital-3889035",
+          "title": "KeyBanc mantiene calificación sobreponderada en Intel con objetivo de 155 dólares",
+          "link": "https://es.investing.com/news/stock-market-news/keybanc-mantiene-calificacion-sobreponderada-en-intel-con-objetivo-de-155-dolares-93CH-3889582",
           "summary": "",
-          "published": "2026-10-25T10:45:31+00:00",
+          "published": "2026-10-26T09:51:45+00:00",
           "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "AMXB.MX",
-      "name": "América Móvil",
-      "exchange": "BMV",
-      "sector": "Telecom",
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
-          "summary": "Si se concreta la operación no habría razón para que América Móvil no pueda ofrecer todos los servicios de telecomunicaciones, consideró el CEO Daniel Hajj.",
-          "published": "2026-10-22T03:14:16+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
+          "title": "Micron mantiene recomendación de compra en BofA por perspectivas de memoria",
+          "link": "https://es.investing.com/news/stock-market-news/micron-mantiene-recomendacion-de-compra-en-bofa-por-perspectivas-de-memoria-93CH-3889552",
+          "summary": "",
+          "published": "2026-10-26T09:43:35+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+          "summary": "These are the stocks posting the largest moves before the bell.",
+          "published": "2026-10-13T11:49:04+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "TLEVISACPO.MX",
-      "name": "Grupo Televisa",
-      "exchange": "BMV",
-      "sector": "Medios",
-      "news": [
-        {
-          "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
-          "summary": "Si se concreta la operación no habría razón para que América Móvil no pueda ofrecer todos los servicios de telecomunicaciones, consideró el CEO Daniel Hajj.",
-          "published": "2026-10-22T03:14:16+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AMX",
-      "name": "América Móvil (ADR)",
+      "ticker": "WFC",
+      "name": "Wells Fargo",
       "exchange": "NYSE",
-      "sector": "Telecom",
+      "sector": "Banca",
       "news": [
         {
-          "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
-          "summary": "Si se concreta la operación no habría razón para que América Móvil no pueda ofrecer todos los servicios de telecomunicaciones, consideró el CEO Daniel Hajj.",
-          "published": "2026-10-22T03:14:16+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
+          "title": "Wells Fargo recorta objetivos en maquinaria por preocupaciones sobre financiación de IA",
+          "link": "https://es.investing.com/news/stock-market-news/wells-fargo-recorta-objetivos-en-maquinaria-por-preocupaciones-sobre-financiacion-de-ia-93CH-3889592",
+          "summary": "",
+          "published": "2026-10-26T09:55:36+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -342,30 +326,6 @@
       ]
     },
     {
-      "ticker": "MS",
-      "name": "Morgan Stanley",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-          "published": "2026-10-21T15:30:50+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-          "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-          "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
-          "published": "2026-10-14T20:22:09+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "NFLX",
       "name": "Netflix",
       "exchange": "NASDAQ",
@@ -486,30 +446,6 @@
       ]
     },
     {
-      "ticker": "CFE",
-      "name": "Comisión Federal de Electricidad",
-      "exchange": "Estatal (deuda)",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "México alista recorte al presupuesto de Pemex y CFE, pero las compensará con transferencias",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-recorte-al-presupuesto-de-pemex-y-cfe-pero-las-compensara-con-transferencias/",
-          "summary": "Hacienda propuso un recorte presupuestal de 1 y 8% a las empresas estatales Pemex y CFE en 2027.",
-          "published": "2026-09-09T10:00:00+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE emite deuda de MXN$20.000 millones por refinanciamiento y proyectos eléctricos",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-emite-deuda-de-mxn20000-millones-por-refinanciamiento-y-proyectos-electricos/",
-          "summary": "La mitad del monto se destinará a refinanciar deuda y el resto a proyectos de inversión como centrales fotovoltaicas.",
-          "published": "2026-09-04T05:45:49+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "FEMSAUBD.MX",
       "name": "FEMSA",
       "exchange": "BMV",
@@ -534,6 +470,54 @@
       ]
     },
     {
+      "ticker": "AMXB.MX",
+      "name": "América Móvil",
+      "exchange": "BMV",
+      "sector": "Telecom",
+      "news": [
+        {
+          "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
+          "summary": "Si se concreta la operación no habría razón para que América Móvil no pueda ofrecer todos los servicios de telecomunicaciones, consideró el CEO Daniel Hajj.",
+          "published": "2026-10-22T03:14:16+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "TLEVISACPO.MX",
+      "name": "Grupo Televisa",
+      "exchange": "BMV",
+      "sector": "Medios",
+      "news": [
+        {
+          "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
+          "summary": "Si se concreta la operación no habría razón para que América Móvil no pueda ofrecer todos los servicios de telecomunicaciones, consideró el CEO Daniel Hajj.",
+          "published": "2026-10-22T03:14:16+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AMX",
+      "name": "América Móvil (ADR)",
+      "exchange": "NYSE",
+      "sector": "Telecom",
+      "news": [
+        {
+          "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
+          "summary": "Si se concreta la operación no habría razón para que América Móvil no pueda ofrecer todos los servicios de telecomunicaciones, consideró el CEO Daniel Hajj.",
+          "published": "2026-10-22T03:14:16+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "PBR",
       "name": "Petrobras",
       "exchange": "NYSE",
@@ -546,6 +530,22 @@
           "published": "2026-10-21T19:04:25+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+          "published": "2026-10-21T15:30:50+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -566,26 +566,26 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
+      "ticker": "HSBC",
+      "name": "HSBC",
+      "exchange": "NYSE",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
+          "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+          "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+          "summary": "Data center campuses house the servers that power AI and cloud computing.",
+          "published": "2026-10-20T10:39:17+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "INTC",
-      "name": "Intel",
+      "ticker": "AMZN",
+      "name": "Amazon",
       "exchange": "NASDAQ",
-      "sector": "Semiconductores",
+      "sector": "Retail / Nube",
       "news": [
         {
           "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
@@ -694,22 +694,6 @@
       ]
     },
     {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-          "summary": "These are the stocks posting the largest moves before the bell.",
-          "published": "2026-10-13T11:49:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "XOM",
       "name": "ExxonMobil",
       "exchange": "NYSE",
@@ -758,6 +742,22 @@
       ]
     },
     {
+      "ticker": "CFE",
+      "name": "Comisión Federal de Electricidad",
+      "exchange": "Estatal (deuda)",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "México alista recorte al presupuesto de Pemex y CFE, pero las compensará con transferencias",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-recorte-al-presupuesto-de-pemex-y-cfe-pero-las-compensara-con-transferencias/",
+          "summary": "Hacienda propuso un recorte presupuestal de 1 y 8% a las empresas estatales Pemex y CFE en 2027.",
+          "published": "2026-09-09T10:00:00+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "GMEXICOB.MX",
       "name": "Grupo México",
       "exchange": "BMV",
@@ -776,110 +776,119 @@
   ],
   "sin_accion": [
     {
+      "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+      "published": "2026-10-26T10:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Bayer?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-bayer-93CH-3889641",
+      "summary": "",
+      "published": "2026-10-26T10:06:14+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Cheesecake Factory was just the subject of unflattering headlines. It’s actually one of the hottest stocks around.",
+      "link": "https://www.marketwatch.com/story/cheesecake-factory-was-just-the-subject-of-unflattering-headlines-its-actually-one-of-the-hottest-stocks-around-8435cc63?mod=mw_rss_topstories",
+      "summary": "President Barack Obama over the weekend compared President Donald Trump’s White House modifications to “Saddam Hussein opening up a Cheesecake Factory.”",
+      "published": "2026-10-26T10:04:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "KeyBanc se muestra positivo sobre Monolithic Power ante sus resultados",
+      "link": "https://es.investing.com/news/stock-market-news/keybanc-se-muestra-positivo-sobre-monolithic-power-ante-sus-resultados-93CH-3889587",
+      "summary": "",
+      "published": "2026-10-26T09:53:16+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Space Exploration Technologies?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-space-exploration-technologies-93CH-3889586",
+      "summary": "",
+      "published": "2026-10-26T09:52:48+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Raymond James ve oportunidades de financiación en IA para Apollo, Owl Rock y Ares",
+      "link": "https://es.investing.com/news/stock-market-news/raymond-james-ve-oportunidades-de-financiacion-en-ia-para-apollo-owl-rock-y-ares-93CH-3889564",
+      "summary": "",
+      "published": "2026-10-26T09:47:35+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los fondos de cobertura recortan posiciones largas ante pérdidas por apuestas cortas",
+      "link": "https://es.investing.com/news/stock-market-news/los-fondos-de-cobertura-recortan-posiciones-largas-ante-perdidas-por-apuestas-cortas-93CH-3889553",
+      "summary": "",
+      "published": "2026-10-26T09:43:52+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "BofA rastrea datos de envíos que muestran recuperación del tránsito en el Mar Rojo",
+      "link": "https://es.investing.com/news/stock-market-news/bofa-rastrea-datos-de-envios-que-muestran-recuperacion-del-transito-en-el-mar-rojo-93CH-3889545",
+      "summary": "",
+      "published": "2026-10-26T09:41:51+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Tennis star Taylor Fritz is selling his condo for $860,000—with sweeping views of Miami",
+      "link": "https://www.marketwatch.com/story/tennis-star-taylor-fritz-is-selling-his-condo-for-860-000with-sweeping-views-of-miami-2db8d086?mod=mw_rss_topstories",
+      "summary": "Tennis star Taylor Fritz is serving up his Miami condo for $860,000, offering a buyer the chance to score a corner residence with sweeping views and a tennis court.",
+      "published": "2026-10-26T09:04:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 million Puerto Rico home",
+      "link": "https://www.marketwatch.com/story/tyler-perry-cuts-price-of-36-million-wyoming-property-on-37-acres-buys-30-million-puerto-rico-home-5eb819be?mod=mw_rss_topstories",
+      "summary": "Tyler Perry has slashed $3.5 million from the asking price of his Wyoming mansion—days after picking up a $30 million home in Puerto Rico.",
+      "published": "2026-10-26T09:01:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+      "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
+      "published": "2026-10-26T01:50:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Presidenta del INE presenta una inédita renuncia al cargo tras acusaciones de corrupción",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/presidenta-del-ine-presenta-una-inedita-renuncia-al-cargo-tras-acusaciones-de-corrupcion/",
+      "summary": "Guadalupe Taddei, consejera presidenta del INE, presentará este lunes 26 de octubre su renuncia ante la Cámara de Diputados de México.",
+      "published": "2026-10-25T23:04:00+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
       "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
       "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
       "summary": "“My late father bought our house for $250,000 in the 1990s.”",
       "published": "2026-10-25T20:15:00+00:00",
       "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-      "published": "2026-10-25T20:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
-      "published": "2026-10-25T19:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-      "summary": "“Nothing has been set aside for his needs.”",
-      "published": "2026-10-25T18:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Oppenheimer ve mejora en software web y comercio en el T3, pero persiste la preocupación por la IA",
-      "link": "https://es.investing.com/news/stock-market-news/oppenheimer-ve-mejora-en-software-web-y-comercio-en-el-t3-pero-persiste-la-preocupacion-por-la-ia-3889107",
-      "summary": "",
-      "published": "2026-10-25T17:48:15+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
-      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-      "published": "2026-10-25T17:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-      "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-      "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
-      "published": "2026-10-25T17:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Existe suficiente capital para financiar los ambiciosos planes de gasto en IA?",
-      "link": "https://es.investing.com/news/stock-market-news/existe-suficiente-capital-para-financiar-los-ambiciosos-planes-de-gasto-en-ia-3889103",
-      "summary": "",
-      "published": "2026-10-25T15:27:32+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Los datos del mercado laboral muestran señales de impacto de la IA en el empleo",
-      "link": "https://es.investing.com/news/stock-market-news/los-datos-del-mercado-laboral-muestran-senales-de-impacto-de-la-ia-en-el-empleo-3889033",
-      "summary": "",
-      "published": "2026-10-25T10:02:43+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "5 grandes movimientos de analistas en IA: meses \"únicamente ricos en catalizadores\" para SpaceX",
-      "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-meses-unicamente-ricos-en-catalizadores-para-spacex-3889021",
-      "summary": "",
-      "published": "2026-10-25T07:49:25+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones chinas se hunden ante la caída de las previsiones de beneficios",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-chinas-se-hunden-ante-la-caida-de-las-previsiones-de-beneficios-3888995",
-      "summary": "",
-      "published": "2026-10-25T01:37:10+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Por qué el mercado bursátil de Corea del Sur es la apuesta más pura en IA",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-el-mercado-bursatil-de-corea-del-sur-es-la-apuesta-mas-pura-en-ia-3888984",
-      "summary": "",
-      "published": "2026-10-24T22:55:32+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1086,15 +1095,6 @@
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-de-ingresos-2027-con-bolsa-de-mxn106-billones-y-complejo-deficit-fiscal/",
       "summary": "La Ley de Ingresos contempla MXN$1,7 billones de endeudamiento y un déficit fiscal de 3,9% del PIB para 2027.",
       "published": "2026-10-14T21:47:48+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Diputados aprueban Ley de Derechos 2027 con aumento en cuotas, trámites y permisos",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-de-derechos-2027-con-aumento-en-cuotas-tramites-y-permisos/",
-      "summary": "El Gobierno mexicano proyecta ingresos por el cobro de derechos por MXN$177.185 millones para el 2027.",
-      "published": "2026-10-14T03:43:34+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
