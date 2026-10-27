@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:30:04.590357+00:00",
+  "generated_at": "2026-10-27T00:40:17.717932+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.0,
+      "ventana_horas": 1.2,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.2,
+      "ventana_horas": 2.2,
       "ok": true
     }
   ],
@@ -158,73 +158,25 @@
       ]
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla",
+      "ticker": "AMZN",
+      "name": "Amazon",
       "exchange": "NASDAQ",
-      "sector": "Automotriz",
+      "sector": "Retail / Nube",
       "news": [
         {
-          "title": "Tesla forma doji en la Banda Bollinger superior: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/tesla-rompe-rango-pero-sobreextendida-niveles-en-vivo-93CH-3890588",
-          "summary": "",
-          "published": "2026-10-26T19:08:37+00:00",
-          "source_short": "Investing",
+          "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
+          "link": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
+          "summary": "The Wall Street Journal reports that DoorDash was in ‘advanced talks’ to buy Instacart in a deal that would value Instacart at roughly $17 billion",
+          "published": "2026-10-26T21:46:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
-          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
           "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-16T11:43:42+00:00",
+          "published": "2026-10-19T12:00:34+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "AMD rechaza en SMA(20) con bandera bajista activa: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/amd-prueba-soporte-fibonacci-618-bajo-presion-bajista-niveles-en-vivo-93CH-3890595",
-          "summary": "",
-          "published": "2026-10-26T19:08:20+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-          "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-          "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
-          "published": "2026-10-26T18:24:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "NVIDIA prueba soporte de la MM200 con divergencia RSI: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/nvidia-rechaza-sma-200-tras-doble-techo-niveles-en-vivo-93CH-3890586",
-          "summary": "",
-          "published": "2026-10-26T19:07:38+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-          "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-          "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
-          "published": "2026-10-26T18:24:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -254,65 +206,49 @@
       ]
     },
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Meta Platforms en soporte 200 SMA con RSI extremo: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/meta-platforms-prueba-soporte-200-sma-tras-caida-niveles-en-vivo-93CH-3890592",
-          "summary": "",
-          "published": "2026-10-26T19:09:38+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Alphabet C sobrevende en 5h tras ruptura bajista: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/alphabet-c-en-sobreventa-extrema-tras-ruptura-bajista-niveles-en-vivo-93CH-3890590",
-          "summary": "",
-          "published": "2026-10-26T19:08:42+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "IBM",
-      "name": "IBM",
+      "ticker": "UBS",
+      "name": "UBS",
       "exchange": "NYSE",
-      "sector": "Tecnología",
+      "sector": "Banca",
       "news": [
         {
-          "title": "IBM sobrecomprado con Doji en máximos: niveles en vivo",
-          "link": "https://es.investing.com/news/stock-market-news/ibm-sobrecomprado-tras-avance-parabolico-niveles-en-vivo-93CH-3890597",
-          "summary": "",
-          "published": "2026-10-26T19:08:27+00:00",
-          "source_short": "Investing",
+          "title": "Options traders are seizing control of the S&P 500",
+          "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
+          "summary": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
+          "published": "2026-10-26T22:03:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "Oracle en canal bajista: niveles actualizados cada hora",
-          "link": "https://es.investing.com/news/stock-market-news/oracle-en-canal-bajista-bajo-todas-las-smas-niveles-en-vivo-93CH-3890579",
-          "summary": "",
-          "published": "2026-10-26T19:07:57+00:00",
-          "source_short": "Investing",
+          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+          "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+          "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
+          "published": "2026-10-26T21:44:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+          "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+          "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
+          "published": "2026-10-26T21:44:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -327,7 +263,7 @@
           "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
           "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
           "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
-          "published": "2026-10-26T18:24:00+00:00",
+          "published": "2026-10-26T21:44:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         }
@@ -670,22 +606,6 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "INTC",
       "name": "Intel",
       "exchange": "NASDAQ",
@@ -776,6 +696,22 @@
           "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
           "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
           "published": "2026-10-16T16:46:18+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
+          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-16T11:43:42+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -880,38 +816,110 @@
   ],
   "sin_accion": [
     {
-      "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
-      "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-      "summary": "McDonald’s franchisees have complained about “tough meat” and other issues with new hand-breaded chicken, an analyst said.",
-      "published": "2026-10-26T19:17:00+00:00",
+      "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+      "published": "2026-10-26T22:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Galicia ADR rebota en doble suelo: niveles en tiempo real",
-      "link": "https://es.investing.com/news/stock-market-news/galicia-adr-rompe-bandera-bajista-niveles-en-tiempo-real-93CH-3890591",
+      "title": "Dividend stocks are having an excellent October as tech sector struggles",
+      "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+      "summary": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026.",
+      "published": "2026-10-26T22:10:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Pimco compra 4.000 millones de dólares de deuda de SpaceX para IA",
+      "link": "https://es.investing.com/news/stock-market-news/pimco-compra-4000-millones-de-dolares-de-deuda-de-spacex-para-ia-93CH-3891190",
       "summary": "",
-      "published": "2026-10-26T19:09:40+00:00",
+      "published": "2026-10-26T22:00:32+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "ServiceNow retrocede desde resistencia $159: niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/servicenow-muestra-divergencia-bajista-del-rsi-niveles-en-vivo-93CH-3890594",
+      "title": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
+      "link": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
+      "summary": "Consumers in China are starting to wonder — for good reason — whether the emerging AI travel agents have a hidden agenda.",
+      "published": "2026-10-26T22:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+      "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+      "summary": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
+      "published": "2026-10-26T21:55:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Universal Music exploró opciones de compra con grandes firmas de capital privado",
+      "link": "https://es.investing.com/news/stock-market-news/universal-music-exploro-opciones-de-compra-con-grandes-firmas-de-capital-privado-3891183",
       "summary": "",
-      "published": "2026-10-26T19:09:33+00:00",
+      "published": "2026-10-26T21:45:14+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Futuros del Nasdaq 100 rebotan ante resistencia clave: niveles en vivo",
-      "link": "https://es.investing.com/news/stock-market-news/futuros-del-nasdaq-100-comprimen-soporte-clave-niveles-en-vivo-93CH-3890585",
+      "title": "Fitch confirma Flagstar Bank en ’BB+’ pero rebaja perspectiva",
+      "link": "https://es.investing.com/news/stock-market-news/fitch-confirma-flagstar-bank-en-bb-pero-rebaja-perspectiva-3891179",
       "summary": "",
-      "published": "2026-10-26T19:08:34+00:00",
+      "published": "2026-10-26T21:39:06+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las mejores acciones de defensa según Piper Sandler",
+      "link": "https://es.investing.com/news/stock-market-news/las-mejores-acciones-de-defensa-segun-piper-sandler-3891170",
+      "summary": "",
+      "published": "2026-10-26T21:29:22+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Northpointe Bancshares suben tras anunciar recompra de 30 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-northpointe-bancshares-suben-con-recompra-de-30-millones-3891168",
+      "summary": "",
+      "published": "2026-10-26T21:24:56+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Boost Run se disparan por despliegue de infraestructura de IA",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-boost-run-se-disparan-por-despliegue-de-infraestructura-de-ia-3891149",
+      "summary": "",
+      "published": "2026-10-26T21:10:15+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
+      "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+      "summary": "Optical stocks are staging a comeback following Anthropic’s IPO filing and some other good news",
+      "published": "2026-10-26T21:04:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "With the Anthropic IPO, the devil is in the details",
+      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+      "summary": "The first draft of the AI company’s prospectus is light on details, but some things immediately leap out.",
+      "published": "2026-10-26T20:50:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -921,51 +929,6 @@
       "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
       "published": "2026-10-26T18:33:51+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-      "published": "2026-10-26T18:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "These energy stocks are poised to profit from an imminent AI power crunch",
-      "link": "https://www.marketwatch.com/story/these-energy-stocks-are-poised-to-profit-from-an-imminent-ai-power-crunch-00c1a50d?mod=mw_rss_topstories",
-      "summary": "Bloom Energy and Solaris Energy would benefit from an urgency around securing power to AI developers.",
-      "published": "2026-10-26T18:10:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
-      "link": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
-      "summary": "Christopher Jackson got hurt before his first NFL game. He now coaches teens on building wealth.",
-      "published": "2026-10-26T17:32:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-      "published": "2026-10-26T17:19:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-      "published": "2026-10-26T16:30:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1179,7 +1142,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 38,
-    "sin_accion": 33
+    "acciones_con_noticias": 35,
+    "sin_accion": 36
   }
 }
