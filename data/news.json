@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T09:59:35.102779+00:00",
+  "generated_at": "2026-10-27T18:51:50.250683+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10920.4,
+      "ventana_horas": 10941.3,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.6,
+      "ventana_horas": 1.5,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 462.2,
+      "ventana_horas": 454.7,
       "ok": true
     },
     {
@@ -64,38 +64,22 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 11.3,
+      "ventana_horas": 3.3,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "MBG",
-      "name": "Mercedes-Benz Group",
-      "exchange": "XETRA",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "¿Por qué cae hoy la acción de Mercedes-Benz?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-mercedesbenz-93CH-3891700",
-          "summary": "",
-          "published": "2026-10-27T09:41:34+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "UBS",
-      "name": "UBS",
+      "ticker": "BA",
+      "name": "Boeing",
       "exchange": "NYSE",
-      "sector": "Banca",
+      "sector": "Industria",
       "news": [
         {
-          "title": "Options traders are seizing control of the S&P 500",
-          "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
-          "summary": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
-          "published": "2026-10-26T22:03:00+00:00",
+          "title": "The big reason Boeing’s stock is falling so hard after earnings",
+          "link": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
+          "summary": "Boeing will come up short on 737 Max deliveries, casting doubt on its turnaround plans.",
+          "published": "2026-10-27T17:59:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         }
@@ -190,30 +174,6 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
-          "link": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
-          "summary": "The Wall Street Journal reports that DoorDash was in ‘advanced talks’ to buy Instacart in a deal that would value Instacart at roughly $17 billion",
-          "published": "2026-10-26T21:46:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "PBR",
       "name": "Petrobras",
       "exchange": "NYSE",
@@ -234,54 +194,6 @@
           "published": "2026-10-21T19:04:25+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-          "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-          "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
-          "published": "2026-10-26T21:44:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-          "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-          "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
-          "published": "2026-10-26T21:44:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-          "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-          "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
-          "published": "2026-10-26T21:44:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -622,6 +534,22 @@
       ]
     },
     {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "INTC",
       "name": "Intel",
       "exchange": "NASDAQ",
@@ -832,111 +760,138 @@
   ],
   "sin_accion": [
     {
-      "title": "¿Por qué se desploma hoy la acción de Mazagon Dock?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-mazagon-dock-93CH-3891736",
-      "summary": "",
-      "published": "2026-10-27T09:55:22+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Datadog?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-datadog-93CH-3891728",
-      "summary": "",
-      "published": "2026-10-27T09:50:58+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué suben hoy las acciones de Flex?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-suben-hoy-las-acciones-de-flex-93CH-3891725",
-      "summary": "",
-      "published": "2026-10-27T09:49:57+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Ferguson Enterprises?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-ferguson-enterprises-93CH-3891719",
-      "summary": "",
-      "published": "2026-10-27T09:46:57+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de OneSpan?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-onespan-93CH-3891716",
-      "summary": "",
-      "published": "2026-10-27T09:46:20+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Dianthus Therapeutics?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-dianthus-therapeutics-93CH-3891707",
-      "summary": "",
-      "published": "2026-10-27T09:45:21+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Designer Betsey Johnson takes $7 million SoCal home off the market",
-      "link": "https://www.marketwatch.com/story/designer-betsey-johnson-takes-7-million-socal-home-off-the-market-1f027f0e?mod=mw_rss_topstories",
-      "summary": "Betsey Johnson has taken her newly rebuilt Hidden Hills, Calif., home off the market after cutting the price once since it was listed in July.",
-      "published": "2026-10-27T09:02:00+00:00",
+      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
+      "published": "2026-10-27T18:45:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "The impressive real estate portfolio of sitcom producer Chuck Lorre of ‘Big Bang Theory’ and ‘Two and a Half Men’ fame",
-      "link": "https://www.marketwatch.com/story/the-impressive-real-estate-portfolio-of-sitcom-producer-chuck-lorre-of-big-bang-theory-and-two-and-a-half-men-fame-f8e43ed4?mod=mw_rss_topstories",
-      "summary": "Legendary TV producer Chuck Lorre is opening up about his life like never before with the release of his autobiography, “Sitcom: A Memoir.”",
-      "published": "2026-10-27T08:58:00+00:00",
+      "title": "El director ejecutivo de Crusoe defiende a CoreWeave en medio de la caída",
+      "link": "https://es.investing.com/news/stock-market-news/el-director-ejecutivo-de-crusoe-defiende-a-coreweave-en-medio-de-la-caida-3893144",
+      "summary": "",
+      "published": "2026-10-27T18:22:54+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Rosenblatt elige sus valores favoritos en semiconductores por la fortaleza de los centros de datos",
+      "link": "https://es.investing.com/news/stock-market-news/rosenblatt-elige-sus-valores-favoritos-en-semiconductores-por-la-fortaleza-de-los-centros-de-datos-3893130",
+      "summary": "",
+      "published": "2026-10-27T18:12:54+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fersomatic: 30 años de emprendimiento, vending y nuevos modelos de negocio",
+      "link": "https://es.investing.com/news/stock-market-news/fersomatic-30-anos-de-emprendimiento-vending-y-nuevos-modelos-de-negocio-3893115",
+      "summary": "",
+      "published": "2026-10-27T18:05:22+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto",
+      "link": "https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1?mod=mw_rss_topstories",
+      "summary": "What former CFTC Chairman Chris Giancarlo tells his own children about buying their first crypto coin.",
+      "published": "2026-10-27T17:53:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-      "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
-      "published": "2026-10-27T04:01:00+00:00",
+      "title": "La OPI de Anthropic, una prueba de la paciencia del mercado con la IA",
+      "link": "https://es.investing.com/news/stock-market-news/la-opi-de-anthropic-una-prueba-de-la-paciencia-del-mercado-con-la-ia-3893097",
+      "summary": "",
+      "published": "2026-10-27T17:48:30+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "2 reportes, 7.82 billones: Cuando veas la reacción, será muy tarde",
+      "link": "https://es.investing.com/news/stock-market-news/dia-critico-2-reportes-782-billones-cuando-veas-la-reaccion-sera-muy-tarde-3893092",
+      "summary": "",
+      "published": "2026-10-27T17:46:09+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "La SEC de Atkins busca cambios en la regulación del crowdfunding",
+      "link": "https://es.investing.com/news/stock-market-news/la-sec-de-atkins-busca-cambios-en-la-regulacion-del-crowdfunding-3893082",
+      "summary": "",
+      "published": "2026-10-27T17:37:39+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
+      "link": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
+      "summary": "JetBlue’s stock rises more than 20% as a new profit target helps calm fears about the airline’s viability.",
+      "published": "2026-10-27T16:52:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-      "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
-      "published": "2026-10-26T22:30:00+00:00",
+      "title": "When will Anthropic go public? Here’s what to know about the IPO timeline.",
+      "link": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
+      "summary": "By filing IPO paperwork on Monday, Anthropic can conduct its investor roadshow the week of Nov. 9 and would be eligible to go public as soon as the following week.",
+      "published": "2026-10-27T16:38:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Dividend stocks are having an excellent October as tech sector struggles",
-      "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
-      "summary": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026.",
-      "published": "2026-10-26T22:10:00+00:00",
+      "title": "Bond investors are starting to say ‘anything but tech.’ What that means for the AI boom.",
+      "link": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
+      "summary": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
+      "published": "2026-10-27T16:24:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
-      "link": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
-      "summary": "Consumers in China are starting to wonder — for good reason — whether the emerging AI travel agents have a hidden agenda.",
-      "published": "2026-10-26T22:00:00+00:00",
+      "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+      "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+      "summary": "World Bank President Ajay Banga came on CNBC's \"Squawk Box\" on Oct. 27, 2026.",
+      "published": "2026-10-27T16:15:35+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fed rate hikes are coming, but not this week: CNBC survey",
+      "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
+      "summary": "The CNBC Fed Survey shows that 93% of respondent expect a pause at the Federal Reserve meeting taking place this week.",
+      "published": "2026-10-27T15:51:00+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The U.S. economy is gathering steam. This is the chief reason why.",
+      "link": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
+      "summary": "The AI boom shows no sign of easing as Anthropic prepares to go public and businesses gobble up durable goods.",
+      "published": "2026-10-27T15:34:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "La renuncia de Taddei hunde al Instituto Electoral de México en una crisis de confianza y debilidad",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/la-renuncia-de-taddei-hunde-al-instituto-electoral-de-mexico-en-una-crisis-de-confianza-y-debilidad/",
+      "summary": "La Cámara de Diputados recibió el oficio en el que la consejera presidenta del INE, Guadalupe Taddei, oficializa su renuncia al cargo ante acusaciones de corrupción",
+      "published": "2026-10-27T12:29:45+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -1030,24 +985,6 @@
       "tickers": []
     },
     {
-      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-      "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-      "summary": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
-      "published": "2026-10-21T07:50:10+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
-      "link": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
-      "summary": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
-      "published": "2026-10-21T01:01:01+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Analistas prevén tasa de interés sin cambios aun con miembros de Banxico abiertos a recortes",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-preven-tasa-de-interes-sin-cambios-aun-con-miembros-de-banxico-abiertos-a-recortes/",
       "summary": "El consenso de los analistas sigue esperando que Banxico dejará la tasa de interés en 6,50% hasta finales de 2027.",
@@ -1120,15 +1057,6 @@
       "tickers": []
     },
     {
-      "title": "Grupo Gigante nombra a José Antonio Meade como presidente del Consejo de Administración",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-gigante-nombra-a-jose-antonio-meade-como-presidente-del-consejo-de-administracion/",
-      "summary": "El economista y exfuncionario amplía su participación como consejero en el sector privado.",
-      "published": "2026-10-16T20:59:46+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
       "title": "Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa & more",
       "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html",
       "summary": "These are the stocks posting the largest moves midday.",
@@ -1158,7 +1086,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 36,
+    "acciones_con_noticias": 32,
     "sin_accion": 36
   }
 }
