@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T00:40:17.717932+00:00",
+  "generated_at": "2026-10-27T09:59:35.102779+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.2,
+      "ventana_horas": 0.6,
       "ok": true
     },
     {
@@ -64,11 +64,43 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.2,
+      "ventana_horas": 11.3,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "MBG",
+      "name": "Mercedes-Benz Group",
+      "exchange": "XETRA",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "¿Por qué cae hoy la acción de Mercedes-Benz?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-mercedesbenz-93CH-3891700",
+          "summary": "",
+          "published": "2026-10-27T09:41:34+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "UBS",
+      "name": "UBS",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Options traders are seizing control of the S&P 500",
+          "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
+          "summary": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
+          "published": "2026-10-26T22:03:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
@@ -202,22 +234,6 @@
           "published": "2026-10-21T19:04:25+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "UBS",
-      "name": "UBS",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Options traders are seizing control of the S&P 500",
-          "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
-          "summary": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
-          "published": "2026-10-26T22:03:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -816,6 +832,87 @@
   ],
   "sin_accion": [
     {
+      "title": "¿Por qué se desploma hoy la acción de Mazagon Dock?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-mazagon-dock-93CH-3891736",
+      "summary": "",
+      "published": "2026-10-27T09:55:22+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Datadog?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-datadog-93CH-3891728",
+      "summary": "",
+      "published": "2026-10-27T09:50:58+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué suben hoy las acciones de Flex?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-suben-hoy-las-acciones-de-flex-93CH-3891725",
+      "summary": "",
+      "published": "2026-10-27T09:49:57+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Ferguson Enterprises?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-ferguson-enterprises-93CH-3891719",
+      "summary": "",
+      "published": "2026-10-27T09:46:57+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de OneSpan?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-onespan-93CH-3891716",
+      "summary": "",
+      "published": "2026-10-27T09:46:20+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Dianthus Therapeutics?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-dianthus-therapeutics-93CH-3891707",
+      "summary": "",
+      "published": "2026-10-27T09:45:21+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Designer Betsey Johnson takes $7 million SoCal home off the market",
+      "link": "https://www.marketwatch.com/story/designer-betsey-johnson-takes-7-million-socal-home-off-the-market-1f027f0e?mod=mw_rss_topstories",
+      "summary": "Betsey Johnson has taken her newly rebuilt Hidden Hills, Calif., home off the market after cutting the price once since it was listed in July.",
+      "published": "2026-10-27T09:02:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The impressive real estate portfolio of sitcom producer Chuck Lorre of ‘Big Bang Theory’ and ‘Two and a Half Men’ fame",
+      "link": "https://www.marketwatch.com/story/the-impressive-real-estate-portfolio-of-sitcom-producer-chuck-lorre-of-big-bang-theory-and-two-and-a-half-men-fame-f8e43ed4?mod=mw_rss_topstories",
+      "summary": "Legendary TV producer Chuck Lorre is opening up about his life like never before with the release of his autobiography, “Sitcom: A Memoir.”",
+      "published": "2026-10-27T08:58:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+      "published": "2026-10-27T04:01:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
       "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
       "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
@@ -834,91 +931,10 @@
       "tickers": []
     },
     {
-      "title": "Pimco compra 4.000 millones de dólares de deuda de SpaceX para IA",
-      "link": "https://es.investing.com/news/stock-market-news/pimco-compra-4000-millones-de-dolares-de-deuda-de-spacex-para-ia-93CH-3891190",
-      "summary": "",
-      "published": "2026-10-26T22:00:32+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
       "link": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
       "summary": "Consumers in China are starting to wonder — for good reason — whether the emerging AI travel agents have a hidden agenda.",
       "published": "2026-10-26T22:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
-      "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-      "summary": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
-      "published": "2026-10-26T21:55:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Universal Music exploró opciones de compra con grandes firmas de capital privado",
-      "link": "https://es.investing.com/news/stock-market-news/universal-music-exploro-opciones-de-compra-con-grandes-firmas-de-capital-privado-3891183",
-      "summary": "",
-      "published": "2026-10-26T21:45:14+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Fitch confirma Flagstar Bank en ’BB+’ pero rebaja perspectiva",
-      "link": "https://es.investing.com/news/stock-market-news/fitch-confirma-flagstar-bank-en-bb-pero-rebaja-perspectiva-3891179",
-      "summary": "",
-      "published": "2026-10-26T21:39:06+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las mejores acciones de defensa según Piper Sandler",
-      "link": "https://es.investing.com/news/stock-market-news/las-mejores-acciones-de-defensa-segun-piper-sandler-3891170",
-      "summary": "",
-      "published": "2026-10-26T21:29:22+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Northpointe Bancshares suben tras anunciar recompra de 30 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-northpointe-bancshares-suben-con-recompra-de-30-millones-3891168",
-      "summary": "",
-      "published": "2026-10-26T21:24:56+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Boost Run se disparan por despliegue de infraestructura de IA",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-boost-run-se-disparan-por-despliegue-de-infraestructura-de-ia-3891149",
-      "summary": "",
-      "published": "2026-10-26T21:10:15+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
-      "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
-      "summary": "Optical stocks are staging a comeback following Anthropic’s IPO filing and some other good news",
-      "published": "2026-10-26T21:04:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "With the Anthropic IPO, the devil is in the details",
-      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-      "summary": "The first draft of the AI company’s prospectus is light on details, but some things immediately leap out.",
-      "published": "2026-10-26T20:50:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -1142,7 +1158,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 35,
+    "acciones_con_noticias": 36,
     "sin_accion": 36
   }
 }
