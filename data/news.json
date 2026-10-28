@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T10:46:11.939118+00:00",
+  "generated_at": "2026-10-28T19:01:28.839371+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.5,
+      "ventana_horas": 1.7,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 454.7,
+      "ventana_horas": 458.5,
       "ok": true
     },
     {
@@ -64,31 +64,87 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 12.8,
+      "ventana_horas": 3.4,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "AMZN",
-      "name": "Amazon",
+      "ticker": "AAPL",
+      "name": "Apple",
       "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
+      "sector": "Tecnología",
       "news": [
         {
-          "title": "The real way to tell if Amazon’s AI spending is paying off",
-          "link": "https://www.marketwatch.com/story/the-real-way-to-tell-if-amazons-ai-spending-is-paying-off-42a8a637?mod=mw_rss_topstories",
-          "summary": "Investors focus on Amazon’s cloud business, but the most important indicator might lie in the company’s warehouses.",
-          "published": "2026-10-28T10:30:00+00:00",
-          "source_short": "MarketW",
+          "title": "Apple presenta el nuevo MacBook Pro con pantalla OLED táctil",
+          "link": "https://es.investing.com/news/stock-market-news/apple-presenta-el-nuevo-macbook-pro-con-pantalla-oled-tactil-3895641",
+          "summary": "",
+          "published": "2026-10-28T17:24:50+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "WALMEX.MX",
+      "name": "Walmart de México",
+      "exchange": "BMV",
+      "sector": "Retail",
+      "news": [
+        {
+          "title": "La caída de Walmex tras su reporte trimestral, ¿una oportunidad de inversión?",
+          "link": "https://es.investing.com/news/stock-market-news/la-caida-de-walmex-tras-su-reporte-trimestral-una-oportunidad-de-inversion-3895689",
+          "summary": "",
+          "published": "2026-10-28T18:02:13+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa Mexicana",
+          "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
+          "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
+          "published": "2026-10-19T05:00:00+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Google presenta Gemini 4 Carbon con funciones avanzadas de ciberseguridad",
+          "link": "https://es.investing.com/news/stock-market-news/google-presenta-gemini-4-carbon-con-funciones-avanzadas-de-ciberseguridad-3895621",
+          "summary": "",
+          "published": "2026-10-28T17:11:18+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Alphabet sube, Microsoft cae antes del reporte trimestral: ¿cuál podría subir más?",
+          "link": "https://es.investing.com/news/stock-market-news/alphabet-sube-microsoft-cae-antes-del-reporte-trimestral-cual-podria-subir-mas-3895597",
+          "summary": "",
+          "published": "2026-10-28T17:04:08+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -100,11 +156,11 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "¿Por qué sube hoy la acción de Micron Technology?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-micron-technology-93CH-3894202",
-          "summary": "",
-          "published": "2026-10-28T10:03:28+00:00",
-          "source_short": "Investing",
+          "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
+          "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
+          "summary": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.",
+          "published": "2026-10-28T16:03:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
@@ -113,6 +169,86 @@
           "summary": "These are the stocks posting the largest moves before the bell.",
           "published": "2026-10-13T11:49:04+00:00",
           "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Las acciones de Oracle se disparan ante un objetivo de ingresos de 225.000 millones",
+          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-oracle-se-disparan-ante-un-objetivo-de-ingresos-de-225000-millones-3895746",
+          "summary": "",
+          "published": "2026-10-28T18:33:38+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "El jefe de defensa de Palantir advierte que los avances en IA podrían impulsar a China a invadir Taiwán",
+          "link": "https://es.investing.com/news/stock-market-news/el-jefe-de-defensa-de-palantir-advierte-que-los-avances-en-ia-podrian-impulsar-a-china-a-invadir-taiwan-3895674",
+          "summary": "",
+          "published": "2026-10-28T17:45:14+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AIR",
+      "name": "Airbus",
+      "exchange": "Euronext",
+      "sector": "Industria",
+      "news": [
+        {
+          "title": "Los ingresos de Airbus en el tercer trimestre decepcionan por ralentización de entregas; guía 2026 sin cambios",
+          "link": "https://es.investing.com/news/stock-market-news/los-ingresos-de-airbus-en-el-tercer-trimestre-decepcionan-por-ralentizacion-de-entregas-guia-2026-sin-cambios-3895656",
+          "summary": "",
+          "published": "2026-10-28T17:35:32+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Alphabet sube, Microsoft cae antes del reporte trimestral: ¿cuál podría subir más?",
+          "link": "https://es.investing.com/news/stock-market-news/alphabet-sube-microsoft-cae-antes-del-reporte-trimestral-cual-podria-subir-mas-3895597",
+          "summary": "",
+          "published": "2026-10-28T17:04:08+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "Samsung Electronics",
+      "exchange": "KRX",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
+          "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
+          "summary": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.",
+          "published": "2026-10-28T16:03:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -142,22 +278,6 @@
       ]
     },
     {
-      "ticker": "UBS",
-      "name": "UBS",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "UBS ve una oportunidad de compra en las acciones tecnológicas de IA en China tras la caída",
-          "link": "https://es.investing.com/news/stock-market-news/ubs-ve-una-oportunidad-de-compra-en-las-acciones-tecnologicas-de-ia-en-china-tras-la-caida-93CH-3894287",
-          "summary": "",
-          "published": "2026-10-28T10:21:29+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "GCARSOA1.MX",
       "name": "Grupo Carso",
       "exchange": "BMV",
@@ -176,30 +296,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/division-petrolera-de-carlos-slim-reactiva-produccion-en-campos-marinos-con-rusa-lukoil/",
           "summary": "Zamajal, subsidiaria petrolera de Grupo Carso, alista un plan de inversión “agresivo” a partir de 2027.",
           "published": "2026-10-27T19:20:55+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -630,10 +726,10 @@
       ]
     },
     {
-      "ticker": "INTC",
-      "name": "Intel",
+      "ticker": "AMZN",
+      "name": "Amazon",
       "exchange": "NASDAQ",
-      "sector": "Semiconductores",
+      "sector": "Retail / Nube",
       "news": [
         {
           "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
@@ -646,18 +742,18 @@
       ]
     },
     {
-      "ticker": "WALMEX.MX",
-      "name": "Walmart de México",
-      "exchange": "BMV",
-      "sector": "Retail",
+      "ticker": "INTC",
+      "name": "Intel",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "De Cemex a Walmex: qué esperar de los reportes trimestrales en la Bolsa Mexicana",
-          "link": "https://www.bloomberglinea.com/mercados/de-cemex-a-walmex-que-esperar-de-los-reportes-trimestrales-en-la-bolsa-mexicana/",
-          "summary": "Las empresas mexicanas anticipan una mejora de sus ganancias operativas, aunque la debilidad del consumo y las presiones financieras limitarían las utilidades. Mineras y cementeras figuran entre las mejor posicionadas.",
-          "published": "2026-10-19T05:00:00+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -792,101 +888,92 @@
   ],
   "sin_accion": [
     {
-      "title": "¿Por qué las acciones de Vertiv se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-vertiv-se-disparan-hoy-93CH-3894313",
-      "summary": "",
-      "published": "2026-10-28T10:29:20+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Ultra Clean Holdings?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-ultra-clean-holdings-93CH-3894306",
-      "summary": "",
-      "published": "2026-10-28T10:27:00+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Four reasons to start worrying about inflation — including the end of tariff refunds",
-      "link": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
-      "summary": "Dennis DeBusschere, of 22V Research, said companies that previously used tariff refunds to ease cost pressures will increasingly hand down those higher costs to consumers.",
-      "published": "2026-10-28T10:21:00+00:00",
+      "title": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
+      "link": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
+      "summary": "Verizon says there is ‘no magic wand,’ but analysts note SpaceX may be targeting some shortcuts.",
+      "published": "2026-10-28T18:58:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué caen hoy las acciones de Logitech?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-logitech-93CH-3894252",
-      "summary": "",
-      "published": "2026-10-28T10:15:40+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Bill Ackman owns only a handful of stocks. Here is his rule for picking a winner.",
-      "link": "https://www.marketwatch.com/story/bill-ackman-owns-only-a-handful-of-stocks-here-is-his-rule-for-picking-a-winner-82a0ee98?mod=mw_rss_topstories",
-      "summary": "What’s a great company? Billionaire hedge-fund manager Bill Ackman says investors can look for some simple characteristics.",
-      "published": "2026-10-28T10:11:00+00:00",
+      "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
+      "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
+      "summary": "It won’t take action against compounding pharmacies that make popular wellness products like BPC-157 and TB-500.",
+      "published": "2026-10-28T18:56:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Edu Huarte opiniones sobre cómo crear la estrategia de un negocio para Meta Ads",
-      "link": "https://es.investing.com/news/stock-market-news/edu-huarte-opiniones-sobre-como-crear-la-estrategia-de-un-negocio-para-meta-ads-3894207",
-      "summary": "",
-      "published": "2026-10-28T10:05:04+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy el ADR de SK Hynix?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-el-adr-de-sk-hynix-93CH-3894198",
-      "summary": "",
-      "published": "2026-10-28T10:02:19+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Vidrala suben un 1% con ingresos estables en 393 millones",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-vidrala-suben-un-1-con-ingresos-estables-en-393-millones-93CH-3894196",
-      "summary": "",
-      "published": "2026-10-28T10:02:11+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade",
-      "link": "https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories",
-      "summary": "South Korea memory-chip giant says supply constraints will last through 2030.",
-      "published": "2026-10-28T09:25:00+00:00",
+      "title": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
+      "link": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
+      "summary": "MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.",
+      "published": "2026-10-28T18:56:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "We are in our 70s. Should we pay off our 2.5% mortgage or build up our savings?",
-      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "summary": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-      "published": "2026-10-28T09:15:00+00:00",
+      "title": "¿Por qué sube hoy la acción de Canadian Natural Resources?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-canadian-natural-resources-93CH-3895762",
+      "summary": "",
+      "published": "2026-10-28T18:45:03+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
+      "link": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
+      "summary": "“How can I tell if something is a real experience in my price range?”",
+      "published": "2026-10-28T18:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "TV’s Nick and Vanessa Lachey cut price of Southern California home to $7.6 million",
-      "link": "https://www.marketwatch.com/story/tvs-nick-and-vanessa-lachey-cut-price-of-southern-california-home-to-7-6-million-24dc3d7a?mod=mw_rss_topstories",
-      "summary": "TV stars Nick and Vanessa Lachey have trimmed $500,000 off the asking price of their longtime “dream home,” as they prepare to bid farewell to California.",
-      "published": "2026-10-28T09:01:00+00:00",
+      "title": "Anthropic planea una oferta de acciones en el Reino Unido a través de retailbook",
+      "link": "https://es.investing.com/news/stock-market-news/anthropic-planea-una-oferta-de-acciones-en-el-reino-unido-a-traves-de-retailbook-432SI-3895671",
+      "summary": "",
+      "published": "2026-10-28T17:45:02+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+      "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+      "summary": "The AI infrastructure company beat sales expectations by the widest margin in more than five years and raised its capex outlook.",
+      "published": "2026-10-28T17:44:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Anthropic ofrecerá acciones de su OPV a inversores minoristas del Reino Unido",
+      "link": "https://es.investing.com/news/stock-market-news/anthropic-ofrecera-acciones-de-su-opv-a-inversores-minoristas-del-reino-unido-3895663",
+      "summary": "",
+      "published": "2026-10-28T17:40:33+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
+      "link": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
+      "summary": "Nelson Peltz’s Trian Fund Management has made a $1.4 billion offer for Wendy’s and says the company “requires significant capital investment” to get back on track.",
+      "published": "2026-10-28T17:24:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+      "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+      "summary": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence",
+      "published": "2026-10-28T15:39:14+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -897,15 +984,6 @@
       "published": "2026-10-28T02:18:05+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-      "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
-      "summary": "If you needed any further reasons to be worried about the bubble that has inflated the stock market, look no further.",
-      "published": "2026-10-28T02:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1035,15 +1113,6 @@
       "tickers": []
     },
     {
-      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-      "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-      "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
-      "published": "2026-10-21T11:20:58+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Analistas prevén tasa de interés sin cambios aun con miembros de Banxico abiertos a recortes",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-preven-tasa-de-interes-sin-cambios-aun-con-miembros-de-banxico-abiertos-a-recortes/",
       "summary": "El consenso de los analistas sigue esperando que Banxico dejará la tasa de interés en 6,50% hasta finales de 2027.",
@@ -1118,7 +1187,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 32,
-    "sin_accion": 36
+    "acciones_con_noticias": 37,
+    "sin_accion": 33
   }
 }
