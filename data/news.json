@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:51:50.250683+00:00",
+  "generated_at": "2026-10-28T00:38:58.177234+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10941.3,
+      "ventana_horas": 10952.3,
       "ok": true
     },
     {
@@ -64,11 +64,59 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.3,
+      "ventana_horas": 2.4,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "GCARSOA1.MX",
+      "name": "Grupo Carso",
+      "exchange": "BMV",
+      "sector": "Industria",
+      "news": [
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "División petrolera de Carlos Slim reactiva producción en campos marinos con rusa Lukoil",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/division-petrolera-de-carlos-slim-reactiva-produccion-en-campos-marinos-con-rusa-lukoil/",
+          "summary": "Zamajal, subsidiaria petrolera de Grupo Carso, alista un plan de inversión “agresivo” a partir de 2027.",
+          "published": "2026-10-27T19:20:55+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
+          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
+          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
+          "published": "2026-09-09T19:16:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
     {
       "ticker": "BA",
       "name": "Boeing",
@@ -79,7 +127,39 @@
           "title": "The big reason Boeing’s stock is falling so hard after earnings",
           "link": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
           "summary": "Boeing will come up short on 737 Max deliveries, casting doubt on its turnaround plans.",
-          "published": "2026-10-27T17:59:00+00:00",
+          "published": "2026-10-27T20:43:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
+          "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
+          "summary": "Broadcom’s stock has gone nowhere this year, but an analyst thinks it and other quality chip stocks like Nvidia will soon start trading at higher valuations.",
+          "published": "2026-10-27T20:40:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
+          "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
+          "summary": "Broadcom’s stock has gone nowhere this year, but an analyst thinks it and other quality chip stocks like Nvidia will soon start trading at higher valuations.",
+          "published": "2026-10-27T20:40:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         }
@@ -710,22 +790,6 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "iPhone 18 Pro Max en México: cuánto costaría con impuestos y precio del dólar",
-          "link": "https://www.bloomberglinea.com/tecnologia/iphone-18-pro-max-en-mexico-cuanto-costaria-con-impuestos-y-precio-del-dolar/",
-          "summary": "El teléfono de Apple estará disponible en nuevos colores. La preventa arrancará el 12 de septiembre.",
-          "published": "2026-09-09T19:16:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "CFE",
       "name": "Comisión Federal de Electricidad",
       "exchange": "Estatal (deuda)",
@@ -760,101 +824,128 @@
   ],
   "sin_accion": [
     {
-      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-      "published": "2026-10-27T18:45:00+00:00",
+      "title": "Presupuesto de México para 2027 es congruente con consolidación fiscal progresiva: Hacienda",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/presupuesto-de-mexico-para-2027-es-congruente-con-consolidacion-fiscal-progresiva-hacienda/",
+      "summary": "El Presupuesto propone un gasto público de MXN$10,6 billones para 2027, lo que representa un incremento de 4,3% respecto de este año, dijo la subsecretaria de Egresos.",
+      "published": "2026-10-27T23:30:16+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
+      "link": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
+      "summary": "Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”",
+      "published": "2026-10-27T22:51:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "El director ejecutivo de Crusoe defiende a CoreWeave en medio de la caída",
-      "link": "https://es.investing.com/news/stock-market-news/el-director-ejecutivo-de-crusoe-defiende-a-coreweave-en-medio-de-la-caida-3893144",
+      "title": "TD Cowen mantiene a United y Delta como sus aerolíneas favoritas",
+      "link": "https://es.investing.com/news/stock-market-news/td-cowen-mantiene-a-united-y-delta-como-sus-aerolineas-favoritas-3893463",
       "summary": "",
-      "published": "2026-10-27T18:22:54+00:00",
+      "published": "2026-10-27T22:20:26+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Rosenblatt elige sus valores favoritos en semiconductores por la fortaleza de los centros de datos",
-      "link": "https://es.investing.com/news/stock-market-news/rosenblatt-elige-sus-valores-favoritos-en-semiconductores-por-la-fortaleza-de-los-centros-de-datos-3893130",
-      "summary": "",
-      "published": "2026-10-27T18:12:54+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Fersomatic: 30 años de emprendimiento, vending y nuevos modelos de negocio",
-      "link": "https://es.investing.com/news/stock-market-news/fersomatic-30-anos-de-emprendimiento-vending-y-nuevos-modelos-de-negocio-3893115",
-      "summary": "",
-      "published": "2026-10-27T18:05:22+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto",
-      "link": "https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1?mod=mw_rss_topstories",
-      "summary": "What former CFTC Chairman Chris Giancarlo tells his own children about buying their first crypto coin.",
-      "published": "2026-10-27T17:53:00+00:00",
+      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+      "published": "2026-10-27T22:18:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "La OPI de Anthropic, una prueba de la paciencia del mercado con la IA",
-      "link": "https://es.investing.com/news/stock-market-news/la-opi-de-anthropic-una-prueba-de-la-paciencia-del-mercado-con-la-ia-3893097",
-      "summary": "",
-      "published": "2026-10-27T17:48:30+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
+      "title": "México acumula déficit petrolero de US$25.700 millones en balanza comercial",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-acumula-deficit-petrolero-de-us25700-millones-en-balanza-comercial/",
+      "summary": "El déficit petrolero de México acumulado a septiembre ya superó los datos de 2024 y 2025 para el mismo periodo.",
+      "published": "2026-10-27T22:04:20+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
-      "title": "2 reportes, 7.82 billones: Cuando veas la reacción, será muy tarde",
-      "link": "https://es.investing.com/news/stock-market-news/dia-critico-2-reportes-782-billones-cuando-veas-la-reaccion-sera-muy-tarde-3893092",
-      "summary": "",
-      "published": "2026-10-27T17:46:09+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "La SEC de Atkins busca cambios en la regulación del crowdfunding",
-      "link": "https://es.investing.com/news/stock-market-news/la-sec-de-atkins-busca-cambios-en-la-regulacion-del-crowdfunding-3893082",
-      "summary": "",
-      "published": "2026-10-27T17:37:39+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
-      "link": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
-      "summary": "JetBlue’s stock rises more than 20% as a new profit target helps calm fears about the airline’s viability.",
-      "published": "2026-10-27T16:52:00+00:00",
+      "title": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
+      "link": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
+      "summary": "Now that investors have been able to dive further into Anthropic’s IPO filing, they’re seeing the same sorts of trends that helped buoy AI stocks for much of this year.",
+      "published": "2026-10-27T21:41:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "When will Anthropic go public? Here’s what to know about the IPO timeline.",
-      "link": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
-      "summary": "By filing IPO paperwork on Monday, Anthropic can conduct its investor roadshow the week of Nov. 9 and would be eligible to go public as soon as the following week.",
-      "published": "2026-10-27T16:38:00+00:00",
+      "title": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
+      "link": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
+      "summary": "President Donald Trump can’t stop touting the fortunes U.S. energy companies have made during the Iran war, while canvassing the country to support Republican candidates ahead of next week’s midterm elections.",
+      "published": "2026-10-27T21:29:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Bond investors are starting to say ‘anything but tech.’ What that means for the AI boom.",
-      "link": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
-      "summary": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
-      "published": "2026-10-27T16:24:00+00:00",
+      "title": "The rest of the market is leaving Big Tech behind after a historic comeback",
+      "link": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
+      "summary": "The artificial-intelligence trade carried the U.S. stock market in September. But in October, it is being carried out on a stretcher.",
+      "published": "2026-10-27T21:28:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Tensor Auto y el operador de taxis de Múnich planean una flota autónoma",
+      "link": "https://es.investing.com/news/stock-market-news/tensor-auto-y-el-operador-de-taxis-de-munich-planean-una-flota-autonoma-93CH-3893408",
+      "summary": "",
+      "published": "2026-10-27T21:10:26+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Nabors Industries?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-nabors-industries-93CH-3893405",
+      "summary": "",
+      "published": "2026-10-27T21:08:43+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se desploma hoy la acción de Enphase Energy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-enphase-energy-93CH-3893395",
+      "summary": "",
+      "published": "2026-10-27T21:03:14+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Caesars Entertainment?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-caesars-entertainment-93CH-3893393",
+      "summary": "",
+      "published": "2026-10-27T21:03:07+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
+      "published": "2026-10-27T21:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube la acción de F5 en el mercado fuera de hora?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-la-accion-de-f5-en-el-mercado-fuera-de-hora-93CH-3893382",
+      "summary": "",
+      "published": "2026-10-27T20:59:28+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -873,15 +964,6 @@
       "summary": "The CNBC Fed Survey shows that 93% of respondent expect a pause at the Federal Reserve meeting taking place this week.",
       "published": "2026-10-27T15:51:00+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The U.S. economy is gathering steam. This is the chief reason why.",
-      "link": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
-      "summary": "The AI boom shows no sign of easing as Anthropic prepares to go public and businesses gobble up durable goods.",
-      "published": "2026-10-27T15:34:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1021,30 +1103,12 @@
       "tickers": []
     },
     {
-      "title": "Trump propone a Sheinbaum ayudar con la producción petrolera de México",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/trump-propone-a-sheinbaum-ayudar-con-la-produccion-petrolera-de-mexico/",
-      "summary": "El mandatario también propuso que México aumente las compras de gas natural estadounidense",
-      "published": "2026-10-19T20:46:41+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
       "title": "Anthropic is AI trade's last big hope for a major IPO this year",
       "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
       "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
       "published": "2026-10-19T16:42:14+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Peso mexicano pierde terreno frente al dólar: ¿qué pasará si Banxico vuelve a recortar la tasa?",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-pierde-terreno-frente-al-dolar-que-pasara-si-banxico-vuelve-a-recortar-la-tasa/",
-      "summary": "En las últimas cinco semanas, el peso mexicano se ha depreciado 7,8% frente al dólar estadounidense.",
-      "published": "2026-10-19T12:40:18+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
       "tickers": []
     },
     {
@@ -1086,7 +1150,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 32,
+    "acciones_con_noticias": 35,
     "sin_accion": 36
   }
 }
