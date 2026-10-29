@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:08:09.063016+00:00",
+  "generated_at": "2026-10-29T11:02:50.804329+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 10975.8,
+      "ventana_horas": 10980.9,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 3.0,
+      "ventana_horas": 0.8,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 394.7,
+      "ventana_horas": 408.2,
       "ok": true
     },
     {
@@ -64,11 +64,59 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.6,
+      "ventana_horas": 10.8,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "ServiceNow stock is on track for its largest drop on record. But JPMorgan sees a bright spot.",
+          "link": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories",
+          "summary": "Shares in the software company declined nearly 18% in premarket trading on Thursday as investors digested its third-quarter earnings.",
+          "published": "2026-10-29T09:52:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+          "published": "2026-10-21T15:30:50+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+          "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+          "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+          "published": "2026-10-19T12:34:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+          "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+          "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+          "published": "2026-10-13T20:48:37+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+          "summary": "These are the stocks posting the largest moves before the bell.",
+          "published": "2026-10-13T11:49:04+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "GOOGL",
       "name": "Alphabet (Google)",
@@ -76,10 +124,10 @@
       "sector": "Tecnología",
       "news": [
         {
-          "title": "Los futuros de las acciones caen por los débiles resultados de Alphabet",
-          "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-caen-por-los-debiles-resultados-de-alphabet-3896383",
+          "title": "La quema de 9.070 millones de dólares de Alphabet arrastra a las acciones neocloud",
+          "link": "https://es.investing.com/news/stock-market-news/la-quema-de-9070-millones-de-dolares-de-alphabet-arrastra-a-las-acciones-neocloud-3897371",
           "summary": "",
-          "published": "2026-10-29T00:31:36+00:00",
+          "published": "2026-10-29T10:14:57+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
@@ -87,7 +135,15 @@
           "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
           "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
           "summary": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
-          "published": "2026-10-29T00:17:00+00:00",
+          "published": "2026-10-29T09:08:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
+          "link": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
+          "summary": "Samsung Electronics just posted a quarter that no other tech company has ever seen.",
+          "published": "2026-10-29T09:01:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         }
@@ -100,6 +156,14 @@
       "sector": "Tecnología",
       "news": [
         {
+          "title": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
+          "link": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
+          "summary": "Samsung Electronics just posted a quarter that no other tech company has ever seen.",
+          "published": "2026-10-29T09:01:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "The major reason Microsoft’s stock is heading higher after earnings",
           "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
           "summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
@@ -110,35 +174,19 @@
       ]
     },
     {
-      "ticker": "GCARSOA1.MX",
-      "name": "Grupo Carso",
-      "exchange": "BMV",
-      "sector": "Industria",
-      "news": [
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "División petrolera de Carlos Slim reactiva producción en campos marinos con rusa Lukoil",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/division-petrolera-de-carlos-slim-reactiva-produccion-en-campos-marinos-con-rusa-lukoil/",
-          "summary": "Zamajal, subsidiaria petrolera de Grupo Carso, alista un plan de inversión “agresivo” a partir de 2027.",
-          "published": "2026-10-27T19:20:55+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "CFE",
       "name": "Comisión Federal de Electricidad",
       "exchange": "Estatal (deuda)",
       "sector": "Energía",
       "news": [
+        {
+          "title": "CFE todavía analiza proyectos mixtos de generación eléctrica con empresas privadas",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-todavia-analiza-proyectos-mixtos-de-generacion-electrica-con-empresas-privadas/",
+          "summary": "La empresa mexicana recibió 200 proyectos de generación eléctrica en la segunda convocatoria de esquemas de desarrollo mixto, de los cuales, 64 están en probable etapa de evaluación.",
+          "published": "2026-10-29T04:06:12+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
         {
           "title": "CFE presenta proyectos de redes eléctricas y centrales a la industria privada",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-proyectos-de-redes-electricas-y-centrales-a-la-industria-privada/",
@@ -150,18 +198,34 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
+      "ticker": "PLTR",
+      "name": "Palantir",
       "exchange": "NASDAQ",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
+          "title": "¿Por qué sube hoy la acción de Palantir?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-palantir-93CH-3897385",
+          "summary": "",
+          "published": "2026-10-29T10:20:37+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "Samsung Electronics",
+      "exchange": "KRX",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
+          "link": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
+          "summary": "Samsung Electronics just posted a quarter that no other tech company has ever seen.",
+          "published": "2026-10-29T09:01:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -242,12 +306,28 @@
           "published": "2026-09-24T15:37:59+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "GCARSOA1.MX",
+      "name": "Grupo Carso",
+      "exchange": "BMV",
+      "sector": "Industria",
+      "news": [
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         },
         {
-          "title": "Sheinbaum minimiza apoyo para Pemex en 2027 tras incumplir promesa",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-minimiza-apoyo-para-pemex-en-2027-tras-incumplir-promesa/",
-          "summary": "La Secretaría de Hacienda propuso una transferencia a Pemex por MXN$81.100 millones para el pago de vencimientos de deuda y créditos bancarios.",
-          "published": "2026-09-09T20:22:23+00:00",
+          "title": "División petrolera de Carlos Slim reactiva producción en campos marinos con rusa Lukoil",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/division-petrolera-de-carlos-slim-reactiva-produccion-en-campos-marinos-con-rusa-lukoil/",
+          "summary": "Zamajal, subsidiaria petrolera de Grupo Carso, alista un plan de inversión “agresivo” a partir de 2027.",
+          "published": "2026-10-27T19:20:55+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -278,42 +358,18 @@
       ]
     },
     {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
       "news": [
         {
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-          "published": "2026-10-21T15:30:50+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-          "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-          "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-          "published": "2026-10-19T12:34:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-          "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-          "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
-          "published": "2026-10-13T20:48:37+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-          "summary": "These are the stocks posting the largest moves before the bell.",
-          "published": "2026-10-13T11:49:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -784,11 +840,110 @@
   ],
   "sin_accion": [
     {
-      "title": "Bloomberg y dos firmas de trading se suscriben al acceso prioritario a los posts de Trump",
-      "link": "https://es.investing.com/news/stock-market-news/bloomberg-y-dos-firmas-de-trading-se-suscriben-al-acceso-prioritario-a-los-posts-de-trump-3896387",
+      "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+      "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+      "summary": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
+      "published": "2026-10-29T11:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "President of the European Central Bank Christine Lagarde to step down in February",
+      "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
       "summary": "",
-      "published": "2026-10-29T00:43:45+00:00",
+      "published": "2026-10-29T10:59:20+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¡ÚLTIMOS MINUTOS! Copia estrategias que se disparan +75% en 2026 a muy bajo precio",
+      "link": "https://es.investing.com/news/stock-market-news/ultimos-minutos-copia-estrategias-que-se-disparan-75-en-2026-a-muy-bajo-precio-3897521",
+      "summary": "",
+      "published": "2026-10-29T10:40:47+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae un 5% hoy la acción de Alkami Technology?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-un-5-hoy-la-accion-de-alkami-technology-93CH-3897500",
+      "summary": "",
+      "published": "2026-10-29T10:36:19+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Siemens Energy suben por señales positivas del sector",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-siemens-energy-suben-por-senales-positivas-del-sector-93CH-3897445",
+      "summary": "",
+      "published": "2026-10-29T10:26:16+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Neste reporta un sólido tercer trimestre, pero los costes de expansión en Róterdam suben a 3.000 millones de euros",
+      "link": "https://es.investing.com/news/stock-market-news/neste-reporta-un-solido-tercer-trimestre-pero-los-costes-de-expansion-en-roterdam-suben-a-3000-millones-de-euros-93CH-3897444",
+      "summary": "",
+      "published": "2026-10-29T10:26:12+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Octubre, el mejor mes para esta estrategia IA con una acción disparándose un 25%",
+      "link": "https://es.investing.com/news/stock-market-news/octubre-el-mejor-mes-para-esta-estrategia-ia-con-una-accion-disparandose-un-25-3897372",
+      "summary": "",
+      "published": "2026-10-29T10:19:24+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘There may be better investment options’: My church received $1.5 million from a parishioner. Is 3.75% interest enough?",
+      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+      "published": "2026-10-29T10:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Tras subir un +10% ayer, esta acción sanitaria elegida por IA sube otro +10% antes de la apertura",
+      "link": "https://es.investing.com/news/stock-market-news/tras-subir-un-10-ayer-esta-accion-sanitaria-elegida-por-ia-sube-un-10-antes-de-la-apertura-3897361",
+      "summary": "",
+      "published": "2026-10-29T10:12:28+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘Fancy cars hold no appeal’: My wife and I have a 99% chance of outliving our savings. Why don’t we spend it all?",
+      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children or close family remaining.”",
+      "published": "2026-10-29T09:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
+      "link": "https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories",
+      "summary": "NBA point guard LaMelo Ball is making another major move: selling his $2.6 million home in one of Uptown Charlotte’s most exclusive residential buildings.",
+      "published": "2026-10-29T09:02:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+      "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+      "summary": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+      "published": "2026-10-29T09:00:01+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -811,93 +966,12 @@
       "tickers": []
     },
     {
-      "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
-      "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
-      "summary": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
-      "published": "2026-10-28T23:18:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
-      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-      "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
-      "published": "2026-10-28T23:02:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "OPI de Anthropic: ¿Cómo entender los datos antes de la histórica salida a Bolsa?",
-      "link": "https://es.investing.com/news/stock-market-news/opi-de-anthropic-como-entender-los-datos-antes-de-la-historica-salida-a-bolsa-3896343",
-      "summary": "",
-      "published": "2026-10-28T23:00:10+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Subgobernadora de Banxico: tasa en 6,50% “es buena posición monetaria” en medio de condiciones globales",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/subgobernadora-de-banxico-tasa-en-650-es-buena-posicion-monetaria-en-medio-de-condiciones-globales/",
       "summary": "La subgobernadora Galia Borja dijo que el banco central ha logrado calibrar la tasa de interés mientras la inflación se ha mantenido dentro del intervalo de variabilidad.",
       "published": "2026-10-28T22:59:48+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-      "published": "2026-10-28T22:41:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
-      "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-      "summary": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
-      "published": "2026-10-28T22:25:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Guggenheim designa a LB Pharmaceuticals como idea de inversión clave",
-      "link": "https://es.investing.com/news/stock-market-news/guggenheim-designa-a-lb-pharmaceuticals-como-idea-de-inversion-clave-3896319",
-      "summary": "",
-      "published": "2026-10-28T22:10:17+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Lumentum?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-lumentum-93CH-3896312",
-      "summary": "",
-      "published": "2026-10-28T22:04:29+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Marvell Technology?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-marvell-technology-93CH-3896311",
-      "summary": "",
-      "published": "2026-10-28T22:04:18+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Marvell cerca de un acuerdo para adquirir Lumentum y reforzar su hardware",
-      "link": "https://es.investing.com/news/stock-market-news/marvell-cerca-de-un-acuerdo-para-adquirir-lumentum-y-reforzar-su-hardware-3896301",
-      "summary": "",
-      "published": "2026-10-28T21:56:16+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -973,30 +1047,12 @@
       "tickers": []
     },
     {
-      "title": "Fed rate hikes are coming, but not this week: CNBC survey",
-      "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
-      "summary": "The CNBC Fed Survey shows that 93% of respondent expect a pause at the Federal Reserve meeting taking place this week.",
-      "published": "2026-10-27T15:51:00+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "La renuncia de Taddei hunde al Instituto Electoral de México en una crisis de confianza y debilidad",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/la-renuncia-de-taddei-hunde-al-instituto-electoral-de-mexico-en-una-crisis-de-confianza-y-debilidad/",
       "summary": "La Cámara de Diputados recibió el oficio en el que la consejera presidenta del INE, Guadalupe Taddei, oficializa su renuncia al cargo ante acusaciones de corrupción",
       "published": "2026-10-27T12:29:45+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
-      "published": "2026-10-26T18:33:51+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1110,7 +1166,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 33,
+    "acciones_con_noticias": 35,
     "sin_accion": 36
   }
 }
