@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T01:13:54.686113+00:00",
+  "generated_at": "2026-10-30T10:59:13.621498+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 2.9,
+      "ventana_horas": 0.8,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 397.2,
+      "ventana_horas": 400.9,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.5,
+      "ventana_horas": 10.5,
       "ok": true
     }
   ],
@@ -76,6 +76,14 @@
       "sector": "Retail / Nube",
       "news": [
         {
+          "title": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar revenue businesses",
+          "link": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
+          "summary": "Amazon chief executive Andy Jassy set a bold target on the conference call announcing third-quarter earnings.",
+          "published": "2026-10-30T10:34:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
           "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
           "summary": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
@@ -84,11 +92,51 @@
           "source_scope": "Internacional"
         },
         {
-          "title": "¿Por qué cae hoy la acción de Amazon?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-amazon-93CH-3899518",
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "BofA elimina Apple y C.H. Robinson de su lista U.S. 1",
+          "link": "https://es.investing.com/news/stock-market-news/bofa-elimina-apple-y-ch-robinson-de-su-lista-us-1-93CH-3900695",
           "summary": "",
-          "published": "2026-10-29T21:33:25+00:00",
+          "published": "2026-10-30T10:32:26+00:00",
           "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Why Intel’s stock is sinking toward its worst drop in two years",
+          "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+          "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
+          "published": "2026-10-30T09:46:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
@@ -97,6 +145,22 @@
           "summary": "These are the stocks posting the largest moves premarket.",
           "published": "2026-10-19T12:00:34+00:00",
           "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "SBUX",
+      "name": "Starbucks",
+      "exchange": "NASDAQ",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
+          "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+          "summary": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
+          "published": "2026-10-30T00:14:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -130,62 +194,6 @@
           "published": "2026-10-28T00:47:15+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Why Intel’s stock is sinking toward its worst drop in two years",
-          "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-          "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
-          "published": "2026-10-29T23:21:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "SBUX",
-      "name": "Starbucks",
-      "exchange": "NASDAQ",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
-          "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-          "summary": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
-          "published": "2026-10-30T00:14:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "exchange": "NASDAQ",
-      "sector": "Cripto",
-      "news": [
-        {
-          "title": "¿Por qué cae hoy la acción de Coinbase?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-coinbase-93CH-3899520",
-          "summary": "",
-          "published": "2026-10-29T21:33:31+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -312,22 +320,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
           "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
           "published": "2026-10-21T19:04:25+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -792,29 +784,110 @@
   ],
   "sin_accion": [
     {
-      "title": "Bambusa Therapeutics fija el precio de su OPV en 16 dólares por acción en el Nasdaq",
-      "link": "https://es.investing.com/news/stock-market-news/bambusa-therapeutics-fija-el-precio-de-su-opv-en-16-dolares-por-accion-en-el-nasdaq-432SI-3899611",
+      "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
+      "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
       "summary": "",
-      "published": "2026-10-30T00:27:02+00:00",
+      "published": "2026-10-30T10:58:33+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Tras un rendimiento de +193%: la nueva lista de selecciones IA para noviembre ya está disponible",
+      "link": "https://es.investing.com/news/stock-market-news/tras-un-rendimiento-de-193-la-nueva-lista-de-selecciones-ia-para-noviembre-ya-esta-disponible-3900816",
+      "summary": "",
+      "published": "2026-10-30T10:49:37+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué cae Bitcoin hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-bitcoin-hoy-93CH-3899610",
+      "title": "¿Por qué las acciones de BrightSpring Health Services suben hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-brightspring-health-services-suben-hoy-93CH-3900681",
       "summary": "",
-      "published": "2026-10-30T00:26:53+00:00",
+      "published": "2026-10-30T10:31:24+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué está cayendo el BNB de Binance hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-esta-cayendo-el-bnb-de-binance-hoy-93CH-3899609",
+      "title": "Los rendimientos más altos frenan el rally de IA mientras los mercados de bonos controlan el capex: BofA",
+      "link": "https://es.investing.com/news/stock-market-news/los-rendimientos-mas-altos-frenan-el-rally-de-ia-mientras-los-mercados-de-bonos-controlan-el-capex-bofa-3900724",
       "summary": "",
-      "published": "2026-10-30T00:26:48+00:00",
+      "published": "2026-10-30T10:26:44+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de Forum Energy Technologies suben hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-forum-energy-technologies-suben-hoy-93CH-3900593",
+      "summary": "",
+      "published": "2026-10-30T10:24:53+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de WisdomTree se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-wisdomtree-se-disparan-hoy-93CH-3900581",
+      "summary": "",
+      "published": "2026-10-30T10:23:12+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "OPay fija el precio de su OPV en 19 dólares por acción en la Bolsa de Nueva York",
+      "link": "https://es.investing.com/news/stock-market-news/opay-fija-el-precio-de-su-opv-en-19-dolares-por-accion-en-la-bolsa-de-nueva-york-432SI-3900536",
+      "summary": "",
+      "published": "2026-10-30T10:16:03+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+      "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+      "published": "2026-10-30T10:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Here’s when Binance plans to reopen after what’s believed to be the largest-ever $6.3 billion hack",
+      "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+      "summary": "Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.",
+      "published": "2026-10-30T09:50:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?",
+      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
+      "published": "2026-10-30T09:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Solidcore founder Anne Mahlum plans enormous 10-bedroom ‘dream home’",
+      "link": "https://www.marketwatch.com/story/solidcore-founder-anne-mahlum-plans-enormous-10-bedroom-dream-home-032e0444?mod=mw_rss_topstories",
+      "summary": "Solidcore founder Anne Mahlum is thinking big for her next home—a sprawling, 10-bedroom property designed around entertaining, family life, and her love of staying in.",
+      "published": "2026-10-30T09:01:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+      "published": "2026-10-30T03:16:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -832,78 +905,6 @@
       "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
       "summary": "Sandisk’s stock has climbed more than 2,600% since the company separated from Western Digital 20 months ago — and it has one of the highest prices in the S&P 500.",
       "published": "2026-10-30T00:06:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
-      "published": "2026-10-30T00:05:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-      "published": "2026-10-29T22:45:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The midterms are crucial to the future of Social Security — no matter how old you are",
-      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
-      "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
-      "published": "2026-10-29T22:01:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-      "published": "2026-10-29T21:52:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de Gilead Sciences se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-gilead-sciences-se-disparan-hoy-93CH-3899533",
-      "summary": "",
-      "published": "2026-10-29T21:41:29+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Cavco Industries?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-cavco-industries-93CH-3899530",
-      "summary": "",
-      "published": "2026-10-29T21:39:14+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Strategy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-strategy-93CH-3899528",
-      "summary": "",
-      "published": "2026-10-29T21:37:35+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
-      "published": "2026-10-29T21:31:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -967,15 +968,6 @@
       "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
       "summary": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
       "published": "2026-10-28T21:31:46+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
-      "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
-      "summary": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
-      "published": "2026-10-28T21:06:37+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1118,7 +1110,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 32,
+    "acciones_con_noticias": 31,
     "sin_accion": 36
   }
 }
