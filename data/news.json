@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:46:25.575261+00:00",
+  "generated_at": "2026-10-31T00:56:40.594871+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 11016.1,
+      "ventana_horas": 11021.3,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.4,
+      "ventana_horas": 3.5,
       "ok": true
     },
     {
@@ -64,217 +64,25 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.5,
+      "ventana_horas": 2.8,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Goldman Sachs revisa las acciones de joyería de China tras la caída del oro",
-          "link": "https://es.investing.com/news/stock-market-news/goldman-sachs-revisa-las-acciones-de-joyeria-de-china-tras-la-caida-del-oro-3902279",
-          "summary": "",
-          "published": "2026-10-30T16:55:12+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-          "published": "2026-10-21T15:30:50+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
-          "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
-          "summary": "“A cheaper stock does not necessarily offer better value,” one expert says.",
-          "published": "2026-10-30T16:45:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Tecnológicas caen: ¿Comprar Nvidia? 5 acciones para aprovechar la baja, 5 a evitar",
-          "link": "https://es.investing.com/news/stock-market-news/tecnologicas-caen-comprar-nvidia-5-acciones-para-aprovechar-la-baja-5-a-evitar-3902343",
-          "summary": "",
-          "published": "2026-10-30T18:14:10+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
-          "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
-          "summary": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
-          "published": "2026-10-30T18:09:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BOLSAA.MX",
-      "name": "Bolsa Mexicana de Valores",
-      "exchange": "BMV",
-      "sector": "Finanzas",
-      "news": [
-        {
-          "title": "Ganancias en Bolsa Mexicana de Valores hoy: IPC perfila su mejor mes en 3 años",
-          "link": "https://es.investing.com/news/stock-market-news/ganancias-en-bolsa-mexicana-de-valores-hoy-ipc-perfila-su-mejor-mes-en-3-anos-3902329",
-          "summary": "",
-          "published": "2026-10-30T17:36:09+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "F",
-      "name": "Ford Motor Company",
-      "exchange": "NYSE",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Ford apunta a vender 5 millones de coches al año para 2032",
-          "link": "https://es.investing.com/news/stock-market-news/ford-apunta-a-vender-5-millones-de-coches-al-ano-para-2032-3902331",
-          "summary": "",
-          "published": "2026-10-30T17:35:45+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "QCOM",
-      "name": "Qualcomm",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "¿Por qué caen hoy con fuerza las acciones de Qualcomm?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-con-fuerza-las-acciones-de-qualcomm-93CH-3902313",
-          "summary": "",
-          "published": "2026-10-30T17:17:55+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "CFE",
-      "name": "Comisión Federal de Electricidad",
-      "exchange": "Estatal (deuda)",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Banca de México trabaja en financiar proyectos mixtos de CFE con empresas privadas",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banca-de-mexico-trabaja-en-financiar-proyectos-mixtos-de-cfe-con-empresas-privadas/",
-          "summary": "La banca múltiple, de desarrollo, fondos privados y el sistema de pensiones son los interesados en financiar los proyectos de energía renovable en México.",
-          "published": "2026-10-29T15:48:36+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE todavía analiza proyectos mixtos de generación eléctrica con empresas privadas",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-todavia-analiza-proyectos-mixtos-de-generacion-electrica-con-empresas-privadas/",
-          "summary": "La empresa mexicana recibió 200 proyectos de generación eléctrica en la segunda convocatoria de esquemas de desarrollo mixto, de los cuales, 64 están en probable etapa de evaluación.",
-          "published": "2026-10-29T04:06:12+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE presenta proyectos de redes eléctricas y centrales a la industria privada",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-proyectos-de-redes-electricas-y-centrales-a-la-industria-privada/",
-          "summary": "La empresa hizo pública la reunión con la industria cuatro días después de presentarlo en un roadshow en Ciudad de México.",
-          "published": "2026-10-28T00:47:15+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "GCARSOA1.MX",
-      "name": "Grupo Carso",
-      "exchange": "BMV",
-      "sector": "Industria",
-      "news": [
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "División petrolera de Carlos Slim reactiva producción en campos marinos con rusa Lukoil",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/division-petrolera-de-carlos-slim-reactiva-produccion-en-campos-marinos-con-rusa-lukoil/",
-          "summary": "Zamajal, subsidiaria petrolera de Grupo Carso, alista un plan de inversión “agresivo” a partir de 2027.",
-          "published": "2026-10-27T19:20:55+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
       "exchange": "Estatal (deuda)",
       "sector": "Energía",
       "news": [
+        {
+          "title": "Hacienda descarta volver a utilizar P-Caps para apoyar finanzas de Pemex",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hacienda-descarta-volver-a-utilizar-p-caps-para-apoyar-finanzas-de-pemex/",
+          "summary": "Édgar Amador, secretario de Hacienda, dijo que hacia delante estarán calibrando el balance entre la dependencia y la empresa petrolera estatal.",
+          "published": "2026-10-30T20:30:11+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
         {
           "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
@@ -344,6 +152,182 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fitch-mantiene-calificacion-de-pemex-como-bono-basura-a-un-escalon-del-grado-de-inversion/",
           "summary": "La agencia dijo que la calificación de Pemex refleja su vínculo con el Gobierno de México",
           "published": "2026-09-24T15:37:59+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
+          "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+          "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
+          "published": "2026-10-30T20:48:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+          "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+          "summary": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD may be suffering from the same problems.",
+          "published": "2026-10-30T20:28:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-19T12:00:34+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Apple supera a Nvidia y se convierte en la empresa más valiosa del mundo",
+          "link": "https://es.investing.com/news/stock-market-news/apple-supera-a-nvidia-y-se-convierte-en-la-empresa-mas-valiosa-del-mundo-3902472",
+          "summary": "",
+          "published": "2026-10-30T21:17:53+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Google estudia su papel en ciberseguridad del proyecto Golden Dome del Pentágono",
+          "link": "https://es.investing.com/news/stock-market-news/google-estudia-su-papel-en-ciberseguridad-del-proyecto-golden-dome-del-pentagono-3902498",
+          "summary": "",
+          "published": "2026-10-30T21:50:59+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Apple supera a Nvidia y se convierte en la empresa más valiosa del mundo",
+          "link": "https://es.investing.com/news/stock-market-news/apple-supera-a-nvidia-y-se-convierte-en-la-empresa-mas-valiosa-del-mundo-3902472",
+          "summary": "",
+          "published": "2026-10-30T21:17:53+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+          "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+          "summary": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
+          "published": "2026-10-30T20:29:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+          "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+          "summary": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD may be suffering from the same problems.",
+          "published": "2026-10-30T20:28:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "CFE",
+      "name": "Comisión Federal de Electricidad",
+      "exchange": "Estatal (deuda)",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Banca de México trabaja en financiar proyectos mixtos de CFE con empresas privadas",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banca-de-mexico-trabaja-en-financiar-proyectos-mixtos-de-cfe-con-empresas-privadas/",
+          "summary": "La banca múltiple, de desarrollo, fondos privados y el sistema de pensiones son los interesados en financiar los proyectos de energía renovable en México.",
+          "published": "2026-10-29T15:48:36+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "CFE todavía analiza proyectos mixtos de generación eléctrica con empresas privadas",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-todavia-analiza-proyectos-mixtos-de-generacion-electrica-con-empresas-privadas/",
+          "summary": "La empresa mexicana recibió 200 proyectos de generación eléctrica en la segunda convocatoria de esquemas de desarrollo mixto, de los cuales, 64 están en probable etapa de evaluación.",
+          "published": "2026-10-29T04:06:12+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "CFE presenta proyectos de redes eléctricas y centrales a la industria privada",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-proyectos-de-redes-electricas-y-centrales-a-la-industria-privada/",
+          "summary": "La empresa hizo pública la reunión con la industria cuatro días después de presentarlo en un roadshow en Ciudad de México.",
+          "published": "2026-10-28T00:47:15+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "GCARSOA1.MX",
+      "name": "Grupo Carso",
+      "exchange": "BMV",
+      "sector": "Industria",
+      "news": [
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "División petrolera de Carlos Slim reactiva producción en campos marinos con rusa Lukoil",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/division-petrolera-de-carlos-slim-reactiva-produccion-en-campos-marinos-con-rusa-lukoil/",
+          "summary": "Zamajal, subsidiaria petrolera de Grupo Carso, alista un plan de inversión “agresivo” a partir de 2027.",
+          "published": "2026-10-27T19:20:55+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -638,6 +622,22 @@
       ]
     },
     {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+          "published": "2026-10-21T15:30:50+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "AEROMEX.MX",
       "name": "Aeroméxico",
       "exchange": "BMV",
@@ -832,102 +832,120 @@
   ],
   "sin_accion": [
     {
-      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
-      "published": "2026-10-30T18:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las mejores acciones de exploración de petróleo y gas, según Mizuho",
-      "link": "https://es.investing.com/news/stock-market-news/las-mejores-acciones-de-exploracion-de-petroleo-y-gas-segun-mizuho-3902350",
+      "title": "¿Es el mercado demasiado bajista con el aluminio?",
+      "link": "https://es.investing.com/news/stock-market-news/es-el-mercado-demasiado-bajista-con-el-aluminio-3902558",
       "summary": "",
-      "published": "2026-10-30T18:20:56+00:00",
+      "published": "2026-10-31T00:40:08+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
-      "published": "2026-10-30T18:00:00+00:00",
+      "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+      "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+      "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
+      "published": "2026-10-30T23:14:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de la semana según Investing.com",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-la-semana-segun-investingcom-3902338",
+      "title": "Mizuho apuesta por estas acciones de restaurantes de EE.UU. antes de resultados",
+      "link": "https://es.investing.com/news/stock-market-news/mizuho-apuesta-por-estas-acciones-de-restaurantes-de-eeuu-antes-de-resultados-3902521",
       "summary": "",
-      "published": "2026-10-30T17:58:21+00:00",
+      "published": "2026-10-30T22:34:08+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’",
-      "link": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
-      "summary": "Worker compensation grows slower than inflation for second straight quarter",
-      "published": "2026-10-30T17:44:00+00:00",
+      "title": "This cybersecurity stock will be the next to join the S&P 500",
+      "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+      "summary": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
+      "published": "2026-10-30T22:20:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "You can expect the stock market to rally no matter who wins on Election Day",
-      "link": "https://www.marketwatch.com/story/you-can-expect-the-stock-market-to-rally-no-matter-who-wins-on-election-day-d4a3c282?mod=mw_rss_topstories",
-      "summary": "Also in Weekend Reads: Dividend stocks, a way to jump on the Anthropic bandwagon ahead of its IPO, and advice from The Moneyist.",
-      "published": "2026-10-30T17:32:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
-      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
-      "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
-      "published": "2026-10-30T17:21:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Arm?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-arm-93CH-3902315",
+      "title": "Accionistas de Raizen aprueban plan de reestructuración extrajudicial",
+      "link": "https://es.investing.com/news/stock-market-news/accionistas-de-raizen-aprueban-plan-de-reestructuracion-extrajudicial-93CH-3902508",
       "summary": "",
-      "published": "2026-10-30T17:20:40+00:00",
+      "published": "2026-10-30T22:09:00+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "The big winners of the tech wreck are biopharma stocks",
-      "link": "https://www.marketwatch.com/story/the-big-winners-of-the-tech-wreck-are-biopharma-stocks-2ac4d175?mod=mw_rss_topstories",
-      "summary": "The shares of large drugmakers like Lilly, Gilead and J&J keep hitting record highs.",
-      "published": "2026-10-30T17:13:00+00:00",
+      "title": "La FDA aprueba el primer producto de Inovio Pharmaceuticals",
+      "link": "https://es.investing.com/news/stock-market-news/la-fda-aprueba-el-primer-producto-de-inovio-pharmaceuticals-93CH-3902505",
+      "summary": "",
+      "published": "2026-10-30T22:01:53+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Inovio Pharmaceuticals?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-inovio-pharmaceuticals-93CH-3902502",
+      "summary": "",
+      "published": "2026-10-30T21:59:55+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Georgia Banking?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-georgia-banking-93CH-3902500",
+      "summary": "",
+      "published": "2026-10-30T21:53:35+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+      "summary": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
+      "published": "2026-10-30T21:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué se dispara hoy la acción de FMC?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-fmc-93CH-3902296",
-      "summary": "",
-      "published": "2026-10-30T17:08:15+00:00",
-      "source_short": "Investing",
+      "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+      "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+      "summary": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
+      "published": "2026-10-30T21:23:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Weyerhaeuser planea triplicar sus envíos de troncos a China en el cuarto trimestre",
-      "link": "https://es.investing.com/news/stock-market-news/weyerhaeuser-planea-triplicar-sus-envios-de-troncos-a-china-en-el-cuarto-trimestre-93CH-3902290",
-      "summary": "",
-      "published": "2026-10-30T17:05:18+00:00",
-      "source_short": "Investing",
+      "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+      "summary": "Many Big Tech stocks were hit hard but the S&P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
+      "published": "2026-10-30T20:52:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
+      "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "summary": "Reddit’s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter.",
+      "published": "2026-10-30T20:42:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "GAFI acepta reporte de la evaluación antilavado de México, publicará resultados en diciembre",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gafi-acepta-reporte-de-la-evaluacion-antilavado-de-mexico-publicara-resultados-en-diciembre/",
+      "summary": "Giles Thomson, presidente del GAFI, declinó comentar sobre los detalles de los informes.",
+      "published": "2026-10-30T20:30:05+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -1084,15 +1102,6 @@
       "tickers": []
     },
     {
-      "title": "Presidenta del INE presenta una inédita renuncia al cargo tras acusaciones de corrupción",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/presidenta-del-ine-presenta-una-inedita-renuncia-al-cargo-tras-acusaciones-de-corrupcion/",
-      "summary": "Guadalupe Taddei, consejera presidenta del INE, presentará este lunes 26 de octubre su renuncia ante la Cámara de Diputados de México.",
-      "published": "2026-10-25T23:04:00+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
       "title": "The world’s finance chiefs see new risks — and less China angst",
       "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
       "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
@@ -1149,7 +1158,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 35,
-    "sin_accion": 35
+    "acciones_con_noticias": 34,
+    "sin_accion": 36
   }
 }
