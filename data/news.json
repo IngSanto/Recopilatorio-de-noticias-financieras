@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T17:52:41.085575+00:00",
+  "generated_at": "2026-11-01T00:17:05.106465+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 19.3,
+      "ventana_horas": 22.3,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.0,
+      "ventana_horas": 4.2,
       "ok": true
     }
   ],
@@ -190,46 +190,6 @@
       ]
     },
     {
-      "ticker": "GCARSOA1.MX",
-      "name": "Grupo Carso",
-      "exchange": "BMV",
-      "sector": "Industria",
-      "news": [
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "División petrolera de Carlos Slim reactiva producción en campos marinos con rusa Lukoil",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/division-petrolera-de-carlos-slim-reactiva-produccion-en-campos-marinos-con-rusa-lukoil/",
-          "summary": "Zamajal, subsidiaria petrolera de Grupo Carso, alista un plan de inversión “agresivo” a partir de 2027.",
-          "published": "2026-10-27T19:20:55+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "JPM",
       "name": "JPMorgan Chase",
       "exchange": "NYSE",
@@ -298,6 +258,30 @@
           "published": "2026-10-14T11:36:25+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GCARSOA1.MX",
+      "name": "Grupo Carso",
+      "exchange": "BMV",
+      "sector": "Industria",
+      "news": [
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "División petrolera de Carlos Slim reactiva producción en campos marinos con rusa Lukoil",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/division-petrolera-de-carlos-slim-reactiva-produccion-en-campos-marinos-con-rusa-lukoil/",
+          "summary": "Zamajal, subsidiaria petrolera de Grupo Carso, alista un plan de inversión “agresivo” a partir de 2027.",
+          "published": "2026-10-27T19:20:55+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -464,6 +448,22 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/oxxo-enfrenta-el-embate-de-un-consumo-debil-y-clima-adverso-en-el-segundo-trimestre-en-mexico/",
           "summary": "FEMSA observó en México tendencias de tráfico menores a sus expectativas. Mientras que las categorías de refresco, cerveza y tabaco, enfrentaron presiones.",
           "published": "2025-07-28T15:10:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -744,37 +744,37 @@
   ],
   "sin_accion": [
     {
-      "title": "Meta desarrolla un robot humanoide con la china Fourier",
-      "link": "https://es.investing.com/news/stock-market-news/meta-desarrolla-un-robot-humanoide-con-la-china-fourier-3902646",
+      "title": "Principales conclusiones de la encuesta global anual de ropa deportiva de Bernstein",
+      "link": "https://es.investing.com/news/stock-market-news/conclusiones-clave-de-la-encuesta-anual-de-bernstein-sobre-ropa-deportiva-3902656",
       "summary": "",
-      "published": "2026-10-31T17:29:26+00:00",
+      "published": "2026-10-31T22:57:05+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-      "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
-      "summary": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
-      "published": "2026-10-31T17:26:00+00:00",
+      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
+      "published": "2026-10-31T20:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "80% of workers make this 401(k) mistake when they retire",
-      "link": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
-      "summary": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated",
-      "published": "2026-10-31T16:46:00+00:00",
+      "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+      "published": "2026-10-31T19:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
-      "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-      "summary": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy.",
-      "published": "2026-10-31T16:02:00+00:00",
+      "title": "This is where most people go wrong in their 30s and 40s",
+      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+      "summary": "These big life decisions will determine just how well you retire.",
+      "published": "2026-10-31T19:02:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -783,26 +783,44 @@
       "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
       "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
       "summary": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-      "published": "2026-10-31T16:00:00+00:00",
+      "published": "2026-10-31T19:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Our church has a $1.5 million bequest earning 3.75% in a savings account. Are we throwing money away?",
-      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
-      "published": "2026-10-31T15:30:00+00:00",
+      "title": "La venta masiva de bonos franceses, una advertencia para los gobiernos mundiales",
+      "link": "https://es.investing.com/news/stock-market-news/la-venta-masiva-de-bonos-franceses-una-advertencia-para-los-gobiernos-mundiales-3902649",
+      "summary": "",
+      "published": "2026-10-31T18:53:38+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+      "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+      "published": "2026-10-31T18:50:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-      "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
-      "published": "2026-10-31T15:25:00+00:00",
+      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
+      "published": "2026-10-31T18:33:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Meta desarrolla un robot humanoide con la china Fourier",
+      "link": "https://es.investing.com/news/stock-market-news/meta-desarrolla-un-robot-humanoide-con-la-china-fourier-3902646",
+      "summary": "",
+      "published": "2026-10-31T17:29:26+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -829,24 +847,6 @@
       "link": "https://es.investing.com/news/stock-market-news/gs-advierte-sobre-tipos-de-interes-e-ia-como-riesgos-para-la-demanda-de-acciones-3902631",
       "summary": "",
       "published": "2026-10-31T12:27:33+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "La relación riesgo-beneficio del sector tecnológico mejora tras la caída",
-      "link": "https://es.investing.com/news/stock-market-news/la-relacion-riesgobeneficio-del-sector-tecnologico-mejora-tras-la-caida-3902627",
-      "summary": "",
-      "published": "2026-10-31T11:02:38+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Citi mejora Hyundai Mobis a compra por perspectivas del 4T",
-      "link": "https://es.investing.com/news/stock-market-news/citi-mejora-hyundai-mobis-a-compra-por-perspectivas-del-4t-93CH-3902619",
-      "summary": "",
-      "published": "2026-10-31T10:04:50+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
