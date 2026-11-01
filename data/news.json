@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T00:17:05.106465+00:00",
+  "generated_at": "2026-11-01T11:26:55.896217+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 22.3,
+      "ventana_horas": 23.0,
       "ok": true
     },
     {
@@ -744,6 +744,33 @@
   ],
   "sin_accion": [
     {
+      "title": "Tras un rendimiento de +193%: la nueva lista de selecciones IA para noviembre ya está disponible",
+      "link": "https://es.investing.com/news/stock-market-news/tras-un-rendimiento-de-193-la-nueva-lista-de-selecciones-ia-para-noviembre-ya-esta-disponible-3900816",
+      "summary": "",
+      "published": "2026-11-01T10:00:03+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Quiénes son los grandes beneficiados del auge exportador de IA en Asia?",
+      "link": "https://es.investing.com/news/stock-market-news/quienes-son-los-grandes-beneficiados-del-auge-exportador-de-ia-en-asia-3902683",
+      "summary": "",
+      "published": "2026-11-01T06:50:07+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Inversores en IA buscan protegerse ante una posible caída del mercado tecnológico",
+      "link": "https://es.investing.com/news/stock-market-news/inversores-en-ia-buscan-protegerse-ante-una-posible-caida-del-mercado-tecnologico-3902667",
+      "summary": "",
+      "published": "2026-11-01T02:32:11+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Principales conclusiones de la encuesta global anual de ropa deportiva de Bernstein",
       "link": "https://es.investing.com/news/stock-market-news/conclusiones-clave-de-la-encuesta-anual-de-bernstein-sobre-ropa-deportiva-3902656",
       "summary": "",
@@ -820,33 +847,6 @@
       "link": "https://es.investing.com/news/stock-market-news/meta-desarrolla-un-robot-humanoide-con-la-china-fourier-3902646",
       "summary": "",
       "published": "2026-10-31T17:29:26+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Citi explica qué significan realmente \"halcón\" y \"paloma\" en el BCE",
-      "link": "https://es.investing.com/news/stock-market-news/citi-explica-que-significan-realmente-halcon-y-paloma-en-el-bce-3902639",
-      "summary": "",
-      "published": "2026-10-31T14:53:31+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Rusia extiende la prohibición de exportación de diésel hasta enero",
-      "link": "https://es.investing.com/news/stock-market-news/rusia-extiende-la-prohibicion-de-exportacion-de-diesel-hasta-enero-3902636",
-      "summary": "",
-      "published": "2026-10-31T13:43:46+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "GS advierte sobre tipos de interés e IA como riesgos para la demanda de acciones",
-      "link": "https://es.investing.com/news/stock-market-news/gs-advierte-sobre-tipos-de-interes-e-ia-como-riesgos-para-la-demanda-de-acciones-3902631",
-      "summary": "",
-      "published": "2026-10-31T12:27:33+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
