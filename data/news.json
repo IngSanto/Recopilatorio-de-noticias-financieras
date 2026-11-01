@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T11:26:55.896217+00:00",
+  "generated_at": "2026-11-01T18:29:32.174926+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -64,11 +64,35 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 4.2,
+      "ventana_horas": 22.5,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Apple’s new earnings era begins at a critical time for Big Tech",
+          "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+          "summary": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.",
+          "published": "2026-11-01T15:00:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
@@ -454,22 +478,6 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "AMXB.MX",
       "name": "América Móvil",
       "exchange": "BMV",
@@ -744,6 +752,60 @@
   ],
   "sin_accion": [
     {
+      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
+      "published": "2026-11-01T17:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+      "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+      "published": "2026-11-01T17:05:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+      "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+      "summary": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
+      "published": "2026-11-01T16:35:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "This is the biggest threat to the AI-powered bull market",
+      "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+      "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
+      "published": "2026-11-01T14:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "America is doing better than you think. Your algorithm is just hiding it.",
+      "link": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
+      "summary": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.",
+      "published": "2026-11-01T13:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Who really wins under Trump’s economy? Coastal liberal elites who hate him.",
+      "link": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
+      "summary": "In other words, not the people Republicans likely intended.",
+      "published": "2026-11-01T13:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Tras un rendimiento de +193%: la nueva lista de selecciones IA para noviembre ya está disponible",
       "link": "https://es.investing.com/news/stock-market-news/tras-un-rendimiento-de-193-la-nueva-lista-de-selecciones-ia-para-noviembre-ya-esta-disponible-3900816",
       "summary": "",
@@ -780,65 +842,11 @@
       "tickers": []
     },
     {
-      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-      "published": "2026-10-31T20:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
-      "published": "2026-10-31T19:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "This is where most people go wrong in their 30s and 40s",
-      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-      "summary": "These big life decisions will determine just how well you retire.",
-      "published": "2026-10-31T19:02:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "summary": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-      "published": "2026-10-31T19:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "La venta masiva de bonos franceses, una advertencia para los gobiernos mundiales",
       "link": "https://es.investing.com/news/stock-market-news/la-venta-masiva-de-bonos-franceses-una-advertencia-para-los-gobiernos-mundiales-3902649",
       "summary": "",
       "published": "2026-10-31T18:53:38+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
-      "published": "2026-10-31T18:50:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-      "published": "2026-10-31T18:33:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
