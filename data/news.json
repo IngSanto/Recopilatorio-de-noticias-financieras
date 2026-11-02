@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T12:47:42.590954+00:00",
+  "generated_at": "2026-11-02T22:26:42.567476+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.3,
+      "ventana_horas": 1.6,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 201.2,
+      "ventana_horas": 222.2,
       "ok": true
     },
     {
@@ -64,63 +64,87 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.4,
+      "ventana_horas": 3.8,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
       "news": [
         {
-          "title": "How oil prices could average $130 per barrel next year, according to Goldman Sachs",
-          "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
-          "summary": "Analysts at the investment bank said Brent crude could reach $140 a barrel next year if tensions worsen in the Middle East.",
-          "published": "2026-11-02T11:14:00+00:00",
-          "source_short": "MarketW",
+          "title": "¿Por qué sube hoy la acción de Palantir Technologies?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-palantir-technologies-93CH-3905305",
+          "summary": "",
+          "published": "2026-11-02T21:50:16+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-          "published": "2026-10-21T15:30:50+00:00",
+          "title": "Palantir earnings reveal a major AI turning point",
+          "link": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
+          "summary": "The U.S. commercial business brought in more money than the U.S. government segment in the third quarter.",
+          "published": "2026-11-02T21:09:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "RIVN",
+      "name": "Rivian",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-11-02T20:00:16+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
+          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-11-02T12:49:35+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "AIR",
-      "name": "Airbus",
-      "exchange": "Euronext",
-      "sector": "Industria",
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
       "news": [
         {
-          "title": "Jefferies: entregas de Airbus en octubre caen un 17% interanual",
-          "link": "https://es.investing.com/news/stock-market-news/jefferies-entregas-de-airbus-en-octubre-caen-un-17-interanual-93CH-3903657",
-          "summary": "",
-          "published": "2026-11-02T11:32:53+00:00",
-          "source_short": "Investing",
+          "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-11-02T20:00:16+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "UBS",
-      "name": "UBS",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "UBS señala a Chipotle entre las posiciones largas más concurridas en restaurantes",
-          "link": "https://es.investing.com/news/stock-market-news/ubs-senala-a-chipotle-entre-las-posiciones-largas-mas-concurridas-en-restaurantes-93CH-3903633",
-          "summary": "",
-          "published": "2026-11-02T11:30:27+00:00",
-          "source_short": "Investing",
+          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
+          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-11-02T12:49:35+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -214,6 +238,54 @@
       ]
     },
     {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
+          "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-30T12:01:15+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
+          "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-30T12:01:15+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
+          "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-30T12:01:15+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "CFE",
       "name": "Comisión Federal de Electricidad",
       "exchange": "Estatal (deuda)",
@@ -246,72 +318,72 @@
       ]
     },
     {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
       "news": [
         {
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-          "published": "2026-10-21T15:30:50+00:00",
+          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-29T17:10:32+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
-          "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-          "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-          "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-          "published": "2026-10-19T12:34:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-          "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-          "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
-          "published": "2026-10-13T20:48:37+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-          "summary": "These are the stocks posting the largest moves before the bell.",
-          "published": "2026-10-13T11:49:04+00:00",
+          "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-29T13:26:19+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "BAC",
-      "name": "Bank of America",
+      "ticker": "CAT",
+      "name": "Caterpillar",
       "exchange": "NYSE",
-      "sector": "Banca",
+      "sector": "Industria",
       "news": [
         {
-          "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-          "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-          "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-          "published": "2026-10-14T20:20:46+00:00",
+          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-29T17:10:32+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
-          "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-          "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-          "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-          "published": "2026-10-14T20:06:28+00:00",
+          "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-29T13:26:19+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly",
+      "exchange": "NYSE",
+      "sector": "Salud",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-29T17:10:32+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
-          "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
-          "link": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-14T11:36:25+00:00",
+          "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-29T13:26:19+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -366,102 +438,6 @@
       ]
     },
     {
-      "ticker": "MS",
-      "name": "Morgan Stanley",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-          "published": "2026-10-21T15:30:50+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-          "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-          "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
-          "published": "2026-10-14T20:22:09+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NFLX",
-      "name": "Netflix",
-      "exchange": "NASDAQ",
-      "sector": "Medios",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",
-          "link": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-21T11:49:11+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
-          "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html",
-          "summary": "Here are some of the companies making headlines after the closing bell.",
-          "published": "2026-10-20T22:55:27+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GM",
-      "name": "General Motors",
-      "exchange": "NYSE",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: Hasbro, Northrop Grumman, Equifax, General Motors & more",
-          "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-midday-has-noc-efx-gm.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-10-20T16:45:06+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: RTX, General Motors, Northrop Grumman, Steel Dynamics & more",
-          "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-premarket-rtx-gm-noc-stld.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-10-20T16:35:41+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "C",
-      "name": "Citigroup / Banamex",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-          "published": "2026-10-16T16:46:18+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
-          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
-          "published": "2026-09-26T00:25:22+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "TRAXIONA.MX",
       "name": "Grupo Traxión",
       "exchange": "BMV",
@@ -510,6 +486,22 @@
       ]
     },
     {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "exchange": "NASDAQ",
+      "sector": "Cripto",
+      "news": [
+        {
+          "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
+          "link": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
+          "summary": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market.",
+          "published": "2026-10-29T21:38:16+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "AAPL",
       "name": "Apple",
       "exchange": "NASDAQ",
@@ -522,6 +514,54 @@
           "published": "2026-10-27T21:07:21+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "name": "United Parcel Service",
+      "exchange": "NYSE",
+      "sector": "Transporte y logística",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: PayPal, Corning, UPS, Coca-Cola & more",
+          "link": "https://www.cnbc.com/2026/10/27/stocks-making-the-biggest-moves-premarket-pypl-glw-ups-ko.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-10-27T12:05:23+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PayPal",
+      "exchange": "NASDAQ",
+      "sector": "Pagos",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: PayPal, Corning, UPS, Coca-Cola & more",
+          "link": "https://www.cnbc.com/2026/10/27/stocks-making-the-biggest-moves-premarket-pypl-glw-ups-ko.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-10-27T12:05:23+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Verizon, Tesla, Moderna & more",
+          "link": "https://www.cnbc.com/2026/10/26/stocks-making-the-biggest-moves-premarket-vz-tsla-mrna-more.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-26T11:48:22+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -590,54 +630,6 @@
       ]
     },
     {
-      "ticker": "HSBC",
-      "name": "HSBC",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-          "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-          "summary": "Data center campuses house the servers that power AI and cloud computing.",
-          "published": "2026-10-20T10:39:17+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
-          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-19T12:00:34+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "WALMEX.MX",
       "name": "Walmart de México",
       "exchange": "BMV",
@@ -686,82 +678,18 @@
       ]
     },
     {
-      "ticker": "BRK.B",
-      "name": "Berkshire Hathaway",
+      "ticker": "C",
+      "name": "Citigroup / Banamex",
       "exchange": "NYSE",
-      "sector": "Finanzas",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
-          "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-          "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
-          "published": "2026-10-17T15:11:30+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MA",
-      "name": "Mastercard",
-      "exchange": "NYSE",
-      "sector": "Pagos",
-      "news": [
-        {
-          "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-          "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-          "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-          "published": "2026-10-16T16:46:18+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
-          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-16T11:43:42+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BLK",
-      "name": "BlackRock",
-      "exchange": "NYSE",
-      "sector": "Finanzas",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
-          "link": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-14T11:36:25+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "link": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-          "summary": "These are the stocks posting the largest moves before the bell.",
-          "published": "2026-10-13T11:49:04+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
+          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
+          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
+          "published": "2026-09-26T00:25:22+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -784,110 +712,128 @@
   ],
   "sin_accion": [
     {
-      "title": "Marvell and Lumentum officially plan to combine. Here’s what to know.",
-      "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-      "summary": "A newly proposed deal would be financed in stock and target the hot optical-networking market.",
-      "published": "2026-11-02T12:26:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "This is the biggest threat to the AI-powered bull market",
-      "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-      "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
-      "published": "2026-11-02T12:23:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "America is doing better than you think — just ask those in the bottom half of household wealth",
-      "link": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-      "summary": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.",
-      "published": "2026-11-02T12:22:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile for a deal",
-      "link": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
-      "summary": "In recent weeks there has been intense speculation surrounding SpaceX ambitions in the cellular market with multiple acquisition targets suggested; Boost Mobile is the latest",
-      "published": "2026-11-02T12:20:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Coherent?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-coherent-93CH-3903918",
+      "title": "¿Por qué sube hoy la acción de Ichor Holdings?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-ichor-holdings-93CH-3905334",
       "summary": "",
-      "published": "2026-11-02T12:19:37+00:00",
+      "published": "2026-11-02T22:06:42+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
-      "published": "2026-11-02T12:15:00+00:00",
+      "title": "¿Por qué sube hoy la acción de Vertex Pharmaceuticals?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-vertex-pharmaceuticals-93CH-3905328",
+      "summary": "",
+      "published": "2026-11-02T22:05:00+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de ON Semiconductor?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-on-semiconductor-93CH-3905326",
+      "summary": "",
+      "published": "2026-11-02T22:04:35+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Roku?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-roku-93CH-3905324",
+      "summary": "",
+      "published": "2026-11-02T22:03:14+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
+      "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
+      "summary": "Some investors appeared a little too eager to buy the dip in technology stocks last month.",
+      "published": "2026-11-02T22:03:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
-      "link": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories",
-      "summary": "Both the stock and bond markets are raising doubts about the sustainability of the AI trade.",
-      "published": "2026-11-02T12:10:00+00:00",
+      "title": "Wall Street’s most hated stocks are faring far better than its favorites",
+      "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
+      "summary": "The thrashing that Wall Street’s artificial-intelligence darlings have taken over the past few months has led to an unusual situation in the U.S. stock market.",
+      "published": "2026-11-02T21:45:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de Take-Two suben por la fuerte demanda de GTA 6 entre adolescentes",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-taketwo-suben-por-la-fuerte-demanda-de-gta-6-entre-adolescentes-3903800",
+      "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+      "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+      "summary": "How to manage “giving while living” without endangering your own retirement.",
+      "published": "2026-11-02T21:35:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+      "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
+      "published": "2026-11-02T21:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
+      "link": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
+      "summary": "The S&P 500’s forward price-to-earnings ratio is below its five-year and 10-year averages.",
+      "published": "2026-11-02T21:29:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Crescent Energy solicita la OPV de su filial de regalías",
+      "link": "https://es.investing.com/news/stock-market-news/crescent-energy-solicita-la-opv-de-su-filial-de-regalias-432SI-3905227",
       "summary": "",
-      "published": "2026-11-02T12:04:12+00:00",
+      "published": "2026-11-02T21:27:02+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué cae hoy la acción de Kosmos Energy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-kosmos-energy-93CH-3903741",
+      "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+      "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+      "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
+      "published": "2026-11-02T21:13:43+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+      "published": "2026-11-02T21:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Millennium retira más de 1.500 millones de dólares de dos hedge funds externos",
+      "link": "https://es.investing.com/news/stock-market-news/millennium-retira-mas-de-1500-millones-de-dolares-de-dos-hedge-funds-externos-3905128",
       "summary": "",
-      "published": "2026-11-02T11:49:03+00:00",
+      "published": "2026-11-02T20:54:10+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Goldman mejora su recomendación sobre BAT con perspectivas de crecimiento",
-      "link": "https://es.investing.com/news/stock-market-news/goldman-mejora-su-recomendacion-sobre-bat-con-perspectivas-de-crecimiento-3903740",
-      "summary": "",
-      "published": "2026-11-02T11:45:45+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de DraftKings caen tras señal desfavorable de Susquehanna",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-draftkings-caen-tras-senal-desfavorable-de-susquehanna-93CH-3903674",
-      "summary": "",
-      "published": "2026-11-02T11:35:03+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "BofA Securities mantiene sus valores favoritos en software pese a los temores sobre la IA",
-      "link": "https://es.investing.com/news/stock-market-news/bofa-securities-mantiene-sus-valores-favoritos-en-software-pese-a-las-dudas-sobre-la-ia-3903598",
-      "summary": "",
-      "published": "2026-11-02T11:19:02+00:00",
-      "source_short": "Investing",
+      "title": "Stock market after midterm elections: What S&P 500 history shows",
+      "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+      "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
+      "published": "2026-11-02T17:57:35+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -901,12 +847,48 @@
       "tickers": []
     },
     {
+      "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
+      "link": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
+      "summary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
+      "published": "2026-10-31T12:47:08+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "It's a 'socialist' bank — and North Dakota Republicans love it",
+      "link": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
+      "summary": "North Dakota's state-owned bank has broad Republican support and is drawing interest from public-banking advocates in other states.",
+      "published": "2026-10-30T22:12:36+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fed officials are already saying they’ll need to get back to hiking rates",
+      "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "summary": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next.",
+      "published": "2026-10-30T21:53:10+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "GAFI acepta reporte de la evaluación antilavado de México, publicará resultados en diciembre",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gafi-acepta-reporte-de-la-evaluacion-antilavado-de-mexico-publicara-resultados-en-diciembre/",
       "summary": "Giles Thomson, presidente del GAFI, declinó comentar sobre los detalles de los informes.",
       "published": "2026-10-30T20:30:05+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+      "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+      "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
+      "published": "2026-10-30T20:18:49+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1052,65 +1034,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "The world’s finance chiefs see new risks — and less China angst",
-      "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-      "published": "2026-10-20T05:27:53+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-      "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
-      "published": "2026-10-19T16:42:14+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-      "link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-      "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
-      "published": "2026-10-17T15:00:01+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa & more",
-      "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html",
-      "summary": "These are the stocks posting the largest moves midday.",
-      "published": "2026-10-16T16:29:16+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
-      "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-      "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
-      "published": "2026-10-15T23:00:01+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Stocks making the biggest moves after hours: Interactive Brokers, J.B. Hunt, Alcoa and more",
-      "link": "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-after-hours-ibkr-jbht-aa.html",
-      "summary": "These are the stocks posting the largest moves in extended trading.",
-      "published": "2026-10-15T20:48:50+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
     }
   ],
   "totales": {
-    "articulos": 179,
-    "acciones_con_noticias": 32,
+    "articulos": 180,
+    "acciones_con_noticias": 30,
     "sin_accion": 36
   }
 }
