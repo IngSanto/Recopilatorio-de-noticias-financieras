@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T00:57:42.037610+00:00",
+  "generated_at": "2026-11-02T12:47:42.590954+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 36.1,
+      "ventana_horas": 1.3,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 401.2,
+      "ventana_horas": 467.9,
       "ok": true
     },
     {
@@ -64,32 +64,64 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 28.1,
+      "ventana_horas": 2.4,
       "ok": true
     }
   ],
   "tickers": [
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-          "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-          "summary": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.",
-          "published": "2026-11-02T00:21:00+00:00",
+          "title": "How oil prices could average $130 per barrel next year, according to Goldman Sachs",
+          "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
+          "summary": "Analysts at the investment bank said Brent crude could reach $140 a barrel next year if tensions worsen in the Middle East.",
+          "published": "2026-11-02T11:14:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+          "published": "2026-10-21T15:30:50+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AIR",
+      "name": "Airbus",
+      "exchange": "Euronext",
+      "sector": "Industria",
+      "news": [
+        {
+          "title": "Jefferies: entregas de Airbus en octubre caen un 17% interanual",
+          "link": "https://es.investing.com/news/stock-market-news/jefferies-entregas-de-airbus-en-octubre-caen-un-17-interanual-93CH-3903657",
+          "summary": "",
+          "published": "2026-11-02T11:32:53+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "UBS",
+      "name": "UBS",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "UBS señala a Chipotle entre las posiciones largas más concurridas en restaurantes",
+          "link": "https://es.investing.com/news/stock-market-news/ubs-senala-a-chipotle-entre-las-posiciones-largas-mas-concurridas-en-restaurantes-93CH-3903633",
+          "summary": "",
+          "published": "2026-11-02T11:30:27+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -478,6 +510,22 @@
       ]
     },
     {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "AMXB.MX",
       "name": "América Móvil",
       "exchange": "BMV",
@@ -522,22 +570,6 @@
           "published": "2026-10-22T03:14:16+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-          "published": "2026-10-21T15:30:50+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -752,11 +784,11 @@
   ],
   "sin_accion": [
     {
-      "title": "Los futuros de las acciones de EE.UU. suben tras un octubre negativo",
-      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-de-eeuu-suben-tras-un-octubre-negativo-3902755",
-      "summary": "",
-      "published": "2026-11-02T00:31:38+00:00",
-      "source_short": "Investing",
+      "title": "Marvell and Lumentum officially plan to combine. Here’s what to know.",
+      "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+      "summary": "A newly proposed deal would be financed in stock and target the hot optical-networking market.",
+      "published": "2026-11-02T12:26:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -764,35 +796,35 @@
       "title": "This is the biggest threat to the AI-powered bull market",
       "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
       "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
-      "published": "2026-11-02T00:22:00+00:00",
+      "published": "2026-11-02T12:23:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-      "published": "2026-11-01T20:00:00+00:00",
+      "title": "America is doing better than you think — just ask those in the bottom half of household wealth",
+      "link": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
+      "summary": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.",
+      "published": "2026-11-02T12:22:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
-      "published": "2026-11-01T19:20:00+00:00",
+      "title": "In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile for a deal",
+      "link": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
+      "summary": "In recent weeks there has been intense speculation surrounding SpaceX ambitions in the cellular market with multiple acquisition targets suggested; Boost Mobile is the latest",
+      "published": "2026-11-02T12:20:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
-      "published": "2026-11-01T17:30:00+00:00",
-      "source_short": "MarketW",
+      "title": "¿Por qué sube hoy la acción de Coherent?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-coherent-93CH-3903918",
+      "summary": "",
+      "published": "2026-11-02T12:19:37+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -800,62 +832,71 @@
       "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
       "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
       "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
-      "published": "2026-11-01T17:05:00+00:00",
+      "published": "2026-11-02T12:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
-      "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-      "summary": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
-      "published": "2026-11-01T16:35:00+00:00",
+      "title": "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
+      "link": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories",
+      "summary": "Both the stock and bond markets are raising doubts about the sustainability of the AI trade.",
+      "published": "2026-11-02T12:10:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Tras un rendimiento de +193%: la nueva lista de selecciones IA para noviembre ya está disponible",
-      "link": "https://es.investing.com/news/stock-market-news/tras-un-rendimiento-de-193-la-nueva-lista-de-selecciones-ia-para-noviembre-ya-esta-disponible-3900816",
+      "title": "Las acciones de Take-Two suben por la fuerte demanda de GTA 6 entre adolescentes",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-taketwo-suben-por-la-fuerte-demanda-de-gta-6-entre-adolescentes-3903800",
       "summary": "",
-      "published": "2026-11-01T10:00:03+00:00",
+      "published": "2026-11-02T12:04:12+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Quiénes son los grandes beneficiados del auge exportador de IA en Asia?",
-      "link": "https://es.investing.com/news/stock-market-news/quienes-son-los-grandes-beneficiados-del-auge-exportador-de-ia-en-asia-3902683",
+      "title": "¿Por qué cae hoy la acción de Kosmos Energy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-kosmos-energy-93CH-3903741",
       "summary": "",
-      "published": "2026-11-01T06:50:07+00:00",
+      "published": "2026-11-02T11:49:03+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Inversores en IA buscan protegerse ante una posible caída del mercado tecnológico",
-      "link": "https://es.investing.com/news/stock-market-news/inversores-en-ia-buscan-protegerse-ante-una-posible-caida-del-mercado-tecnologico-3902667",
+      "title": "Goldman mejora su recomendación sobre BAT con perspectivas de crecimiento",
+      "link": "https://es.investing.com/news/stock-market-news/goldman-mejora-su-recomendacion-sobre-bat-con-perspectivas-de-crecimiento-3903740",
       "summary": "",
-      "published": "2026-11-01T02:32:11+00:00",
+      "published": "2026-11-02T11:45:45+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Principales conclusiones de la encuesta global anual de ropa deportiva de Bernstein",
-      "link": "https://es.investing.com/news/stock-market-news/conclusiones-clave-de-la-encuesta-anual-de-bernstein-sobre-ropa-deportiva-3902656",
+      "title": "Las acciones de DraftKings caen tras señal desfavorable de Susquehanna",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-draftkings-caen-tras-senal-desfavorable-de-susquehanna-93CH-3903674",
       "summary": "",
-      "published": "2026-10-31T22:57:05+00:00",
+      "published": "2026-11-02T11:35:03+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "La venta masiva de bonos franceses, una advertencia para los gobiernos mundiales",
-      "link": "https://es.investing.com/news/stock-market-news/la-venta-masiva-de-bonos-franceses-una-advertencia-para-los-gobiernos-mundiales-3902649",
+      "title": "BofA Securities mantiene sus valores favoritos en software pese a los temores sobre la IA",
+      "link": "https://es.investing.com/news/stock-market-news/bofa-securities-mantiene-sus-valores-favoritos-en-software-pese-a-las-dudas-sobre-la-ia-3903598",
       "summary": "",
-      "published": "2026-10-31T18:53:38+00:00",
+      "published": "2026-11-02T11:19:02+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+      "link": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+      "summary": "The 2027 budget will rise 12.8% to 820.9 trillion won, and will include a 21.3 trillion won investment into semiconductors, physical AI and AI data centers.",
+      "published": "2026-11-02T06:02:03+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -947,15 +988,6 @@
       "published": "2026-10-28T22:59:48+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-      "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-      "summary": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
-      "published": "2026-10-28T21:31:46+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1078,7 +1110,7 @@
   ],
   "totales": {
     "articulos": 179,
-    "acciones_con_noticias": 30,
+    "acciones_con_noticias": 32,
     "sin_accion": 36
   }
 }
