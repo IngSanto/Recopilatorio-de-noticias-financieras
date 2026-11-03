@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:26:42.567476+00:00",
+  "generated_at": "2026-11-03T02:59:39.746606+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.6,
+      "ventana_horas": 4.8,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 222.2,
+      "ventana_horas": 224.2,
       "ok": true
     },
     {
@@ -70,17 +70,65 @@
   ],
   "tickers": [
     {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Proveedores asiáticos de Apple divididos ante ventas de iPhone y costes de memoria",
+          "link": "https://es.investing.com/news/stock-market-news/proveedores-asiaticos-de-apple-divididos-ante-ventas-de-iphone-y-costes-de-memoria-3905476",
+          "summary": "",
+          "published": "2026-11-03T02:28:25+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "¿Por qué cae la acción de Apple en el mercado fuera de hora?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-la-accion-de-apple-en-el-mercado-fuera-de-hora-93CH-3905443",
+          "summary": "",
+          "published": "2026-11-03T01:02:59+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Los futuros de las acciones en EE.UU. se estabilizan; Apple cae tras resultados mixtos",
+          "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-en-eeuu-se-estabilizan-apple-cae-tras-resultados-mixtos-3905444",
+          "summary": "",
+          "published": "2026-11-03T01:01:06+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
+          "link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+          "summary": "Although iPhone demand remains strong, Apple faces a worsening memory crunch and a slowing services business.",
+          "published": "2026-11-03T00:52:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "PLTR",
       "name": "Palantir",
       "exchange": "NASDAQ",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "¿Por qué sube hoy la acción de Palantir Technologies?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-palantir-technologies-93CH-3905305",
-          "summary": "",
-          "published": "2026-11-02T21:50:16+00:00",
-          "source_short": "Investing",
+          "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
+          "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+          "summary": "A deceleration in U.S. commercial contract growth gave some Wall Street analysts pause despite Palantir’s earnings beat.",
+          "published": "2026-11-03T00:59:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
@@ -502,22 +550,6 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "UPS",
       "name": "United Parcel Service",
       "exchange": "NYSE",
@@ -712,6 +744,60 @@
   ],
   "sin_accion": [
     {
+      "title": "Resultados récord y previsiones al alza: nuestra acción farmacéutica elegida por IA sube un 23,96%",
+      "link": "https://es.investing.com/news/stock-market-news/resultados-record-y-previsiones-al-alza-nuestra-accion-farmaceutica-elegida-por-ia-sube-un-2396-3905479",
+      "summary": "",
+      "published": "2026-11-03T02:48:17+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Black Friday anticipado: hasta un 55% de descuento en InvestingPro",
+      "link": "https://es.investing.com/news/stock-market-news/black-friday-anticipado-hasta-un-55-de-descuento-en-investingpro-3905474",
+      "summary": "",
+      "published": "2026-11-03T02:27:16+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+      "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+      "summary": "The “tech wreck” from October continues. Is a bear market next?",
+      "published": "2026-11-03T00:03:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
+      "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+      "summary": "Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum.",
+      "published": "2026-11-02T23:39:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Stock market after midterm elections: What S&P 500 history shows",
+      "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+      "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
+      "published": "2026-11-02T23:13:34+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "OpenAI ficha al exsecretario del Ejército de EE.UU. Dan Driscoll",
+      "link": "https://es.investing.com/news/stock-market-news/openai-ficha-al-exsecretario-del-ejercito-de-eeuu-dan-driscoll-93CH-3905395",
+      "summary": "",
+      "published": "2026-11-02T23:08:17+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "¿Por qué sube hoy la acción de Ichor Holdings?",
       "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-ichor-holdings-93CH-3905334",
       "summary": "",
@@ -734,15 +820,6 @@
       "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-on-semiconductor-93CH-3905326",
       "summary": "",
       "published": "2026-11-02T22:04:35+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Roku?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-roku-93CH-3905324",
-      "summary": "",
-      "published": "2026-11-02T22:03:14+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -784,55 +861,10 @@
       "tickers": []
     },
     {
-      "title": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
-      "link": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
-      "summary": "The S&P 500’s forward price-to-earnings ratio is below its five-year and 10-year averages.",
-      "published": "2026-11-02T21:29:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Crescent Energy solicita la OPV de su filial de regalías",
-      "link": "https://es.investing.com/news/stock-market-news/crescent-energy-solicita-la-opv-de-su-filial-de-regalias-432SI-3905227",
-      "summary": "",
-      "published": "2026-11-02T21:27:02+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
       "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
       "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
       "published": "2026-11-02T21:13:43+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
-      "published": "2026-11-02T21:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Millennium retira más de 1.500 millones de dólares de dos hedge funds externos",
-      "link": "https://es.investing.com/news/stock-market-news/millennium-retira-mas-de-1500-millones-de-dolares-de-dos-hedge-funds-externos-3905128",
-      "summary": "",
-      "published": "2026-11-02T20:54:10+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Stock market after midterm elections: What S&P 500 history shows",
-      "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
-      "published": "2026-11-02T17:57:35+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
