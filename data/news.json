@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T12:26:25.712688+00:00",
+  "generated_at": "2026-11-04T20:30:20.381863+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 11110.7,
+      "ventana_horas": 11140.1,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.8,
+      "ventana_horas": 0.9,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 497.5,
+      "ventana_horas": 491.4,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 212.4,
+      "ventana_horas": 215.9,
       "ok": true
     },
     {
@@ -64,89 +64,25 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 11.2,
+      "ventana_horas": 2.7,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Movimientos antes de la apertura: Trump Media y valores de IA caen; AMD sube",
-          "link": "https://es.investing.com/news/stock-market-news/movimientos-antes-de-la-apertura-trump-media-y-valores-de-ia-caen-amd-sube-3909211",
-          "summary": "",
-          "published": "2026-11-04T12:05:43+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
-          "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-          "summary": "The chip maker is showing “real” revenue from artificial intelligence, shrugging off sustainability concerns and leading to an upbeat forecast.",
-          "published": "2026-11-04T09:30:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ADBE",
-      "name": "Adobe",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Citi rebaja Adobe a venta por \"riesgo creciente de un reinicio\"",
-          "link": "https://es.investing.com/news/stock-market-news/citi-rebaja-adobe-a-venta-por-riesgo-creciente-de-un-reinicio-3909037",
-          "summary": "",
-          "published": "2026-11-04T11:35:42+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "QCOM",
-      "name": "Qualcomm",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Qualcomm presenta resultados hoy: qué esperar y cómo operar",
-          "link": "https://es.investing.com/news/stock-market-news/qualcomm-presenta-resultados-hoy-que-esperar-y-como-operar-3908976",
-          "summary": "",
-          "published": "2026-11-04T11:30:43+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVO",
-      "name": "Novo Nordisk",
-      "exchange": "NYSE",
-      "sector": "Salud",
-      "news": [
-        {
-          "title": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill",
-          "link": "https://www.marketwatch.com/story/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-pill-422c251b?mod=mw_rss_topstories",
-          "summary": "Novo Nordisk’s stock jumped higher on Wednesday as the Danish drugmaker lifted its guidance on strong uptake of its weight-loss-drug pill that has been launched this year.",
-          "published": "2026-11-04T09:41:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
     {
       "ticker": "AAPL",
       "name": "Apple",
       "exchange": "NASDAQ",
       "sector": "Tecnología",
       "news": [
+        {
+          "title": "Apple recorta el presupuesto diario de IA para sus ingenieros",
+          "link": "https://es.investing.com/news/stock-market-news/apple-recorta-el-presupuesto-diario-de-ia-para-sus-ingenieros-3910578",
+          "summary": "",
+          "published": "2026-11-04T20:02:45+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
         {
           "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
           "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
@@ -162,6 +98,142 @@
           "published": "2026-10-27T21:07:21+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership",
+          "link": "https://www.marketwatch.com/story/watch-out-for-big-tech-companies-like-meta-and-alphabet-issuing-more-shares-and-diluting-your-stock-ownership-283e8c96?mod=mw_rss_topstories",
+          "summary": "The Big Tech companies known as hyperscalers may be tempted to issue more shares as interest rates rise and the stock market holds up, which can hurt their current shareholders.",
+          "published": "2026-11-04T17:44:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-29T17:10:32+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-29T13:26:19+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Microsoft and Amazon combine for a $400 billion market-cap boost — and these factors show why",
+          "link": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+          "summary": "Microsoft and Amazon shares are rising sharply on Wednesday, with one portfolio manager noting that a cloud-supply crunch could help the companies raise prices.",
+          "published": "2026-11-04T20:04:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
+          "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-30T12:01:15+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Microsoft and Amazon combine for a $400 billion market-cap boost — and these factors show why",
+          "link": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+          "summary": "Microsoft and Amazon shares are rising sharply on Wednesday, with one portfolio manager noting that a cloud-supply crunch could help the companies raise prices.",
+          "published": "2026-11-04T20:04:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Meta Platforms rebota pero choca con SMA(200): niveles en vivo",
+          "link": "https://es.investing.com/news/stock-market-news/meta-platforms-sobrevende-en-soporte-clave-609-niveles-en-vivo-93CH-3905025",
+          "summary": "",
+          "published": "2026-11-04T19:08:45+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "name": "Qualcomm",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "SpaceX’s Qualcomm deal could be a precursor to a telecom takeover",
+          "link": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
+          "summary": "The deal adds to what a BNP Paribas analyst called an “unprecedented” amount of news putting pressure on U.S. telecommunications operators.",
+          "published": "2026-11-04T18:57:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-11-04T13:32:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVO",
+      "name": "Novo Nordisk",
+      "exchange": "NYSE",
+      "sector": "Salud",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-11-04T13:32:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -374,30 +446,6 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
-          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-10-29T17:10:32+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
-          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-10-29T13:26:19+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "CAT",
       "name": "Caterpillar",
       "exchange": "NYSE",
@@ -538,22 +586,6 @@
           "published": "2025-07-28T15:10:03+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
-          "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-30T12:01:15+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -784,92 +816,155 @@
   ],
   "sin_accion": [
     {
-      "title": "Treasury yields fall after Democrats win House and Senate majorities",
-      "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-      "summary": "Treasury yields moved lower on Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
-      "published": "2026-11-04T12:25:25+00:00",
+      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+      "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "summary": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
+      "published": "2026-11-04T20:28:17+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
-      "link": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
-      "summary": "The healthcare giant surprised analysts with the decision to separate its business.",
-      "published": "2026-11-04T12:21:00+00:00",
+      "title": "Oil prices are in freefall now that the Democratic sweep is ‘rewriting the Iran playbook’",
+      "link": "https://www.marketwatch.com/story/oil-prices-are-in-freefall-now-that-the-democratic-sweep-is-rewriting-the-iran-playbook-aa437b85?mod=mw_rss_topstories",
+      "summary": "Oil dropped Wednesday, putting prices on track for their largest one-week decline since 2020.",
+      "published": "2026-11-04T20:28:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "ProPicks IA supera al S&P 500 en +87% y ya están las selecciones de noviembre",
-      "link": "https://es.investing.com/news/stock-market-news/propicks-ia-supera-al-sp-500-en-87-y-ya-estan-las-selecciones-de-noviembre-3909247",
-      "summary": "",
-      "published": "2026-11-04T12:16:31+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
-      "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-      "summary": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
-      "published": "2026-11-04T12:16:00+00:00",
+      "title": "The midterm election results are redrawing the map for AI data centers",
+      "link": "https://www.marketwatch.com/story/the-midterm-election-results-are-redrawing-the-map-for-ai-data-centers-8625dc0c?mod=mw_rss_topstories",
+      "summary": "U.S. data-center spending won’t drop a lot, but watch for delays, relocations and increased expenses for individual projects",
+      "published": "2026-11-04T20:21:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy la acción de LG Energy Solution?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-lg-energy-solution-93CH-3909206",
-      "summary": "",
-      "published": "2026-11-04T12:06:07+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Plug Power?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-plug-power-93CH-3909164",
-      "summary": "",
-      "published": "2026-11-04T11:57:35+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Citi mejora Ferrovial a \"comprar\" tras aclararse el pago de la I-24",
-      "link": "https://es.investing.com/news/stock-market-news/citi-mejora-ferrovial-a-comprar-tras-aclararse-el-pago-de-la-i24-3909162",
-      "summary": "",
-      "published": "2026-11-04T11:55:55+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Bloom Energy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-bloom-energy-93CH-3909092",
-      "summary": "",
-      "published": "2026-11-04T11:48:30+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Barclays apoya a Technoprobe ante el auge de la demanda de pruebas de chips de IA",
-      "link": "https://es.investing.com/news/stock-market-news/barclays-apoya-a-technoprobe-ante-el-auge-de-la-demanda-de-pruebas-de-chips-de-ia-3909020",
-      "summary": "",
-      "published": "2026-11-04T11:37:39+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
-      "link": "https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories",
-      "summary": "Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029",
-      "published": "2026-11-04T11:10:00+00:00",
+      "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
+      "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+      "summary": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
+      "published": "2026-11-04T20:17:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen hoy las acciones de Vermilion Energy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-vermilion-energy-93CH-3910550",
+      "summary": "",
+      "published": "2026-11-04T19:53:04+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Canadian Natural Resources?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-canadian-natural-resources-93CH-3910535",
+      "summary": "",
+      "published": "2026-11-04T19:41:57+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué la acción de Alaska Air se dispara hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-la-accion-de-alaska-air-se-dispara-hoy-93CH-3910529",
+      "summary": "",
+      "published": "2026-11-04T19:34:50+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de aerolíneas estadounidenses suben al caer el petróleo más de 3 dólares",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-aerolineas-estadounidenses-suben-al-caer-el-petroleo-mas-de-3-dolares-93CH-3910526",
+      "summary": "",
+      "published": "2026-11-04T19:33:59+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de JetBlue Airways se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-jetblue-airways-se-disparan-hoy-93CH-3910522",
+      "summary": "",
+      "published": "2026-11-04T19:30:57+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Latam Aerolíneas suben por su estrategia de precios",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-latam-aerolineas-suben-por-su-estrategia-de-precios-93CH-3910519",
+      "summary": "",
+      "published": "2026-11-04T19:28:45+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Peso mexicano sube con fuerza tras derrota republicana en Estados Unidos",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-sube-con-fuerza-tras-derrota-republicana-en-estados-unidos/",
+      "summary": "La moneda mexicana cotiza en el mercado spot en MXN$18,56 por cada billete verde, una caída de 1,42%",
+      "published": "2026-11-04T19:17:10+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "4 market-moving issues investors should watch now that the midterms are over",
+      "link": "https://www.marketwatch.com/story/4-market-moving-issues-investors-should-watch-now-that-the-midterms-are-over-9a77b3de?mod=mw_rss_topstories",
+      "summary": "The Democrats’ election sweep on Tuesday could have far-reaching consequences for markets and the economy.",
+      "published": "2026-11-04T19:12:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have $500 in savings. What politician speaks for me?",
+      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "summary": "“In the wake of the midterm elections, how many Americans are living in poverty?”",
+      "published": "2026-11-04T18:37:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "These stocks have soared the most today after the Democrats trounced Trump",
+      "link": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+      "summary": "Stanley Black & Decker’s stock was the strongest performer among the S&P 500, while several tech players and associated power providers showed sharp declines.",
+      "published": "2026-11-04T18:29:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+      "summary": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
+      "published": "2026-11-04T17:11:00+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Resultados de las elecciones en EE.UU. muestran un sentimiento del pueblo estadounidense: Sheinbaum",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/resultados-de-las-elecciones-en-eeuu-muestran-un-sentimiento-del-pueblo-estadounidense-sheinbaum/",
+      "summary": "La presidenta de México dijo que aún es muy pronto para saber si algo cambiará en la relación bilateral a partir de la victoria demócrata en las urnas.",
+      "published": "2026-11-04T16:36:43+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+      "link": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+      "summary": "Private-sector job growth held steady in October, with gains spread across sectors",
+      "published": "2026-11-04T13:49:48+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -879,33 +974,6 @@
       "summary": "It was driven by energy inflation, which surged above 20% in October.",
       "published": "2026-11-04T10:47:30+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-      "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
-      "published": "2026-11-04T10:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "L.A. home once owned by Mike Tyson’s former wife, actress Robin Givens, is on the market for $3.5 million",
-      "link": "https://www.marketwatch.com/story/l-a-home-once-owned-by-mike-tysons-former-wife-actress-robin-givens-is-on-the-market-for-3-5-million-0b9e11a1?mod=mw_rss_topstories",
-      "summary": "Actress Robin Givens’ former Hollywood Hills, Calif., home is ready for a new buyer, having just hit the market for $3.5 million.",
-      "published": "2026-11-04T10:03:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home",
-      "link": "https://www.marketwatch.com/story/jordyn-woods-on-her-baby-plans-with-karl-anthony-towns-after-buying-14-million-home-e864ce5a?mod=mw_rss_topstories",
-      "summary": "TV personality Jordyn Woods hopes children are in her future with husband Karl-Anthony Towns, but the newlywed is taking her time before starting that chapter.",
-      "published": "2026-11-04T09:58:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1009,30 +1077,12 @@
       "tickers": []
     },
     {
-      "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
-      "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
-      "summary": "The euro zone showed surprising resilience, but weak productivity, industrial competitiveness challenges and demographic pressures remain, analysts said.",
-      "published": "2026-10-30T11:16:46+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "México amplía hasta marzo de 2027 convocatoria de centrales y baterías eléctricas un día antes del cierre",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-amplia-hasta-marzo-de-2027-convocatoria-de-centrales-y-baterias-electricas-un-dia-antes-del-cierre/",
       "summary": "La decisión pretende incentivar una mayor cantidad de propuestas viables, fortalecer el análisis técnico de las autoridades energéticas, mejorar los costos de las empresas y garantizar la eficiencia administrativa.",
       "published": "2026-10-30T00:25:46+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-      "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-      "summary": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus.",
-      "published": "2026-10-29T18:06:31+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1088,29 +1138,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "La renuncia de Taddei hunde al Instituto Electoral de México en una crisis de confianza y debilidad",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/la-renuncia-de-taddei-hunde-al-instituto-electoral-de-mexico-en-una-crisis-de-confianza-y-debilidad/",
-      "summary": "La Cámara de Diputados recibió el oficio en el que la consejera presidenta del INE, Guadalupe Taddei, oficializa su renuncia al cargo ante acusaciones de corrupción",
-      "published": "2026-10-27T12:29:45+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Lula frena la ola de victorias conservadoras en América Latina y así queda el mapa político",
-      "link": "https://www.bloomberglinea.com/latinoamerica/lula-frena-la-ola-de-victorias-conservadoras-en-america-latina-y-asi-queda-el-mapa-politico/",
-      "summary": "El izquierdista y presidente de Brasil detuvo la oleada de siete victorias presidenciales del ala conservadora que se han registrado en la región desde 2025.",
-      "published": "2026-10-26T13:51:22+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 34,
+    "acciones_con_noticias": 35,
     "sin_accion": 36
   }
 }
