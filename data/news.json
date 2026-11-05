@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:37:53.881522+00:00",
+  "generated_at": "2026-11-05T12:41:12.404879+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 11144.3,
+      "ventana_horas": 11154.8,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.8,
+      "ventana_horas": 0.7,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 489.3,
+      "ventana_horas": 502.9,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 220.8,
+      "ventana_horas": 210.8,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.2,
+      "ventana_horas": 2.3,
       "ok": true
     }
   ],
@@ -76,10 +76,10 @@
       "sector": "Tecnología",
       "news": [
         {
-          "title": "Qualcomm’s stock falls as twin forces pressure sales",
-          "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
-          "summary": "Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.",
-          "published": "2026-11-05T01:06:00+00:00",
+          "title": "An Anthropic IPO when the AI trade is this turbulent? Godspeed!",
+          "link": "https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories",
+          "summary": "Wall Street takes a harder look at AI costs after historic midterm results. Plus, the upside to Apple’s lack of artificial-intelligence spending.",
+          "published": "2026-11-05T12:16:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
@@ -102,59 +102,19 @@
       ]
     },
     {
-      "ticker": "QCOM",
-      "name": "Qualcomm",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
+      "ticker": "NVO",
+      "name": "Novo Nordisk",
+      "exchange": "NYSE",
+      "sector": "Salud",
       "news": [
         {
-          "title": "Qualcomm’s stock falls as twin forces pressure sales",
-          "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
-          "summary": "Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.",
-          "published": "2026-11-05T01:06:00+00:00",
-          "source_short": "MarketW",
+          "title": "Citi eleva el precio objetivo de Novo Nordisk pese a resultados \"mixtos\"",
+          "link": "https://es.investing.com/news/stock-market-news/citi-eleva-el-precio-objetivo-de-novo-nordisk-pese-a-resultados-mixtos-93CH-3912539",
+          "summary": "",
+          "published": "2026-11-05T11:48:55+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
-        {
-          "title": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
-          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html",
-          "summary": "These are the stocks posting the largest moves after hours.",
-          "published": "2026-11-04T22:04:55+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
-          "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
-          "summary": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not “unwind projects already funded.”",
-          "published": "2026-11-04T21:55:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-11-02T12:49:35+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
         {
           "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
           "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
@@ -166,10 +126,58 @@
       ]
     },
     {
-      "ticker": "NVO",
-      "name": "Novo Nordisk",
+      "ticker": "BAC",
+      "name": "Bank of America",
       "exchange": "NYSE",
-      "sector": "Salud",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon",
+          "link": "https://www.marketwatch.com/story/interest-rates-could-go-significantly-higher-if-oil-prices-keep-climbing-even-if-the-iran-war-ends-soon-e3493498?mod=mw_rss_topstories",
+          "summary": "Strategists at Bank of America found a dramatic correlation between interest rates and oil prices in the U.S., U.K. and Germany.",
+          "published": "2026-11-05T12:33:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "The real test for the artificial intelligence build-out is what happens in 2028, analysts say",
+          "link": "https://www.marketwatch.com/story/the-real-test-for-the-artificial-intelligence-build-out-is-what-happens-in-2028-analysts-say-c5978e48?mod=mw_rss_topstories",
+          "summary": "JPMorgan’s Michael Cembalest is worried about data center build-outs following midterm elections, and he’s looking two years ahead.",
+          "published": "2026-11-05T12:23:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "name": "Qualcomm",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
+          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html",
+          "summary": "These are the stocks posting the largest moves after hours.",
+          "published": "2026-11-04T22:04:55+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
       "news": [
         {
           "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
@@ -248,6 +256,22 @@
           "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
           "summary": "These are some of the stocks posting the largest moves midday.",
           "published": "2026-11-02T20:00:16+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
+          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-11-02T12:49:35+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -756,102 +780,104 @@
           "source_scope": "México"
         }
       ]
-    },
-    {
-      "ticker": "TRAXIONA.MX",
-      "name": "Grupo Traxión",
-      "exchange": "BMV",
-      "sector": "Transporte y logística",
-      "news": [
-        {
-          "title": "Acciones de Traxion se disparan 15% previo a la OPA en Bolsa Mexicana",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/acciones-de-traxion-se-disparan-15-previo-a-la-opa-en-bolsa-mexicana/",
-          "summary": "El precio este martes cotiza en MXN$12,50 por cada acción de Grupo Traxion.",
-          "published": "2026-09-15T16:19:35+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
     }
   ],
   "sin_accion": [
     {
-      "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
-      "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
-      "summary": "AppLovin’s stock is popping after “clearly positive” earnings results.",
-      "published": "2026-11-05T01:05:00+00:00",
-      "source_short": "MarketW",
+      "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+      "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+      "summary": "One policymaker voted to raise the bank's key interest rate to 4.25%.",
+      "published": "2026-11-05T12:37:57+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
-      "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
-      "summary": "Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
-      "published": "2026-11-05T01:03:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
-      "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
-      "summary": "The burger chain is overhauling its menu and seeking to deliver a “clear and compelling value proposition.”",
-      "published": "2026-11-05T01:01:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de Goodman se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-goodman-se-disparan-hoy-93CH-3911365",
+      "title": "¿Por qué se dispara hoy la acción de Unity Software?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-unity-software-93CH-3912774",
       "summary": "",
-      "published": "2026-11-05T00:49:50+00:00",
+      "published": "2026-11-05T12:20:09+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué cae hoy la acción de National Australia Bank?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-national-australia-bank-93CH-3911364",
+      "title": "Las acciones de Unity Software se disparan un 22% tras superar las previsiones del tercer trimestre",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-unity-software-se-disparan-un-22-tras-superar-las-previsiones-del-tercer-trimestre-3912741",
       "summary": "",
-      "published": "2026-11-05T00:49:41+00:00",
+      "published": "2026-11-05T12:16:17+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué las acciones de NextDC se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-nextdc-se-disparan-hoy-93CH-3911363",
-      "summary": "",
-      "published": "2026-11-05T00:49:38+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Los futuros de bolsa de EE.UU. se estabilizan tras el rally de las elecciones de mitad de mandato",
-      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-bolsa-de-eeuu-se-estabilizan-tras-el-rally-de-las-elecciones-de-mitad-de-mandato-3911352",
-      "summary": "",
-      "published": "2026-11-05T00:41:39+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
-      "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
-      "summary": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
-      "published": "2026-11-05T00:38:00+00:00",
+      "title": "I’ve attended a dozen free meals this year by people selling annuities. Am I flirting with disaster?",
+      "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+      "summary": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
+      "published": "2026-11-05T12:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de NextDC suben un 43% tras la entrada de Goodman y Digital Realty",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-nextdc-suben-un-43-tras-la-entrada-de-goodman-y-digital-realty-3911253",
+      "title": "Here's what the Democratic election rout could mean for the U.S. economy",
+      "link": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
+      "summary": "The biggest forces shaping the economy aren't going to change just because the party in power did.",
+      "published": "2026-11-05T12:11:05+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Informe de empleo en EEUU: esto se espera y así afectará al mercado",
+      "link": "https://es.investing.com/news/stock-market-news/informe-de-empleo-en-eeuu-esto-se-espera-y-asi-afectara-al-mercado-3912672",
       "summary": "",
-      "published": "2026-11-04T23:49:37+00:00",
+      "published": "2026-11-05T12:06:23+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los futuros del TSX suben tras la rotación de acciones post-elecciones de mitad de mandato",
+      "link": "https://es.investing.com/news/stock-market-news/los-futuros-del-tsx-suben-tras-la-rotacion-de-acciones-postelecciones-de-mitad-de-mandato-3912652",
+      "summary": "",
+      "published": "2026-11-05T11:56:12+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A strategist draws a 1980s parallel to argue bipartisanship could power a ‘bull stampede’",
+      "link": "https://www.marketwatch.com/story/a-strategist-draws-a-1980s-parallel-to-argue-bipartisanship-could-power-a-bull-stampede-609ddc9b?mod=mw_rss_topstories",
+      "summary": "In the 1980s, a Republican president, a Democrat Speaker of the House and an inflation-fighting Federal Reserve chairman powered a stock-market rally.",
+      "published": "2026-11-05T11:56:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "summary": "“In the wake of the midterm elections, how many Americans are living in poverty?”",
+      "published": "2026-11-05T11:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Celsius?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-celsius-93CH-3912479",
+      "summary": "",
+      "published": "2026-11-05T11:39:58+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de Legrand se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-legrand-se-disparan-hoy-93CH-3912477",
+      "summary": "",
+      "published": "2026-11-05T11:39:40+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -860,9 +886,63 @@
       "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
       "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
       "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
-      "published": "2026-11-04T23:45:00+00:00",
+      "published": "2026-11-05T11:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Research firm declares ‘end of the AI trade as we know it’ — and Asian tech stocks reflect the shift",
+      "link": "https://www.marketwatch.com/story/research-firm-declares-end-of-the-ai-trade-as-we-know-it-and-asian-tech-stocks-reflect-the-shift-25ac8e8f?mod=mw_rss_topstories",
+      "summary": "Now that absolute value is much harder to find in the AI trade, with bets having to be made on a longer-term, more speculative basis, it’s time to search for relative value within the sector, says one research service.",
+      "published": "2026-11-05T11:22:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A prolonged war in Iran is the market’s real ‘black swan,’ says this strategist",
+      "link": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
+      "summary": "Alicia Levine, of BNY’s wealth management business, said markets have not priced in the possibility of the war in Iran lasting for a long time.",
+      "published": "2026-11-05T10:20:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Analistas ven más riesgos que beneficios si Banxico decide recortar la tasa de interés",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-ven-mas-riesgos-que-beneficios-si-banxico-decide-recortar-la-tasa-de-interes/",
+      "summary": "Un ajuste a la baja en la tasa de interés se tomaría como sorpresivo en un momento en el que se desvanece el argumento del banco central de la holgura económica.",
+      "published": "2026-11-05T10:00:00+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+      "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+      "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
+      "published": "2026-11-05T06:54:52+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The economy brought Trump back to power. Now it's his downfall",
+      "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+      "summary": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
+      "published": "2026-11-05T04:13:28+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "México inicia cuenta regresiva para decidir los negocios que ya no aceptarán efectivo",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-inicia-cuenta-regresiva-para-decidir-los-negocios-que-ya-no-aceptaran-efectivo/",
+      "summary": "La nueva ley que convertirá a los pagos digitales en la única forma de pago que admitirán ciertos sectores y actividades se publicó este miércoles.",
+      "published": "2026-11-05T03:13:32+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -875,38 +955,11 @@
       "tickers": []
     },
     {
-      "title": "¿Por qué cae hoy la acción de Paycom Software?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-paycom-software-93CH-3911202",
-      "summary": "",
-      "published": "2026-11-04T23:11:18+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The economy brought Trump back to power. Now it's his downfall",
-      "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
-      "summary": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
-      "published": "2026-11-04T22:59:27+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
       "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
       "summary": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
       "published": "2026-11-04T22:46:43+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
-      "published": "2026-11-04T22:15:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -956,15 +1009,6 @@
       "tickers": []
     },
     {
-      "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-      "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
-      "summary": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million",
-      "published": "2026-11-03T19:15:21+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Stock market after midterm elections: What S&P 500 history shows",
       "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
       "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
@@ -1001,28 +1045,10 @@
       "tickers": []
     },
     {
-      "title": "Australia hikes rates to 18-year high to fight inflation",
-      "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
-      "summary": "The Reserve Bank of Australia's decision was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year.",
-      "published": "2026-11-03T03:46:20+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
       "link": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
       "summary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
       "published": "2026-10-31T12:47:08+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "It's a 'socialist' bank — and North Dakota Republicans love it",
-      "link": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
-      "summary": "North Dakota's state-owned bank has broad Republican support and is drawing interest from public-banking advocates in other states.",
-      "published": "2026-10-30T22:12:36+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1080,29 +1106,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Senado aprueba Ley de Ingresos 2027 con deuda pública y endurecimiento de deducciones",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/senado-aprueba-ley-de-ingresos-2027-con-deuda-publica-y-endurecimiento-de-deducciones/",
-      "summary": "México tendrá ingresos por MXN$10,6 billones en 2027, que representan un incremento del 3,9% respecto de 2026.",
-      "published": "2026-10-28T02:18:05+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Presupuesto de México para 2027 es congruente con consolidación fiscal progresiva: Hacienda",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/presupuesto-de-mexico-para-2027-es-congruente-con-consolidacion-fiscal-progresiva-hacienda/",
-      "summary": "El Presupuesto propone un gasto público de MXN$10,6 billones para 2027, lo que representa un incremento de 4,3% respecto de este año, dijo la subsecretaria de Egresos.",
-      "published": "2026-10-27T23:30:16+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 33,
+    "acciones_con_noticias": 34,
     "sin_accion": 36
   }
 }
