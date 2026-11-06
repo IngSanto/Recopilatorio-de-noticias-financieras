@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T01:42:25.259961+00:00",
+  "generated_at": "2026-11-06T12:23:06.501976+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 11169.7,
+      "ventana_horas": 11180.7,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 2.4,
+      "ventana_horas": 0.9,
       "ok": true
     },
     {
@@ -64,11 +64,67 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.5,
+      "ventana_horas": 9.0,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Is it the end of the Cybertruck? Elon Musk announces factory will shift Tesla production.",
+          "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+          "summary": "Tesla CEO Elon Musk said in a post on X that the automaker will wind down the production of Cybertrucks in its Texas Gigafactory next year.",
+          "published": "2026-11-06T10:37:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-11-04T13:32:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ABNB",
+      "name": "Airbnb",
+      "exchange": "NASDAQ",
+      "sector": "Viajes",
+      "news": [
+        {
+          "title": "Antes de la apertura: Airbnb, Cloudflare e IREN suben; Atlassian y Five9 caen",
+          "link": "https://es.investing.com/news/stock-market-news/antes-de-la-apertura-airbnb-cloudflare-e-iren-suben-atlassian-y-five9-caen-3915963",
+          "summary": "",
+          "published": "2026-11-06T11:57:36+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "005930",
+      "name": "Samsung Electronics",
+      "exchange": "KRX",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "¿Por qué cae hoy la acción de Samsung Electronics?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-samsung-electronics-93CH-3915664",
+          "summary": "",
+          "published": "2026-11-06T11:05:24+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "CFE",
       "name": "Comisión Federal de Electricidad",
@@ -106,62 +162,6 @@
           "published": "2026-10-28T00:47:15+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
-          "link": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
-          "summary": "Investors worry a divided Washington could derail “Elon, Inc.”",
-          "published": "2026-11-05T21:43:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
-          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-11-04T13:32:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ABNB",
-      "name": "Airbnb",
-      "exchange": "NASDAQ",
-      "sector": "Viajes",
-      "news": [
-        {
-          "title": "¿Por qué las acciones de Airbnb se disparan hoy?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-airbnb-se-disparan-hoy-93CH-3914673",
-          "summary": "",
-          "published": "2026-11-05T22:41:45+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "QCOM",
-      "name": "Qualcomm",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
-          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html",
-          "summary": "These are the stocks posting the largest moves after hours.",
-          "published": "2026-11-04T22:04:55+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -208,6 +208,22 @@
           "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
           "summary": "These are the stocks posting the largest moves in early trading.",
           "published": "2026-11-02T12:49:35+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "name": "Qualcomm",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
+          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html",
+          "summary": "These are the stocks posting the largest moves after hours.",
+          "published": "2026-11-04T22:04:55+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -716,48 +732,122 @@
           "source_scope": "México"
         }
       ]
-    },
-    {
-      "ticker": "XOM",
-      "name": "ExxonMobil",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Terminal de combustibles de Grupo Simsa opera con normalidad pese a investigación de la Fiscalía mexicana",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/terminal-de-combustibles-de-grupo-simsa-opera-con-normalidad-pese-a-investigacion-de-la-fiscalia-mexicana/",
-          "summary": "Exxon y Marathon son empresas que almacenan combustible en la terminal con capacidad para 60 millones de litros, según personas consultadas por Bloomberg Línea.",
-          "published": "2026-09-19T02:52:49+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
     }
   ],
   "sin_accion": [
     {
-      "title": "Los futuros de las acciones suben tras el desplome de la IA en Wall St",
-      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-suben-tras-el-desplome-de-la-ia-en-wall-st-3914793",
-      "summary": "",
-      "published": "2026-11-06T01:08:07+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
-      "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
-      "summary": "Iren announced a new cloud-computing deal and noted that much of its backlog is tied to “investment-grade counterparties.”",
-      "published": "2026-11-06T01:07:00+00:00",
+      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
+      "published": "2026-11-06T12:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
-      "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
-      "summary": "Demand for automated AI protection is on the rise — and manifesting in Cloudflare’s earnings results.",
-      "published": "2026-11-06T01:06:00+00:00",
+      "title": "Moderna’s stock jumps after biotech raises sales outlook",
+      "link": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
+      "summary": "The company lifted its revenue outlook for the year, saying it now expects revenue to grow as much as 25% in 2026.",
+      "published": "2026-11-06T12:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "After Wall Street’s worst selloff since the 2025 tariff shock, here’s what investors need to watch next",
+      "link": "https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories",
+      "summary": "Stock-market rout spreads far beyond AI stocks. Plus: First-time homebuyers are paying all-cash. Where’s the money coming from?",
+      "published": "2026-11-06T12:14:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Chip stocks are the cheapest they’ve been in nearly seven years. How low is too low?",
+      "link": "https://www.marketwatch.com/story/chip-stocks-are-the-cheapest-theyve-been-in-nearly-seven-years-how-low-is-too-low-7edd732d?mod=mw_rss_topstories",
+      "summary": "Contrarian investors might see the sharp decline in semiconductor stocks on Nov. 5 as a buying opportunity, especially since soaring earnings expectations have driven valuations to their lowest levels since January 2019.",
+      "published": "2026-11-06T12:03:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Qué esperan de Banxico cuatro analistas que acertaron al recorte de la tasa de interés?",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/que-esperan-de-banxico-cuatro-analistas-que-acertaron-al-recorte-de-la-tasa-de-interes/",
+      "summary": "El banco central aplicó un “ajuste puntual” a la tasa de interés y decidió recortar en 25 puntos base el referencial para dejarlo en 6,25%.",
+      "published": "2026-11-06T11:54:34+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "¿Riesgo de concentración? Qué aprender de la evolución de las 7 Magníficas",
+      "link": "https://es.investing.com/news/stock-market-news/riesgo-de-concentracion-que-aprender-de-la-evolucion-de-las-7-magnificas-3915788",
+      "summary": "",
+      "published": "2026-11-06T11:42:50+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Citi explica por qué el comercio de IA podría seguir bajo presión",
+      "link": "https://es.investing.com/news/stock-market-news/citi-explica-por-que-el-comercio-de-ia-podria-seguir-bajo-presion-3915761",
+      "summary": "",
+      "published": "2026-11-06T11:30:27+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Mientras el mercado caía, esta acción elegida por IA subió un 22% ayer",
+      "link": "https://es.investing.com/news/stock-market-news/mientras-el-mercado-caia-esta-accion-elegida-por-ia-subio-un-22-ayer-3915779",
+      "summary": "",
+      "published": "2026-11-06T11:28:46+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "India atrae 1.600 millones de dólares en un día por la caída de las acciones de IA",
+      "link": "https://es.investing.com/news/stock-market-news/india-atrae-1600-millones-de-dolares-en-un-dia-por-la-caida-de-las-acciones-de-ia-93CH-3915753",
+      "summary": "",
+      "published": "2026-11-06T11:24:45+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+      "summary": "“My brother had no job and needed a place to live.”",
+      "published": "2026-11-06T11:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué la acción de Delta Electronics cae un 6% hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-la-accion-de-delta-electronics-cae-un-6-hoy-93CH-3915660",
+      "summary": "",
+      "published": "2026-11-06T11:03:18+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae un 8% hoy la acción de Kioxia?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-un-8-hoy-la-accion-de-kioxia-93CH-3915659",
+      "summary": "",
+      "published": "2026-11-06T11:02:45+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "What the governor-elect of Texas, at the epicenter of the AI-trade blowup, is now saying about data centers",
+      "link": "https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories",
+      "summary": "In an interview, Gina Hinojosa emphasized that she wasn’t ideologically opposed to data centers, but that community approval must come first.",
+      "published": "2026-11-06T10:20:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -772,92 +862,11 @@
       "tickers": []
     },
     {
-      "title": "El KOSPI de Corea del Sur detiene operaciones tras desplomarse un 8% por pérdidas en IA",
-      "link": "https://es.investing.com/news/stock-market-news/el-kospi-de-corea-del-sur-detiene-operaciones-tras-desplomarse-un-8-por-perdidas-en-ia-3914780",
-      "summary": "",
-      "published": "2026-11-06T00:47:44+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Unity suben por interés de compra de Silver Lake y PIF",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-unity-suben-por-interes-de-compra-de-silver-lake-y-pif-3914755",
-      "summary": "",
-      "published": "2026-11-06T00:22:27+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de Unity Software se disparan en el mercado fuera de hora?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-unity-software-se-disparan-en-el-mercado-fuera-de-hora-93CH-3914729",
-      "summary": "",
-      "published": "2026-11-05T23:48:04+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Here are the 2027 capital-gains tax rates for each income level",
-      "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-      "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information.",
-      "published": "2026-11-05T23:48:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Anthropic enfrenta resistencia a su valoración de 1,5 billones de dólares en su OPV",
-      "link": "https://es.investing.com/news/stock-market-news/anthropic-enfrenta-resistencia-a-su-valoracion-de-15-billones-de-dolares-en-su-opv-3914715",
-      "summary": "",
-      "published": "2026-11-05T23:29:17+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Lyft?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-lyft-93CH-3914700",
-      "summary": "",
-      "published": "2026-11-05T23:04:25+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
-      "link": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
-      "summary": "The S&P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record.",
-      "published": "2026-11-05T22:48:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
-      "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
-      "summary": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
-      "published": "2026-11-05T22:40:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Nasdaq drops into correction territory — here’s what typically happens next",
       "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
       "summary": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
       "published": "2026-11-05T22:31:24+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-      "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-      "summary": "The math should actually start with “if” — not “how much.”",
-      "published": "2026-11-05T22:24:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1046,15 +1055,6 @@
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-amplia-hasta-marzo-de-2027-convocatoria-de-centrales-y-baterias-electricas-un-dia-antes-del-cierre/",
       "summary": "La decisión pretende incentivar una mayor cantidad de propuestas viables, fortalecer el análisis técnico de las autoridades energéticas, mejorar los costos de las empresas y garantizar la eficiencia administrativa.",
       "published": "2026-10-30T00:25:46+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Bancos esperan que México se mantenga fuera de la lista gris contra el lavado de dinero",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/bancos-esperan-que-mexico-se-mantenga-fuera-de-la-lista-gris-contra-el-lavado-de-dinero/",
-      "summary": "Emilio Romano, presidente de la Asociación de Bancos de México, prevé que el GAFI reconozca los avances del país en el combate al lavado.",
-      "published": "2026-10-29T15:49:25+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
