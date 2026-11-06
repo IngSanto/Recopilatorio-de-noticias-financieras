@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T20:46:35.089576+00:00",
+  "generated_at": "2026-11-06T01:42:25.259961+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 11163.2,
+      "ventana_horas": 11169.7,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.3,
+      "ventana_horas": 2.4,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 506.4,
+      "ventana_horas": 509.9,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 217.4,
+      "ventana_horas": 217.6,
       "ok": true
     },
     {
@@ -64,11 +64,51 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.4,
+      "ventana_horas": 3.5,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "CFE",
+      "name": "Comisión Federal de Electricidad",
+      "exchange": "Estatal (deuda)",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "CFE reduce apagones de energía en 36%, asegura su directora general, Emilia Calleja",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-reduce-apagones-de-energia-en-36-asegura-su-directora-general-emilia-calleja/",
+          "summary": "El tiempo promedio de restablecimiento del servicio eléctrico de CFE se redujo 72%.",
+          "published": "2026-11-05T23:04:26+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Banca de México trabaja en financiar proyectos mixtos de CFE con empresas privadas",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banca-de-mexico-trabaja-en-financiar-proyectos-mixtos-de-cfe-con-empresas-privadas/",
+          "summary": "La banca múltiple, de desarrollo, fondos privados y el sistema de pensiones son los interesados en financiar los proyectos de energía renovable en México.",
+          "published": "2026-10-29T15:48:36+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "CFE todavía analiza proyectos mixtos de generación eléctrica con empresas privadas",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-todavia-analiza-proyectos-mixtos-de-generacion-electrica-con-empresas-privadas/",
+          "summary": "La empresa mexicana recibió 200 proyectos de generación eléctrica en la segunda convocatoria de esquemas de desarrollo mixto, de los cuales, 64 están en probable etapa de evaluación.",
+          "published": "2026-10-29T04:06:12+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "CFE presenta proyectos de redes eléctricas y centrales a la industria privada",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-proyectos-de-redes-electricas-y-centrales-a-la-industria-privada/",
+          "summary": "La empresa hizo pública la reunión con la industria cuatro días después de presentarlo en un roadshow en Ciudad de México.",
+          "published": "2026-10-28T00:47:15+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
     {
       "ticker": "TSLA",
       "name": "Tesla",
@@ -76,10 +116,10 @@
       "sector": "Automotriz",
       "news": [
         {
-          "title": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $450 billion two-day wipeout",
+          "title": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
           "link": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
           "summary": "Investors worry a divided Washington could derail “Elon, Inc.”",
-          "published": "2026-11-05T19:29:00+00:00",
+          "published": "2026-11-05T21:43:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
@@ -94,57 +134,17 @@
       ]
     },
     {
-      "ticker": "MU",
-      "name": "Micron",
+      "ticker": "ABNB",
+      "name": "Airbnb",
       "exchange": "NASDAQ",
-      "sector": "Semiconductores",
+      "sector": "Viajes",
       "news": [
         {
-          "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’",
-          "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-          "summary": "Wall Street is digesting the prospect of a slower AI buildout in the wake of the midterm election results.",
-          "published": "2026-11-05T18:18:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-11-02T12:49:35+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "CSCO",
-      "name": "Cisco",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Las opciones de Cisco Systems sugieren un movimiento del 7,9% en resultados",
-          "link": "https://es.investing.com/news/stock-market-news/las-opciones-de-cisco-systems-sugieren-un-movimiento-del-79-en-resultados-93CH-3914335",
+          "title": "¿Por qué las acciones de Airbnb se disparan hoy?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-airbnb-se-disparan-hoy-93CH-3914673",
           "summary": "",
-          "published": "2026-11-05T20:22:21+00:00",
+          "published": "2026-11-05T22:41:45+00:00",
           "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "As Nvidia’s stock heads for a bear market, bargain hunters see a golden buying opportunity",
-          "link": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
-          "summary": "Portfolio managers say chip demand should be resilient even in a period of political uncertainty.",
-          "published": "2026-11-05T18:59:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -160,22 +160,6 @@
           "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html",
           "summary": "These are the stocks posting the largest moves after hours.",
           "published": "2026-11-04T22:04:55+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVO",
-      "name": "Novo Nordisk",
-      "exchange": "NYSE",
-      "sector": "Salud",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
-          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-11-04T13:32:54+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -230,6 +214,22 @@
       ]
     },
     {
+      "ticker": "NVO",
+      "name": "Novo Nordisk",
+      "exchange": "NYSE",
+      "sector": "Salud",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-11-04T13:32:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "PLTR",
       "name": "Palantir",
       "exchange": "NASDAQ",
@@ -272,6 +272,22 @@
           "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
           "summary": "These are some of the stocks posting the largest moves midday.",
           "published": "2026-11-02T20:00:16+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
+          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-11-02T12:49:35+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -360,38 +376,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fitch-mantiene-calificacion-de-pemex-como-bono-basura-a-un-escalon-del-grado-de-inversion/",
           "summary": "La agencia dijo que la calificación de Pemex refleja su vínculo con el Gobierno de México",
           "published": "2026-09-24T15:37:59+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "CFE",
-      "name": "Comisión Federal de Electricidad",
-      "exchange": "Estatal (deuda)",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Banca de México trabaja en financiar proyectos mixtos de CFE con empresas privadas",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banca-de-mexico-trabaja-en-financiar-proyectos-mixtos-de-cfe-con-empresas-privadas/",
-          "summary": "La banca múltiple, de desarrollo, fondos privados y el sistema de pensiones son los interesados en financiar los proyectos de energía renovable en México.",
-          "published": "2026-10-29T15:48:36+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE todavía analiza proyectos mixtos de generación eléctrica con empresas privadas",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-todavia-analiza-proyectos-mixtos-de-generacion-electrica-con-empresas-privadas/",
-          "summary": "La empresa mexicana recibió 200 proyectos de generación eléctrica en la segunda convocatoria de esquemas de desarrollo mixto, de los cuales, 64 están en probable etapa de evaluación.",
-          "published": "2026-10-29T04:06:12+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE presenta proyectos de redes eléctricas y centrales a la industria privada",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-proyectos-de-redes-electricas-y-centrales-a-la-industria-privada/",
-          "summary": "La empresa hizo pública la reunión con la industria cuatro días después de presentarlo en un roadshow en Ciudad de México.",
-          "published": "2026-10-28T00:47:15+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -752,11 +736,101 @@
   ],
   "sin_accion": [
     {
-      "title": "Banxico bajó tasa a 6.25%: Aprovéchalo con este portafolio de 5 acciones y Cetes",
-      "link": "https://es.investing.com/news/stock-market-news/banxico-bajo-tasa-a-625-aprovechalo-con-este-portafolio-de-5-acciones-y-cetes-3914334",
+      "title": "Los futuros de las acciones suben tras el desplome de la IA en Wall St",
+      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-suben-tras-el-desplome-de-la-ia-en-wall-st-3914793",
       "summary": "",
-      "published": "2026-11-05T20:26:09+00:00",
+      "published": "2026-11-06T01:08:07+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
+      "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+      "summary": "Iren announced a new cloud-computing deal and noted that much of its backlog is tied to “investment-grade counterparties.”",
+      "published": "2026-11-06T01:07:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+      "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+      "summary": "Demand for automated AI protection is on the rise — and manifesting in Cloudflare’s earnings results.",
+      "published": "2026-11-06T01:06:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Cox cambia de CEO y reorganiza su estructura de negocios",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cox-cambia-de-ceo-y-reorganiza-su-estructura-de-negocios/",
+      "summary": "Ignacio Moreno fue nombrado consejero dominical del Grupo y dirigirá Riquelme Capital.",
+      "published": "2026-11-06T00:51:06+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "El KOSPI de Corea del Sur detiene operaciones tras desplomarse un 8% por pérdidas en IA",
+      "link": "https://es.investing.com/news/stock-market-news/el-kospi-de-corea-del-sur-detiene-operaciones-tras-desplomarse-un-8-por-perdidas-en-ia-3914780",
+      "summary": "",
+      "published": "2026-11-06T00:47:44+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Unity suben por interés de compra de Silver Lake y PIF",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-unity-suben-por-interes-de-compra-de-silver-lake-y-pif-3914755",
+      "summary": "",
+      "published": "2026-11-06T00:22:27+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de Unity Software se disparan en el mercado fuera de hora?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-unity-software-se-disparan-en-el-mercado-fuera-de-hora-93CH-3914729",
+      "summary": "",
+      "published": "2026-11-05T23:48:04+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Here are the 2027 capital-gains tax rates for each income level",
+      "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+      "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information.",
+      "published": "2026-11-05T23:48:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Anthropic enfrenta resistencia a su valoración de 1,5 billones de dólares en su OPV",
+      "link": "https://es.investing.com/news/stock-market-news/anthropic-enfrenta-resistencia-a-su-valoracion-de-15-billones-de-dolares-en-su-opv-3914715",
+      "summary": "",
+      "published": "2026-11-05T23:29:17+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Lyft?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-lyft-93CH-3914700",
+      "summary": "",
+      "published": "2026-11-05T23:04:25+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+      "link": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
+      "summary": "The S&P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record.",
+      "published": "2026-11-05T22:48:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -764,26 +838,35 @@
       "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
       "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
       "summary": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
-      "published": "2026-11-05T20:22:00+00:00",
+      "published": "2026-11-05T22:40:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
-      "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
-      "summary": "Bloom Energy shares got swept in by tech stocks’ sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.",
-      "published": "2026-11-05T20:21:00+00:00",
+      "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+      "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+      "summary": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
+      "published": "2026-11-05T22:31:24+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+      "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+      "summary": "The math should actually start with “if” — not “how much.”",
+      "published": "2026-11-05T22:24:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de Dlocal podrían moverse un 12% con los resultados del 12 de noviembre",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-dlocal-podrian-moverse-un-12-con-los-resultados-del-12-de-noviembre-93CH-3914332",
-      "summary": "",
-      "published": "2026-11-05T20:19:18+00:00",
-      "source_short": "Investing",
+      "title": "The October jobs report is out Friday. Here's everything to expect",
+      "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+      "summary": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
+      "published": "2026-11-05T21:32:52+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -797,84 +880,12 @@
       "tickers": []
     },
     {
-      "title": "¿Por qué se desploma hoy la acción de Hertz?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-hertz-93CH-3914331",
-      "summary": "",
-      "published": "2026-11-05T20:17:10+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Teekay Corp. podrían moverse un 5,9% tras sus resultados",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-teekay-corp-podrian-moverse-un-59-tras-sus-resultados-93CH-3914328",
-      "summary": "",
-      "published": "2026-11-05T20:15:41+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las opciones de Arrowhead Pharmaceuticals anticipan un movimiento del 8,1%",
-      "link": "https://es.investing.com/news/stock-market-news/las-opciones-de-arrowhead-pharmaceuticals-anticipan-un-movimiento-del-81-93CH-3914326",
-      "summary": "",
-      "published": "2026-11-05T20:14:08+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Ondas podrían moverse un 11% con los resultados del 12 de noviembre",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-ondas-podrian-moverse-un-11-con-los-resultados-del-12-de-noviembre-93CH-3914322",
-      "summary": "",
-      "published": "2026-11-05T20:11:29+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
-      "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
-      "summary": "After a tech-led meltdown in the stock market, the October jobs report on Friday morning could bring investors some encouraging news — or add to their misery.",
-      "published": "2026-11-05T19:46:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "This pancreatic cancer treatment is on track for ‘one of the best drug launches of all time’",
-      "link": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
-      "summary": "Revolution Medicines’ brand-new treatment brought in far higher sales than expected in its first few weeks on the market.",
-      "published": "2026-11-05T19:32:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Trump’s Iran war has changed the future of Social Security",
-      "link": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
-      "summary": "It’s a mathematical certainty that the Iran war is going to have an enormous influence on the future of retirement in America.",
-      "published": "2026-11-05T19:32:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Sheinbaum se reunirá con Xi Jinping y buscará encuentro con Trump en APEC",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-se-reunira-con-xi-jinping-y-buscara-encuentro-con-trump-en-apec/",
       "summary": "La presidenta de México recibirá la estafeta para organizar la cumbre de APEC en 2028.",
       "published": "2026-11-05T18:23:29+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "summary": "“My brother had no job and needed a place to live.”",
-      "published": "2026-11-05T18:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1004,24 +1015,6 @@
       "tickers": []
     },
     {
-      "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
-      "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
-      "summary": "It was driven by energy inflation, which surged above 20% in October.",
-      "published": "2026-11-04T10:47:30+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Stock market after midterm elections: What S&P 500 history shows",
-      "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
-      "published": "2026-11-03T18:21:05+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "¿Por qué le importa a México y al T-MEC el resultado de las elecciones intermedias en EE.UU.?",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/por-que-le-importa-a-mexico-y-al-t-mec-el-resultado-de-las-elecciones-intermedias-en-eeuu/",
       "summary": "Las elecciones de medio término llegan en un momento en que la cuarta ronda de negociaciones bilaterales de la revisión del T-MEC va a cumplir casi dos meses de retraso.",
@@ -1065,20 +1058,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Subgobernadora de Banxico: tasa en 6,50% “es buena posición monetaria” en medio de condiciones globales",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/subgobernadora-de-banxico-tasa-en-650-es-buena-posicion-monetaria-en-medio-de-condiciones-globales/",
-      "summary": "La subgobernadora Galia Borja dijo que el banco central ha logrado calibrar la tasa de interés mientras la inflación se ha mantenido dentro del intervalo de variabilidad.",
-      "published": "2026-10-28T22:59:48+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 32,
+    "acciones_con_noticias": 31,
     "sin_accion": 36
   }
 }
