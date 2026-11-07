@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:01:56.403897+00:00",
+  "generated_at": "2026-11-07T11:16:01.704174+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 11180.7,
+      "ventana_horas": 11202.8,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 5.0,
+      "ventana_horas": 5.6,
       "ok": true
     },
     {
@@ -70,6 +70,30 @@
   ],
   "tickers": [
     {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Groq, respaldada por Nvidia, busca valoración de 8.000 millones de dólares",
+          "link": "https://es.investing.com/news/stock-market-news/groq-respaldada-por-nvidia-busca-valoracion-de-8000-millones-de-dolares-3917466",
+          "summary": "",
+          "published": "2026-11-07T01:00:53+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+          "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+          "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+          "published": "2026-11-06T21:24:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "MU",
       "name": "Micron",
       "exchange": "NASDAQ",
@@ -89,22 +113,6 @@
           "summary": "These are the stocks posting the largest moves in early trading.",
           "published": "2026-11-02T12:49:35+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-          "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-          "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
-          "published": "2026-11-06T21:24:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -752,6 +760,15 @@
   ],
   "sin_accion": [
     {
+      "title": "México aprueba permisos para proyectos solares de US$750 millones a Cox, Invex y Viva el Sol",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aprueba-permisos-para-proyectos-solares-de-us750-millones-a-cox-invex-y-viva-el-sol/",
+      "summary": "Las autoridades energéticas recibieron 57 solicitudes de permisos para proyectos de energía solar fotovoltaica en la segunda convocatoria del Gobierno.",
+      "published": "2026-11-07T10:00:00+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
       "title": "Goldman eleva previsión de capacidad global de centros de datos a 273 GW para 2030",
       "link": "https://es.investing.com/news/stock-market-news/goldman-eleva-prevision-de-capacidad-global-de-centros-de-datos-a-273-gw-para-2030-3917454",
       "summary": "",
@@ -1062,15 +1079,6 @@
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-peso-se-debilita-otra-vez-el-precio-de-dolar-roza-los-mxn19/",
       "summary": "El peso mexicano se perfila para su octava semana de pérdidas consecutivas frente al dólar.",
       "published": "2026-10-30T15:16:08+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "México amplía hasta marzo de 2027 convocatoria de centrales y baterías eléctricas un día antes del cierre",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-amplia-hasta-marzo-de-2027-convocatoria-de-centrales-y-baterias-electricas-un-dia-antes-del-cierre/",
-      "summary": "La decisión pretende incentivar una mayor cantidad de propuestas viables, fortalecer el análisis técnico de las autoridades energéticas, mejorar los costos de las empresas y garantizar la eficiencia administrativa.",
-      "published": "2026-10-30T00:25:46+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
