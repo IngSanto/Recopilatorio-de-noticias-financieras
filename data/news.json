@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T20:02:12.545793+00:00",
+  "generated_at": "2026-11-07T01:01:56.403897+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.8,
+      "ventana_horas": 5.0,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 501.2,
+      "ventana_horas": 501.6,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 217.0,
+      "ventana_horas": 218.6,
       "ok": true
     },
     {
@@ -64,11 +64,35 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.5,
+      "ventana_horas": 2.9,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
+          "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+          "summary": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron’s earnings power won’t hold up.",
+          "published": "2026-11-06T20:58:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
+          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-11-02T12:49:35+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "NVDA",
       "name": "Nvidia",
@@ -78,8 +102,8 @@
         {
           "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
           "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-          "summary": "Analysts warn of further volatility ahead, although there are two new factors that work in the AI trade’s favor.",
-          "published": "2026-11-06T19:52:00+00:00",
+          "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+          "published": "2026-11-06T21:24:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         }
@@ -94,25 +118,9 @@
         {
           "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
           "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-          "summary": "Analysts warn of further volatility ahead, although there are two new factors that work in the AI trade’s favor.",
-          "published": "2026-11-06T19:52:00+00:00",
+          "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+          "published": "2026-11-06T21:24:00+00:00",
           "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BOLSAA.MX",
-      "name": "Bolsa Mexicana de Valores",
-      "exchange": "BMV",
-      "sector": "Finanzas",
-      "news": [
-        {
-          "title": "Bolsa Mexicana de Valores hoy retoma el alza: ¿Logrará el IPC una semana perfecta?",
-          "link": "https://es.investing.com/news/stock-market-news/bolsa-mexicana-de-valores-hoy-retoma-el-alza-lograra-el-ipc-una-semana-perfecta-3917278",
-          "summary": "",
-          "published": "2026-11-06T18:44:09+00:00",
-          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -550,22 +558,6 @@
       ]
     },
     {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-11-02T12:49:35+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "AMZN",
       "name": "Amazon",
       "exchange": "NASDAQ",
@@ -760,38 +752,128 @@
   ],
   "sin_accion": [
     {
-      "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-      "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
-      "summary": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
-      "published": "2026-11-06T19:49:09+00:00",
+      "title": "Goldman eleva previsión de capacidad global de centros de datos a 273 GW para 2030",
+      "link": "https://es.investing.com/news/stock-market-news/goldman-eleva-prevision-de-capacidad-global-de-centros-de-datos-a-273-gw-para-2030-3917454",
+      "summary": "",
+      "published": "2026-11-07T00:10:19+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "S&P revisa perspectiva de Boston Scientific a negativa por presiones comerciales",
+      "link": "https://es.investing.com/news/stock-market-news/sp-revisa-perspectiva-de-boston-scientific-a-negativa-por-presiones-comerciales-3917403",
+      "summary": "",
+      "published": "2026-11-06T21:58:19+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
+      "published": "2026-11-06T21:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Elon Musk opens the door for a big SpaceX acquisition",
+      "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+      "summary": "The rocket and satellite-internet company is looking to challenge telecom giants.",
+      "published": "2026-11-06T21:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+      "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+      "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
+      "published": "2026-11-06T21:37:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "La app Muse de Meta añade la función de espacios personalizables",
+      "link": "https://es.investing.com/news/stock-market-news/la-app-muse-de-meta-anade-la-funcion-de-espacios-personalizables-93CH-3917385",
+      "summary": "",
+      "published": "2026-11-06T21:36:57+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+      "published": "2026-11-06T21:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+      "published": "2026-11-06T21:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Galapagos recorta el 9% de su plantilla impulsado por la IA",
+      "link": "https://es.investing.com/news/stock-market-news/galapagos-recorta-el-9-de-su-plantilla-impulsado-por-la-ia-3917366",
+      "summary": "",
+      "published": "2026-11-06T21:14:07+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "OpenAI cierra una ronda de financiación de 11.000 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/openai-cierra-una-ronda-de-financiacion-de-11000-millones-de-dolares-3917355",
+      "summary": "",
+      "published": "2026-11-06T21:07:57+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "+32%, +29%, +23%: Acciones BMV para ganar al máximo en noviembre, ¡hoy en oferta!",
+      "link": "https://es.investing.com/news/stock-market-news/32-29-23-acciones-bmv-para-ganar-al-maximo-en-noviembre-hoy-en-oferta-3917347",
+      "summary": "",
+      "published": "2026-11-06T21:02:09+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+      "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+      "summary": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
+      "published": "2026-11-06T20:42:28+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¡Llegaron los dividendos de noviembre! Estas empresas de la BMV pagarán ganancias",
-      "link": "https://es.investing.com/news/stock-market-news/llegaron-los-dividendos-de-noviembre-estas-empresas-de-la-bmv-pagaran-ganancias-3917312",
-      "summary": "",
-      "published": "2026-11-06T19:26:39+00:00",
-      "source_short": "Investing",
+      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+      "summary": "“My brother had no job and needed a place to live.”",
+      "published": "2026-11-06T20:15:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Rosenblatt elige su valor favorito en semiconductores",
-      "link": "https://es.investing.com/news/stock-market-news/rosenblatt-elige-su-valor-favorito-en-semiconductores-3917307",
-      "summary": "",
-      "published": "2026-11-06T19:09:07+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Héctor Almonacid, director de CEEN: La formación debe generar un impacto real en la vida profesional de las personas",
-      "link": "https://es.investing.com/news/stock-market-news/hector-almonacid-director-de-ceen-la-formacion-debe-generar-un-impacto-real-en-la-vida-profesional-de-las-personas-3917296",
-      "summary": "",
-      "published": "2026-11-06T19:05:16+00:00",
-      "source_short": "Investing",
+      "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+      "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+      "summary": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
+      "published": "2026-11-06T20:11:17+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -801,87 +883,6 @@
       "summary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
       "published": "2026-11-06T19:05:00+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
-      "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
-      "summary": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
-      "published": "2026-11-06T18:54:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
-      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-      "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
-      "published": "2026-11-06T18:53:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "OpenAI seguirá invirtiendo en centros de datos pese a las elecciones",
-      "link": "https://es.investing.com/news/stock-market-news/openai-seguira-invirtiendo-en-centros-de-datos-pese-a-las-elecciones-3917283",
-      "summary": "",
-      "published": "2026-11-06T18:49:26+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Acciones de la semana en Investing.com",
-      "link": "https://es.investing.com/news/stock-market-news/acciones-de-la-semana-en-investingcom-3917282",
-      "summary": "",
-      "published": "2026-11-06T18:48:19+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Los mercados de opciones de EE.UU. registran un volumen récord tras el desplome del jueves",
-      "link": "https://es.investing.com/news/stock-market-news/los-mercados-de-opciones-de-eeuu-registran-un-volumen-record-tras-el-desplome-del-jueves-93CH-3917279",
-      "summary": "",
-      "published": "2026-11-06T18:45:22+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-      "published": "2026-11-06T18:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "You’re fired! But you can keep the laptop and insurance. And here’s $10,000.",
-      "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
-      "summary": "Some tech companies are giving more generous severance packages, but here’s what to keep in mind.",
-      "published": "2026-11-06T18:03:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-      "summary": "Math may be cold and unemotional — but finances are not.",
-      "published": "2026-11-06T18:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "DraftKings’ expensive bet on prediction markets is crushing its stock",
-      "link": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
-      "summary": "Shares of the online betting platform slid more than 26% on Friday, as analysts worry about regulation and competition.",
-      "published": "2026-11-06T17:51:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -899,15 +900,6 @@
       "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
       "summary": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
       "published": "2026-11-06T16:06:59+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-      "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-      "summary": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
-      "published": "2026-11-06T13:47:43+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1086,7 +1078,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 33,
+    "acciones_con_noticias": 32,
     "sin_accion": 36
   }
 }
