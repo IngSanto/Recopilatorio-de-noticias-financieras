@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:16:01.704174+00:00",
+  "generated_at": "2026-11-07T18:13:07.591530+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 5.6,
+      "ventana_horas": 19.8,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 218.6,
+      "ventana_horas": 220.0,
       "ok": true
     },
     {
@@ -64,11 +64,35 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.9,
+      "ventana_horas": 2.0,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway",
+      "exchange": "NYSE",
+      "sector": "Finanzas",
+      "news": [
+        {
+          "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+          "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+          "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+          "published": "2026-11-07T15:23:46+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Berkshire Hathaway acelera recompras mientras cae el beneficio operativo",
+          "link": "https://es.investing.com/news/stock-market-news/berkshire-hathaway-acelera-recompras-mientras-cae-su-beneficio-operativo-3917570",
+          "summary": "",
+          "published": "2026-11-07T13:16:00+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "NVDA",
       "name": "Nvidia",
@@ -76,59 +100,19 @@
       "sector": "Semiconductores",
       "news": [
         {
+          "title": "Memo de EE.UU. alega que el director ejecutivo de Nvidia tuvo un romance con una espía china",
+          "link": "https://es.investing.com/news/stock-market-news/memo-de-inteligencia-de-eeuu-vincula-a-jensen-huang-con-una-supuesta-espia-china-3917586",
+          "summary": "",
+          "published": "2026-11-07T15:11:08+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "Groq, respaldada por Nvidia, busca valoración de 8.000 millones de dólares",
           "link": "https://es.investing.com/news/stock-market-news/groq-respaldada-por-nvidia-busca-valoracion-de-8000-millones-de-dolares-3917466",
           "summary": "",
           "published": "2026-11-07T01:00:53+00:00",
           "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-          "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-          "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
-          "published": "2026-11-06T21:24:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
-          "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
-          "summary": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron’s earnings power won’t hold up.",
-          "published": "2026-11-06T20:58:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-11-02T12:49:35+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-          "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-          "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
-          "published": "2026-11-06T21:24:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -190,30 +174,6 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
-          "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-11-03T12:47:45+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "QCOM",
       "name": "Qualcomm",
       "exchange": "NASDAQ",
@@ -256,38 +216,6 @@
           "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
           "summary": "These are the stocks posting the largest moves in the premarket.",
           "published": "2026-11-04T13:32:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
-          "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-11-03T12:47:45+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "PFE",
-      "name": "Pfizer",
-      "exchange": "NYSE",
-      "sector": "Salud",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
-          "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-11-03T12:47:45+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -376,6 +304,30 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fitch-mantiene-calificacion-de-pemex-como-bono-basura-a-un-escalon-del-grado-de-inversion/",
           "summary": "La agencia dijo que la calificación de Pemex refleja su vínculo con el Gobierno de México",
           "published": "2026-09-24T15:37:59+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
+          "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-11-03T12:47:45+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -550,6 +502,38 @@
       ]
     },
     {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
+          "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-11-03T12:47:45+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "PFE",
+      "name": "Pfizer",
+      "exchange": "NYSE",
+      "sector": "Salud",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
+          "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-11-03T12:47:45+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "ORCL",
       "name": "Oracle",
       "exchange": "NYSE",
@@ -560,6 +544,22 @@
           "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
           "summary": "These are some of the stocks posting the largest moves midday.",
           "published": "2026-11-02T20:00:16+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
+          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-11-02T12:49:35+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -760,6 +760,105 @@
   ],
   "sin_accion": [
     {
+      "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+      "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+      "summary": "There are many ideas for saving Social Security. All of them will hurt.",
+      "published": "2026-11-07T17:43:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "summary": "Math may be cold and unemotional — but finances are not.",
+      "published": "2026-11-07T17:33:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Seaport comparte primeras reflexiones sobre las acciones de Anthropic",
+      "link": "https://es.investing.com/news/stock-market-news/seaport-comparte-primeras-reflexiones-sobre-las-acciones-de-anthropic-3917601",
+      "summary": "",
+      "published": "2026-11-07T17:27:53+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El CFO de Binance dimite días después del catastrófico hackeo de 6.000 millones",
+      "link": "https://es.investing.com/news/stock-market-news/el-cfo-de-binance-dimite-dias-despues-del-catastrofico-hackeo-de-6000-millones-3917598",
+      "summary": "",
+      "published": "2026-11-07T17:06:29+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
+      "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+      "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
+      "published": "2026-11-07T17:04:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+      "published": "2026-11-07T17:01:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "summary": "The large-cap index is nowhere near as diversified as you think.",
+      "published": "2026-11-07T16:40:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+      "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+      "summary": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
+      "published": "2026-11-07T16:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+      "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+      "published": "2026-11-07T16:02:33+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Novartis abandona el prometedor fármaco pelacarsen tras fracasar en su estudio clave",
+      "link": "https://es.investing.com/news/stock-market-news/novartis-abandona-el-prometedor-farmaco-pelacarsen-tras-fracasar-en-su-estudio-clave-3917588",
+      "summary": "",
+      "published": "2026-11-07T15:16:03+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Putin profundiza la expropiación de Japan Tobacco con un segundo decreto",
+      "link": "https://es.investing.com/news/stock-market-news/putin-profundiza-la-expropiacion-de-japan-tobacco-con-un-segundo-decreto-3917565",
+      "summary": "",
+      "published": "2026-11-07T12:48:11+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "México aprueba permisos para proyectos solares de US$750 millones a Cox, Invex y Viva el Sol",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aprueba-permisos-para-proyectos-solares-de-us750-millones-a-cox-invex-y-viva-el-sol/",
       "summary": "Las autoridades energéticas recibieron 57 solicitudes de permisos para proyectos de energía solar fotovoltaica en la segunda convocatoria del Gobierno.",
@@ -787,101 +886,11 @@
       "tickers": []
     },
     {
-      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-      "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
-      "published": "2026-11-06T21:45:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Elon Musk opens the door for a big SpaceX acquisition",
-      "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
-      "summary": "The rocket and satellite-internet company is looking to challenge telecom giants.",
-      "published": "2026-11-06T21:45:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
-      "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
-      "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
-      "published": "2026-11-06T21:37:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "La app Muse de Meta añade la función de espacios personalizables",
-      "link": "https://es.investing.com/news/stock-market-news/la-app-muse-de-meta-anade-la-funcion-de-espacios-personalizables-93CH-3917385",
-      "summary": "",
-      "published": "2026-11-06T21:36:57+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
-      "published": "2026-11-06T21:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-      "published": "2026-11-06T21:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Galapagos recorta el 9% de su plantilla impulsado por la IA",
-      "link": "https://es.investing.com/news/stock-market-news/galapagos-recorta-el-9-de-su-plantilla-impulsado-por-la-ia-3917366",
-      "summary": "",
-      "published": "2026-11-06T21:14:07+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "OpenAI cierra una ronda de financiación de 11.000 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/openai-cierra-una-ronda-de-financiacion-de-11000-millones-de-dolares-3917355",
-      "summary": "",
-      "published": "2026-11-06T21:07:57+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "+32%, +29%, +23%: Acciones BMV para ganar al máximo en noviembre, ¡hoy en oferta!",
-      "link": "https://es.investing.com/news/stock-market-news/32-29-23-acciones-bmv-para-ganar-al-maximo-en-noviembre-hoy-en-oferta-3917347",
-      "summary": "",
-      "published": "2026-11-06T21:02:09+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Nasdaq drops into correction territory — here’s what typically happens next",
       "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
       "summary": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
       "published": "2026-11-06T20:42:28+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "summary": "“My brother had no job and needed a place to live.”",
-      "published": "2026-11-06T20:15:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -998,15 +1007,6 @@
       "link": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
       "summary": "The biggest forces shaping the economy aren't going to change just because the party in power did.",
       "published": "2026-11-05T14:33:32+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
-      "link": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html",
-      "summary": "These are the stocks posting the largest moves in early trading.",
-      "published": "2026-11-05T13:17:00+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
