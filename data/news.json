@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:13:07.591530+00:00",
+  "generated_at": "2026-11-08T00:50:28.243257+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 19.8,
+      "ventana_horas": 22.9,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.0,
+      "ventana_horas": 4.3,
       "ok": true
     }
   ],
@@ -760,6 +760,69 @@
   ],
   "sin_accion": [
     {
+      "title": "¿Cómo invertir en IA en medio de las preocupaciones por el gasto?",
+      "link": "https://es.investing.com/news/stock-market-news/como-invertir-en-ia-en-medio-de-las-preocupaciones-por-el-gasto-3917631",
+      "summary": "",
+      "published": "2026-11-07T23:53:16+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El posicionamiento en acciones sufre una de sus mayores caídas semanales: DB",
+      "link": "https://es.investing.com/news/stock-market-news/el-posicionamiento-en-acciones-sufre-una-de-sus-mayores-caidas-semanales-db-3917621",
+      "summary": "",
+      "published": "2026-11-07T21:07:06+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "CoreWeave busca una tregua con la gobernadora electa de Texas",
+      "link": "https://es.investing.com/news/stock-market-news/coreweave-busca-una-tregua-con-la-gobernadora-electa-de-texas-3917618",
+      "summary": "",
+      "published": "2026-11-07T20:59:29+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+      "published": "2026-11-07T20:48:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+      "published": "2026-11-07T20:36:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Here are the 2027 capital-gains tax rates for each income level",
+      "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+      "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information.",
+      "published": "2026-11-07T19:48:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+      "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+      "summary": "Don’t sit on the sidelines during open enrollment.",
+      "published": "2026-11-07T19:20:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
       "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
       "summary": "There are many ideas for saving Social Security. All of them will hurt.",
@@ -796,42 +859,6 @@
       "tickers": []
     },
     {
-      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
-      "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-      "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
-      "published": "2026-11-07T17:04:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-      "published": "2026-11-07T17:01:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-      "summary": "The large-cap index is nowhere near as diversified as you think.",
-      "published": "2026-11-07T16:40:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
-      "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
-      "summary": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
-      "published": "2026-11-07T16:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
       "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
       "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
@@ -850,39 +877,12 @@
       "tickers": []
     },
     {
-      "title": "Putin profundiza la expropiación de Japan Tobacco con un segundo decreto",
-      "link": "https://es.investing.com/news/stock-market-news/putin-profundiza-la-expropiacion-de-japan-tobacco-con-un-segundo-decreto-3917565",
-      "summary": "",
-      "published": "2026-11-07T12:48:11+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "México aprueba permisos para proyectos solares de US$750 millones a Cox, Invex y Viva el Sol",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aprueba-permisos-para-proyectos-solares-de-us750-millones-a-cox-invex-y-viva-el-sol/",
       "summary": "Las autoridades energéticas recibieron 57 solicitudes de permisos para proyectos de energía solar fotovoltaica en la segunda convocatoria del Gobierno.",
       "published": "2026-11-07T10:00:00+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Goldman eleva previsión de capacidad global de centros de datos a 273 GW para 2030",
-      "link": "https://es.investing.com/news/stock-market-news/goldman-eleva-prevision-de-capacidad-global-de-centros-de-datos-a-273-gw-para-2030-3917454",
-      "summary": "",
-      "published": "2026-11-07T00:10:19+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "S&P revisa perspectiva de Boston Scientific a negativa por presiones comerciales",
-      "link": "https://es.investing.com/news/stock-market-news/sp-revisa-perspectiva-de-boston-scientific-a-negativa-por-presiones-comerciales-3917403",
-      "summary": "",
-      "published": "2026-11-06T21:58:19+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
