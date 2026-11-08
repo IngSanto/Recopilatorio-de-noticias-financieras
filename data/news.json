@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T00:50:28.243257+00:00",
+  "generated_at": "2026-11-08T11:28:04.163577+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 22.9,
+      "ventana_horas": 17.7,
       "ok": true
     },
     {
@@ -82,14 +82,6 @@
           "published": "2026-11-07T15:23:46+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        },
-        {
-          "title": "Berkshire Hathaway acelera recompras mientras cae el beneficio operativo",
-          "link": "https://es.investing.com/news/stock-market-news/berkshire-hathaway-acelera-recompras-mientras-cae-su-beneficio-operativo-3917570",
-          "summary": "",
-          "published": "2026-11-07T13:16:00+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -105,30 +97,6 @@
           "summary": "",
           "published": "2026-11-07T15:11:08+00:00",
           "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Groq, respaldada por Nvidia, busca valoración de 8.000 millones de dólares",
-          "link": "https://es.investing.com/news/stock-market-news/groq-respaldada-por-nvidia-busca-valoracion-de-8000-millones-de-dolares-3917466",
-          "summary": "",
-          "published": "2026-11-07T01:00:53+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ABNB",
-      "name": "Airbnb",
-      "exchange": "NASDAQ",
-      "sector": "Viajes",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
-          "link": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-premarket-moderna-airbnb-cloudflare-affirm-more.html",
-          "summary": "These are some of the stocks posting the largest moves premarket.",
-          "published": "2026-11-06T13:05:50+00:00",
-          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -170,6 +138,22 @@
           "published": "2026-10-28T00:47:15+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "ABNB",
+      "name": "Airbnb",
+      "exchange": "NASDAQ",
+      "sector": "Viajes",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
+          "link": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-premarket-moderna-airbnb-cloudflare-affirm-more.html",
+          "summary": "These are some of the stocks posting the largest moves premarket.",
+          "published": "2026-11-06T13:05:50+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -760,6 +744,33 @@
   ],
   "sin_accion": [
     {
+      "title": "5 grandes movimientos de analistas en IA: ¿Es la histórica caída una oportunidad de compra?",
+      "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-es-la-historica-caida-una-oportunidad-de-compra-3917661",
+      "summary": "",
+      "published": "2026-11-08T08:53:40+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Cuáles son los compromisos de cómputo de los laboratorios de IA?",
+      "link": "https://es.investing.com/news/stock-market-news/cuales-son-los-compromisos-de-computo-de-los-laboratorios-de-ia-3917640",
+      "summary": "",
+      "published": "2026-11-08T03:05:56+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "La caída de las acciones de IA impulsa a los inversores hacia China, India y sectores asiáticos menos conocidos",
+      "link": "https://es.investing.com/news/stock-market-news/la-caida-de-las-acciones-de-ia-impulsa-a-los-inversores-hacia-china-india-y-sectores-asiaticos-menos-conocidos-3917633",
+      "summary": "",
+      "published": "2026-11-08T01:00:45+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "¿Cómo invertir en IA en medio de las preocupaciones por el gasto?",
       "link": "https://es.investing.com/news/stock-market-news/como-invertir-en-ia-en-medio-de-las-preocupaciones-por-el-gasto-3917631",
       "summary": "",
@@ -841,38 +852,11 @@
       "tickers": []
     },
     {
-      "title": "Seaport comparte primeras reflexiones sobre las acciones de Anthropic",
-      "link": "https://es.investing.com/news/stock-market-news/seaport-comparte-primeras-reflexiones-sobre-las-acciones-de-anthropic-3917601",
-      "summary": "",
-      "published": "2026-11-07T17:27:53+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El CFO de Binance dimite días después del catastrófico hackeo de 6.000 millones",
-      "link": "https://es.investing.com/news/stock-market-news/el-cfo-de-binance-dimite-dias-despues-del-catastrofico-hackeo-de-6000-millones-3917598",
-      "summary": "",
-      "published": "2026-11-07T17:06:29+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
       "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
       "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
       "published": "2026-11-07T16:02:33+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Novartis abandona el prometedor fármaco pelacarsen tras fracasar en su estudio clave",
-      "link": "https://es.investing.com/news/stock-market-news/novartis-abandona-el-prometedor-farmaco-pelacarsen-tras-fracasar-en-su-estudio-clave-3917588",
-      "summary": "",
-      "published": "2026-11-07T15:16:03+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
