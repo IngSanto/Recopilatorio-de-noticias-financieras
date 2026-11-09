@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T13:15:13.135033+00:00",
+  "generated_at": "2026-11-09T23:06:41.365157+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 11202.8,
+      "ventana_horas": 11262.2,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.5,
+      "ventana_horas": 1.0,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 498.4,
+      "ventana_horas": 477.4,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 220.0,
+      "ventana_horas": 270.7,
       "ok": true
     },
     {
@@ -64,161 +64,25 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.2,
+      "ventana_horas": 1.8,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Google amplía su gama de chips de IA mientras Nvidia enfrenta un escándalo de espionaje",
-          "link": "https://es.investing.com/news/stock-market-news/google-amplia-su-gama-de-chips-de-ia-mientras-nvidia-enfrenta-un-escandalo-de-espionaje-3918933",
-          "summary": "",
-          "published": "2026-11-09T12:44:04+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with an alleged spy",
-          "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
-          "summary": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time.",
-          "published": "2026-11-09T12:26:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Can the AI trade catch a break? Nvidia, Anthropic and CoreWeave may have a say.",
-          "link": "https://www.marketwatch.com/story/can-the-ai-trade-catch-a-break-nvidia-anthropic-and-coreweave-may-have-a-say-d00c9ab3?mod=mw_rss_topstories",
-          "summary": "After a bruising stretch for tech stocks, investors face fresh questions about leadership, valuations and the cost of the AI boom. Plus, a Taylor Swift encore for one 72-year-old retiree.",
-          "published": "2026-11-09T12:08:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "How Wall Street is reacting to the news of Nvidia’s investigation into Jensen Huang spy claims",
-          "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-          "summary": "The Wall Street reaction to the blockbuster Nvidia news is to wonder about who would succeed Jensen Huang if he were to be forced out.",
-          "published": "2026-11-09T09:12:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Google amplía su gama de chips de IA mientras Nvidia enfrenta un escándalo de espionaje",
-          "link": "https://es.investing.com/news/stock-market-news/google-amplia-su-gama-de-chips-de-ia-mientras-nvidia-enfrenta-un-escandalo-de-espionaje-3918933",
-          "summary": "",
-          "published": "2026-11-09T12:44:04+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
-          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-10-29T17:10:32+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
-          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-10-29T13:26:19+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BRK.B",
-      "name": "Berkshire Hathaway",
-      "exchange": "NYSE",
-      "sector": "Finanzas",
-      "news": [
-        {
-          "title": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
-          "link": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
-          "summary": "The dismal performance of Geico is the biggest takeaway from Berkshire Hathaway’s third-quarter results.",
-          "published": "2026-11-09T12:27:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-          "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-          "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-          "published": "2026-11-07T15:23:46+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Oppenheimer sube AMD a Mejor Rendimiento y prevé que ventas en centros de datos se dupliquen",
-          "link": "https://es.investing.com/news/stock-market-news/oppenheimer-sube-amd-a-mejor-rendimiento-y-preve-que-ventas-en-centros-de-datos-se-dupliquen-3919035",
-          "summary": "",
-          "published": "2026-11-09T13:06:29+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "DB",
-      "name": "Deutsche Bank",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Las acciones de Deutz suben un 5% tras la recomendación de Deutsche Bank",
-          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-deutz-suben-un-5-tras-la-recomendacion-de-deutsche-bank-3918959",
-          "summary": "",
-          "published": "2026-11-09T12:49:08+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MS",
-      "name": "Morgan Stanley",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist",
-          "link": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
-          "summary": "The S&P 500 could decline to the investment bank’s lower end of its downside target in the coming weeks, which would provide a good opportunity to add risk.",
-          "published": "2026-11-09T10:26:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
     {
       "ticker": "CFE",
       "name": "Comisión Federal de Electricidad",
       "exchange": "Estatal (deuda)",
       "sector": "Energía",
       "news": [
+        {
+          "title": "Exclusiva: CFE evalúa emisión por US$2.000 millones para Fibra con activos de generación eléctrica",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/exclusiva-cfe-evalua-emision-por-us2000-millones-para-fibra-con-activos-de-generacion-electrica/",
+          "summary": "Los activos de generación eléctrica que planea fibrar CFE están valuados en más de US$4.000 millones.",
+          "published": "2026-11-09T21:23:28+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
         {
           "title": "CFE reduce apagones de energía en 36%, asegura su directora general, Emilia Calleja",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-reduce-apagones-de-energia-en-36-asegura-su-directora-general-emilia-calleja/",
@@ -250,6 +114,94 @@
           "published": "2026-10-28T00:47:15+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+          "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+          "summary": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.",
+          "published": "2026-11-09T21:55:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+          "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+          "summary": "“It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.",
+          "published": "2026-11-09T21:52:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+          "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+          "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
+          "published": "2026-11-09T21:43:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+          "published": "2026-11-09T18:46:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+          "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+          "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
+          "published": "2026-11-09T21:43:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+          "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+          "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
+          "published": "2026-11-09T21:43:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway",
+      "exchange": "NYSE",
+      "sector": "Finanzas",
+      "news": [
+        {
+          "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+          "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+          "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+          "published": "2026-11-07T15:23:46+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -400,54 +352,6 @@
           "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
           "summary": "These are the stocks posting the largest moves in early trading.",
           "published": "2026-11-02T12:49:35+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "CAT",
-      "name": "Caterpillar",
-      "exchange": "NYSE",
-      "sector": "Industria",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
-          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-10-29T17:10:32+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
-          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-10-29T13:26:19+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "name": "Eli Lilly",
-      "exchange": "NYSE",
-      "sector": "Salud",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
-          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-10-29T17:10:32+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
-          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-10-29T13:26:19+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -702,6 +606,54 @@
       ]
     },
     {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-29T17:10:32+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar",
+      "exchange": "NYSE",
+      "sector": "Industria",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-29T17:10:32+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly",
+      "exchange": "NYSE",
+      "sector": "Salud",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-29T17:10:32+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "AMXB.MX",
       "name": "América Móvil",
       "exchange": "BMV",
@@ -832,74 +784,83 @@
   ],
   "sin_accion": [
     {
-      "title": "¿Por qué cae hoy la acción de Goodyear Tire & Rubber?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-goodyear-tire--rubber-93CH-3919024",
-      "summary": "",
-      "published": "2026-11-09T13:06:13+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Berenberg rebaja Amrize por debilidad en tejados que amenaza márgenes",
-      "link": "https://es.investing.com/news/stock-market-news/berenberg-rebaja-amrize-por-debilidad-en-tejados-que-amenaza-margenes-3918998",
-      "summary": "",
-      "published": "2026-11-09T13:02:46+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Goodyear caen un 7% tras la salida repentina de su director ejecutivo",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-goodyear-caen-un-7-tras-la-salida-repentina-de-su-director-ejecutivo-3918978",
-      "summary": "",
-      "published": "2026-11-09T13:00:59+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Vir Biotecnología?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-vir-biotecnologia-93CH-3918938",
-      "summary": "",
-      "published": "2026-11-09T12:47:30+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Los estrategas de Wall Street creen que la corrección del S&P 500 está cerca de su fin",
-      "link": "https://es.investing.com/news/stock-market-news/los-estrategas-de-wall-street-creen-que-la-correccion-del-sp-500-esta-cerca-de-su-fin-3918924",
-      "summary": "",
-      "published": "2026-11-09T12:40:59+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Vir Biotecnología suben un 22% tras el éxito del ensayo de fase 3 contra la hepatitis delta",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-vir-biotecnologia-suben-un-22-tras-el-exito-del-ensayo-de-fase-3-contra-la-hepatitis-delta-3918881",
-      "summary": "",
-      "published": "2026-11-09T12:36:31+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-      "published": "2026-11-09T12:15:00+00:00",
+      "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
+      "link": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+      "summary": "The rocket-launch company just posted a steeper loss than analysts were expecting.",
+      "published": "2026-11-09T22:49:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Until AI sentiment improves, it’s better to sit out the global tech trade, Citi tells investors",
-      "link": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
-      "summary": "Despite recent weakness, Citi’s global strategy team thinks tech positioning needs to get cleaner before they would revert to their previous overweight stance.",
-      "published": "2026-11-09T11:25:00+00:00",
+      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+      "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+      "published": "2026-11-09T22:49:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "3 unexpected reasons the October jobs report was so strong",
+      "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+      "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
+      "published": "2026-11-09T22:23:56+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de JBS?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-jbs-93CH-3920119",
+      "summary": "",
+      "published": "2026-11-09T22:17:23+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Casella Waste?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-casella-waste-93CH-3920115",
+      "summary": "",
+      "published": "2026-11-09T22:16:21+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Xenon Pharmaceuticals?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-xenon-pharmaceuticals-93CH-3920104",
+      "summary": "",
+      "published": "2026-11-09T22:14:24+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Definium Therapeutics?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-definium-therapeutics-93CH-3920097",
+      "summary": "",
+      "published": "2026-11-09T22:12:31+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Sanmina?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-sanmina-93CH-3920095",
+      "summary": "",
+      "published": "2026-11-09T22:09:14+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de AST SpaceMobile?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-ast-spacemobile-93CH-3920094",
+      "summary": "",
+      "published": "2026-11-09T22:08:50+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -907,26 +868,53 @@
       "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
       "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
       "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-      "published": "2026-11-09T10:15:00+00:00",
+      "published": "2026-11-09T21:45:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Ryan Serhant of ‘Owning Manhattan’ on why you shouldn’t wait to buy a house, and the hot spots to watch for",
-      "link": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
-      "summary": "Ryan Serhant is warning would-be homebuyers against assuming that lower mortgage rates will deliver an easier path to homeownership in 2027.",
-      "published": "2026-11-09T10:04:00+00:00",
+      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+      "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+      "summary": "Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience",
+      "published": "2026-11-09T21:24:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million",
-      "link": "https://www.marketwatch.com/story/brewers-star-christian-yelich-is-selling-his-hillside-malibu-mansion-for-30-million-92bee567?mod=mw_rss_topstories",
-      "summary": "World Series champion Christian Yelich is looking to shed the contemporary Malibu mansion he bought for $5.5 million six years ago.",
-      "published": "2026-11-09T10:02:00+00:00",
+      "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
+      "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+      "summary": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels.",
+      "published": "2026-11-09T21:21:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why prediction markets and Wall Street pros so often fail to see what’s coming",
+      "link": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories",
+      "summary": "The probabilities make it almost certain that macro forecasts will be wrong far more often than right.",
+      "published": "2026-11-09T21:14:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+      "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
+      "published": "2026-11-09T21:03:55+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+      "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+      "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+      "published": "2026-11-09T18:14:47+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1048,33 +1036,6 @@
       "tickers": []
     },
     {
-      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
-      "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
-      "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
-      "published": "2026-11-05T16:34:33+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
-      "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
-      "summary": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
-      "published": "2026-11-05T16:07:59+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-      "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-      "summary": "One policymaker voted to raise the bank's key interest rate to 4.25%.",
-      "published": "2026-11-05T16:01:47+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Analistas ven más riesgos que beneficios si Banxico decide recortar la tasa de interés",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-ven-mas-riesgos-que-beneficios-si-banxico-decide-recortar-la-tasa-de-interes/",
       "summary": "Un ajuste a la baja en la tasa de interés se tomaría como sorpresivo en un momento en el que se desvanece el argumento del banco central de la holgura económica.",
@@ -1149,7 +1110,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 35,
-    "sin_accion": 35
+    "acciones_con_noticias": 34,
+    "sin_accion": 36
   }
 }
