@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T01:07:09.310717+00:00",
+  "generated_at": "2026-11-09T13:15:13.135033+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 13.3,
+      "ventana_horas": 0.5,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 501.6,
+      "ventana_horas": 498.4,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 6.7,
+      "ventana_horas": 3.2,
       "ok": true
     }
   ],
@@ -76,19 +76,67 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
+          "title": "Google amplía su gama de chips de IA mientras Nvidia enfrenta un escándalo de espionaje",
+          "link": "https://es.investing.com/news/stock-market-news/google-amplia-su-gama-de-chips-de-ia-mientras-nvidia-enfrenta-un-escandalo-de-espionaje-3918933",
+          "summary": "",
+          "published": "2026-11-09T12:44:04+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with an alleged spy",
           "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
           "summary": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time.",
-          "published": "2026-11-08T23:05:00+00:00",
+          "published": "2026-11-09T12:26:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "Nvidia investiga un presunto complot de espionaje contra su director ejecutivo",
-          "link": "https://es.investing.com/news/stock-market-news/nvidia-investiga-un-presunto-complot-de-espionaje-contra-su-director-ejecutivo-3917711",
+          "title": "Can the AI trade catch a break? Nvidia, Anthropic and CoreWeave may have a say.",
+          "link": "https://www.marketwatch.com/story/can-the-ai-trade-catch-a-break-nvidia-anthropic-and-coreweave-may-have-a-say-d00c9ab3?mod=mw_rss_topstories",
+          "summary": "After a bruising stretch for tech stocks, investors face fresh questions about leadership, valuations and the cost of the AI boom. Plus, a Taylor Swift encore for one 72-year-old retiree.",
+          "published": "2026-11-09T12:08:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "How Wall Street is reacting to the news of Nvidia’s investigation into Jensen Huang spy claims",
+          "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+          "summary": "The Wall Street reaction to the blockbuster Nvidia news is to wonder about who would succeed Jensen Huang if he were to be forced out.",
+          "published": "2026-11-09T09:12:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Google amplía su gama de chips de IA mientras Nvidia enfrenta un escándalo de espionaje",
+          "link": "https://es.investing.com/news/stock-market-news/google-amplia-su-gama-de-chips-de-ia-mientras-nvidia-enfrenta-un-escandalo-de-espionaje-3918933",
           "summary": "",
-          "published": "2026-11-08T20:36:56+00:00",
+          "published": "2026-11-09T12:44:04+00:00",
           "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+          "summary": "These are the stocks posting the largest moves midday.",
+          "published": "2026-10-29T17:10:32+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
+          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-10-29T13:26:19+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -100,11 +148,67 @@
       "sector": "Finanzas",
       "news": [
         {
+          "title": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
+          "link": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
+          "summary": "The dismal performance of Geico is the biggest takeaway from Berkshire Hathaway’s third-quarter results.",
+          "published": "2026-11-09T12:27:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
           "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
           "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
           "published": "2026-11-07T15:23:46+00:00",
           "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Oppenheimer sube AMD a Mejor Rendimiento y prevé que ventas en centros de datos se dupliquen",
+          "link": "https://es.investing.com/news/stock-market-news/oppenheimer-sube-amd-a-mejor-rendimiento-y-preve-que-ventas-en-centros-de-datos-se-dupliquen-3919035",
+          "summary": "",
+          "published": "2026-11-09T13:06:29+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "DB",
+      "name": "Deutsche Bank",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Las acciones de Deutz suben un 5% tras la recomendación de Deutsche Bank",
+          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-deutz-suben-un-5-tras-la-recomendacion-de-deutsche-bank-3918959",
+          "summary": "",
+          "published": "2026-11-09T12:49:08+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MS",
+      "name": "Morgan Stanley",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist",
+          "link": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
+          "summary": "The S&P 500 could decline to the investment bank’s lower end of its downside target in the coming weeks, which would provide a good opportunity to add risk.",
+          "published": "2026-11-09T10:26:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -296,30 +400,6 @@
           "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
           "summary": "These are the stocks posting the largest moves in early trading.",
           "published": "2026-11-02T12:49:35+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
-          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
-          "summary": "These are the stocks posting the largest moves midday.",
-          "published": "2026-10-29T17:10:32+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
-          "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-10-29T13:26:19+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -752,20 +832,56 @@
   ],
   "sin_accion": [
     {
-      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-      "summary": "The large-cap index is nowhere near as diversified as you think.",
-      "published": "2026-11-09T00:40:00+00:00",
-      "source_short": "MarketW",
+      "title": "¿Por qué cae hoy la acción de Goodyear Tire & Rubber?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-goodyear-tire--rubber-93CH-3919024",
+      "summary": "",
+      "published": "2026-11-09T13:06:13+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
-      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-      "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
-      "published": "2026-11-09T00:30:00+00:00",
-      "source_short": "MarketW",
+      "title": "Berenberg rebaja Amrize por debilidad en tejados que amenaza márgenes",
+      "link": "https://es.investing.com/news/stock-market-news/berenberg-rebaja-amrize-por-debilidad-en-tejados-que-amenaza-margenes-3918998",
+      "summary": "",
+      "published": "2026-11-09T13:02:46+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Goodyear caen un 7% tras la salida repentina de su director ejecutivo",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-goodyear-caen-un-7-tras-la-salida-repentina-de-su-director-ejecutivo-3918978",
+      "summary": "",
+      "published": "2026-11-09T13:00:59+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Vir Biotecnología?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-vir-biotecnologia-93CH-3918938",
+      "summary": "",
+      "published": "2026-11-09T12:47:30+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los estrategas de Wall Street creen que la corrección del S&P 500 está cerca de su fin",
+      "link": "https://es.investing.com/news/stock-market-news/los-estrategas-de-wall-street-creen-que-la-correccion-del-sp-500-esta-cerca-de-su-fin-3918924",
+      "summary": "",
+      "published": "2026-11-09T12:40:59+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Vir Biotecnología suben un 22% tras el éxito del ensayo de fase 3 contra la hepatitis delta",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-vir-biotecnologia-suben-un-22-tras-el-exito-del-ensayo-de-fase-3-contra-la-hepatitis-delta-3918881",
+      "summary": "",
+      "published": "2026-11-09T12:36:31+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -773,89 +889,53 @@
       "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
       "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
       "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-      "published": "2026-11-09T00:02:00+00:00",
+      "published": "2026-11-09T12:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-      "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-      "summary": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.",
-      "published": "2026-11-09T00:00:00+00:00",
+      "title": "Until AI sentiment improves, it’s better to sit out the global tech trade, Citi tells investors",
+      "link": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
+      "summary": "Despite recent weakness, Citi’s global strategy team thinks tech positioning needs to get cleaner before they would revert to their previous overweight stance.",
+      "published": "2026-11-09T11:25:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-      "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-      "summary": "The math should actually start with “if” — not “how much.”",
-      "published": "2026-11-08T23:50:00+00:00",
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+      "published": "2026-11-09T10:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-      "summary": "Math may be cold and unemotional — but finances are not.",
-      "published": "2026-11-08T23:49:00+00:00",
+      "title": "Ryan Serhant of ‘Owning Manhattan’ on why you shouldn’t wait to buy a house, and the hot spots to watch for",
+      "link": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
+      "summary": "Ryan Serhant is warning would-be homebuyers against assuming that lower mortgage rates will deliver an easier path to homeownership in 2027.",
+      "published": "2026-11-09T10:04:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Podría HBF ser la solución al cuello de botella de la memoria?",
-      "link": "https://es.investing.com/news/stock-market-news/podria-hbf-ser-la-solucion-al-cuello-de-botella-de-la-memoria-3917719",
-      "summary": "",
-      "published": "2026-11-08T22:10:23+00:00",
-      "source_short": "Investing",
+      "title": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million",
+      "link": "https://www.marketwatch.com/story/brewers-star-christian-yelich-is-selling-his-hillside-malibu-mansion-for-30-million-92bee567?mod=mw_rss_topstories",
+      "summary": "World Series champion Christian Yelich is looking to shed the contemporary Malibu mansion he bought for $5.5 million six years ago.",
+      "published": "2026-11-09T10:02:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "El desplome de la IA en China amenaza las ambiciones de Xi de crear un \"Wall Street del Este\"",
-      "link": "https://es.investing.com/news/stock-market-news/el-desplome-de-la-ia-en-china-amenaza-las-ambiciones-de-xi-de-crear-un-wall-street-del-este-3917707",
-      "summary": "",
-      "published": "2026-11-08T16:47:12+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Compra la caída en esta acción canadiense: RJ",
-      "link": "https://es.investing.com/news/stock-market-news/compra-la-caida-en-esta-accion-canadiense-rj-3917704",
-      "summary": "",
-      "published": "2026-11-08T16:22:03+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Es sostenible el boom de inversión en IA tras las caídas del jueves?",
-      "link": "https://es.investing.com/news/stock-market-news/es-sostenible-el-boom-de-inversion-en-ia-tras-las-caidas-del-jueves-3917703",
-      "summary": "",
-      "published": "2026-11-08T16:17:11+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las 5 acciones que hay que vigilar esta semana",
-      "link": "https://es.investing.com/news/stock-market-news/las-5-acciones-que-hay-que-vigilar-esta-semana-3917700",
-      "summary": "",
-      "published": "2026-11-08T15:50:25+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "BCA apuesta por las acciones europeas frente a Wall Street",
-      "link": "https://es.investing.com/news/stock-market-news/bca-apuesta-por-las-acciones-europeas-frente-a-wall-street-3917696",
-      "summary": "",
-      "published": "2026-11-08T15:01:06+00:00",
-      "source_short": "Investing",
+      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+      "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+      "published": "2026-11-09T02:50:22+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -995,15 +1075,6 @@
       "tickers": []
     },
     {
-      "title": "Here's what the Democratic election rout could mean for the U.S. economy",
-      "link": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
-      "summary": "The biggest forces shaping the economy aren't going to change just because the party in power did.",
-      "published": "2026-11-05T14:33:32+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Analistas ven más riesgos que beneficios si Banxico decide recortar la tasa de interés",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-ven-mas-riesgos-que-beneficios-si-banxico-decide-recortar-la-tasa-de-interes/",
       "summary": "Un ajuste a la baja en la tasa de interés se tomaría como sorpresivo en un momento en el que se desvanece el argumento del banco central de la holgura económica.",
@@ -1078,7 +1149,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 32,
-    "sin_accion": 36
+    "acciones_con_noticias": 35,
+    "sin_accion": 35
   }
 }
