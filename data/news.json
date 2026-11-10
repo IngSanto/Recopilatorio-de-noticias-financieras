@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T23:06:41.365157+00:00",
+  "generated_at": "2026-11-10T03:42:10.840319+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.0,
+      "ventana_horas": 1.5,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 477.4,
+      "ventana_horas": 481.9,
       "ok": true
     },
     {
@@ -64,11 +64,67 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.8,
+      "ventana_horas": 6.3,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Trump dice que el FBI investiga al director ejecutivo de Nvidia, Huang, por escándalo con China",
+          "link": "https://es.investing.com/news/stock-market-news/trump-dice-que-el-fbi-investiga-al-director-ejecutivo-de-nvidia-huang-por-escandalo-con-china-3920306",
+          "summary": "",
+          "published": "2026-11-10T03:20:47+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+          "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+          "summary": "‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research",
+          "published": "2026-11-10T00:48:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+          "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+          "summary": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.",
+          "published": "2026-11-09T21:55:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+          "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+          "summary": "“It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.",
+          "published": "2026-11-09T21:52:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+          "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+          "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
+          "published": "2026-11-09T21:43:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+          "published": "2026-11-09T18:46:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "CFE",
       "name": "Comisión Federal de Electricidad",
@@ -114,46 +170,6 @@
           "published": "2026-10-28T00:47:15+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-          "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-          "summary": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.",
-          "published": "2026-11-09T21:55:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
-          "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
-          "summary": "“It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.",
-          "published": "2026-11-09T21:52:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-          "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-          "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
-          "published": "2026-11-09T21:43:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
-          "published": "2026-11-09T18:46:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -784,6 +800,87 @@
   ],
   "sin_accion": [
     {
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+      "published": "2026-11-10T03:38:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
+      "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+      "summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September.",
+      "published": "2026-11-10T02:55:48+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de Monadelphous se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-monadelphous-se-disparan-hoy-93CH-3920287",
+      "summary": "",
+      "published": "2026-11-10T02:43:46+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Anthropic retira los detalles de su OPV tras enviarlos a banqueros",
+      "link": "https://es.investing.com/news/stock-market-news/anthropic-retira-detalles-de-su-opv-tras-enviarlos-a-banqueros-3920285",
+      "summary": "",
+      "published": "2026-11-10T02:38:30+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de WuXi AppTec suben tras ser retirada de lista militar de EE.UU.",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-wuxi-apptec-suben-tras-ser-retirada-de-lista-militar-de-eeuu-3920284",
+      "summary": "",
+      "published": "2026-11-10T02:36:11+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy el par dólar neozelandés/dólar estadounidense?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-el-par-dolar-neozelandesdolar-estadounidense-93CH-3920274",
+      "summary": "",
+      "published": "2026-11-10T02:32:01+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Qantas Airways?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-qantas-airways-93CH-3920273",
+      "summary": "",
+      "published": "2026-11-10T02:31:43+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Luxon se mantiene en el poder en Nueva Zelanda con una ajustada mayoría",
+      "link": "https://es.investing.com/news/stock-market-news/luxon-se-mantiene-en-el-poder-en-nueva-zelanda-con-una-ajustada-mayoria-93CH-3920271",
+      "summary": "",
+      "published": "2026-11-10T02:31:28+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+      "published": "2026-11-09T23:52:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
       "link": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
       "summary": "The rocket-launch company just posted a steeper loss than analysts were expecting.",
@@ -811,69 +908,6 @@
       "tickers": []
     },
     {
-      "title": "¿Por qué cae hoy la acción de JBS?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-jbs-93CH-3920119",
-      "summary": "",
-      "published": "2026-11-09T22:17:23+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Casella Waste?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-casella-waste-93CH-3920115",
-      "summary": "",
-      "published": "2026-11-09T22:16:21+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Xenon Pharmaceuticals?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-xenon-pharmaceuticals-93CH-3920104",
-      "summary": "",
-      "published": "2026-11-09T22:14:24+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Definium Therapeutics?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-definium-therapeutics-93CH-3920097",
-      "summary": "",
-      "published": "2026-11-09T22:12:31+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Sanmina?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-sanmina-93CH-3920095",
-      "summary": "",
-      "published": "2026-11-09T22:09:14+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de AST SpaceMobile?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-ast-spacemobile-93CH-3920094",
-      "summary": "",
-      "published": "2026-11-09T22:08:50+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-      "published": "2026-11-09T21:45:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
       "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
       "summary": "Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience",
@@ -887,15 +921,6 @@
       "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
       "summary": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels.",
       "published": "2026-11-09T21:21:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Why prediction markets and Wall Street pros so often fail to see what’s coming",
-      "link": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories",
-      "summary": "The probabilities make it almost certain that macro forecasts will be wrong far more often than right.",
-      "published": "2026-11-09T21:14:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -1006,15 +1031,6 @@
       "published": "2026-11-06T00:51:06+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "The October jobs report is out Friday. Here's everything to expect",
-      "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
-      "summary": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
-      "published": "2026-11-05T21:32:52+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
