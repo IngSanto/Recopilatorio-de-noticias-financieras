@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:42:10.840319+00:00",
+  "generated_at": "2026-11-10T12:54:07.152802+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.5,
+      "ventana_horas": 0.8,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 481.9,
+      "ventana_horas": 489.4,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 270.7,
+      "ventana_horas": 279.8,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 6.3,
+      "ventana_horas": 11.8,
       "ok": true
     }
   ],
@@ -76,10 +76,18 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Trump dice que el FBI investiga al director ejecutivo de Nvidia, Huang, por escándalo con China",
-          "link": "https://es.investing.com/news/stock-market-news/trump-dice-que-el-fbi-investiga-al-director-ejecutivo-de-nvidia-huang-por-escandalo-con-china-3920306",
+          "title": "Nvidia couldn’t derail the stock market’s rally. Hot inflation might.",
+          "link": "https://www.marketwatch.com/story/nvidia-couldnt-derail-the-stock-markets-rally-hot-inflation-might-8a572024?mod=mw_rss_topstories",
+          "summary": "A Fed official raises the prospect of a half-a-percentage-point rate hike. Plus, fresh valuation focus on Anthropic’s blockbuster IPO.",
+          "published": "2026-11-10T12:33:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "¿Qué implican los últimos riesgos de NVIDIA para el ecosistema de chips de IA?",
+          "link": "https://es.investing.com/news/stock-market-news/que-implican-los-ultimos-riesgos-de-nvidia-para-el-ecosistema-de-chips-de-ia-3921146",
           "summary": "",
-          "published": "2026-11-10T03:20:47+00:00",
+          "published": "2026-11-10T12:16:41+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
@@ -92,35 +100,51 @@
           "source_scope": "Internacional"
         },
         {
-          "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-          "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-          "summary": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.",
-          "published": "2026-11-09T21:55:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
-          "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
-          "summary": "“It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.",
-          "published": "2026-11-09T21:52:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-          "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-          "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
-          "published": "2026-11-09T21:43:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
           "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
           "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
           "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
           "published": "2026-11-09T18:46:01+00:00",
           "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Amazon se enfrenta a un posible juicio en Italia por importaciones chinas",
+          "link": "https://es.investing.com/news/stock-market-news/amazon-se-enfrenta-a-un-posible-juicio-en-italia-por-importaciones-chinas-93CH-3921055",
+          "summary": "",
+          "published": "2026-11-10T12:00:23+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
+          "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "published": "2026-10-30T12:01:15+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "DB",
+      "name": "Deutsche Bank",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Deutsche Bank rebaja Hugo Boss a \"vender\" por caída de ventas",
+          "link": "https://es.investing.com/news/stock-market-news/deutsche-bank-rebaja-hugo-boss-por-caida-de-ventas-y-reestructuracion-3921009",
+          "summary": "",
+          "published": "2026-11-10T11:45:53+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -170,38 +194,6 @@
           "published": "2026-10-28T00:47:15+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-          "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-          "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
-          "published": "2026-11-09T21:43:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-          "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-          "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
-          "published": "2026-11-09T21:43:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -558,22 +550,6 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
-          "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-30T12:01:15+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "INTC",
       "name": "Intel",
       "exchange": "NASDAQ",
@@ -800,101 +776,128 @@
   ],
   "sin_accion": [
     {
-      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-      "published": "2026-11-10T03:38:00+00:00",
+      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
+      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+      "summary": "Anthropic could raise up to $63 billion in an IPO expected to take place next week.",
+      "published": "2026-11-10T12:32:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
+      "title": "¿Por qué se desploma hoy la acción de GFL Environmental?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-gfl-environmental-93CH-3921197",
+      "summary": "",
+      "published": "2026-11-10T12:26:22+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Futuros del TSX estables ante datos de inflación de EE.UU. y caída del petróleo",
+      "link": "https://es.investing.com/news/stock-market-news/futuros-del-tsx-estables-ante-datos-de-inflacion-de-eeuu-y-caida-del-petroleo-3921198",
+      "summary": "",
+      "published": "2026-11-10T12:24:08+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de GFL Environmental caen un 14% tras rechazar ofertas de compra",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-gfl-environmental-caen-un-14-tras-rechazar-ofertas-de-compra-3921186",
+      "summary": "",
+      "published": "2026-11-10T12:22:28+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Carlyle?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-carlyle-93CH-3921183",
+      "summary": "",
+      "published": "2026-11-10T12:22:13+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Zentalis Pharmaceuticals?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-zentalis-pharmaceuticals-93CH-3921143",
+      "summary": "",
+      "published": "2026-11-10T12:16:58+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+      "published": "2026-11-10T12:16:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Sanmina?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-sanmina-93CH-3920994",
+      "summary": "",
+      "published": "2026-11-10T11:41:13+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+      "published": "2026-11-10T11:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "published": "2026-11-10T10:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
       "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-      "summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September.",
-      "published": "2026-11-10T02:55:48+00:00",
+      "summary": "China's trade surplus topped $1 trillion as of October, potentially intensifying complaints from trading partners already wary over the glut of cheap Chinese goods.",
+      "published": "2026-11-10T10:24:13+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué las acciones de Monadelphous se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-monadelphous-se-disparan-hoy-93CH-3920287",
-      "summary": "",
-      "published": "2026-11-10T02:43:46+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Anthropic retira los detalles de su OPV tras enviarlos a banqueros",
-      "link": "https://es.investing.com/news/stock-market-news/anthropic-retira-detalles-de-su-opv-tras-enviarlos-a-banqueros-3920285",
-      "summary": "",
-      "published": "2026-11-10T02:38:30+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de WuXi AppTec suben tras ser retirada de lista militar de EE.UU.",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-wuxi-apptec-suben-tras-ser-retirada-de-lista-militar-de-eeuu-3920284",
-      "summary": "",
-      "published": "2026-11-10T02:36:11+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy el par dólar neozelandés/dólar estadounidense?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-el-par-dolar-neozelandesdolar-estadounidense-93CH-3920274",
-      "summary": "",
-      "published": "2026-11-10T02:32:01+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Qantas Airways?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-qantas-airways-93CH-3920273",
-      "summary": "",
-      "published": "2026-11-10T02:31:43+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Luxon se mantiene en el poder en Nueva Zelanda con una ajustada mayoría",
-      "link": "https://es.investing.com/news/stock-market-news/luxon-se-mantiene-en-el-poder-en-nueva-zelanda-con-una-ajustada-mayoria-93CH-3920271",
-      "summary": "",
-      "published": "2026-11-10T02:31:28+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-      "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
-      "published": "2026-11-09T23:52:00+00:00",
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "There’s already a demographic ‘run’ on Social Security.",
+      "published": "2026-11-10T10:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
-      "link": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
-      "summary": "The rocket-launch company just posted a steeper loss than analysts were expecting.",
-      "published": "2026-11-09T22:49:00+00:00",
+      "title": "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million",
+      "link": "https://www.marketwatch.com/story/n-y-knicks-star-josh-hart-relists-florida-home-for-5-7-million-5fd3f18c?mod=mw_rss_topstories",
+      "summary": "New York Knicks star Josh Hart has relisted his sprawling Florida mansion for $5.69 million—just one year after removing the home from the selling block.",
+      "published": "2026-11-10T10:01:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-      "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-      "published": "2026-11-09T22:49:00+00:00",
-      "source_short": "MarketW",
+      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+      "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+      "summary": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
+      "published": "2026-11-10T09:00:01+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -904,24 +907,6 @@
       "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
       "published": "2026-11-09T22:23:56+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
-      "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
-      "summary": "Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience",
-      "published": "2026-11-09T21:24:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
-      "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
-      "summary": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels.",
-      "published": "2026-11-09T21:21:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1034,15 +1019,6 @@
       "tickers": []
     },
     {
-      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-      "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-      "summary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
-      "published": "2026-11-05T20:17:16+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Sheinbaum se reunirá con Xi Jinping y buscará encuentro con Trump en APEC",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-se-reunira-con-xi-jinping-y-buscara-encuentro-con-trump-en-apec/",
       "summary": "La presidenta de México recibirá la estafeta para organizar la cumbre de APEC en 2028.",
@@ -1126,7 +1102,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 34,
+    "acciones_con_noticias": 33,
     "sin_accion": 36
   }
 }
