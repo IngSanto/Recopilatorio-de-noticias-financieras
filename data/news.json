@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:22:05.981940+00:00",
+  "generated_at": "2026-11-11T12:04:16.026941+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 2.7,
+      "ventana_horas": 0.8,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 496.1,
+      "ventana_horas": 463.2,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 283.6,
+      "ventana_horas": 283.8,
       "ok": true
     },
     {
@@ -64,11 +64,107 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.5,
+      "ventana_horas": 12.0,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Nvidia y chips rebotan antes de apertura tras revisión al alza de CoreWeave",
+          "link": "https://es.investing.com/news/stock-market-news/nvidia-y-chips-repuntan-antes-de-la-apertura-tras-las-perspectivas-de-coreweave-3923238",
+          "summary": "",
+          "published": "2026-11-11T11:30:06+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+          "published": "2026-11-11T07:47:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+          "published": "2026-11-09T18:46:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "¿Por qué sube hoy la acción de ASML NV ADR?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-asml-nv-adr-93CH-3923145",
+          "summary": "",
+          "published": "2026-11-11T11:01:46+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
+          "link": "https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories",
+          "summary": "Following Tuesday’s hot CPI data , Goldman Sachs is now pencilling in additional Fed tightening.",
+          "published": "2026-11-11T10:37:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "F",
+      "name": "Ford Motor Company",
+      "exchange": "NYSE",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious seating and mighty engine",
+          "link": "https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories",
+          "summary": "The Ford Expedition has modern tech, a big third row, clever features, and a muscular engine, adding up to make it our favorite full-size SUV.",
+          "published": "2026-11-11T09:59:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "name": "Alibaba",
+      "exchange": "NYSE",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+          "published": "2026-11-11T07:47:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
@@ -214,94 +310,6 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Los futuros de las acciones suben tras caída por IPC y pérdidas de Nvidia",
-          "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-suben-tras-caida-por-ipc-y-perdidas-de-nvidia-3922595",
-          "summary": "",
-          "published": "2026-11-11T00:42:41+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-          "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-          "summary": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
-          "published": "2026-11-10T22:37:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
-          "link": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
-          "summary": "Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent investigation into whether Nvidia’s CEO was the target of a China spy operation",
-          "published": "2026-11-10T22:05:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
-          "published": "2026-11-09T18:46:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "PBR",
-      "name": "Petrobras",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Petrobras: beneficio del tercer trimestre sube 34% pero decepciona",
-          "link": "https://es.investing.com/news/stock-market-news/petrobras-beneficio-del-tercer-trimestre-sube-34-pero-decepciona-93CH-3922571",
-          "summary": "",
-          "published": "2026-11-11T00:09:58+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
-          "summary": "La presidenta mexicana evitó responder si viajará a Brasil, pero detalló que retomará la aliaza estratégica entre ambas petroleras nacionales.",
-          "published": "2026-10-26T15:34:09+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
-          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
-          "published": "2026-10-21T19:04:25+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-          "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-          "summary": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
-          "published": "2026-11-10T22:37:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "BLK",
       "name": "BlackRock",
       "exchange": "NYSE",
@@ -416,6 +424,30 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/division-petrolera-de-carlos-slim-reactiva-produccion-en-campos-marinos-con-rusa-lukoil/",
           "summary": "Zamajal, subsidiaria petrolera de Grupo Carso, alista un plan de inversión “agresivo” a partir de 2027.",
           "published": "2026-10-27T19:20:55+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "PBR",
+      "name": "Petrobras",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
+          "summary": "La presidenta mexicana evitó responder si viajará a Brasil, pero detalló que retomará la aliaza estratégica entre ambas petroleras nacionales.",
+          "published": "2026-10-26T15:34:09+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
+          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
+          "published": "2026-10-21T19:04:25+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -598,22 +630,6 @@
       ]
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "exchange": "NASDAQ",
-      "sector": "Cripto",
-      "news": [
-        {
-          "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
-          "link": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
-          "summary": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market.",
-          "published": "2026-10-29T21:38:16+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "AMXB.MX",
       "name": "América Móvil",
       "exchange": "BMV",
@@ -760,11 +776,38 @@
   ],
   "sin_accion": [
     {
-      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-      "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-      "summary": "People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy.",
-      "published": "2026-11-11T01:14:00+00:00",
+      "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+      "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+      "summary": "Anxiety in the U.S. stock market has surged amid a sharp selloff in artificial intelligence names and stubbornly high bond yields.",
+      "published": "2026-11-11T12:00:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Valens Semiconductor?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-valens-semiconductor-93CH-3923273",
+      "summary": "",
+      "published": "2026-11-11T11:44:50+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de Tandy Leather Factory se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-tandy-leather-factory-se-disparan-hoy-93CH-3923251",
+      "summary": "",
+      "published": "2026-11-11T11:37:14+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Jefferies rebaja BASF por exceso de oferta química y caída de márgenes",
+      "link": "https://es.investing.com/news/stock-market-news/jefferies-rebaja-basf-por-exceso-de-oferta-quimica-y-caida-de-margenes-3923243",
+      "summary": "",
+      "published": "2026-11-11T11:32:42+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -772,25 +815,70 @@
       "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
       "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
       "summary": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
-      "published": "2026-11-11T01:12:00+00:00",
+      "published": "2026-11-11T11:27:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-      "published": "2026-11-11T00:30:00+00:00",
+      "title": "Telecom Italia registra crecimiento en ingresos en el tercer trimestre y recupera el grado de inversión; las acciones suben",
+      "link": "https://es.investing.com/news/stock-market-news/telecom-italia-registra-crecimiento-en-ingresos-en-el-tercer-trimestre-y-recupera-el-grado-de-inversion-las-acciones-suben-93CH-3923194",
+      "summary": "",
+      "published": "2026-11-11T11:13:46+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Acciones de Spirax-Sarco suben 4% por mayor crecimiento en ventas",
+      "link": "https://es.investing.com/news/stock-market-news/acciones-de-spiraxsarco-suben-4-por-mayor-crecimiento-en-ventas-93CH-3923158",
+      "summary": "",
+      "published": "2026-11-11T11:05:34+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de BE Semiconductor Industries?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-be-semiconductor-industries-93CH-3923146",
+      "summary": "",
+      "published": "2026-11-11T11:02:00+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage with an outstanding balance of $295,000.”",
+      "published": "2026-11-11T10:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-      "published": "2026-11-11T00:00:00+00:00",
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "published": "2026-11-11T10:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Tiger Woods has another private, 18-hole golf destination in the works — this one for Long Island’s Gold Coast",
+      "link": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
+      "summary": "Golf legend Tiger Woods is heading up a new private golf destination on the North Shore of Long Island in Brookville, N.Y.",
+      "published": "2026-11-11T10:03:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+      "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+      "summary": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
+      "published": "2026-11-11T01:54:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -801,78 +889,6 @@
       "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
       "published": "2026-11-10T23:53:58+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "summary": "There is already a demographic ‘run’ on Social Security.",
-      "published": "2026-11-10T23:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-      "published": "2026-11-10T23:25:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "American Barrick presenta su OPV en NYSE como filial controlada de Barrick Mining",
-      "link": "https://es.investing.com/news/stock-market-news/american-barrick-presenta-su-opv-en-nyse-como-filial-controlada-de-barrick-mining-3922521",
-      "summary": "",
-      "published": "2026-11-10T22:46:04+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Acción subió 105% y solo esta IA la vio: ¡Obtenla hoy con un 55% de descuento!",
-      "link": "https://es.investing.com/news/stock-market-news/accion-subio-105-y-solo-esta-ia-la-vio-obtenla-hoy-con-un-55-de-descuento-3922491",
-      "summary": "",
-      "published": "2026-11-10T22:22:20+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de Satellogic se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-satellogic-se-disparan-hoy-93CH-3922488",
-      "summary": "",
-      "published": "2026-11-10T22:21:20+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Fossil?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-fossil-93CH-3922484",
-      "summary": "",
-      "published": "2026-11-10T22:20:14+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de B&G Foods se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-bg-foods-se-disparan-hoy-93CH-3922483",
-      "summary": "",
-      "published": "2026-11-10T22:18:58+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de PetMed Express?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-petmed-express-93CH-3922480",
-      "summary": "",
-      "published": "2026-11-10T22:17:01+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1086,7 +1102,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 32,
+    "acciones_con_noticias": 34,
     "sin_accion": 36
   }
 }
