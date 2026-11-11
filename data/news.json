@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:33:50.035102+00:00",
+  "generated_at": "2026-11-11T01:22:05.981940+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 11282.8,
+      "ventana_horas": 11286.0,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.1,
+      "ventana_horas": 2.7,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 488.9,
+      "ventana_horas": 496.1,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.2,
+      "ventana_horas": 3.5,
       "ok": true
     }
   ],
@@ -158,163 +158,19 @@
       ]
     },
     {
-      "ticker": "ABNB",
-      "name": "Airbnb",
-      "exchange": "NASDAQ",
-      "sector": "Viajes",
-      "news": [
-        {
-          "title": "¿Por qué cae hoy la acción de Airbnb?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-airbnb-93CH-3922181",
-          "summary": "",
-          "published": "2026-11-10T19:20:07+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Expedia, Booking y Airbnb caen tras la compra de plataforma de viajes IA por OpenAI",
-          "link": "https://es.investing.com/news/stock-market-news/expedia-booking-y-airbnb-caen-tras-la-compra-de-plataforma-de-viajes-ia-por-openai-3922166",
-          "summary": "",
-          "published": "2026-11-10T19:10:00+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
-          "link": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-premarket-moderna-airbnb-cloudflare-affirm-more.html",
-          "summary": "These are some of the stocks posting the largest moves premarket.",
-          "published": "2026-11-06T13:05:50+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-          "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-          "summary": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
-          "published": "2026-11-10T19:17:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Even Wall Street’s lone Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’",
-          "link": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
-          "summary": "Nvidia’s board is investigating CEO Jensen Huang over his relationship with an alleged spy.",
-          "published": "2026-11-10T18:16:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
-          "published": "2026-11-09T18:46:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVO",
-      "name": "Novo Nordisk",
-      "exchange": "NYSE",
-      "sector": "Salud",
-      "news": [
-        {
-          "title": "The FDA now says Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
-          "link": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
-          "summary": "Several medical studies have found that people taking GLP-1 medications have an elevated risk for nonarteritic anterior ischemic optic neuropathy, or NAION.",
-          "published": "2026-11-10T18:21:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
-          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-11-04T13:32:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-          "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-          "summary": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
-          "published": "2026-11-10T19:17:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BA",
-      "name": "Boeing",
-      "exchange": "NYSE",
-      "sector": "Industria",
-      "news": [
-        {
-          "title": "Boeing entrega 49 aviones en octubre, menos que el mes anterior",
-          "link": "https://es.investing.com/news/stock-market-news/boeing-entrega-49-aviones-en-octubre-menos-que-el-mes-anterior-93CH-3922171",
-          "summary": "",
-          "published": "2026-11-10T19:13:25+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BLK",
-      "name": "BlackRock",
-      "exchange": "NYSE",
-      "sector": "Finanzas",
-      "news": [
-        {
-          "title": "Bolsa Mexicana espera nuevas emisiones de acciones en 2027: qué falta para atraer capital",
-          "link": "https://www.bloomberglinea.com/mercados/bolsa-mexicana-espera-nuevas-emisiones-de-acciones-en-2027-que-falta-para-atraer-capital/",
-          "summary": "Representantes de BlackRock, Vanguard, la BMV y Bitso analizaron los desafíos de liquidez, regulación y acceso a la inversión durante el Bloomberg Línea Summit México 2026.",
-          "published": "2026-11-10T17:55:44+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "BP",
-      "name": "BP",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Pemex trabaja con BP y Eni en exploración de aguas profundas de México",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-trabaja-con-bp-y-eni-en-exploracion-de-aguas-profundas-de-mexico/",
-          "summary": "El objetivo de las alianzas estratégicas con empresas privadas es mantener la meta de producción de 1,8 millones de barriles diarios de crudo.",
-          "published": "2026-11-10T15:28:43+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "CFE",
       "name": "Comisión Federal de Electricidad",
       "exchange": "Estatal (deuda)",
       "sector": "Energía",
       "news": [
+        {
+          "title": "CFE Fibra E inicia reuniones con inversionistas por nueva emisión de hasta US$867 millones",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-fibra-e-inicia-reuniones-con-inversionistas-por-nueva-emision-de-hasta-us867-millones/",
+          "summary": "El director de finanzas de CFE estimó previamente un monto de colocación por US$1.000 millones aproximadamente.",
+          "published": "2026-11-10T21:08:02+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
         {
           "title": "Exclusiva: CFE evalúa emisión por US$2.000 millones para Fibra con activos de generación eléctrica",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/exclusiva-cfe-evalua-emision-por-us2000-millones-para-fibra-con-activos-de-generacion-electrica/",
@@ -352,6 +208,126 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-proyectos-de-redes-electricas-y-centrales-a-la-industria-privada/",
           "summary": "La empresa hizo pública la reunión con la industria cuatro días después de presentarlo en un roadshow en Ciudad de México.",
           "published": "2026-10-28T00:47:15+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Los futuros de las acciones suben tras caída por IPC y pérdidas de Nvidia",
+          "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-suben-tras-caida-por-ipc-y-perdidas-de-nvidia-3922595",
+          "summary": "",
+          "published": "2026-11-11T00:42:41+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
+          "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+          "summary": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
+          "published": "2026-11-10T22:37:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
+          "link": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
+          "summary": "Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent investigation into whether Nvidia’s CEO was the target of a China spy operation",
+          "published": "2026-11-10T22:05:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+          "published": "2026-11-09T18:46:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "PBR",
+      "name": "Petrobras",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Petrobras: beneficio del tercer trimestre sube 34% pero decepciona",
+          "link": "https://es.investing.com/news/stock-market-news/petrobras-beneficio-del-tercer-trimestre-sube-34-pero-decepciona-93CH-3922571",
+          "summary": "",
+          "published": "2026-11-11T00:09:58+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
+          "summary": "La presidenta mexicana evitó responder si viajará a Brasil, pero detalló que retomará la aliaza estratégica entre ambas petroleras nacionales.",
+          "published": "2026-10-26T15:34:09+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
+          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
+          "published": "2026-10-21T19:04:25+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
+          "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+          "summary": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
+          "published": "2026-11-10T22:37:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BLK",
+      "name": "BlackRock",
+      "exchange": "NYSE",
+      "sector": "Finanzas",
+      "news": [
+        {
+          "title": "Bolsa Mexicana espera nuevas emisiones de acciones en 2027: qué falta para atraer capital",
+          "link": "https://www.bloomberglinea.com/mercados/bolsa-mexicana-espera-nuevas-emisiones-de-acciones-en-2027-que-falta-para-atraer-capital/",
+          "summary": "Representantes de BlackRock, Vanguard, la BMV y Bitso analizaron los desafíos de liquidez, regulación y acceso a la inversión durante el Bloomberg Línea Summit México 2026.",
+          "published": "2026-11-10T17:55:44+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "BP",
+      "name": "BP",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Pemex trabaja con BP y Eni en exploración de aguas profundas de México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-trabaja-con-bp-y-eni-en-exploracion-de-aguas-profundas-de-mexico/",
+          "summary": "El objetivo de las alianzas estratégicas con empresas privadas es mantener la meta de producción de 1,8 millones de barriles diarios de crudo.",
+          "published": "2026-11-10T15:28:43+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -446,50 +422,18 @@
       ]
     },
     {
-      "ticker": "PBR",
-      "name": "Petrobras",
-      "exchange": "NYSE",
-      "sector": "Energía",
+      "ticker": "ABNB",
+      "name": "Airbnb",
+      "exchange": "NASDAQ",
+      "sector": "Viajes",
       "news": [
         {
-          "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
-          "summary": "La presidenta mexicana evitó responder si viajará a Brasil, pero detalló que retomará la aliaza estratégica entre ambas petroleras nacionales.",
-          "published": "2026-10-26T15:34:09+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
-          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
-          "published": "2026-10-21T19:04:25+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "FEMSAUBD.MX",
-      "name": "FEMSA",
-      "exchange": "BMV",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "¿Banco Oxxo? FEMSA trabaja cautelosamente para mejorar su licencia financiera",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banco-oxxo-femsa-trabaja-cautelosamente-para-mejorar-su-licencia-financiera/",
-          "summary": "FEMSA está siendo cautelosa al probar e implementar estos servicios financieros, dijeron directivos de la compañía en una conferencia con analistas e inversionistas.",
-          "published": "2025-07-28T17:10:02+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Oxxo enfrenta el embate de un consumo débil y clima adverso en el segundo trimestre en México",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/oxxo-enfrenta-el-embate-de-un-consumo-debil-y-clima-adverso-en-el-segundo-trimestre-en-mexico/",
-          "summary": "FEMSA observó en México tendencias de tráfico menores a sus expectativas. Mientras que las categorías de refresco, cerveza y tabaco, enfrentaron presiones.",
-          "published": "2025-07-28T15:10:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
+          "title": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
+          "link": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-premarket-moderna-airbnb-cloudflare-affirm-more.html",
+          "summary": "These are some of the stocks posting the largest moves premarket.",
+          "published": "2026-11-06T13:05:50+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -514,6 +458,22 @@
       "name": "Tesla",
       "exchange": "NASDAQ",
       "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-11-04T13:32:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "NVO",
+      "name": "Novo Nordisk",
+      "exchange": "NYSE",
+      "sector": "Salud",
       "news": [
         {
           "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
@@ -780,69 +740,49 @@
           "source_scope": "México"
         }
       ]
+    },
+    {
+      "ticker": "FEMSAUBD.MX",
+      "name": "FEMSA",
+      "exchange": "BMV",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "Oxxo enfrenta el embate de un consumo débil y clima adverso en el segundo trimestre en México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/oxxo-enfrenta-el-embate-de-un-consumo-debil-y-clima-adverso-en-el-segundo-trimestre-en-mexico/",
+          "summary": "FEMSA observó en México tendencias de tráfico menores a sus expectativas. Mientras que las categorías de refresco, cerveza y tabaco, enfrentaron presiones.",
+          "published": "2025-07-28T15:10:03+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
     }
   ],
   "sin_accion": [
     {
-      "title": "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist",
-      "link": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
-      "summary": "The Fed remains too optimistic on its ability to tame inflation, and markets may be too complacent, economist Neil Dutta warns.",
-      "published": "2026-11-10T20:27:00+00:00",
+      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+      "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+      "summary": "People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy.",
+      "published": "2026-11-11T01:14:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "OPI de Anthropic: ¡Inicia el roadshow! Esto debes saber antes de su debut en bolsa",
-      "link": "https://es.investing.com/news/stock-market-news/opi-de-anthropic-inicia-el-roadshow-esto-debes-saber-antes-de-su-debut-en-bolsa-3922232",
-      "summary": "",
-      "published": "2026-11-10T20:16:08+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "S&P sube la calificación de GEO Group a ’BB+’ por reducción de deuda",
-      "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-geo-group-a-bb-por-reduccion-de-deuda-3922217",
-      "summary": "",
-      "published": "2026-11-10T19:56:33+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Sierra, inquilina en un bono hipotecario comercial de 300 millones de dólares de Rockrose",
-      "link": "https://es.investing.com/news/stock-market-news/sierra-inquilina-en-un-bono-hipotecario-comercial-de-300-millones-de-dolares-de-rockrose-93CH-3922214",
-      "summary": "",
-      "published": "2026-11-10T19:53:24+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Pizza Hut planea venta de bonos por 1.000 millones de dólares para financiar la compra de LongRange",
-      "link": "https://es.investing.com/news/stock-market-news/pizza-hut-planea-venta-de-bonos-por-1000-millones-de-dolares-para-financiar-la-compra-de-longrange-93CH-3922205",
-      "summary": "",
-      "published": "2026-11-10T19:48:43+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
-      "summary": "Anthropic could raise up to $63 billion in an IPO expected to take place next week.",
-      "published": "2026-11-10T19:47:00+00:00",
+      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "summary": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
+      "published": "2026-11-11T01:12:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Luis de Miguel Florencio y la construcción de un negocio inmobiliario basado en la confianza y la gestión financiera",
-      "link": "https://es.investing.com/news/stock-market-news/luis-de-miguel-florencio-y-la-construccion-de-un-negocio-inmobiliario-basado-en-la-confianza-y-la-gestion-financiera-3922197",
-      "summary": "",
-      "published": "2026-11-10T19:35:34+00:00",
-      "source_short": "Investing",
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+      "published": "2026-11-11T00:30:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -850,35 +790,17 @@
       "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
       "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
       "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-      "published": "2026-11-10T19:30:00+00:00",
+      "published": "2026-11-11T00:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Corporate America is making a trillion-dollar mistake about retirement",
-      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-      "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-      "published": "2026-11-10T19:29:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Booking Holdings?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-booking-holdings-93CH-3922183",
-      "summary": "",
-      "published": "2026-11-10T19:21:08+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-      "published": "2026-11-10T19:00:00+00:00",
-      "source_short": "MarketW",
+      "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+      "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+      "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
+      "published": "2026-11-10T23:53:58+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -886,8 +808,71 @@
       "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
       "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
       "summary": "There is already a demographic ‘run’ on Social Security.",
-      "published": "2026-11-10T18:45:00+00:00",
+      "published": "2026-11-10T23:30:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "published": "2026-11-10T23:25:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "American Barrick presenta su OPV en NYSE como filial controlada de Barrick Mining",
+      "link": "https://es.investing.com/news/stock-market-news/american-barrick-presenta-su-opv-en-nyse-como-filial-controlada-de-barrick-mining-3922521",
+      "summary": "",
+      "published": "2026-11-10T22:46:04+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Acción subió 105% y solo esta IA la vio: ¡Obtenla hoy con un 55% de descuento!",
+      "link": "https://es.investing.com/news/stock-market-news/accion-subio-105-y-solo-esta-ia-la-vio-obtenla-hoy-con-un-55-de-descuento-3922491",
+      "summary": "",
+      "published": "2026-11-10T22:22:20+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de Satellogic se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-satellogic-se-disparan-hoy-93CH-3922488",
+      "summary": "",
+      "published": "2026-11-10T22:21:20+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Fossil?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-fossil-93CH-3922484",
+      "summary": "",
+      "published": "2026-11-10T22:20:14+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de B&G Foods se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-bg-foods-se-disparan-hoy-93CH-3922483",
+      "summary": "",
+      "published": "2026-11-10T22:18:58+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de PetMed Express?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-petmed-express-93CH-3922480",
+      "summary": "",
+      "published": "2026-11-10T22:17:01+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -896,15 +881,6 @@
       "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
       "summary": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
       "published": "2026-11-10T17:13:44+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-      "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-      "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
-      "published": "2026-11-10T16:47:05+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1110,7 +1086,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 33,
+    "acciones_con_noticias": 32,
     "sin_accion": 36
   }
 }
