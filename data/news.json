@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T13:08:07.624707+00:00",
+  "generated_at": "2026-11-12T21:01:17.162787+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.6,
+      "ventana_horas": 0.4,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 376.2,
+      "ventana_horas": 385.8,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 282.7,
+      "ventana_horas": 239.1,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.0,
+      "ventana_horas": 2.5,
       "ok": true
     }
   ],
@@ -76,35 +76,27 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "The ‘bank of Nvidia’ is in jeopardy, threatening the entire AI boom",
-          "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
-          "summary": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he’s gone?",
-          "published": "2026-11-12T12:55:00+00:00",
+          "title": "The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.",
+          "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+          "summary": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
+          "published": "2026-11-12T19:52:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "Nvidia’s Jensen Huang crisis tests how much of the AI industry depends on one man",
-          "link": "https://www.marketwatch.com/story/nvidias-jensen-huang-dilemma-is-a-test-of-the-ai-industrys-dependence-on-one-flawed-man-a9a1d99c?mod=mw_rss_topstories",
-          "summary": "Huang’s exit could fray tight bonds among AI businesses. Plus, Oracle’s potential AI catalyst, a $1.5 trillion Social Security stock proposal and what the oil-yield split may mean for inflation.",
-          "published": "2026-11-12T12:29:00+00:00",
+          "title": "Nvidia’s stock selloff may be just beginning, even after shedding 30% from its peak",
+          "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
+          "summary": "While shares of Nvidia look cheap on paper and on the charts, Wall Street analysts see more volatility ahead.",
+          "published": "2026-11-12T19:15:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying",
-          "link": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
-          "summary": "The Singaporean company Megaspeed, at the center of the scandal engulfing Nvidia, on Thursday issued its first public statement since the scandal erupted.",
-          "published": "2026-11-12T10:57:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-          "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-          "summary": "Nvidia’s board of directors reportedly met late Wednesday to determine the CEO’s fate.",
-          "published": "2026-11-12T10:07:00+00:00",
-          "source_short": "MarketW",
+          "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+          "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+          "published": "2026-11-12T17:39:54+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
@@ -112,14 +104,6 @@
           "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
           "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
           "published": "2026-11-12T07:28:48+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
-          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-          "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-          "published": "2026-11-11T22:59:33+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         },
@@ -142,73 +126,25 @@
       ]
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
       "news": [
         {
-          "title": "Nvidia’s Jensen Huang crisis tests how much of the AI industry depends on one man",
-          "link": "https://www.marketwatch.com/story/nvidias-jensen-huang-dilemma-is-a-test-of-the-ai-industrys-dependence-on-one-flawed-man-a9a1d99c?mod=mw_rss_topstories",
-          "summary": "Huang’s exit could fray tight bonds among AI businesses. Plus, Oracle’s potential AI catalyst, a $1.5 trillion Social Security stock proposal and what the oil-yield split may mean for inflation.",
-          "published": "2026-11-12T12:29:00+00:00",
-          "source_short": "MarketW",
+          "title": "El imperio SpaceX-Tesla de Musk se acerca, pero China y Washington pesan",
+          "link": "https://es.investing.com/news/stock-market-news/el-imperio-spacextesla-de-musk-se-acerca-pero-china-y-washington-pesan-3926313",
+          "summary": "",
+          "published": "2026-11-12T20:23:33+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
-          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-11-02T20:00:16+00:00",
+          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
+          "summary": "These are the stocks posting the largest moves in the premarket.",
+          "published": "2026-11-04T13:32:54+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MRK",
-      "name": "Merck",
-      "exchange": "NYSE",
-      "sector": "Salud",
-      "news": [
-        {
-          "title": "The world’s most sophisticated drug companies are putting billions into vaccines — despite the political environment",
-          "link": "https://www.marketwatch.com/story/the-worlds-most-sophisticated-drug-companies-are-putting-billions-into-vaccines-despite-the-political-environment-8dcbf276?mod=mw_rss_topstories",
-          "summary": "Look at the promising data for Moderna and Merck’s experimental cancer vaccine and the research suggesting the shingles vaccine can delay dementia.",
-          "published": "2026-11-12T13:00:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "COP",
-      "name": "ConocoPhillips",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Bernstein rebaja ConocoPhillips y Diamondback ante la distensión con Irán",
-          "link": "https://es.investing.com/news/stock-market-news/bernstein-rebaja-conocophillips-y-diamondback-ante-la-distension-con-iran-3925477",
-          "summary": "",
-          "published": "2026-11-12T12:59:28+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "HSBC",
-      "name": "HSBC",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "’No desperdicies una buena caída’: HSBC señala 11 acciones con recomendación de compra tras sus retrocesos",
-          "link": "https://es.investing.com/news/stock-market-news/no-desperdicies-una-buena-caida-hsbc-senala-11-acciones-con-recomendacion-de-compra-tras-sus-retrocesos-3925357",
-          "summary": "",
-          "published": "2026-11-12T12:32:26+00:00",
-          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -302,22 +238,6 @@
       ]
     },
     {
-      "ticker": "BABA",
-      "name": "Alibaba",
-      "exchange": "NYSE",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-          "published": "2026-11-11T07:47:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "CFE",
       "name": "Comisión Federal de Electricidad",
       "exchange": "Estatal (deuda)",
@@ -374,6 +294,22 @@
       ]
     },
     {
+      "ticker": "BABA",
+      "name": "Alibaba",
+      "exchange": "NYSE",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+          "published": "2026-11-11T07:47:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "BLK",
       "name": "BlackRock",
       "exchange": "NYSE",
@@ -426,30 +362,6 @@
           "published": "2026-10-27T21:07:21+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "RIVN",
-      "name": "Rivian",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
-          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-11-02T20:00:16+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-11-02T12:49:35+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -550,22 +462,6 @@
       ]
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
-          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-11-04T13:32:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "NVO",
       "name": "Novo Nordisk",
       "exchange": "NYSE",
@@ -614,16 +510,32 @@
       ]
     },
     {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
       "news": [
         {
-          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-11-02T12:49:35+00:00",
+          "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-11-02T20:00:16+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "RIVN",
+      "name": "Rivian",
+      "exchange": "NASDAQ",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "published": "2026-11-02T20:00:16+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -760,100 +672,127 @@
   ],
   "sin_accion": [
     {
-      "title": "Wendy’s rejects a takeover offer, scales back breakfast and still sees its stock surge",
-      "link": "https://www.marketwatch.com/story/wendys-rejects-a-takeover-offer-scales-back-breakfast-and-still-sees-its-stock-surge-4e398cde?mod=mw_rss_topstories",
-      "summary": "Wendy’s plans to go it alone, and analysts say the company has “significant work ahead.”",
-      "published": "2026-11-12T13:05:00+00:00",
+      "title": "The bond market now has an even bigger fear than AI fallout",
+      "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+      "summary": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
+      "published": "2026-11-12T20:44:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "How the U.S. government’s equity holdings have surged during Trump’s second term — in one chart",
-      "link": "https://www.marketwatch.com/story/how-the-u-s-governments-equity-holdings-have-surged-during-trumps-second-term-in-one-chart-b598c369?mod=mw_rss_topstories",
-      "summary": "41 companies have made deals that grant stakes to the Trump administration, and some could face probes from the new Congress",
-      "published": "2026-11-12T13:00:00+00:00",
+      "title": "¿Por qué se desploma hoy la acción de ADI Global Distribution?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-adi-global-distribution-93CH-3926323",
+      "summary": "",
+      "published": "2026-11-12T20:32:30+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de NIQ Global Intelligence?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-niq-global-intelligence-93CH-3926320",
+      "summary": "",
+      "published": "2026-11-12T20:30:43+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El rey ha muerto, larga vida al rey",
+      "link": "https://es.investing.com/news/stock-market-news/el-rey-ha-muerto-larga-vida-al-rey-3926317",
+      "summary": "",
+      "published": "2026-11-12T20:27:49+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Equinox Gold?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-equinox-gold-93CH-3926310",
+      "summary": "",
+      "published": "2026-11-12T20:19:52+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
+      "link": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
+      "summary": "“I‘’m considering a pre-law track … I’m just a bit hesitant because of how expensive law school is.”",
+      "published": "2026-11-12T20:17:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Jefferies elige a este fabricante de software de construcción como su mejor opción en software vertical",
-      "link": "https://es.investing.com/news/stock-market-news/jefferies-elige-a-este-fabricante-de-software-de-construccion-como-su-mejor-opcion-en-software-vertical-3925419",
+      "title": "¿Por qué cae hoy la acción de HIVE Digital?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-hive-digital-93CH-3926308",
       "summary": "",
-      "published": "2026-11-12T12:50:34+00:00",
+      "published": "2026-11-12T20:15:28+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué las acciones de Figure Technology se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-figure-technology-se-disparan-hoy-93CH-3925415",
+      "title": "¿Por qué cae hoy la acción de Capstone Copper?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-capstone-copper-93CH-3926305",
       "summary": "",
-      "published": "2026-11-12T12:49:30+00:00",
+      "published": "2026-11-12T20:12:40+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué las acciones de Intuitive Machines se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-intuitive-machines-se-disparan-hoy-93CH-3925388",
-      "summary": "",
-      "published": "2026-11-12T12:43:04+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Fermi?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-fermi-93CH-3925378",
-      "summary": "",
-      "published": "2026-11-12T12:39:59+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Twist Bioscience?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-twist-bioscience-93CH-3925365",
-      "summary": "",
-      "published": "2026-11-12T12:37:15+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Bernstein advierte: las acciones petroleras pueden sufrir pese al crudo por encima de 75 dólares",
-      "link": "https://es.investing.com/news/stock-market-news/bernstein-advierte-las-acciones-petroleras-pueden-sufrir-pese-al-crudo-por-encima-de-75-dolares-3925387",
-      "summary": "",
-      "published": "2026-11-12T12:34:49+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Tech stocks may soon enjoy a ‘violent bounce’ — but one strategist warns investors not to take the bait",
-      "link": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
-      "summary": "Jim Thorne, Wellington-Altus Private Wealth’s chief market strategist, says investors should not get tempted too fast into a tech stock bounce.",
-      "published": "2026-11-12T11:34:00+00:00",
+      "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
+      "link": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
+      "summary": "The Treasury Department proposes to pay debt collectors much less than in the past to help borrowers get out of default.",
+      "published": "2026-11-12T19:46:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-      "published": "2026-11-12T10:15:00+00:00",
+      "title": "The prostate-cancer screening rules just changed. Here’s when men should get tested.",
+      "link": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
+      "summary": "The American Cancer Society now recommends most men get their first PSA test when they turn 50. Black men and other men considered high risk should start screening at age 45.",
+      "published": "2026-11-12T19:12:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Prince Harry and Meghan Markle move into new home in Cotswolds",
-      "link": "https://www.marketwatch.com/story/prince-harry-and-meghan-markle-move-into-new-home-in-cotswolds-e9bb0739?mod=mw_rss_topstories",
-      "summary": "Prince Harry and Meghan Markle have reportedly moved into a new Cotswolds home on their friend’s estate after returning to the U.K. with their children in August.",
-      "published": "2026-11-12T10:03:00+00:00",
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+      "published": "2026-11-12T19:05:25+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+      "published": "2026-11-12T19:04:21+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+      "published": "2026-11-12T18:46:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "U.S. inflation is already bad enough. It might get worse.",
+      "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+      "summary": "Federal Reserve Chairman Kevin Warsh has vowed the Fed will smite high inflation — but the death blows won’t come fast or easy.",
+      "published": "2026-11-12T18:39:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -940,15 +879,6 @@
       "tickers": []
     },
     {
-      "title": "Polymarket says annualized revenue has topped $1.8 billion",
-      "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
-      "summary": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion.",
-      "published": "2026-11-10T13:00:01+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
       "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
       "summary": "China's trade surplus topped $1 trillion as of October, potentially intensifying complaints from trading partners already wary over the glut of cheap Chinese goods.",
@@ -971,15 +901,6 @@
       "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
       "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
       "published": "2026-11-09T21:03:55+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-      "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-      "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
-      "published": "2026-11-09T18:14:47+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1077,7 +998,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 30,
-    "sin_accion": 35
+    "acciones_con_noticias": 26,
+    "sin_accion": 36
   }
 }
