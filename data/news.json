@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:04:16.026941+00:00",
+  "generated_at": "2026-11-12T02:22:51.031389+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 11286.0,
+      "ventana_horas": 2664.5,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.8,
+      "ventana_horas": 2.6,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 463.2,
+      "ventana_horas": 444.0,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 283.8,
+      "ventana_horas": 290.3,
       "ok": true
     },
     {
@@ -64,113 +64,25 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 12.0,
+      "ventana_horas": 4.3,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Nvidia y chips rebotan antes de apertura tras revisión al alza de CoreWeave",
-          "link": "https://es.investing.com/news/stock-market-news/nvidia-y-chips-repuntan-antes-de-la-apertura-tras-las-perspectivas-de-coreweave-3923238",
-          "summary": "",
-          "published": "2026-11-11T11:30:06+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-          "published": "2026-11-11T07:47:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
-          "published": "2026-11-09T18:46:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ASML",
-      "name": "ASML",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "¿Por qué sube hoy la acción de ASML NV ADR?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-asml-nv-adr-93CH-3923145",
-          "summary": "",
-          "published": "2026-11-11T11:01:46+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
-          "link": "https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories",
-          "summary": "Following Tuesday’s hot CPI data , Goldman Sachs is now pencilling in additional Fed tightening.",
-          "published": "2026-11-11T10:37:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "F",
-      "name": "Ford Motor Company",
-      "exchange": "NYSE",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious seating and mighty engine",
-          "link": "https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories",
-          "summary": "The Ford Expedition has modern tech, a big third row, clever features, and a muscular engine, adding up to make it our favorite full-size SUV.",
-          "published": "2026-11-11T09:59:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BABA",
-      "name": "Alibaba",
-      "exchange": "NYSE",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-          "published": "2026-11-11T07:47:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
       "exchange": "Estatal (deuda)",
       "sector": "Energía",
       "news": [
+        {
+          "title": "México aprueba Presupuesto 2027 para reanimar la economía y con gasto billonario en programas sociales",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aprueba-presupuesto-2027-para-reanimar-la-economia-y-con-gasto-billonario-en-programas-sociales/",
+          "summary": "El Presupuesto prevé una bolsa de MXN$10,6 billones para 2027, el cual contempla importantes recursos para el costo de la deuda, pensiones y apoyo a Pemex.",
+          "published": "2026-11-11T14:53:42+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
         {
           "title": "Pemex trabaja con BP y Eni en exploración de aguas profundas de México",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-trabaja-con-bp-y-eni-en-exploracion-de-aguas-profundas-de-mexico/",
@@ -242,14 +154,134 @@
           "published": "2026-09-30T11:51:01+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+          "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+          "summary": "Nvidia’s board of directors reportedly could meet as soon as today to determine the CEO’s fate.",
+          "published": "2026-11-12T01:35:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
         },
         {
-          "title": "Pemex enfrenta déficit superior a US$5.000 millones por volatilidad petrolera: Moody’s",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-enfrenta-deficit-superior-a-us5000-millones-por-volatilidad-petrolera-moodys/",
-          "summary": "La calificadora estimó que Pemex necesitará apoyo del Gobierno por US$10.000 millones anuales hacia 2030.",
-          "published": "2026-09-25T00:42:54+00:00",
+          "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+          "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+          "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+          "published": "2026-11-12T01:12:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Los futuros de Wall St caen mientras Nvidia se desploma por posible destitución de su CEO",
+          "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-wall-st-caen-mientras-nvidia-se-desploma-por-posible-destitucion-de-su-ceo-3924488",
+          "summary": "",
+          "published": "2026-11-12T00:45:40+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "¿Por qué cae la acción de NVIDIA en el mercado fuera de hora?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-la-accion-de-nvidia-en-el-mercado-fuera-de-hora-93CH-3924482",
+          "summary": "",
+          "published": "2026-11-12T00:16:29+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+          "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+          "published": "2026-11-11T22:59:33+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Las acciones de NVIDIA caen más de un 7% ante posible destitución de su director ejecutivo",
+          "link": "https://es.investing.com/news/stock-market-news/se-espera-que-nvidia-destituya-a-jensen-huang-3924440",
+          "summary": "",
+          "published": "2026-11-11T22:40:04+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Las acciones de Nvidia caen en el mercado fuera de hora por nuevas acusaciones sobre el director ejecutivo",
+          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-nvidia-caen-en-el-mercado-fuera-de-hora-por-nuevas-acusaciones-sobre-el-director-ejecutivo-3924414",
+          "summary": "",
+          "published": "2026-11-11T22:07:02+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+          "published": "2026-11-11T07:47:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+          "published": "2026-11-09T18:46:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BLK",
+      "name": "BlackRock",
+      "exchange": "NYSE",
+      "sector": "Finanzas",
+      "news": [
+        {
+          "title": "Fitch rebaja BlackRock TCP a ’BB-’ por problemas de calidad de activos",
+          "link": "https://es.investing.com/news/stock-market-news/fitch-rebaja-blackrock-tcp-a-bb-por-problemas-de-calidad-de-activos-3924432",
+          "summary": "",
+          "published": "2026-11-11T22:29:56+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Bolsa Mexicana espera nuevas emisiones de acciones en 2027: qué falta para atraer capital",
+          "link": "https://www.bloomberglinea.com/mercados/bolsa-mexicana-espera-nuevas-emisiones-de-acciones-en-2027-que-falta-para-atraer-capital/",
+          "summary": "Representantes de BlackRock, Vanguard, la BMV y Bitso analizaron los desafíos de liquidez, regulación y acceso a la inversión durante el Bloomberg Línea Summit México 2026.",
+          "published": "2026-11-10T17:55:44+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+          "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+          "summary": "CoreWeave’s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
+          "published": "2026-11-11T22:05:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
+          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
+          "summary": "These are the stocks posting the largest moves in early trading.",
+          "published": "2026-11-02T12:49:35+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -310,18 +342,18 @@
       ]
     },
     {
-      "ticker": "BLK",
-      "name": "BlackRock",
+      "ticker": "BABA",
+      "name": "Alibaba",
       "exchange": "NYSE",
-      "sector": "Finanzas",
+      "sector": "Retail / Nube",
       "news": [
         {
-          "title": "Bolsa Mexicana espera nuevas emisiones de acciones en 2027: qué falta para atraer capital",
-          "link": "https://www.bloomberglinea.com/mercados/bolsa-mexicana-espera-nuevas-emisiones-de-acciones-en-2027-que-falta-para-atraer-capital/",
-          "summary": "Representantes de BlackRock, Vanguard, la BMV y Bitso analizaron los desafíos de liquidez, regulación y acceso a la inversión durante el Bloomberg Línea Summit México 2026.",
-          "published": "2026-11-10T17:55:44+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
+          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+          "published": "2026-11-11T07:47:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -338,22 +370,6 @@
           "published": "2026-11-10T15:28:43+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "BRK.B",
-      "name": "Berkshire Hathaway",
-      "exchange": "NYSE",
-      "sector": "Finanzas",
-      "news": [
-        {
-          "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-          "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-          "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-          "published": "2026-11-07T15:23:46+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -450,6 +466,22 @@
           "published": "2026-10-21T19:04:25+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway",
+      "exchange": "NYSE",
+      "sector": "Finanzas",
+      "news": [
+        {
+          "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+          "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+          "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+          "published": "2026-11-07T15:23:46+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -560,70 +592,6 @@
           "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
           "summary": "These are some of the stocks posting the largest moves midday.",
           "published": "2026-11-02T20:00:16+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
-          "summary": "These are the stocks posting the largest moves in early trading.",
-          "published": "2026-11-02T12:49:35+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
-          "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-30T12:01:15+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
-          "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-30T12:01:15+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "CVX",
-      "name": "Chevron",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
-          "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "published": "2026-10-30T12:01:15+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -756,130 +724,150 @@
           "source_scope": "México"
         }
       ]
-    },
-    {
-      "ticker": "FEMSAUBD.MX",
-      "name": "FEMSA",
-      "exchange": "BMV",
-      "sector": "Consumo",
-      "news": [
-        {
-          "title": "Oxxo enfrenta el embate de un consumo débil y clima adverso en el segundo trimestre en México",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/oxxo-enfrenta-el-embate-de-un-consumo-debil-y-clima-adverso-en-el-segundo-trimestre-en-mexico/",
-          "summary": "FEMSA observó en México tendencias de tráfico menores a sus expectativas. Mientras que las categorías de refresco, cerveza y tabaco, enfrentaron presiones.",
-          "published": "2025-07-28T15:10:03+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
     }
   ],
   "sin_accion": [
     {
-      "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
-      "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
-      "summary": "Anxiety in the U.S. stock market has surged amid a sharp selloff in artificial intelligence names and stubbornly high bond yields.",
-      "published": "2026-11-11T12:00:00+00:00",
+      "title": "Galia Borja: las razones de la subgobernadora de Banxico para votar en contra del recorte de tasa",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/galia-borja-las-razones-de-la-subgobernadora-de-banxico-para-votar-en-contra-del-recorte-de-tasa/",
+      "summary": "La subgobernadora del banco central considera que es probable que la tasa de interés se mantenga en 6,25% en la decisión monetaria de diciembre.",
+      "published": "2026-11-12T01:55:31+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae la acción de Strategy en el mercado fuera de hora?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-la-accion-de-strategy-en-el-mercado-fuera-de-hora-93CH-3924481",
+      "summary": "",
+      "published": "2026-11-12T00:11:54+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+      "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+      "summary": "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.",
+      "published": "2026-11-11T23:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué se dispara hoy la acción de Valens Semiconductor?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-valens-semiconductor-93CH-3923273",
+      "title": "CoreWeave planea un préstamo de primer nivel de 4.000 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/coreweave-planea-un-prestamo-de-primer-nivel-de-4000-millones-de-dolares-3924464",
       "summary": "",
-      "published": "2026-11-11T11:44:50+00:00",
+      "published": "2026-11-11T23:13:23+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué las acciones de Tandy Leather Factory se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-tandy-leather-factory-se-disparan-hoy-93CH-3923251",
+      "title": "Las acciones de Strategy caen tras su exclusión del índice MSCI",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-strategy-caen-tras-su-exclusion-del-indice-msci-3924461",
       "summary": "",
-      "published": "2026-11-11T11:37:14+00:00",
+      "published": "2026-11-11T23:02:18+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Jefferies rebaja BASF por exceso de oferta química y caída de márgenes",
-      "link": "https://es.investing.com/news/stock-market-news/jefferies-rebaja-basf-por-exceso-de-oferta-quimica-y-caida-de-margenes-3923243",
+      "title": "Ingram Micro sube tras unirse al S&P SmallCap 600",
+      "link": "https://es.investing.com/news/stock-market-news/ingram-micro-sube-tras-unirse-al-sp-smallcap-600-3924443",
       "summary": "",
-      "published": "2026-11-11T11:32:42+00:00",
+      "published": "2026-11-11T22:44:24+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-      "summary": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
-      "published": "2026-11-11T11:27:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Telecom Italia registra crecimiento en ingresos en el tercer trimestre y recupera el grado de inversión; las acciones suben",
-      "link": "https://es.investing.com/news/stock-market-news/telecom-italia-registra-crecimiento-en-ingresos-en-el-tercer-trimestre-y-recupera-el-grado-de-inversion-las-acciones-suben-93CH-3923194",
-      "summary": "",
-      "published": "2026-11-11T11:13:46+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Acciones de Spirax-Sarco suben 4% por mayor crecimiento en ventas",
-      "link": "https://es.investing.com/news/stock-market-news/acciones-de-spiraxsarco-suben-4-por-mayor-crecimiento-en-ventas-93CH-3923158",
-      "summary": "",
-      "published": "2026-11-11T11:05:34+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de BE Semiconductor Industries?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-be-semiconductor-industries-93CH-3923146",
-      "summary": "",
-      "published": "2026-11-11T11:02:00+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
       "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-      "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage with an outstanding balance of $295,000.”",
-      "published": "2026-11-11T10:30:00+00:00",
+      "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
+      "published": "2026-11-11T22:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "summary": "There is already a demographic ‘run’ on Social Security.",
-      "published": "2026-11-11T10:15:00+00:00",
+      "title": "Moody’s rebaja a Builders FirstSource a Ba2 por la caída del sector inmobiliario",
+      "link": "https://es.investing.com/news/stock-market-news/moodys-rebaja-a-builders-firstsource-a-ba2-por-la-caida-del-sector-inmobiliario-3924429",
+      "summary": "",
+      "published": "2026-11-11T22:26:40+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+      "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+      "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+      "published": "2026-11-11T21:55:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Tiger Woods has another private, 18-hole golf destination in the works — this one for Long Island’s Gold Coast",
-      "link": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
-      "summary": "Golf legend Tiger Woods is heading up a new private golf destination on the North Shore of Long Island in Brookville, N.Y.",
-      "published": "2026-11-11T10:03:00+00:00",
+      "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
+      "link": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
+      "summary": "The tight trading relationship between oil prices and Treasury yields has broken down. It’s a sign that inflation concerns are extending beyond the energy shock.",
+      "published": "2026-11-11T21:42:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-      "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-      "summary": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
-      "published": "2026-11-11T01:54:00+00:00",
+      "title": "Sandisk’s stock just staged a big gain. Here’s how it could march even higher.",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
+      "summary": "Various “structural changes” afoot in the memory industry could help Sandisk shares more than double from here, according to an Evercore analyst.",
+      "published": "2026-11-11T21:40:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+      "link": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
+      "summary": "From a long-term perspective, the past 50 years of strong market gains are the exception rather than the rule",
+      "published": "2026-11-11T21:21:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Subsecretaria de Hacienda ve condiciones para una recuperación económica gradual de México",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/subsecretaria-de-hacienda-ve-condiciones-para-una-recuperacion-economica-gradual-de-mexico/",
+      "summary": "El consumo, la inversión y la integración con América del Norte serán impulsores de crecimiento el próximo año.",
+      "published": "2026-11-11T19:28:08+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
+      "link": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
+      "summary": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets.",
+      "published": "2026-11-11T19:16:23+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+      "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+      "published": "2026-11-11T16:49:02+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
+      "link": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
+      "summary": "Retail sales rose at their slowest pace in nearly a year in October as American consumers showed signs of strain from high prices.",
+      "published": "2026-11-11T12:27:47+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -965,39 +953,12 @@
       "tickers": []
     },
     {
-      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-      "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-      "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
-      "published": "2026-11-07T16:02:33+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "México aprueba permisos para proyectos solares de US$750 millones a Cox, Invex y Viva el Sol",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aprueba-permisos-para-proyectos-solares-de-us750-millones-a-cox-invex-y-viva-el-sol/",
       "summary": "Las autoridades energéticas recibieron 57 solicitudes de permisos para proyectos de energía solar fotovoltaica en la segunda convocatoria del Gobierno.",
       "published": "2026-11-07T10:00:00+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-      "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-      "summary": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
-      "published": "2026-11-06T20:42:28+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-      "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
-      "summary": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
-      "published": "2026-11-06T20:11:17+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1080,29 +1041,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "GAFI acepta reporte de la evaluación antilavado de México, publicará resultados en diciembre",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gafi-acepta-reporte-de-la-evaluacion-antilavado-de-mexico-publicara-resultados-en-diciembre/",
-      "summary": "Giles Thomson, presidente del GAFI, declinó comentar sobre los detalles de los informes.",
-      "published": "2026-10-30T20:30:05+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "El peso se debilita otra vez: el precio de dólar roza los MXN$19",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-peso-se-debilita-otra-vez-el-precio-de-dolar-roza-los-mxn19/",
-      "summary": "El peso mexicano se perfila para su octava semana de pérdidas consecutivas frente al dólar.",
-      "published": "2026-10-30T15:16:08+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 34,
-    "sin_accion": 36
+    "acciones_con_noticias": 27,
+    "sin_accion": 35
   }
 }
