@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:32:16.896048+00:00",
+  "generated_at": "2026-11-13T20:37:12.442558+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.6,
+      "ventana_horas": 2.4,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 403.3,
+      "ventana_horas": 385.5,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 246.9,
+      "ventana_horas": 252.4,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 7.7,
+      "ventana_horas": 1.3,
       "ok": true
     }
   ],
@@ -76,19 +76,43 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Nvidia has shed nearly $500 billion in market value this week. It’s still a $4 trillion AI behemoth.",
-          "link": "https://www.marketwatch.com/story/nvidia-has-shed-nearly-500-billion-in-market-value-this-week-its-still-a-4-trillion-ai-behemoth-2ca6eba7?mod=mw_rss_topstories",
-          "summary": "Can Nvidia keep its lead in AI chips without Jensen Huang? Plus, what investors are watching on inflation.",
-          "published": "2026-11-13T12:25:00+00:00",
+          "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
+          "link": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
+          "summary": "The former Nvidia CEO was an ‘influential voice’ for selling chips to Chinese companies, but now investors are preparing for more restrictions, experts say.",
+          "published": "2026-11-13T20:19:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "Declaraciones de Jefferies tras la renuncia del director ejecutivo de Nvidia",
-          "link": "https://es.investing.com/news/stock-market-news/declaraciones-de-jefferies-tras-la-renuncia-del-director-ejecutivo-de-nvidia-93CH-3927454",
-          "summary": "",
-          "published": "2026-11-13T12:19:26+00:00",
-          "source_short": "Investing",
+          "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
+          "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+          "summary": "A big chunk of your retirement is likely invested in the computer-chip giant.",
+          "published": "2026-11-13T19:19:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets",
+          "link": "https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories",
+          "summary": "Meanwhile, top officials from Nvidia and the Commerce Department face a series of congressional hearings next month.",
+          "published": "2026-11-13T19:19:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+          "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+          "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.",
+          "published": "2026-11-13T19:11:13+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+          "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+          "summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
+          "published": "2026-11-13T17:06:57+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
@@ -126,73 +150,49 @@
       ]
     },
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Goldman Sachs prevé que el impulso de la IA alcanzará su pico en 2027",
-          "link": "https://es.investing.com/news/stock-market-news/goldman-sachs-preve-que-el-impulso-de-la-ia-alcanzara-su-pico-en-2027-3927365",
-          "summary": "",
-          "published": "2026-11-13T11:57:48+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Goldman Sachs mantiene su optimismo sobre gasoductos tras resultados del Q3",
-          "link": "https://es.investing.com/news/stock-market-news/goldman-sachs-mantiene-su-optimismo-sobre-gasoductos-tras-resultados-del-q3-3927358",
-          "summary": "",
-          "published": "2026-11-13T11:49:09+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Earnings growth is set to peter out — but not the bull market, says Goldman Sachs. Here’s what the firm recommends.",
-          "link": "https://www.marketwatch.com/story/earnings-growth-is-set-to-peter-out-but-not-the-bull-market-says-goldman-sachs-heres-what-the-firm-recommends-bf409a6d?mod=mw_rss_topstories",
-          "summary": "Earnings growth is almost halving across major indices in 2027 but stocks have already discounted much of that deceleration. Goldman recommends investors focus closely on those companies still delivering strong growth – as strong growth becomes a scarce commodity.",
-          "published": "2026-11-13T10:14:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "MSFT",
       "name": "Microsoft",
       "exchange": "NASDAQ",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "Microsoft stock slumps on outage that includes the Copilot tool it has been heavily promoting",
-          "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
-          "summary": "Microsoft stock fell in premarket trade Friday as the company struggled to address a worldwide outage of its popular products.",
-          "published": "2026-11-13T12:14:00+00:00",
+          "title": "‘Strangely calming and unnerving’: How Microsoft’s massive outage upended the corporate workday",
+          "link": "https://www.marketwatch.com/story/strangely-calming-and-unnerving-how-microsofts-massive-outage-upended-the-corporate-workday-9a78d000?mod=mw_rss_topstories",
+          "summary": "A widespread Outlook outage delayed a corporate earnings report, and left users scrambling to submit their schoolwork or find alternate forms of communication.",
+          "published": "2026-11-13T19:01:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
-        },
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
         {
-          "title": "Movimientos antes de la apertura: Modine se dispara; Cerebras sube por acuerdo con Microsoft",
-          "link": "https://es.investing.com/news/stock-market-news/movimientos-antes-de-la-apertura-modine-se-dispara-cerebras-sube-por-acuerdo-con-microsoft-3927350",
+          "title": "Juan Zarco, de Seometrix: ’Que tus clientes te encuentren en Google no debería ser un lujo’",
+          "link": "https://es.investing.com/news/stock-market-news/juan-zarco-de-seometrix-que-tus-clientes-te-encuentren-en-google-no-deberia-ser-un-lujo-3928339",
           "summary": "",
-          "published": "2026-11-13T11:45:58+00:00",
+          "published": "2026-11-13T18:05:27+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "HSBC",
-      "name": "HSBC",
+      "ticker": "MS",
+      "name": "Morgan Stanley",
       "exchange": "NYSE",
       "sector": "Banca",
       "news": [
         {
-          "title": "Investors are underestimating AI. But the real challenge is diversification, this strategist says.",
-          "link": "https://www.marketwatch.com/story/investors-are-underestimating-ai-but-the-real-challenge-is-diversification-this-strategist-says-8bd956c1?mod=mw_rss_topstories",
-          "summary": "Artificial intelligence is all everyone has talked about since the arrival of ChatGPT, but HSBC’s global chief investment officer thinks investors are still underestimating it.",
-          "published": "2026-11-13T11:00:00+00:00",
-          "source_short": "MarketW",
+          "title": "Morgan Stanley MUFG actualiza su lista de valores en Japón con IA y seguros",
+          "link": "https://es.investing.com/news/stock-market-news/morgan-stanley-mufg-actualiza-su-lista-de-valores-en-japon-con-ia-y-seguros-3928332",
+          "summary": "",
+          "published": "2026-11-13T17:49:48+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -574,38 +574,6 @@
       ]
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
-          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-11-02T20:00:16+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "RIVN",
-      "name": "Rivian",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
-          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
-          "summary": "These are some of the stocks posting the largest moves midday.",
-          "published": "2026-11-02T20:00:16+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "AMXB.MX",
       "name": "América Móvil",
       "exchange": "BMV",
@@ -736,10 +704,82 @@
   ],
   "sin_accion": [
     {
-      "title": "¿Por qué se desploma un 40% la acción de NeuroPace hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-un-40-la-accion-de-neuropace-hoy-93CH-3927453",
+      "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
+      "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+      "summary": "Here’s what might be coming for Social Security, Medicare and long-term care.",
+      "published": "2026-11-13T20:02:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Meta prueba una app interna de mercados de predicción para empleados",
+      "link": "https://es.investing.com/news/stock-market-news/meta-prueba-una-app-interna-de-mercados-de-prediccion-para-empleados-3928380",
       "summary": "",
-      "published": "2026-11-13T12:17:53+00:00",
+      "published": "2026-11-13T20:00:17+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+      "published": "2026-11-13T20:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Trump extiende la exención de la Ley Jones 90 días para el transporte marítimo",
+      "link": "https://es.investing.com/news/stock-market-news/trump-extiende-la-exencion-de-la-ley-jones-90-dias-para-el-transporte-maritimo-93CH-3928373",
+      "summary": "",
+      "published": "2026-11-13T19:40:45+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+      "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+      "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
+      "published": "2026-11-13T19:40:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen hoy las acciones de Nebius?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-nebius-93CH-3928368",
+      "summary": "",
+      "published": "2026-11-13T19:29:17+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
+      "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+      "summary": "It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults",
+      "published": "2026-11-13T19:26:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Dell Technologies?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-dell-technologies-93CH-3928366",
+      "summary": "",
+      "published": "2026-11-13T19:24:21+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen hoy las acciones de TJX Companies?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-tjx-companies-93CH-3928363",
+      "summary": "",
+      "published": "2026-11-13T19:21:48+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -748,107 +788,44 @@
       "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
       "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
       "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-      "published": "2026-11-13T12:15:00+00:00",
+      "published": "2026-11-13T19:16:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Acciona Energía cae un 7,26%: cómo operar tras el desplome",
-      "link": "https://es.investing.com/news/stock-market-news/acciona-energia-cae-un-726-como-operar-tras-el-desplome-3927435",
+      "title": "Wella Company presenta su solicitud de salida a bolsa en el NYSE",
+      "link": "https://es.investing.com/news/stock-market-news/wella-company-presenta-su-solicitud-de-salida-a-bolsa-en-el-nyse-432SI-3928362",
       "summary": "",
-      "published": "2026-11-13T12:14:07+00:00",
+      "published": "2026-11-13T19:11:02+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Rosenblatt defiende a Super Micro tras caída y acusaciones de Megaspeed",
-      "link": "https://es.investing.com/news/stock-market-news/rosenblatt-defiende-a-super-micro-tras-caida-y-acusaciones-de-megaspeed-3927426",
-      "summary": "",
-      "published": "2026-11-13T12:11:19+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Roche recibe el respaldo del comité de la UE para Gazyva en lupus",
-      "link": "https://es.investing.com/news/stock-market-news/roche-recibe-el-respaldo-del-comite-de-la-ue-para-gazyva-en-lupus-93CH-3927400",
-      "summary": "",
-      "published": "2026-11-13T12:09:53+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Palo Alto Networks?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-palo-alto-networks-93CH-3927392",
-      "summary": "",
-      "published": "2026-11-13T12:08:55+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Estrategias: cómo invertir hasta final de año",
-      "link": "https://es.investing.com/news/stock-market-news/estrategias-como-invertir-hasta-final-de-ano-3927359",
-      "summary": "",
-      "published": "2026-11-13T11:50:24+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Profit surprises are normalizing — and that may signal a healthier stock market, say Citi strategists",
-      "link": "https://www.marketwatch.com/story/profit-surprises-are-normalizing-and-that-may-signal-a-healthier-stock-market-say-citi-strategists-d8cce7c2?mod=mw_rss_topstories",
-      "summary": "Although the majority of S&P 500 companies reported earnings above analysts’ expectations, the beats were significantly lower than in more recent quarters.",
-      "published": "2026-11-13T11:41:00+00:00",
+      "title": "What really happens during Medicare open enrollment? High stakes and lots of uncertainty.",
+      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+      "summary": "Open enrollment can bring unexpected challenges for seniors.",
+      "published": "2026-11-13T18:59:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
-      "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-      "summary": "The most recent inflation reading for October was higher than expected, coming in at 0.4% for the month.",
-      "published": "2026-11-13T11:31:10+00:00",
+      "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+      "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+      "summary": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
+      "published": "2026-11-13T15:44:16+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
-      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-      "published": "2026-11-13T11:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘She has a history of financial mismanagement’: My brother cut my sister out of his will. I’m getting everything. Do I tell her?",
-      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "summary": "“I’m torn between respecting my brother’s wishes, being fair to my sister, and preserving a relationship that means a great deal to me.”",
-      "published": "2026-11-13T10:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?",
-      "link": "https://www.marketwatch.com/story/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-for-long-term-memory-care-9c23efaa?mod=mw_rss_topstories",
-      "summary": "“She’s 69 and otherwise healthy as a horse.”",
-      "published": "2026-11-13T09:09:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "summary": "There is already a demographic ‘run’ on Social Security.",
-      "published": "2026-11-13T04:46:00+00:00",
-      "source_short": "MarketW",
+      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+      "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+      "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
+      "published": "2026-11-13T14:22:07+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -947,15 +924,6 @@
       "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
       "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
       "published": "2026-11-10T23:53:58+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-      "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-      "summary": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
-      "published": "2026-11-10T17:13:44+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1062,7 +1030,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 29,
+    "acciones_con_noticias": 27,
     "sin_accion": 36
   }
 }
