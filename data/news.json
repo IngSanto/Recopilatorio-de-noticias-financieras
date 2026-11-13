@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T02:00:28.293831+00:00",
+  "generated_at": "2026-11-13T12:32:16.896048+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 3.4,
+      "ventana_horas": 0.6,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 391.3,
+      "ventana_horas": 403.3,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 244.0,
+      "ventana_horas": 246.9,
       "ok": true
     },
     {
@@ -64,11 +64,139 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.7,
+      "ventana_horas": 7.7,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Nvidia has shed nearly $500 billion in market value this week. It’s still a $4 trillion AI behemoth.",
+          "link": "https://www.marketwatch.com/story/nvidia-has-shed-nearly-500-billion-in-market-value-this-week-its-still-a-4-trillion-ai-behemoth-2ca6eba7?mod=mw_rss_topstories",
+          "summary": "Can Nvidia keep its lead in AI chips without Jensen Huang? Plus, what investors are watching on inflation.",
+          "published": "2026-11-13T12:25:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Declaraciones de Jefferies tras la renuncia del director ejecutivo de Nvidia",
+          "link": "https://es.investing.com/news/stock-market-news/declaraciones-de-jefferies-tras-la-renuncia-del-director-ejecutivo-de-nvidia-93CH-3927454",
+          "summary": "",
+          "published": "2026-11-13T12:19:26+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+          "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+          "published": "2026-11-12T23:08:50+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+          "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+          "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
+          "published": "2026-11-12T07:28:48+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+          "published": "2026-11-11T07:47:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+          "published": "2026-11-09T18:46:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Goldman Sachs prevé que el impulso de la IA alcanzará su pico en 2027",
+          "link": "https://es.investing.com/news/stock-market-news/goldman-sachs-preve-que-el-impulso-de-la-ia-alcanzara-su-pico-en-2027-3927365",
+          "summary": "",
+          "published": "2026-11-13T11:57:48+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Goldman Sachs mantiene su optimismo sobre gasoductos tras resultados del Q3",
+          "link": "https://es.investing.com/news/stock-market-news/goldman-sachs-mantiene-su-optimismo-sobre-gasoductos-tras-resultados-del-q3-3927358",
+          "summary": "",
+          "published": "2026-11-13T11:49:09+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Earnings growth is set to peter out — but not the bull market, says Goldman Sachs. Here’s what the firm recommends.",
+          "link": "https://www.marketwatch.com/story/earnings-growth-is-set-to-peter-out-but-not-the-bull-market-says-goldman-sachs-heres-what-the-firm-recommends-bf409a6d?mod=mw_rss_topstories",
+          "summary": "Earnings growth is almost halving across major indices in 2027 but stocks have already discounted much of that deceleration. Goldman recommends investors focus closely on those companies still delivering strong growth – as strong growth becomes a scarce commodity.",
+          "published": "2026-11-13T10:14:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Microsoft stock slumps on outage that includes the Copilot tool it has been heavily promoting",
+          "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
+          "summary": "Microsoft stock fell in premarket trade Friday as the company struggled to address a worldwide outage of its popular products.",
+          "published": "2026-11-13T12:14:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Movimientos antes de la apertura: Modine se dispara; Cerebras sube por acuerdo con Microsoft",
+          "link": "https://es.investing.com/news/stock-market-news/movimientos-antes-de-la-apertura-modine-se-dispara-cerebras-sube-por-acuerdo-con-microsoft-3927350",
+          "summary": "",
+          "published": "2026-11-13T11:45:58+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "HSBC",
+      "name": "HSBC",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Investors are underestimating AI. But the real challenge is diversification, this strategist says.",
+          "link": "https://www.marketwatch.com/story/investors-are-underestimating-ai-but-the-real-challenge-is-diversification-this-strategist-says-8bd956c1?mod=mw_rss_topstories",
+          "summary": "Artificial intelligence is all everyone has talked about since the arrival of ChatGPT, but HSBC’s global chief investment officer thinks investors are still underestimating it.",
+          "published": "2026-11-13T11:00:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
@@ -154,102 +282,6 @@
           "published": "2026-10-09T03:08:40+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Los futuros de las acciones de EE.UU. suben tras la salida del director ejecutivo de Nvidia",
-          "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-de-eeuu-suben-tras-la-salida-del-director-ejecutivo-de-nvidia-3926611",
-          "summary": "",
-          "published": "2026-11-13T00:09:52+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "SemiAnalysis especula que la inteligencia de EE.UU. jugó un papel en la salida del director ejecutivo de Nvidia",
-          "link": "https://es.investing.com/news/stock-market-news/semianalysis-especula-que-la-inteligencia-de-eeuu-jugo-un-papel-en-la-salida-del-director-ejecutivo-de-nvidia-3926597",
-          "summary": "",
-          "published": "2026-11-12T23:48:41+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-          "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-          "published": "2026-11-12T23:08:50+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-          "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
-          "summary": "As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
-          "published": "2026-11-12T22:57:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
-          "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-          "summary": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
-          "published": "2026-11-12T21:08:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-          "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-          "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-          "published": "2026-11-12T07:28:48+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-          "published": "2026-11-11T07:47:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
-          "published": "2026-11-09T18:46:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "005930",
-      "name": "Samsung Electronics",
-      "exchange": "KRX",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "¿Por qué sube hoy la acción de Samsung Electronics?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-samsung-electronics-93CH-3926638",
-          "summary": "",
-          "published": "2026-11-13T00:40:51+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Samsung negocia la compra de Modine, firma de refrigeración para centros de datos",
-          "link": "https://es.investing.com/news/stock-market-news/samsung-negocia-la-compra-de-modine-firma-de-refrigeracion-para-centros-de-datos-3926624",
-          "summary": "",
-          "published": "2026-11-13T00:28:09+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -704,20 +736,128 @@
   ],
   "sin_accion": [
     {
-      "title": "ByteDance planea recompra de acciones por 6.000 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/bytedance-planea-recompra-de-acciones-por-6000-millones-de-dolares-93CH-3926661",
+      "title": "¿Por qué se desploma un 40% la acción de NeuroPace hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-un-40-la-accion-de-neuropace-hoy-93CH-3927453",
       "summary": "",
-      "published": "2026-11-13T01:44:25+00:00",
+      "published": "2026-11-13T12:17:53+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué las acciones de Modine Manufacturing se disparan en el mercado fuera de hora?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-modine-manufacturing-se-disparan-en-el-mercado-fuera-de-hora-93CH-3926637",
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+      "published": "2026-11-13T12:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Acciona Energía cae un 7,26%: cómo operar tras el desplome",
+      "link": "https://es.investing.com/news/stock-market-news/acciona-energia-cae-un-726-como-operar-tras-el-desplome-3927435",
       "summary": "",
-      "published": "2026-11-13T00:40:51+00:00",
+      "published": "2026-11-13T12:14:07+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Rosenblatt defiende a Super Micro tras caída y acusaciones de Megaspeed",
+      "link": "https://es.investing.com/news/stock-market-news/rosenblatt-defiende-a-super-micro-tras-caida-y-acusaciones-de-megaspeed-3927426",
+      "summary": "",
+      "published": "2026-11-13T12:11:19+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Roche recibe el respaldo del comité de la UE para Gazyva en lupus",
+      "link": "https://es.investing.com/news/stock-market-news/roche-recibe-el-respaldo-del-comite-de-la-ue-para-gazyva-en-lupus-93CH-3927400",
+      "summary": "",
+      "published": "2026-11-13T12:09:53+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Palo Alto Networks?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-palo-alto-networks-93CH-3927392",
+      "summary": "",
+      "published": "2026-11-13T12:08:55+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Estrategias: cómo invertir hasta final de año",
+      "link": "https://es.investing.com/news/stock-market-news/estrategias-como-invertir-hasta-final-de-ano-3927359",
+      "summary": "",
+      "published": "2026-11-13T11:50:24+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Profit surprises are normalizing — and that may signal a healthier stock market, say Citi strategists",
+      "link": "https://www.marketwatch.com/story/profit-surprises-are-normalizing-and-that-may-signal-a-healthier-stock-market-say-citi-strategists-d8cce7c2?mod=mw_rss_topstories",
+      "summary": "Although the majority of S&P 500 companies reported earnings above analysts’ expectations, the beats were significantly lower than in more recent quarters.",
+      "published": "2026-11-13T11:41:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
+      "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+      "summary": "The most recent inflation reading for October was higher than expected, coming in at 0.4% for the month.",
+      "published": "2026-11-13T11:31:10+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+      "published": "2026-11-13T11:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘She has a history of financial mismanagement’: My brother cut my sister out of his will. I’m getting everything. Do I tell her?",
+      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "summary": "“I’m torn between respecting my brother’s wishes, being fair to my sister, and preserving a relationship that means a great deal to me.”",
+      "published": "2026-11-13T10:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?",
+      "link": "https://www.marketwatch.com/story/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-for-long-term-memory-care-9c23efaa?mod=mw_rss_topstories",
+      "summary": "“She’s 69 and otherwise healthy as a horse.”",
+      "published": "2026-11-13T09:09:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "published": "2026-11-13T04:46:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+      "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+      "published": "2026-11-13T02:56:35+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -736,96 +876,6 @@
       "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
       "published": "2026-11-13T00:01:19+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Windward Bio fija el precio de su OPV en 17 dólares por acción en Nasdaq",
-      "link": "https://es.investing.com/news/stock-market-news/windward-bio-fija-el-precio-de-su-opv-en-17-dolares-por-accion-en-nasdaq-432SI-3926576",
-      "summary": "",
-      "published": "2026-11-12T23:30:01+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Opening trading-card packs has become a $2 billion market",
-      "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-      "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
-      "published": "2026-11-12T22:38:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de LifeMD?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-lifemd-93CH-3926513",
-      "summary": "",
-      "published": "2026-11-12T22:27:33+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de Fluent se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-fluent-se-disparan-hoy-93CH-3926508",
-      "summary": "",
-      "published": "2026-11-12T22:25:43+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de Jefferson Capital suben en el mercado fuera de hora?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-jefferson-capital-suben-en-el-mercado-fuera-de-hora-93CH-3926504",
-      "summary": "",
-      "published": "2026-11-12T22:22:08+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
-      "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
-      "summary": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.",
-      "published": "2026-11-12T22:16:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
-      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-      "published": "2026-11-12T22:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
-      "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
-      "summary": "More people want to understand the fine print on plans this year, financial planners say.",
-      "published": "2026-11-12T21:55:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The 10 best stocks for a year-end momentum trade",
-      "link": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
-      "summary": "Why December is the best month of the year for momentum strategies",
-      "published": "2026-11-12T21:50:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-      "published": "2026-11-12T21:30:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -911,15 +961,6 @@
       "tickers": []
     },
     {
-      "title": "U.S. gas prices fall below $4 for the first time since July",
-      "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-      "summary": "Americans may finally find some relief at the pump.",
-      "published": "2026-11-10T16:29:09+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
       "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
       "summary": "China's trade surplus topped $1 trillion as of October, potentially intensifying complaints from trading partners already wary over the glut of cheap Chinese goods.",
@@ -933,15 +974,6 @@
       "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
       "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
       "published": "2026-11-09T22:23:56+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
-      "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
-      "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
-      "published": "2026-11-09T21:03:55+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1030,7 +1062,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 27,
+    "acciones_con_noticias": 29,
     "sin_accion": 36
   }
 }
