@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:37:12.442558+00:00",
+  "generated_at": "2026-11-14T01:33:36.276665+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 2686.7,
+      "ventana_horas": 2711.0,
       "ok": true
     },
     {
@@ -19,9 +19,9 @@
       "scope": "Internacional",
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
-      "article_count": 10,
-      "ventana_horas": 2.4,
-      "ok": true
+      "article_count": 0,
+      "ventana_horas": null,
+      "ok": false
     },
     {
       "id": "cnbc-markets",
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 385.5,
+      "ventana_horas": 384.2,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 252.4,
+      "ventana_horas": 256.9,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.3,
+      "ventana_horas": 4.3,
       "ok": true
     }
   ],
@@ -76,35 +76,27 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
-          "link": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
-          "summary": "The former Nvidia CEO was an ‘influential voice’ for selling chips to Chinese companies, but now investors are preparing for more restrictions, experts say.",
-          "published": "2026-11-13T20:19:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
-          "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-          "summary": "A big chunk of your retirement is likely invested in the computer-chip giant.",
-          "published": "2026-11-13T19:19:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets",
-          "link": "https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories",
-          "summary": "Meanwhile, top officials from Nvidia and the Commerce Department face a series of congressional hearings next month.",
-          "published": "2026-11-13T19:19:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
           "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-          "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.",
-          "published": "2026-11-13T19:11:13+00:00",
+          "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+          "published": "2026-11-13T23:42:18+00:00",
           "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+          "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+          "summary": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+          "published": "2026-11-13T22:21:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+          "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+          "summary": "At first, it looked like Nvidia’s pain might be the rest of the chip sector’s gain. But now, investors aren’t so sure.",
+          "published": "2026-11-13T21:10:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
@@ -150,50 +142,74 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
+      "ticker": "AEROMEX.MX",
+      "name": "Aeroméxico",
+      "exchange": "BMV",
+      "sector": "Aerolíneas",
       "news": [
         {
-          "title": "‘Strangely calming and unnerving’: How Microsoft’s massive outage upended the corporate workday",
-          "link": "https://www.marketwatch.com/story/strangely-calming-and-unnerving-how-microsofts-massive-outage-upended-the-corporate-workday-9a78d000?mod=mw_rss_topstories",
-          "summary": "A widespread Outlook outage delayed a corporate earnings report, and left users scrambling to submit their schoolwork or find alternate forms of communication.",
-          "published": "2026-11-13T19:01:00+00:00",
+          "title": "Volaris, Aeroméxico y Viva advierten demoras y cancelaciones en vuelos por falla en EE.UU.",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/volaris-aeromexico-y-viva-advierten-demoras-y-cancelaciones-en-vuelos-por-falla-en-eeuu/",
+          "summary": "Autoridades de EE.UU. pidieron que los aviones en aeropuertos mexicanos con vuelos programados a ese país se mantuvieran en tierra.",
+          "published": "2026-11-14T00:28:34+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Acciones de Aeroméxico caen con fuerza tras sus resultados: qué decepcionó a Wall Street",
+          "link": "https://www.bloomberglinea.com/mercados/acciones-de-aeromexico-caen-con-fuerza-tras-sus-resultados-que-decepciono-a-wall-street/",
+          "summary": "Las perspectivas para el cierre del año decepcionaron, pero las recomendaciones de compra siguen dominando entre los analistas que cubren la aerolínea.",
+          "published": "2026-10-20T20:31:16+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "VOLARA.MX",
+      "name": "Volaris",
+      "exchange": "BMV",
+      "sector": "Aerolíneas",
+      "news": [
+        {
+          "title": "Volaris, Aeroméxico y Viva advierten demoras y cancelaciones en vuelos por falla en EE.UU.",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/volaris-aeromexico-y-viva-advierten-demoras-y-cancelaciones-en-vuelos-por-falla-en-eeuu/",
+          "summary": "Autoridades de EE.UU. pidieron que los aviones en aeropuertos mexicanos con vuelos programados a ese país se mantuvieran en tierra.",
+          "published": "2026-11-14T00:28:34+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+          "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+          "summary": "At first, it looked like Nvidia’s pain might be the rest of the chip sector’s gain. But now, investors aren’t so sure.",
+          "published": "2026-11-13T21:10:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Juan Zarco, de Seometrix: ’Que tus clientes te encuentren en Google no debería ser un lujo’",
-          "link": "https://es.investing.com/news/stock-market-news/juan-zarco-de-seometrix-que-tus-clientes-te-encuentren-en-google-no-deberia-ser-un-lujo-3928339",
-          "summary": "",
-          "published": "2026-11-13T18:05:27+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MS",
-      "name": "Morgan Stanley",
+      "ticker": "NU",
+      "name": "Nubank",
       "exchange": "NYSE",
       "sector": "Banca",
       "news": [
         {
-          "title": "Morgan Stanley MUFG actualiza su lista de valores en Japón con IA y seguros",
-          "link": "https://es.investing.com/news/stock-market-news/morgan-stanley-mufg-actualiza-su-lista-de-valores-en-japon-con-ia-y-seguros-3928332",
-          "summary": "",
-          "published": "2026-11-13T17:49:48+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
+          "title": "Nu ve oportunidad de ser más competitivo en México con Ley de Economía Digital",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/nu-ve-oportunidad-de-ser-mas-competitivo-en-mexico-con-ley-de-economia-digital/",
+          "summary": "El CEO de Nubank, David Vélez, dijo que la legislación es un impulso para la institución financiera.",
+          "published": "2026-11-13T13:49:12+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -622,22 +638,6 @@
       ]
     },
     {
-      "ticker": "AEROMEX.MX",
-      "name": "Aeroméxico",
-      "exchange": "BMV",
-      "sector": "Aerolíneas",
-      "news": [
-        {
-          "title": "Acciones de Aeroméxico caen con fuerza tras sus resultados: qué decepcionó a Wall Street",
-          "link": "https://www.bloomberglinea.com/mercados/acciones-de-aeromexico-caen-con-fuerza-tras-sus-resultados-que-decepciono-a-wall-street/",
-          "summary": "Las perspectivas para el cierre del año decepcionaron, pero las recomendaciones de compra siguen dominando entre los analistas que cubren la aerolínea.",
-          "published": "2026-10-20T20:31:16+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "WALMEX.MX",
       "name": "Walmart de México",
       "exchange": "BMV",
@@ -704,111 +704,84 @@
   ],
   "sin_accion": [
     {
-      "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
-      "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
-      "summary": "Here’s what might be coming for Social Security, Medicare and long-term care.",
-      "published": "2026-11-13T20:02:00+00:00",
+      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed or canceled",
+      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "summary": "Agency cites “extraordinary circumstances,” while Homeland Security Secretary Mullin says no indication of attack. Reduced flights amid fuel-cost surge may curtail rebooking options.",
+      "published": "2026-11-14T01:28:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Meta prueba una app interna de mercados de predicción para empleados",
-      "link": "https://es.investing.com/news/stock-market-news/meta-prueba-una-app-interna-de-mercados-de-prediccion-para-empleados-3928380",
-      "summary": "",
-      "published": "2026-11-13T20:00:17+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-      "published": "2026-11-13T20:00:00+00:00",
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "published": "2026-11-13T23:12:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Trump extiende la exención de la Ley Jones 90 días para el transporte marítimo",
-      "link": "https://es.investing.com/news/stock-market-news/trump-extiende-la-exencion-de-la-ley-jones-90-dias-para-el-transporte-maritimo-93CH-3928373",
-      "summary": "",
-      "published": "2026-11-13T19:40:45+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-      "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-      "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
-      "published": "2026-11-13T19:40:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de Nebius?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-nebius-93CH-3928368",
-      "summary": "",
-      "published": "2026-11-13T19:29:17+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
-      "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-      "summary": "It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults",
-      "published": "2026-11-13T19:26:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Dell Technologies?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-dell-technologies-93CH-3928366",
-      "summary": "",
-      "published": "2026-11-13T19:24:21+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de TJX Companies?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-tjx-companies-93CH-3928363",
-      "summary": "",
-      "published": "2026-11-13T19:21:48+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-      "published": "2026-11-13T19:16:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Wella Company presenta su solicitud de salida a bolsa en el NYSE",
-      "link": "https://es.investing.com/news/stock-market-news/wella-company-presenta-su-solicitud-de-salida-a-bolsa-en-el-nyse-432SI-3928362",
-      "summary": "",
-      "published": "2026-11-13T19:11:02+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "What really happens during Medicare open enrollment? High stakes and lots of uncertainty.",
+      "title": "4 expert tips for signing up for Medicare",
       "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-      "summary": "Open enrollment can bring unexpected challenges for seniors.",
-      "published": "2026-11-13T18:59:00+00:00",
+      "summary": "A day in the life of a Medicare counselor",
+      "published": "2026-11-13T22:45:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Farmacias del Ahorro compra a rival Farmacias Benavides de Sycamore Partners y Stefano Pessina",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/farmacias-del-ahorro-compra-a-rival-farmacias-benavides-de-sycamore-partners-y-stefano-pessina/",
+      "summary": "La venta, por un monto no revelado, unirá bajo una misma estructura a los dos proveedores de servicios farmacéuticos y de salud, ampliando la presencia total de la compañía combinada a más de 3.000 sucursales en México.",
+      "published": "2026-11-13T22:21:53+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+      "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+      "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
+      "published": "2026-11-13T22:04:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+      "published": "2026-11-13T22:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
+      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "published": "2026-11-13T21:32:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+      "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+      "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
+      "published": "2026-11-13T21:18:30+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "“Se dice mucho de la triangulación, pero no es tanto”: Sheinbaum en víspera de viaje a China",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/se-dice-mucho-de-la-triangulacion-pero-no-es-tanto-sheinbaum-en-vispera-de-viaje-a-china/",
+      "summary": "La presidenta de México viajará al país asiático a la reunión anual de APEC, en donde sostendrá una reunión bilateral con su homólogo Xi Jinping.",
+      "published": "2026-11-13T21:05:36+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -938,15 +911,6 @@
       "tickers": []
     },
     {
-      "title": "3 unexpected reasons the October jobs report was so strong",
-      "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
-      "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
-      "published": "2026-11-09T22:23:56+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "México aprueba permisos para proyectos solares de US$750 millones a Cox, Invex y Viva el Sol",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aprueba-permisos-para-proyectos-solares-de-us750-millones-a-cox-invex-y-viva-el-sol/",
       "summary": "Las autoridades energéticas recibieron 57 solicitudes de permisos para proyectos de energía solar fotovoltaica en la segunda convocatoria del Gobierno.",
@@ -1008,29 +972,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Peso mexicano sube con fuerza tras derrota republicana en Estados Unidos",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-sube-con-fuerza-tras-derrota-republicana-en-estados-unidos/",
-      "summary": "La moneda mexicana cotiza en el mercado spot en MXN$18,56 por cada billete verde, una caída de 1,42%",
-      "published": "2026-11-04T19:17:10+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Resultados de las elecciones en EE.UU. muestran un sentimiento del pueblo estadounidense: Sheinbaum",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/resultados-de-las-elecciones-en-eeuu-muestran-un-sentimiento-del-pueblo-estadounidense-sheinbaum/",
-      "summary": "La presidenta de México dijo que aún es muy pronto para saber si algo cambiará en la relación bilateral a partir de la victoria demócrata en las urnas.",
-      "published": "2026-11-04T16:36:43+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
-    "articulos": 180,
+    "articulos": 170,
     "acciones_con_noticias": 27,
-    "sin_accion": 36
+    "sin_accion": 30
   }
 }
