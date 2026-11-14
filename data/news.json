@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T01:33:36.276665+00:00",
+  "generated_at": "2026-11-14T11:41:51.618939+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -19,9 +19,9 @@
       "scope": "Internacional",
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
-      "article_count": 0,
-      "ventana_horas": null,
-      "ok": false
+      "article_count": 10,
+      "ventana_horas": 12.7,
+      "ok": true
     },
     {
       "id": "cnbc-markets",
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 4.3,
+      "ventana_horas": 5.5,
       "ok": true
     }
   ],
@@ -178,6 +178,22 @@
           "published": "2026-11-14T00:28:34+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Interrupción de Microsoft 365 tendrá un impacto un mínimo en seguros",
+          "link": "https://es.investing.com/news/stock-market-news/interrupcion-de-microsoft-365-tendra-un-impacto-un-minimo-en-seguros-93CH-3928480",
+          "summary": "",
+          "published": "2026-11-13T22:37:43+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -704,10 +720,64 @@
   ],
   "sin_accion": [
     {
-      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed or canceled",
+      "title": "¿Qué espera Goldman para las acciones europeas en 2027?",
+      "link": "https://es.investing.com/news/stock-market-news/que-espera-goldman-para-las-acciones-europeas-en-2027-3928649",
+      "summary": "",
+      "published": "2026-11-14T10:52:51+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El Banco de Inglaterra probablemente subirá tipos en 2027, según Huw Pill",
+      "link": "https://es.investing.com/news/stock-market-news/el-banco-de-inglaterra-probablemente-subira-tipos-en-2027-segun-huw-pill-3928621",
+      "summary": "",
+      "published": "2026-11-14T08:24:06+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Por qué ING dice que las luchas de poder marcarán la economía en 2027",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-ing-dice-que-las-luchas-de-poder-marcaran-la-economia-en-2027-3928604",
+      "summary": "",
+      "published": "2026-11-14T06:15:26+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El cierre de la FAA expone sistemas obsoletos pese a miles de millones en mejoras",
+      "link": "https://es.investing.com/news/stock-market-news/el-cierre-de-la-faa-expone-sistemas-obsoletos-pese-a-miles-de-millones-en-mejoras-3928586",
+      "summary": "",
+      "published": "2026-11-14T05:13:39+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
       "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-      "summary": "Agency cites “extraordinary circumstances,” while Homeland Security Secretary Mullin says no indication of attack. Reduced flights amid fuel-cost surge may curtail rebooking options.",
-      "published": "2026-11-14T01:28:00+00:00",
+      "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
+      "published": "2026-11-14T02:42:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Elon Musk enfrenta escrutinio del Congreso por restricciones de Starlink en Ucrania",
+      "link": "https://es.investing.com/news/stock-market-news/elon-musk-enfrenta-escrutinio-del-congreso-por-restricciones-de-starlink-en-ucrania-3928550",
+      "summary": "",
+      "published": "2026-11-14T02:39:15+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "14 dividend stocks selected for long-term growth",
+      "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+      "summary": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
+      "published": "2026-11-14T01:58:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -727,6 +797,15 @@
       "summary": "A day in the life of a Medicare counselor",
       "published": "2026-11-13T22:45:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Chime Financial suben tras su inclusión en el S&P MidCap 400",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-chime-financial-suben-tras-su-inclusion-en-el-sp-midcap-400-3928474",
+      "summary": "",
+      "published": "2026-11-13T22:27:06+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -753,15 +832,6 @@
       "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
       "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
       "published": "2026-11-13T22:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-      "published": "2026-11-13T21:32:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -975,8 +1045,8 @@
     }
   ],
   "totales": {
-    "articulos": 170,
-    "acciones_con_noticias": 27,
-    "sin_accion": 30
+    "articulos": 180,
+    "acciones_con_noticias": 28,
+    "sin_accion": 36
   }
 }
