@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T01:11:12.933839+00:00",
+  "generated_at": "2026-11-15T12:11:22.201807+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 15.6,
+      "ventana_horas": 20.9,
       "ok": true
     },
     {
@@ -75,6 +75,22 @@
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
+        {
+          "title": "Megaspeed dice que ejecutiva vinculada al exdirector ejecutivo de Nvidia se fue en 2025",
+          "link": "https://es.investing.com/news/stock-market-news/megaspeed-dice-que-ejecutiva-vinculada-al-exdirector-ejecutivo-de-nvidia-se-fue-en-2025-3928795",
+          "summary": "",
+          "published": "2026-11-15T11:14:31+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "5 grandes movimientos de analistas en IA: Nvidia sufre rebajas tras la salida de Huang",
+          "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-nvidia-sufre-rebajas-tras-la-salida-de-huang-3928775",
+          "summary": "",
+          "published": "2026-11-15T09:00:02+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
         {
           "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
           "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
@@ -134,6 +150,30 @@
       ]
     },
     {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Evercore explica por qué Apple tiene los activos para liderar la IA personal",
+          "link": "https://es.investing.com/news/stock-market-news/evercore-explica-por-que-apple-tiene-los-activos-para-liderar-los-agentes-de-ia-personales-3928730",
+          "summary": "",
+          "published": "2026-11-15T01:38:04+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "AEROMEX.MX",
       "name": "Aeroméxico",
       "exchange": "BMV",
@@ -168,22 +208,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/volaris-aeromexico-y-viva-advierten-demoras-y-cancelaciones-en-vuelos-por-falla-en-eeuu/",
           "summary": "Autoridades de EE.UU. pidieron que los aviones en aeropuertos mexicanos con vuelos programados a ese país se mantuvieran en tierra.",
           "published": "2026-11-14T00:28:34+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "NU",
-      "name": "Nubank",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Nu ve oportunidad de ser más competitivo en México con Ley de Economía Digital",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/nu-ve-oportunidad-de-ser-mas-competitivo-en-mexico-con-ley-de-economia-digital/",
-          "summary": "El CEO de Nubank, David Vélez, dijo que la legislación es un impulso para la institución financiera.",
-          "published": "2026-11-13T13:49:12+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -278,18 +302,18 @@
       ]
     },
     {
-      "ticker": "BABA",
-      "name": "Alibaba",
+      "ticker": "NU",
+      "name": "Nubank",
       "exchange": "NYSE",
-      "sector": "Retail / Nube",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-          "published": "2026-11-11T07:47:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
+          "title": "Nu ve oportunidad de ser más competitivo en México con Ley de Economía Digital",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/nu-ve-oportunidad-de-ser-mas-competitivo-en-mexico-con-ley-de-economia-digital/",
+          "summary": "El CEO de Nubank, David Vélez, dijo que la legislación es un impulso para la institución financiera.",
+          "published": "2026-11-13T13:49:12+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -394,6 +418,22 @@
           "published": "2026-10-21T19:04:25+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "name": "Alibaba",
+      "exchange": "NYSE",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+          "published": "2026-11-11T07:47:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -506,22 +546,6 @@
           "published": "2026-11-04T13:32:54+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
         }
       ]
     },
@@ -640,6 +664,33 @@
   ],
   "sin_accion": [
     {
+      "title": "Las bolsas europeas arriesgan un 10% de rendimiento inferior al mercado global",
+      "link": "https://es.investing.com/news/stock-market-news/las-bolsas-europeas-arriesgan-un-10-de-rendimiento-inferior-al-mercado-global-3928789",
+      "summary": "",
+      "published": "2026-11-15T10:16:22+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El auge de los centros de datos de IA en Irlanda enfrenta un desafío legal",
+      "link": "https://es.investing.com/news/stock-market-news/el-auge-de-los-centros-de-datos-de-ia-en-irlanda-enfrenta-un-desafio-legal-3928781",
+      "summary": "",
+      "published": "2026-11-15T09:37:57+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "El BCE no puede reemplazar una política fiscal sólida, advierte Knot",
+      "link": "https://es.investing.com/news/stock-market-news/el-bce-no-puede-reemplazar-una-politica-fiscal-solida-advierte-knot-3928773",
+      "summary": "",
+      "published": "2026-11-15T08:56:54+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
       "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
       "summary": "The historic first gets SpaceX closer to “rapid reusability” of rockets.",
@@ -721,38 +772,11 @@
       "tickers": []
     },
     {
-      "title": "MSC cerca de un acuerdo para adquirir el 80% del astillero alemán Meyer Werft",
-      "link": "https://es.investing.com/news/stock-market-news/msc-cerca-de-un-acuerdo-para-adquirir-el-80-del-astillero-aleman-meyer-werft-3928667",
-      "summary": "",
-      "published": "2026-11-14T14:18:34+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "La victoria demócrata en las elecciones de medio mandato, \"nada mala\" para SpaceX",
-      "link": "https://es.investing.com/news/stock-market-news/la-victoria-democrata-en-las-elecciones-de-medio-mandato-nada-mala-para-spacex-3928663",
-      "summary": "",
-      "published": "2026-11-14T13:29:01+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
       "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
       "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
       "published": "2026-11-14T12:00:01+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Qué espera Goldman para las acciones europeas en 2027?",
-      "link": "https://es.investing.com/news/stock-market-news/que-espera-goldman-para-las-acciones-europeas-en-2027-3928649",
-      "summary": "",
-      "published": "2026-11-14T10:52:51+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
