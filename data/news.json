@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T12:11:22.201807+00:00",
+  "generated_at": "2026-11-15T19:26:28.785163+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 20.9,
+      "ventana_horas": 21.8,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 6.7,
+      "ventana_horas": 3.5,
       "ok": true
     }
   ],
@@ -75,6 +75,22 @@
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
+        {
+          "title": "Bessent pide un cambio de liderazgo \"drástico\" en Nvidia",
+          "link": "https://es.investing.com/news/stock-market-news/bessent-dice-que-nvidia-necesita-un-cambio-radical-de-liderazgo-3928854",
+          "summary": "",
+          "published": "2026-11-15T15:39:58+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+          "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+          "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+          "published": "2026-11-15T15:00:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
         {
           "title": "Megaspeed dice que ejecutiva vinculada al exdirector ejecutivo de Nvidia se fue en 2025",
           "link": "https://es.investing.com/news/stock-market-news/megaspeed-dice-que-ejecutiva-vinculada-al-exdirector-ejecutivo-de-nvidia-se-fue-en-2025-3928795",
@@ -138,14 +154,6 @@
           "published": "2026-11-11T07:47:54+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        },
-        {
-          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
-          "published": "2026-11-09T18:46:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -168,46 +176,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
           "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
           "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "AEROMEX.MX",
-      "name": "Aeroméxico",
-      "exchange": "BMV",
-      "sector": "Aerolíneas",
-      "news": [
-        {
-          "title": "Volaris, Aeroméxico y Viva advierten demoras y cancelaciones en vuelos por falla en EE.UU.",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/volaris-aeromexico-y-viva-advierten-demoras-y-cancelaciones-en-vuelos-por-falla-en-eeuu/",
-          "summary": "Autoridades de EE.UU. pidieron que los aviones en aeropuertos mexicanos con vuelos programados a ese país se mantuvieran en tierra.",
-          "published": "2026-11-14T00:28:34+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Acciones de Aeroméxico caen con fuerza tras sus resultados: qué decepcionó a Wall Street",
-          "link": "https://www.bloomberglinea.com/mercados/acciones-de-aeromexico-caen-con-fuerza-tras-sus-resultados-que-decepciono-a-wall-street/",
-          "summary": "Las perspectivas para el cierre del año decepcionaron, pero las recomendaciones de compra siguen dominando entre los analistas que cubren la aerolínea.",
-          "published": "2026-10-20T20:31:16+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "VOLARA.MX",
-      "name": "Volaris",
-      "exchange": "BMV",
-      "sector": "Aerolíneas",
-      "news": [
-        {
-          "title": "Volaris, Aeroméxico y Viva advierten demoras y cancelaciones en vuelos por falla en EE.UU.",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/volaris-aeromexico-y-viva-advierten-demoras-y-cancelaciones-en-vuelos-por-falla-en-eeuu/",
-          "summary": "Autoridades de EE.UU. pidieron que los aviones en aeropuertos mexicanos con vuelos programados a ese país se mantuvieran en tierra.",
-          "published": "2026-11-14T00:28:34+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -296,6 +264,46 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/subsecretaria-de-hacienda-afirma-que-riesgo-pais-de-mexico-vinculado-a-pemex-se-comprimio/",
           "summary": "María del Carmen Bonilla, subsecretaria de la dependencia federal, dijo que hay evidencia de que la economía mexicana crecerá con impulso de la inversión pública y privada.",
           "published": "2026-10-09T03:08:40+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AEROMEX.MX",
+      "name": "Aeroméxico",
+      "exchange": "BMV",
+      "sector": "Aerolíneas",
+      "news": [
+        {
+          "title": "Volaris, Aeroméxico y Viva advierten demoras y cancelaciones en vuelos por falla en EE.UU.",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/volaris-aeromexico-y-viva-advierten-demoras-y-cancelaciones-en-vuelos-por-falla-en-eeuu/",
+          "summary": "Autoridades de EE.UU. pidieron que los aviones en aeropuertos mexicanos con vuelos programados a ese país se mantuvieran en tierra.",
+          "published": "2026-11-14T00:28:34+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Acciones de Aeroméxico caen con fuerza tras sus resultados: qué decepcionó a Wall Street",
+          "link": "https://www.bloomberglinea.com/mercados/acciones-de-aeromexico-caen-con-fuerza-tras-sus-resultados-que-decepciono-a-wall-street/",
+          "summary": "Las perspectivas para el cierre del año decepcionaron, pero las recomendaciones de compra siguen dominando entre los analistas que cubren la aerolínea.",
+          "published": "2026-10-20T20:31:16+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "VOLARA.MX",
+      "name": "Volaris",
+      "exchange": "BMV",
+      "sector": "Aerolíneas",
+      "news": [
+        {
+          "title": "Volaris, Aeroméxico y Viva advierten demoras y cancelaciones en vuelos por falla en EE.UU.",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/volaris-aeromexico-y-viva-advierten-demoras-y-cancelaciones-en-vuelos-por-falla-en-eeuu/",
+          "summary": "Autoridades de EE.UU. pidieron que los aviones en aeropuertos mexicanos con vuelos programados a ese país se mantuvieran en tierra.",
+          "published": "2026-11-14T00:28:34+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -664,6 +672,69 @@
   ],
   "sin_accion": [
     {
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+      "published": "2026-11-15T16:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+      "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+      "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
+      "published": "2026-11-15T15:22:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "published": "2026-11-15T15:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "published": "2026-11-15T14:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+      "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
+      "summary": "SpaceX’s offering coincided with the June peak in semiconductors.",
+      "published": "2026-11-15T14:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+      "published": "2026-11-15T13:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Por qué la caída en los precios de los tokens de IA no perjudica a los proveedores",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-la-caida-en-los-precios-de-los-tokens-de-ia-no-perjudica-a-los-proveedores-3928833",
+      "summary": "",
+      "published": "2026-11-15T13:05:31+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Las bolsas europeas arriesgan un 10% de rendimiento inferior al mercado global",
       "link": "https://es.investing.com/news/stock-market-news/las-bolsas-europeas-arriesgan-un-10-de-rendimiento-inferior-al-mercado-global-3928789",
       "summary": "",
@@ -691,60 +762,6 @@
       "tickers": []
     },
     {
-      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-      "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
-      "summary": "The historic first gets SpaceX closer to “rapid reusability” of rockets.",
-      "published": "2026-11-15T00:33:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
-      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-      "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
-      "published": "2026-11-14T21:31:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-      "published": "2026-11-14T21:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-      "published": "2026-11-14T20:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-      "published": "2026-11-14T19:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-      "published": "2026-11-14T18:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Brookfield y CPPIB avanzan en la venta de Uniper mientras Alemania reduce su participación",
       "link": "https://es.investing.com/news/stock-market-news/duffy-investiga-a-l3harris-por-el-fallo-de-la-faa-que-paralizo-vuelos-en-eeuu-3928690",
       "summary": "",
@@ -758,15 +775,6 @@
       "link": "https://es.investing.com/news/stock-market-news/elecciones-de-mitad-de-mandato-en-eeuu-citi-analiza-las-implicaciones-para-la-economia-y-los-mercados-3928687",
       "summary": "",
       "published": "2026-11-14T17:52:12+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Italia multa a Meta con 805 millones de euros por acceso a fotos de usuarios Android",
-      "link": "https://es.investing.com/news/stock-market-news/italia-multa-a-meta-con-805-millones-de-euros-por-acceso-a-fotos-de-usuarios-android-3928670",
-      "summary": "",
-      "published": "2026-11-14T14:59:55+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
