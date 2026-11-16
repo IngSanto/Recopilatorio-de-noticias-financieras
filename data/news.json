@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T01:16:21.840062+00:00",
+  "generated_at": "2026-11-16T13:04:17.486747+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 15.6,
+      "ventana_horas": 0.3,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 435.5,
+      "ventana_horas": 437.4,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 270.4,
+      "ventana_horas": 286.7,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 8.5,
+      "ventana_horas": 2.7,
       "ok": true
     }
   ],
@@ -76,51 +76,51 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-          "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-          "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
-          "published": "2026-11-15T21:32:00+00:00",
-          "source_short": "MarketW",
+          "title": "Nvidia cae antes de la apertura tras la salida de Huang, con resultados a la vista",
+          "link": "https://es.investing.com/news/stock-market-news/nvidia-cae-antes-de-la-apertura-tras-la-salida-de-huang-3929853",
+          "summary": "",
+          "published": "2026-11-16T12:30:07+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "Jensen Huang podría regresar como director ejecutivo de Nvidia",
-          "link": "https://es.investing.com/news/stock-market-news/jensen-huang-podria-regresar-como-director-ejecutivo-de-nvidia-3928886",
+          "title": "Los futuros del TSX caen antes de los resultados de Nvidia y la OPV de Anthropic",
+          "link": "https://es.investing.com/news/stock-market-news/los-futuros-del-tsx-caen-antes-de-los-resultados-de-nvidia-y-la-opv-de-anthropic-3929849",
           "summary": "",
-          "published": "2026-11-15T20:39:40+00:00",
+          "published": "2026-11-16T12:26:12+00:00",
           "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Three questions for anyone considering the Nvidia CEO job",
+          "link": "https://www.marketwatch.com/story/three-questions-for-anyone-considering-the-nvidia-ceo-job-08ef8120?mod=mw_rss_topstories",
+          "summary": "Colette Kress’s first earnings call as interim CEO offers a glimpse of Nvidia after Jensen Huang. Plus, Anthropic’s coming IPO and why some gamers may call in sick this week.",
+          "published": "2026-11-16T12:17:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
           "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
           "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
           "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-          "published": "2026-11-15T19:58:21+00:00",
+          "published": "2026-11-16T12:14:46+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Bessent pide un cambio de liderazgo \"drástico\" en Nvidia",
-          "link": "https://es.investing.com/news/stock-market-news/bessent-dice-que-nvidia-necesita-un-cambio-radical-de-liderazgo-3928854",
-          "summary": "",
-          "published": "2026-11-15T15:39:58+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Megaspeed dice que ejecutiva vinculada al exdirector ejecutivo de Nvidia se fue en 2025",
-          "link": "https://es.investing.com/news/stock-market-news/megaspeed-dice-que-ejecutiva-vinculada-al-exdirector-ejecutivo-de-nvidia-se-fue-en-2025-3928795",
-          "summary": "",
-          "published": "2026-11-15T11:14:31+00:00",
-          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
           "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
           "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
           "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-          "published": "2026-11-14T15:50:43+00:00",
+          "published": "2026-11-16T12:13:23+00:00",
           "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Why Nvidia can avoid the fate of most stocks that reached the market-cap apex, according to one strategist",
+          "link": "https://www.marketwatch.com/story/why-nvidia-can-avoid-the-fate-of-most-stocks-that-reached-the-apex-by-market-cap-according-to-one-strategist-461e33be?mod=mw_rss_topstories",
+          "summary": "Despite many analysts slashing their forecasts, the median target price for Nvidia remains way above the current share price at $280. Its cash flow and debt profile are the envy of all AI companies and long term, and the stock is attractive, says J.P. Morgan Asset Management.",
+          "published": "2026-11-16T11:07:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
@@ -153,6 +153,70 @@
           "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
           "published": "2026-11-11T07:47:54+00:00",
           "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "exchange": "NASDAQ",
+      "sector": "Cripto",
+      "news": [
+        {
+          "title": "¿Por qué cae hoy la acción de Coinbase Global Inc?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-coinbase-global-inc-93CH-3929900",
+          "summary": "",
+          "published": "2026-11-16T12:42:10+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly",
+      "exchange": "NYSE",
+      "sector": "Salud",
+      "news": [
+        {
+          "title": "Eli Lilly adquirirá Calytrix Bio por hasta 1.500 millones de dólares",
+          "link": "https://es.investing.com/news/stock-market-news/eli-lilly-adquirira-calytrix-bio-por-hasta-1500-millones-de-dolares-93CH-3929848",
+          "summary": "",
+          "published": "2026-11-16T12:28:23+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "DB",
+      "name": "Deutsche Bank",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Deutsche Bank ve potencial limitado en dsm-firmenich tras su revalorización",
+          "link": "https://es.investing.com/news/stock-market-news/deutsche-bank-ve-potencial-limitado-en-dsmfirmenich-tras-la-revision-3929823",
+          "summary": "",
+          "published": "2026-11-16T12:22:44+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MS",
+      "name": "Morgan Stanley",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Why Morgan Stanley says it’s time to go ‘max’ overweight on stocks",
+          "link": "https://www.marketwatch.com/story/why-morgan-stanley-says-its-time-to-go-max-overweight-on-stocks-bd33b103?mod=mw_rss_topstories",
+          "summary": "Increase your allocation to stocks to the highest possible amount, say Morgan Stanley strategists in one of the most bullish year-ahead outlooks so far.",
+          "published": "2026-11-16T10:20:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -664,83 +728,83 @@
   ],
   "sin_accion": [
     {
-      "title": "El primer ministro Burnham pedirá un reinicio de la relación entre Reino Unido y la UE",
-      "link": "https://es.investing.com/news/stock-market-news/el-primer-ministro-burnham-pedira-un-reinicio-de-la-relacion-entre-reino-unido-y-la-ue-93CH-3928923",
-      "summary": "",
-      "published": "2026-11-16T01:11:36+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-      "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-      "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
-      "published": "2026-11-16T01:02:48+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "J&J negocia la compra de la biotecnológica Ollin por 3.400 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/jj-negocia-la-compra-de-la-biotecnologica-ollin-por-3400-millones-de-dolares-3928920",
-      "summary": "",
-      "published": "2026-11-16T00:53:54+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "IDP Education rechaza por tercera vez la oferta de Blackstone por 564,5 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/idp-education-rechaza-por-tercera-vez-la-oferta-de-blackstone-por-5645-millones-de-dolares-3928918",
-      "summary": "",
-      "published": "2026-11-16T00:41:02+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-      "published": "2026-11-15T23:30:00+00:00",
+      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs",
+      "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+      "summary": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
+      "published": "2026-11-16T13:01:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-      "published": "2026-11-15T23:00:00+00:00",
+      "title": "How to use options to bet against Big Tech, while keeping risk in check",
+      "link": "https://www.marketwatch.com/story/how-to-use-options-to-bet-against-big-tech-while-keeping-risk-in-check-a2609641?mod=mw_rss_topstories",
+      "summary": "One way to bet on the continued move away from Big Tech is by buying options that give you the right to both buy and sell certain market ETFs.",
+      "published": "2026-11-16T12:53:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Diamondback Energy cerca de cerrar un acuerdo de 5.000 millones con Double Eagle",
-      "link": "https://es.investing.com/news/stock-market-news/diamondback-energy-cerca-de-cerrar-un-acuerdo-de-5000-millones-con-double-eagle-3928899",
+      "title": "¿Por qué cae hoy la acción de Helus Pharma Inc?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-helus-pharma-inc-93CH-3929901",
       "summary": "",
-      "published": "2026-11-15T22:20:32+00:00",
+      "published": "2026-11-16T12:42:14+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
-      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-      "published": "2026-11-15T22:15:00+00:00",
+      "title": "¿Por qué cae hoy la acción de Strategy Inc?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-strategy-inc-93CH-3929897",
+      "summary": "",
+      "published": "2026-11-16T12:41:38+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Insight Enterprises?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-insight-enterprises-93CH-3929896",
+      "summary": "",
+      "published": "2026-11-16T12:41:26+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Helus Pharma caen un 21% pese a resultados positivos",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-helus-pharma-caen-un-21-pese-a-resultados-positivos-3929884",
+      "summary": "",
+      "published": "2026-11-16T12:37:54+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Anthropic’s IPO is forcing investors to assess uninsurable risks they’ve never encountered before",
+      "link": "https://www.marketwatch.com/story/anthropics-ipo-is-forcing-investors-to-assess-uninsurable-risks-theyve-never-encountered-before-dea85fbf?mod=mw_rss_topstories",
+      "summary": "Who pays when AI goes rogue? Insurance giants are reluctant to touch catastrophic legal liability.",
+      "published": "2026-11-16T12:33:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-      "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-      "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
-      "published": "2026-11-15T21:31:00+00:00",
+      "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil",
+      "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
+      "summary": "Ulf Lindahl says a storm is brewing for investors in the U.S. stock market, who will also be facing $500 oil in a few years. Here is where he’d shelter.",
+      "published": "2026-11-16T12:32:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de L3Harris Technologies?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-l3harris-technologies-93CH-3929830",
+      "summary": "",
+      "published": "2026-11-16T12:26:00+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -748,35 +812,35 @@
       "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
       "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
       "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-      "published": "2026-11-15T20:30:00+00:00",
+      "published": "2026-11-16T12:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-      "published": "2026-11-15T20:00:00+00:00",
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+      "published": "2026-11-16T11:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Por qué la caída en los precios de los tokens de IA no perjudica a los proveedores",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-la-caida-en-los-precios-de-los-tokens-de-ia-no-perjudica-a-los-proveedores-3928833",
-      "summary": "",
-      "published": "2026-11-15T13:05:31+00:00",
-      "source_short": "Investing",
+      "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+      "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+      "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+      "published": "2026-11-16T03:53:59+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las bolsas europeas arriesgan un 10% de rendimiento inferior al mercado global",
-      "link": "https://es.investing.com/news/stock-market-news/las-bolsas-europeas-arriesgan-un-10-de-rendimiento-inferior-al-mercado-global-3928789",
-      "summary": "",
-      "published": "2026-11-15T10:16:22+00:00",
-      "source_short": "Investing",
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+      "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+      "published": "2026-11-16T02:56:24+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -898,15 +962,6 @@
       "tickers": []
     },
     {
-      "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
-      "link": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
-      "summary": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets.",
-      "published": "2026-11-11T19:16:23+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
       "link": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
       "summary": "Retail sales rose at their slowest pace in nearly a year in October as American consumers showed signs of strain from high prices.",
@@ -990,7 +1045,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 24,
-    "sin_accion": 36
+    "acciones_con_noticias": 28,
+    "sin_accion": 35
   }
 }
