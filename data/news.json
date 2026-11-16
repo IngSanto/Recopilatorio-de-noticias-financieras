@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T13:04:17.486747+00:00",
+  "generated_at": "2026-11-16T22:59:19.825790+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.3,
+      "ventana_horas": 2.4,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 286.7,
+      "ventana_horas": 270.4,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.7,
+      "ventana_horas": 1.5,
       "ok": true
     }
   ],
@@ -76,26 +76,10 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Nvidia cae antes de la apertura tras la salida de Huang, con resultados a la vista",
-          "link": "https://es.investing.com/news/stock-market-news/nvidia-cae-antes-de-la-apertura-tras-la-salida-de-huang-3929853",
-          "summary": "",
-          "published": "2026-11-16T12:30:07+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Los futuros del TSX caen antes de los resultados de Nvidia y la OPV de Anthropic",
-          "link": "https://es.investing.com/news/stock-market-news/los-futuros-del-tsx-caen-antes-de-los-resultados-de-nvidia-y-la-opv-de-anthropic-3929849",
-          "summary": "",
-          "published": "2026-11-16T12:26:12+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Three questions for anyone considering the Nvidia CEO job",
-          "link": "https://www.marketwatch.com/story/three-questions-for-anyone-considering-the-nvidia-ceo-job-08ef8120?mod=mw_rss_topstories",
-          "summary": "Colette Kress’s first earnings call as interim CEO offers a glimpse of Nvidia after Jensen Huang. Plus, Anthropic’s coming IPO and why some gamers may call in sick this week.",
-          "published": "2026-11-16T12:17:00+00:00",
+          "title": "Nvidia’s stock extends decline following harsh words from the U.S. government",
+          "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+          "summary": "The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.",
+          "published": "2026-11-16T21:53:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
@@ -113,14 +97,6 @@
           "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
           "published": "2026-11-16T12:13:23+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Why Nvidia can avoid the fate of most stocks that reached the market-cap apex, according to one strategist",
-          "link": "https://www.marketwatch.com/story/why-nvidia-can-avoid-the-fate-of-most-stocks-that-reached-the-apex-by-market-cap-according-to-one-strategist-461e33be?mod=mw_rss_topstories",
-          "summary": "Despite many analysts slashing their forecasts, the median target price for Nvidia remains way above the current share price at $280. Its cash flow and debt profile are the envy of all AI companies and long term, and the stock is attractive, says J.P. Morgan Asset Management.",
-          "published": "2026-11-16T11:07:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
@@ -154,69 +130,93 @@
           "published": "2026-11-11T07:47:54+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "exchange": "NASDAQ",
-      "sector": "Cripto",
-      "news": [
+        },
         {
-          "title": "¿Por qué cae hoy la acción de Coinbase Global Inc?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-coinbase-global-inc-93CH-3929900",
-          "summary": "",
-          "published": "2026-11-16T12:42:10+00:00",
-          "source_short": "Investing",
+          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+          "published": "2026-11-09T18:46:01+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "LLY",
-      "name": "Eli Lilly",
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway",
       "exchange": "NYSE",
-      "sector": "Salud",
+      "sector": "Finanzas",
       "news": [
         {
-          "title": "Eli Lilly adquirirá Calytrix Bio por hasta 1.500 millones de dólares",
-          "link": "https://es.investing.com/news/stock-market-news/eli-lilly-adquirira-calytrix-bio-por-hasta-1500-millones-de-dolares-93CH-3929848",
-          "summary": "",
-          "published": "2026-11-16T12:28:23+00:00",
-          "source_short": "Investing",
+          "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+          "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+          "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+          "published": "2026-11-16T22:58:26+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "DB",
-      "name": "Deutsche Bank",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
+        },
         {
-          "title": "Deutsche Bank ve potencial limitado en dsm-firmenich tras su revalorización",
-          "link": "https://es.investing.com/news/stock-market-news/deutsche-bank-ve-potencial-limitado-en-dsmfirmenich-tras-la-revision-3929823",
-          "summary": "",
-          "published": "2026-11-16T12:22:44+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MS",
-      "name": "Morgan Stanley",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Why Morgan Stanley says it’s time to go ‘max’ overweight on stocks",
-          "link": "https://www.marketwatch.com/story/why-morgan-stanley-says-its-time-to-go-max-overweight-on-stocks-bd33b103?mod=mw_rss_topstories",
-          "summary": "Increase your allocation to stocks to the highest possible amount, say Morgan Stanley strategists in one of the most bullish year-ahead outlooks so far.",
-          "published": "2026-11-16T10:20:00+00:00",
+          "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
+          "link": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
+          "summary": "Berkshire Hathaway stepped up its investments in the U.S. housing market last quarter, nearly doubling its stake in home builder Lennar.",
+          "published": "2026-11-16T22:33:00+00:00",
           "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+          "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+          "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+          "published": "2026-11-07T15:23:46+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BAC",
+      "name": "Bank of America",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+          "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+          "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+          "published": "2026-11-16T22:58:26+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "HSBC",
+      "name": "HSBC",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "HSBC vende con gran descuento un préstamo de 300 millones de dólares para un centro de datos de IA",
+          "link": "https://es.investing.com/news/stock-market-news/hsbc-vende-con-gran-descuento-un-prestamo-de-300-millones-de-dolares-para-un-centro-de-datos-de-ia-3931030",
+          "summary": "",
+          "published": "2026-11-16T22:32:35+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+          "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+          "published": "2026-11-16T22:14:47+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -518,22 +518,6 @@
       ]
     },
     {
-      "ticker": "BRK.B",
-      "name": "Berkshire Hathaway",
-      "exchange": "NYSE",
-      "sector": "Finanzas",
-      "news": [
-        {
-          "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-          "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-          "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-          "published": "2026-11-07T15:23:46+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
       "ticker": "ABNB",
       "name": "Airbnb",
       "exchange": "NASDAQ",
@@ -544,54 +528,6 @@
           "link": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-premarket-moderna-airbnb-cloudflare-affirm-more.html",
           "summary": "These are some of the stocks posting the largest moves premarket.",
           "published": "2026-11-06T13:05:50+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "QCOM",
-      "name": "Qualcomm",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
-          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html",
-          "summary": "These are the stocks posting the largest moves after hours.",
-          "published": "2026-11-04T22:04:55+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "exchange": "NASDAQ",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
-          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-11-04T13:32:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "NVO",
-      "name": "Novo Nordisk",
-      "exchange": "NYSE",
-      "sector": "Salud",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
-          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
-          "summary": "These are the stocks posting the largest moves in the premarket.",
-          "published": "2026-11-04T13:32:54+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -728,92 +664,92 @@
   ],
   "sin_accion": [
     {
-      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs",
+      "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
+      "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+      "summary": "The dollar recently climbed to its strongest level in a year and a half.",
+      "published": "2026-11-16T22:46:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "S&P mejora la perspectiva de Celsius Holdings a positiva con un apalancamiento de 1,7x",
+      "link": "https://es.investing.com/news/stock-market-news/sp-mejora-la-perspectiva-de-celsius-holdings-a-positiva-con-un-apalancamiento-de-17x-3931033",
+      "summary": "",
+      "published": "2026-11-16T22:38:44+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Aon completa la adquisición de USI Insurance Services por 17.000 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/aon-completa-la-adquisicion-de-usi-insurance-services-por-17000-millones-de-dolares-93CH-3931026",
+      "summary": "",
+      "published": "2026-11-16T22:31:46+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Omeros Corporation?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-omeros-corporation-93CH-3931025",
+      "summary": "",
+      "published": "2026-11-16T22:30:41+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+      "published": "2026-11-16T22:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "SiteOne Landscape Supply sube un 7% tras su inclusión en el S&P SmallCap 600",
+      "link": "https://es.investing.com/news/stock-market-news/siteone-landscape-supply-sube-un-7-tras-su-inclusion-en-el-sp-smallcap-600-3931023",
+      "summary": "",
+      "published": "2026-11-16T22:27:33+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "United Aerolíneas soluciona una interrupción del sistema que afecta a los vuelos",
+      "link": "https://es.investing.com/news/stock-market-news/united-aerolineas-soluciona-una-interrupcion-del-sistema-que-afecta-a-los-vuelos-3931018",
+      "summary": "",
+      "published": "2026-11-16T22:25:35+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
       "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
       "summary": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
-      "published": "2026-11-16T13:01:00+00:00",
+      "published": "2026-11-16T22:21:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "How to use options to bet against Big Tech, while keeping risk in check",
-      "link": "https://www.marketwatch.com/story/how-to-use-options-to-bet-against-big-tech-while-keeping-risk-in-check-a2609641?mod=mw_rss_topstories",
-      "summary": "One way to bet on the continued move away from Big Tech is by buying options that give you the right to both buy and sell certain market ETFs.",
-      "published": "2026-11-16T12:53:00+00:00",
-      "source_short": "MarketW",
+      "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+      "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+      "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
+      "published": "2026-11-16T22:19:02+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué cae hoy la acción de Helus Pharma Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-helus-pharma-inc-93CH-3929901",
+      "title": "Acciones de Insight Molecular Diagnostics caen por oferta pública",
+      "link": "https://es.investing.com/news/stock-market-news/acciones-de-insight-molecular-diagnostics-caen-por-oferta-publica-3931009",
       "summary": "",
-      "published": "2026-11-16T12:42:14+00:00",
+      "published": "2026-11-16T22:13:20+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Strategy Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-strategy-inc-93CH-3929897",
-      "summary": "",
-      "published": "2026-11-16T12:41:38+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Insight Enterprises?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-insight-enterprises-93CH-3929896",
-      "summary": "",
-      "published": "2026-11-16T12:41:26+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Helus Pharma caen un 21% pese a resultados positivos",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-helus-pharma-caen-un-21-pese-a-resultados-positivos-3929884",
-      "summary": "",
-      "published": "2026-11-16T12:37:54+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Anthropic’s IPO is forcing investors to assess uninsurable risks they’ve never encountered before",
-      "link": "https://www.marketwatch.com/story/anthropics-ipo-is-forcing-investors-to-assess-uninsurable-risks-theyve-never-encountered-before-dea85fbf?mod=mw_rss_topstories",
-      "summary": "Who pays when AI goes rogue? Insurance giants are reluctant to touch catastrophic legal liability.",
-      "published": "2026-11-16T12:33:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil",
-      "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
-      "summary": "Ulf Lindahl says a storm is brewing for investors in the U.S. stock market, who will also be facing $500 oil in a few years. Here is where he’d shelter.",
-      "published": "2026-11-16T12:32:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de L3Harris Technologies?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-l3harris-technologies-93CH-3929830",
-      "summary": "",
-      "published": "2026-11-16T12:26:00+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-      "published": "2026-11-16T12:15:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -821,8 +757,44 @@
       "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
       "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
       "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-      "published": "2026-11-16T11:15:00+00:00",
+      "published": "2026-11-16T22:08:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Chase says ‘software bug’ could be causing disruptions at major U.S. banks",
+      "link": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
+      "summary": "Some customers are saying they can’t access their accounts or their unable to withdraw funds.",
+      "published": "2026-11-16T21:49:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "published": "2026-11-16T21:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+      "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+      "summary": "",
+      "published": "2026-11-16T18:46:07+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
+      "published": "2026-11-16T17:14:13+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -840,15 +812,6 @@
       "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
       "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
       "published": "2026-11-16T02:56:24+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-      "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-      "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
-      "published": "2026-11-14T12:00:01+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -914,24 +877,6 @@
       "published": "2026-11-13T00:07:51+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-      "published": "2026-11-13T00:01:19+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-      "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-      "published": "2026-11-12T19:05:25+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1045,7 +990,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 28,
-    "sin_accion": 35
+    "acciones_con_noticias": 24,
+    "sin_accion": 36
   }
 }
