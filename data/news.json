@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T19:26:28.785163+00:00",
+  "generated_at": "2026-11-16T01:16:21.840062+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 21.8,
+      "ventana_horas": 15.6,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 384.2,
+      "ventana_horas": 435.5,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 242.3,
+      "ventana_horas": 270.4,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.5,
+      "ventana_horas": 8.5,
       "ok": true
     }
   ],
@@ -76,19 +76,35 @@
       "sector": "Semiconductores",
       "news": [
         {
+          "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+          "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+          "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+          "published": "2026-11-15T21:32:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Jensen Huang podría regresar como director ejecutivo de Nvidia",
+          "link": "https://es.investing.com/news/stock-market-news/jensen-huang-podria-regresar-como-director-ejecutivo-de-nvidia-3928886",
+          "summary": "",
+          "published": "2026-11-15T20:39:40+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+          "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+          "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+          "published": "2026-11-15T19:58:21+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "Bessent pide un cambio de liderazgo \"drástico\" en Nvidia",
           "link": "https://es.investing.com/news/stock-market-news/bessent-dice-que-nvidia-necesita-un-cambio-radical-de-liderazgo-3928854",
           "summary": "",
           "published": "2026-11-15T15:39:58+00:00",
           "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-          "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-          "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
-          "published": "2026-11-15T15:00:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
@@ -100,26 +116,10 @@
           "source_scope": "Internacional"
         },
         {
-          "title": "5 grandes movimientos de analistas en IA: Nvidia sufre rebajas tras la salida de Huang",
-          "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-nvidia-sufre-rebajas-tras-la-salida-de-huang-3928775",
-          "summary": "",
-          "published": "2026-11-15T09:00:02+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
           "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
           "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
           "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
           "published": "2026-11-14T15:50:43+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-          "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-          "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-          "published": "2026-11-13T23:42:18+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         },
@@ -154,30 +154,6 @@
           "published": "2026-11-11T07:47:54+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Evercore explica por qué Apple tiene los activos para liderar la IA personal",
-          "link": "https://es.investing.com/news/stock-market-news/evercore-explica-por-que-apple-tiene-los-activos-para-liderar-los-agentes-de-ia-personales-3928730",
-          "summary": "",
-          "published": "2026-11-15T01:38:04+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
         }
       ]
     },
@@ -558,6 +534,22 @@
       ]
     },
     {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "AMXB.MX",
       "name": "América Móvil",
       "exchange": "BMV",
@@ -672,46 +664,46 @@
   ],
   "sin_accion": [
     {
-      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-      "published": "2026-11-15T16:00:00+00:00",
-      "source_short": "MarketW",
+      "title": "El primer ministro Burnham pedirá un reinicio de la relación entre Reino Unido y la UE",
+      "link": "https://es.investing.com/news/stock-market-news/el-primer-ministro-burnham-pedira-un-reinicio-de-la-relacion-entre-reino-unido-y-la-ue-93CH-3928923",
+      "summary": "",
+      "published": "2026-11-16T01:11:36+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
-      "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-      "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
-      "published": "2026-11-15T15:22:00+00:00",
-      "source_short": "MarketW",
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+      "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+      "published": "2026-11-16T01:02:48+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-      "published": "2026-11-15T15:00:00+00:00",
-      "source_short": "MarketW",
+      "title": "J&J negocia la compra de la biotecnológica Ollin por 3.400 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/jj-negocia-la-compra-de-la-biotecnologica-ollin-por-3400-millones-de-dolares-3928920",
+      "summary": "",
+      "published": "2026-11-16T00:53:54+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "summary": "There is already a demographic ‘run’ on Social Security.",
-      "published": "2026-11-15T14:00:00+00:00",
-      "source_short": "MarketW",
+      "title": "IDP Education rechaza por tercera vez la oferta de Blackstone por 564,5 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/idp-education-rechaza-por-tercera-vez-la-oferta-de-blackstone-por-5645-millones-de-dolares-3928918",
+      "summary": "",
+      "published": "2026-11-16T00:41:02+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
-      "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
-      "summary": "SpaceX’s offering coincided with the June peak in semiconductors.",
-      "published": "2026-11-15T14:00:00+00:00",
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+      "published": "2026-11-15T23:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -720,7 +712,52 @@
       "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
       "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
       "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-      "published": "2026-11-15T13:30:00+00:00",
+      "published": "2026-11-15T23:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Diamondback Energy cerca de cerrar un acuerdo de 5.000 millones con Double Eagle",
+      "link": "https://es.investing.com/news/stock-market-news/diamondback-energy-cerca-de-cerrar-un-acuerdo-de-5000-millones-con-double-eagle-3928899",
+      "summary": "",
+      "published": "2026-11-15T22:20:32+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "published": "2026-11-15T22:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+      "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+      "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
+      "published": "2026-11-15T21:31:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+      "published": "2026-11-15T20:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+      "published": "2026-11-15T20:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -739,42 +776,6 @@
       "link": "https://es.investing.com/news/stock-market-news/las-bolsas-europeas-arriesgan-un-10-de-rendimiento-inferior-al-mercado-global-3928789",
       "summary": "",
       "published": "2026-11-15T10:16:22+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El auge de los centros de datos de IA en Irlanda enfrenta un desafío legal",
-      "link": "https://es.investing.com/news/stock-market-news/el-auge-de-los-centros-de-datos-de-ia-en-irlanda-enfrenta-un-desafio-legal-3928781",
-      "summary": "",
-      "published": "2026-11-15T09:37:57+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El BCE no puede reemplazar una política fiscal sólida, advierte Knot",
-      "link": "https://es.investing.com/news/stock-market-news/el-bce-no-puede-reemplazar-una-politica-fiscal-solida-advierte-knot-3928773",
-      "summary": "",
-      "published": "2026-11-15T08:56:54+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Brookfield y CPPIB avanzan en la venta de Uniper mientras Alemania reduce su participación",
-      "link": "https://es.investing.com/news/stock-market-news/duffy-investiga-a-l3harris-por-el-fallo-de-la-faa-que-paralizo-vuelos-en-eeuu-3928690",
-      "summary": "",
-      "published": "2026-11-14T18:18:02+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Elecciones de mitad de mandato en EE.UU.: Citi analiza las implicaciones para la economía y los mercados",
-      "link": "https://es.investing.com/news/stock-market-news/elecciones-de-mitad-de-mandato-en-eeuu-citi-analiza-las-implicaciones-para-la-economia-y-los-mercados-3928687",
-      "summary": "",
-      "published": "2026-11-14T17:52:12+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -919,15 +920,6 @@
       "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
       "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
       "published": "2026-11-10T23:53:58+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
-      "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-      "summary": "China's trade surplus topped $1 trillion as of October, potentially intensifying complaints from trading partners already wary over the glut of cheap Chinese goods.",
-      "published": "2026-11-10T10:24:13+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
