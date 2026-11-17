@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:04:32.909990+00:00",
+  "generated_at": "2026-11-17T13:46:02.890763+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 3.3,
+      "ventana_horas": 0.6,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 441.9,
+      "ventana_horas": 454.9,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 270.4,
+      "ventana_horas": 276.6,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 4.4,
+      "ventana_horas": 3.4,
       "ok": true
     }
   ],
@@ -76,11 +76,43 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Los futuros de Wall Street caen antes de los resultados de Nvidia",
-          "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-wall-street-caen-antes-de-los-resultados-de-nvidia-3931092",
+          "title": "Los futuros del TSX caen antes de los resultados de Nvidia",
+          "link": "https://es.investing.com/news/stock-market-news/los-futuros-del-tsx-caen-antes-de-los-resultados-de-nvidia-3932345",
           "summary": "",
-          "published": "2026-11-17T00:33:12+00:00",
+          "published": "2026-11-17T13:36:09+00:00",
           "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Can Nvidia sell investors on a future without Jensen Huang?",
+          "link": "https://www.marketwatch.com/story/can-nvidia-sell-investors-on-a-future-without-jensen-huang-3fe4bb49?mod=mw_rss_topstories",
+          "summary": "Co-founder Huang is gone. Can Colette Kress ease market fears? Can a new board committee? Plus, the Fed weighs AI’s economic fallout, and parents confront their kids’ gambling problems.",
+          "published": "2026-11-17T12:27:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Tepper and Loeb among fund managers piling into Nvidia and other megacap tech stocks on eve of October drawdown",
+          "link": "https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories",
+          "summary": "13-F filings with the SEC offer a snapshot of how large institutional funds were positioning for the fourth quarter. Given the blowup in the AI trade, some positions reported suggest a painful six weeks for many portfolio managers.",
+          "published": "2026-11-17T10:28:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "‘Nvidia spooked me’: Should I sell my stocks or ride out the market turmoil?",
+          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+          "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+          "published": "2026-11-17T10:15:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+          "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+          "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
+          "published": "2026-11-17T08:52:45+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
@@ -122,21 +154,85 @@
           "published": "2026-11-12T07:28:48+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "JPMorgan nombra a Bregje de Best directora financiera y Barnum pasa a vicepresidente",
+          "link": "https://es.investing.com/news/stock-market-news/jpmorgan-nombra-a-bregje-de-best-directora-financiera-y-barnum-pasa-a-vicepresidente-3932232",
+          "summary": "",
+          "published": "2026-11-17T13:17:17+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
         },
         {
-          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-          "published": "2026-11-11T07:47:54+00:00",
+          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+          "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+          "published": "2026-11-16T22:14:47+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+          "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+          "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
+          "published": "2026-11-17T08:52:45+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
-          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
-          "published": "2026-11-09T18:46:01+00:00",
-          "source_short": "CNBC",
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Por qué Goldman Sachs espera que el S&P 500 suba en 2027",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-goldman-sachs-espera-que-el-sp-500-suba-en-2027-3932256",
+          "summary": "",
+          "published": "2026-11-17T13:21:22+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo",
+      "exchange": "NASDAQ",
+      "sector": "Alimentos",
+      "news": [
+        {
+          "title": "¿Por qué caen hoy las acciones de PepsiCo Inc?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-pepsico-inc-93CH-3932235",
+          "summary": "",
+          "published": "2026-11-17T13:20:11+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -156,107 +252,11 @@
           "source_scope": "Internacional"
         },
         {
-          "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
-          "link": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
-          "summary": "Berkshire Hathaway stepped up its investments in the U.S. housing market last quarter, nearly doubling its stake in home builder Lennar.",
-          "published": "2026-11-16T22:33:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
           "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
           "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
           "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
           "published": "2026-11-07T15:23:46+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BIDU",
-      "name": "Baidu",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "¿Por qué cae hoy la acción de Baidu Inc en Hong Kong?",
-          "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-baidu-inc-en-hong-kong-93CH-3931150",
-          "summary": "",
-          "published": "2026-11-17T03:20:47+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Las acciones de Baidu caen a mínimos de más de cinco años por la publicidad",
-          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-baidu-caen-a-minimos-de-mas-de-cinco-anos-por-la-publicidad-3931136",
-          "summary": "",
-          "published": "2026-11-17T02:26:01+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Microsoft Corporation detecta campaña de phishing con correos falsos",
-          "link": "https://es.investing.com/news/stock-market-news/microsoft-corporation-detecta-campana-de-phishing-con-correos-falsos-93CH-3931115",
-          "summary": "",
-          "published": "2026-11-17T01:12:08+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
-          "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
-          "summary": "Druckenmiller’s family office unloaded AMD and Sandisk shares in the third quarter.",
-          "published": "2026-11-16T23:28:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
-          "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
-          "summary": "Druckenmiller’s family office unloaded AMD and Sandisk shares in the third quarter.",
-          "published": "2026-11-16T23:28:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
-          "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
-          "summary": "Almost a third of Amazon Black Friday deals “provided no savings at all” in the last two years, a report says. The retailer is pushing back.",
-          "published": "2026-11-16T23:04:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -272,22 +272,6 @@
           "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
           "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
           "published": "2026-11-16T23:01:19+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-          "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-          "published": "2026-11-16T22:14:47+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -606,22 +590,6 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "AMXB.MX",
       "name": "América Móvil",
       "exchange": "BMV",
@@ -736,19 +704,37 @@
   ],
   "sin_accion": [
     {
-      "title": "Novartis obtiene la aprobación de la FDA para Cosentyx en polimialgia reumática",
-      "link": "https://es.investing.com/news/stock-market-news/novartis-obtiene-la-aprobacion-de-la-fda-para-cosentyx-en-polimialgia-reumatica-3931155",
+      "title": "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trouble?",
+      "link": "https://www.marketwatch.com/story/u-s-retail-sales-slow-just-ahead-of-the-holiday-shopping-season-a-hint-of-trouble-a89c9f98?mod=mw_rss_topstories",
+      "summary": "Sales at U.S. retailers rose just slightly in October after two months of big increases, suggesting households took a breather before the start of the holiday shopping season.",
+      "published": "2026-11-17T13:41:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+      "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+      "summary": "The forecast represents one of the most hawkish views among policymakers.",
+      "published": "2026-11-17T13:40:54+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las mejores acciones de software de back office para 2027, según Citi",
+      "link": "https://es.investing.com/news/stock-market-news/las-mejores-acciones-de-software-de-back-office-para-2027-segun-citi-3932279",
       "summary": "",
-      "published": "2026-11-17T03:37:39+00:00",
+      "published": "2026-11-17T13:27:18+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy la acción de Xpeng Inc en Hong Kong?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-xpeng-inc-en-hong-kong-93CH-3931151",
+      "title": "¿Por qué sube hoy la acción de Amer Sports?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-amer-sports-93CH-3932233",
       "summary": "",
-      "published": "2026-11-17T03:20:50+00:00",
+      "published": "2026-11-17T13:20:00+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -757,26 +743,80 @@
       "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
       "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
       "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-      "published": "2026-11-17T02:30:00+00:00",
+      "published": "2026-11-17T13:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de Mayne Pharma se disparan tras oferta de compra de 407 millones de dólares de Gedeon Richter",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-mayne-pharma-se-disparan-tras-oferta-de-compra-de-407-millones-de-dolares-de-gedeon-richter-3931109",
+      "title": "¿Por qué se dispara hoy la acción de Applied Opt?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-applied-opt-93CH-3932171",
       "summary": "",
-      "published": "2026-11-17T01:01:08+00:00",
+      "published": "2026-11-17T13:07:16+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Panamá iniciará conversaciones sobre la posible reapertura de la mina de First Quantum",
-      "link": "https://es.investing.com/news/stock-market-news/panama-iniciara-conversaciones-sobre-la-posible-reapertura-de-la-mina-de-first-quantum-93CH-3931102",
+      "title": "La volatilidad de las acciones alcanza su nivel más alto desde abril de 2025, según Rubner de Citadel",
+      "link": "https://es.investing.com/news/stock-market-news/la-volatilidad-de-las-acciones-alcanza-su-nivel-mas-alto-desde-abril-de-2025-segun-rubner-de-citadel-93CH-3932170",
       "summary": "",
-      "published": "2026-11-17T00:56:34+00:00",
+      "published": "2026-11-17T13:06:29+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué suben hoy las acciones de Corning Incorporated?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-suben-hoy-las-acciones-de-corning-incorporated-93CH-3932150",
+      "summary": "",
+      "published": "2026-11-17T13:02:47+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Evercore ISI reorganiza sus principales apuestas tras resultados del tercer trimestre",
+      "link": "https://es.investing.com/news/stock-market-news/evercore-isi-reorganiza-sus-principales-apuestas-tras-resultados-del-tercer-trimestre-3932146",
+      "summary": "",
+      "published": "2026-11-17T13:00:55+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
+      "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+      "summary": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
+      "published": "2026-11-17T12:46:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fund managers just slashed their tech bets at the fastest pace in two decades — and this is the tail risk keeping them up at night",
+      "link": "https://www.marketwatch.com/story/fund-managers-just-slashed-their-tech-bets-at-the-fastest-pace-in-two-decades-and-this-is-the-tail-risk-keeping-them-up-at-night-60fcc160?mod=mw_rss_topstories",
+      "summary": "Investors are shifting their overweight positioning away from megacap tech and getting less bearish on bonds. Yet they still maintain exceedingly low cash positions as global growth forecasts are bullish.",
+      "published": "2026-11-17T12:28:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "published": "2026-11-17T12:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘It is heartbreaking, exhausting and downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "summary": "‘It is devastating when the people you should be able to trust become the very people you have to protect yourself from’",
+      "published": "2026-11-17T11:15:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -786,69 +826,6 @@
       "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
       "published": "2026-11-17T00:42:33+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Mayne Pharma?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-mayne-pharma-93CH-3931097",
-      "summary": "",
-      "published": "2026-11-17T00:42:26+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "CVC Capital Partners PLC planea retirarse del acuerdo de 2.970 millones de euros con Advent International",
-      "link": "https://es.investing.com/news/stock-market-news/cvc-capital-partners-plc-planea-retirarse-del-acuerdo-de-2970-millones-de-euros-con-advent-international-93CH-3931081",
-      "summary": "",
-      "published": "2026-11-17T00:17:31+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "United Airlines resolves system outage that delayed flights Monday",
-      "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
-      "summary": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
-      "published": "2026-11-16T23:42:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-      "published": "2026-11-16T23:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
-      "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
-      "summary": "The dollar recently climbed to its strongest level in a year and a half.",
-      "published": "2026-11-16T22:46:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-      "published": "2026-11-16T22:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
-      "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-      "summary": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
-      "published": "2026-11-16T22:21:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -988,15 +965,6 @@
       "tickers": []
     },
     {
-      "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
-      "link": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
-      "summary": "Retail sales rose at their slowest pace in nearly a year in October as American consumers showed signs of strain from high prices.",
-      "published": "2026-11-11T12:27:47+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "México aprueba permisos para proyectos solares de US$750 millones a Cox, Invex y Viva el Sol",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aprueba-permisos-para-proyectos-solares-de-us750-millones-a-cox-invex-y-viva-el-sol/",
       "summary": "Las autoridades energéticas recibieron 57 solicitudes de permisos para proyectos de energía solar fotovoltaica en la segunda convocatoria del Gobierno.",
@@ -1062,7 +1030,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 28,
+    "acciones_con_noticias": 25,
     "sin_accion": 36
   }
 }
