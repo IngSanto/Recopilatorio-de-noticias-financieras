@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:20:58.909358+00:00",
+  "generated_at": "2026-11-18T21:31:43.544966+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 2812.7,
+      "ventana_horas": 2827.5,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.6,
+      "ventana_horas": 2.4,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 458.0,
+      "ventana_horas": 458.9,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 284.1,
+      "ventana_horas": 267.7,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.2,
+      "ventana_horas": 3.0,
       "ok": true
     }
   ],
@@ -76,19 +76,27 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
-          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-          "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
-          "published": "2026-11-18T13:00:00+00:00",
+          "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+          "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+          "summary": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
+          "published": "2026-11-18T21:19:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO",
-          "link": "https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories",
-          "summary": "Three takeaways from Colette Kress’s first earnings call as Nvidia’s interim CEO. Plus, what Medicare Part B will cost in 2027 and why one investor is eyeing Florida real estate as a stock-market alternative.",
-          "published": "2026-11-18T12:22:00+00:00",
+          "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+          "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+          "published": "2026-11-18T21:00:00+00:00",
           "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia supuestamente contacta al director ejecutivo de Arm para suceder a Jensen Huang",
+          "link": "https://es.investing.com/news/stock-market-news/nvidia-se-acerca-al-director-ejecutivo-de-arm-rene-haas-para-suceder-a-jensen-huang-3934959",
+          "summary": "",
+          "published": "2026-11-18T19:10:27+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
@@ -146,13 +154,45 @@
           "published": "2026-11-11T07:47:54+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco",
+      "exchange": "NASDAQ",
+      "sector": "Retail",
+      "news": [
+        {
+          "title": "Mizuho eleva el precio objetivo de Costco pero lo retira de su lista de mejores valores",
+          "link": "https://es.investing.com/news/stock-market-news/mizuho-eleva-el-precio-objetivo-de-costco-pero-lo-retira-de-su-lista-de-mejores-valores-3934990",
+          "summary": "",
+          "published": "2026-11-18T20:03:49+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
         },
         {
-          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-          "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
-          "published": "2026-11-09T18:46:01+00:00",
+          "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+          "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+          "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
+          "published": "2026-11-18T16:33:14+00:00",
           "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+          "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+          "summary": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
+          "published": "2026-11-18T21:01:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -206,10 +246,10 @@
       ]
     },
     {
-      "ticker": "BRK.B",
-      "name": "Berkshire Hathaway",
+      "ticker": "BAC",
+      "name": "Bank of America",
       "exchange": "NYSE",
-      "sector": "Finanzas",
+      "sector": "Banca",
       "news": [
         {
           "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
@@ -218,22 +258,14 @@
           "published": "2026-11-16T23:01:19+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        },
-        {
-          "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-          "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-          "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-          "published": "2026-11-07T15:23:46+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "BAC",
-      "name": "Bank of America",
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway",
       "exchange": "NYSE",
-      "sector": "Banca",
+      "sector": "Finanzas",
       "news": [
         {
           "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
@@ -656,10 +688,145 @@
   ],
   "sin_accion": [
     {
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "published": "2026-11-18T21:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Dólar en México: peso se deprecia hasta MXN$18,88 ante posibles alzas de la Fed",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/dolar-en-mexico-peso-se-deprecia-hasta-mxn1888-ante-posibles-alzas-de-la-fed/",
+      "summary": "La moneda mexicana registró una depreciación diaria de 2,5%.",
+      "published": "2026-11-18T20:56:13+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Anthropic estudia fijar el precio de su OPV entre 80 y 85 dólares por acción",
+      "link": "https://es.investing.com/news/stock-market-news/anthropic-estudia-fijar-el-precio-de-su-opv-entre-80-y-85-dolares-por-accion-3935022",
+      "summary": "",
+      "published": "2026-11-18T20:55:30+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "+43%: Esta acción arrasa en la BMV tras reciente caída de los precios del petróleo",
+      "link": "https://es.investing.com/news/stock-market-news/43-esta-accion-arrasa-en-la-bmv-tras-reciente-caida-de-los-precios-del-petroleo-3935004",
+      "summary": "",
+      "published": "2026-11-18T20:52:09+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fed minutes show growing unease about the outlook for inflation",
+      "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+      "summary": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
+      "published": "2026-11-18T20:51:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Starboard Value ve potencial en Flowserve Corporation y Riot Platforms",
+      "link": "https://es.investing.com/news/stock-market-news/starboard-value-ve-potencial-en-flowserve-corporation-y-riot-platforms-93CH-3935000",
+      "summary": "",
+      "published": "2026-11-18T20:32:48+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work to play — and some companies are making the game’s release a holiday",
+      "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+      "summary": "After waiting 13 years for this videogame, almost one-fifth of workers are said to be taking Thursday off to play ‘Grand Theft Auto VI’ when it drops",
+      "published": "2026-11-18T20:29:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Viajar sin esperar a nadie: la tendencia que impulsa nuevas experiencias para mujeres mayores de 40 años",
+      "link": "https://es.investing.com/news/stock-market-news/viajar-sin-esperar-a-nadie-la-tendencia-que-impulsa-nuevas-experiencias-para-mujeres-mayores-de-40-anos-3934988",
+      "summary": "",
+      "published": "2026-11-18T20:03:36+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "CEO5 Opiniones: qué hay detrás del programa de MyContent Academy, qué propone y para quién está pensado",
+      "link": "https://es.investing.com/news/stock-market-news/ceo5-opiniones-que-hay-detras-del-programa-de-mycontent-academy-que-propone-y-para-quien-esta-pensado-3934987",
+      "summary": "",
+      "published": "2026-11-18T20:03:23+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "La mejor acción farmacéutica según TD Cowen",
+      "link": "https://es.investing.com/news/stock-market-news/la-mejor-accion-farmaceutica-segun-td-cowen-3934980",
+      "summary": "",
+      "published": "2026-11-18T19:50:24+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
+      "published": "2026-11-18T19:47:05+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+      "published": "2026-11-18T19:41:59+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Washington is scrambling to get to the bottom of the growing number of tech outages across America",
+      "link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
+      "summary": "The Trump administration and Congress have been rushing to address the series of technology failures that have hit the U.S. over the past week, with Vice President J.D. Vance withdrawing from an event Wednesday in order to take part in meetings on the issue.",
+      "published": "2026-11-18T19:39:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+      "published": "2026-11-18T19:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "published": "2026-11-18T18:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
       "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
       "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
-      "published": "2026-11-18T13:18:31+00:00",
+      "published": "2026-11-18T15:13:39+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -668,116 +835,8 @@
       "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
       "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
       "summary": "The rules require data centers in Southeast Asia to seek U.S. approval to buy advanced AI chips, threatening to slow a build-out fueled heavily on Chinese demand.",
-      "published": "2026-11-18T13:15:45+00:00",
+      "published": "2026-11-18T14:09:26+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-      "published": "2026-11-18T13:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Exclusiva: La mayoría de los traders minoristas de futuros apuestan por la volatilidad",
-      "link": "https://es.investing.com/news/stock-market-news/exclusiva-la-mayoria-de-los-traders-minoristas-de-futuros-apuestan-por-la-volatilidad-3934251",
-      "summary": "",
-      "published": "2026-11-18T13:00:05+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Measles cases in the U.S. are at a 35-year high. Here’s the staggering cost of these outbreaks for all Americans.",
-      "link": "https://www.marketwatch.com/story/measles-cases-in-the-u-s-are-at-a-35-year-high-heres-the-staggering-cost-of-falling-vaccination-rates-for-americans-e80a7ac6?mod=mw_rss_topstories",
-      "summary": "The U.S. officially lost its measles elimination status on Tuesday as it grapples with multiple outbreaks.",
-      "published": "2026-11-18T13:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Medline Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-medline-inc-93CH-3934188",
-      "summary": "",
-      "published": "2026-11-18T12:45:17+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se desploma hoy la acción de Deutz AG?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-deutz-ag-93CH-3934185",
-      "summary": "",
-      "published": "2026-11-18T12:45:03+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Jefferies ve valor en Voestalpine tras su bajo rendimiento frente a homólogas",
-      "link": "https://es.investing.com/news/stock-market-news/jefferies-ve-valor-en-voestalpine-tras-su-bajo-rendimiento-frente-a-homologas-3934200",
-      "summary": "",
-      "published": "2026-11-18T12:44:52+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Take-Two suben gracias a las críticas de GTA VI",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-taketwo-suben-gracias-a-las-criticas-de-gta-vi-3934187",
-      "summary": "",
-      "published": "2026-11-18T12:44:12+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Whitbread PLC?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-whitbread-plc-93CH-3934163",
-      "summary": "",
-      "published": "2026-11-18T12:34:31+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues",
-      "link": "https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories",
-      "summary": "Having missed the rally in U.S. Treasurys that statrted in mid-October, Macro Tourist commentator Kevin Muir is taking advantage of a renewed weakness in bonds to buy.",
-      "published": "2026-11-18T11:38:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Target is seeing a revival — but it still needs to work on shoes and women’s clothing",
-      "link": "https://www.marketwatch.com/story/target-is-seeing-a-revival-but-it-still-needs-to-work-on-shoes-and-womens-clothing-afb16799?mod=mw_rss_topstories",
-      "summary": "Some analysts have seen an overhaul of Target’s apparel and home segments as crucial to its turnaround.",
-      "published": "2026-11-18T11:33:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The good news: Bubble predictions vastly outnumber actual episodes. The bad: There may be a 97% chance of one, right now.",
-      "link": "https://www.marketwatch.com/story/the-good-news-bubble-predictions-vastly-outnumber-actual-episodes-the-bad-there-may-be-a-97-chance-of-one-right-now-8ca55732?mod=mw_rss_topstories",
-      "summary": "It turns out, the business media cries wolf about impending stock-market doom too frequently. But that doesn’t mean that the warnings have no predictive value.",
-      "published": "2026-11-18T11:23:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Strategists say investors should start asking ‘what could go right’ after tech’s 42% valuation reset",
-      "link": "https://www.marketwatch.com/story/strategists-say-investors-should-start-asking-what-could-go-right-after-techs-42-valuation-reset-279a640a?mod=mw_rss_topstories",
-      "summary": "Strategists at Truist Advisory Services recommend investors consider using the industry’s current weakness to add exposure.",
-      "published": "2026-11-18T11:17:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -858,24 +917,6 @@
       "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
       "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
       "published": "2026-11-16T22:19:02+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-      "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-      "summary": "",
-      "published": "2026-11-16T18:46:07+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-      "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-      "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
-      "published": "2026-11-16T17:14:13+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -969,20 +1010,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Analistas ven más riesgos que beneficios si Banxico decide recortar la tasa de interés",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-ven-mas-riesgos-que-beneficios-si-banxico-decide-recortar-la-tasa-de-interes/",
-      "summary": "Un ajuste a la baja en la tasa de interés se tomaría como sorpresivo en un momento en el que se desvanece el argumento del banco central de la holgura económica.",
-      "published": "2026-11-05T10:00:00+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 22,
+    "acciones_con_noticias": 24,
     "sin_accion": 36
   }
 }
