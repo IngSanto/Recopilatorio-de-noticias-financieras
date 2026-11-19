@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T13:46:25.055137+00:00",
+  "generated_at": "2026-11-19T21:43:37.700043+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 2827.5,
+      "ventana_horas": 2849.1,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.0,
+      "ventana_horas": 1.3,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 458.9,
+      "ventana_horas": 489.1,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.1,
+      "ventana_horas": 2.2,
       "ok": true
     }
   ],
@@ -76,11 +76,27 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t?",
-          "link": "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories",
-          "summary": "Here’s the case for energy stocks in your 401(k) and why Target’s comeback runs through the shoe aisle. Plus, what “GTA VI” means for Take-Two investors.",
-          "published": "2026-11-19T12:12:00+00:00",
+          "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+          "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+          "published": "2026-11-19T20:50:00+00:00",
           "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia’s stock falls further. It has lost $611 billion in six trading days.",
+          "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+          "summary": "There are only 23 companies in the world with a market capitalization of $611 billion or higher",
+          "published": "2026-11-19T20:33:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+          "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+          "published": "2026-11-19T20:21:10+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
@@ -116,14 +132,6 @@
           "source_scope": "Internacional"
         },
         {
-          "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-          "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-          "published": "2026-11-12T23:08:50+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
           "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
           "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
           "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
@@ -150,41 +158,49 @@
       ]
     },
     {
-      "ticker": "BABA",
-      "name": "Alibaba",
-      "exchange": "NYSE",
-      "sector": "Retail / Nube",
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
-          "link": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
-          "summary": "The cloud-services business of Chinese internet giant Alibaba is thriving — but the losses from the artificial-intelligence labs business is completely offsetting it.",
-          "published": "2026-11-19T11:54:00+00:00",
+          "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
+          "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+          "summary": "The Anthropic enthusiasm has faded while China concerns have intensified.",
+          "published": "2026-11-19T21:27:00+00:00",
           "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-          "published": "2026-11-11T07:47:54+00:00",
-          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "DB",
-      "name": "Deutsche Bank",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "Deutsche Bank got its dollar call for 2026 wrong. Why it’s shifting tack now.",
-          "link": "https://www.marketwatch.com/story/deutsche-bank-got-its-dollar-call-for-2026-wrong-why-its-shifting-tack-now-bbecbd00?mod=mw_rss_topstories",
-          "summary": "Deutsche Bank’s team readily acknowledges its call for a weaker dollar in 2026 misfired. They predict the forces driving the dollar higher since February will continue into the first half of 2027 but any slowdown in the AI bonanza will start to undermine it.",
-          "published": "2026-11-19T12:04:00+00:00",
+          "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
+          "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+          "summary": "The Anthropic enthusiasm has faded while China concerns have intensified.",
+          "published": "2026-11-19T21:27:00+00:00",
           "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco",
+      "exchange": "NASDAQ",
+      "sector": "Retail",
+      "news": [
+        {
+          "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+          "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+          "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
+          "published": "2026-11-18T16:33:14+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -208,22 +224,6 @@
           "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
           "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
           "published": "2026-11-16T22:14:47+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco",
-      "exchange": "NASDAQ",
-      "sector": "Retail",
-      "news": [
-        {
-          "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-          "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-          "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
-          "published": "2026-11-18T16:33:14+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -534,6 +534,22 @@
       ]
     },
     {
+      "ticker": "BABA",
+      "name": "Alibaba",
+      "exchange": "NYSE",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+          "published": "2026-11-11T07:47:54+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "BLK",
       "name": "BlackRock",
       "exchange": "NYSE",
@@ -660,131 +676,151 @@
           "source_scope": "México"
         }
       ]
-    },
-    {
-      "ticker": "C",
-      "name": "Citigroup / Banamex",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Citi espera concluir desconsolidación de Banamex en primer trimestre de 2027: Ernesto Torres Cantú",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/citi-espera-concluir-desconsolidacion-de-banamex-en-primer-trimestre-de-2027-ernesto-torres-cantu/",
-          "summary": "El director de Internacional de Citi dijo a Bloomberg Línea que el banco espera llegar a una venta total de 51% de Banamex en el proximo año y que prevé avanzar hacia una OPI.",
-          "published": "2026-09-26T00:25:22+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
     }
   ],
   "sin_accion": [
     {
-      "title": "¿Por qué sube hoy la acción de Harley-Davidson Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-harleydavidson-inc-93CH-3936411",
-      "summary": "",
-      "published": "2026-11-19T13:32:12+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de ADTRAN?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-adtran-93CH-3936410",
-      "summary": "",
-      "published": "2026-11-19T13:32:09+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El director ejecutivo de Palo Alto Networks explica la ola de interrupciones en redes de EE.UU.",
-      "link": "https://es.investing.com/news/stock-market-news/el-director-ejecutivo-de-palo-alto-networks-explica-la-ola-de-interrupciones-en-redes-de-eeuu-3936393",
-      "summary": "",
-      "published": "2026-11-19T13:26:30+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Más de 100.000 inversores minoristas del Reino Unido participan en la OPV de Anthropic",
-      "link": "https://es.investing.com/news/stock-market-news/mas-de-100000-inversores-minoristas-del-reino-unido-participan-en-la-opv-de-anthropic-3936360",
-      "summary": "",
-      "published": "2026-11-19T13:14:47+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Manchester United Ltd?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-manchester-united-ltd-93CH-3936333",
-      "summary": "",
-      "published": "2026-11-19T13:07:07+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Bloom Energy Corp?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-bloom-energy-corp-93CH-3936260",
-      "summary": "",
-      "published": "2026-11-19T12:51:06+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "If the AI trade unwinds, other pillars holding up the U.S. economy are ‘irrelevant,’ says Barclays",
-      "link": "https://www.marketwatch.com/story/if-the-ai-trade-unwinds-other-pillars-holding-up-the-u-s-economy-are-irrelevant-says-barclays-b6f1bdca?mod=mw_rss_topstories",
-      "summary": "The bank does not hold that the artificial-intelligence trade is collapsing, viewing today’s slowdown as a correction that can selectively be bought into.",
-      "published": "2026-11-19T12:45:00+00:00",
+      "title": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
+      "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+      "summary": "UnitedHealth Group’s stock fell again on Thursday amid a tough week in which the government pledged to crack down on Medicare Advantage fraud and lawmakers renewed calls for Medicare for All.",
+      "published": "2026-11-19T21:22:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-      "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
-      "published": "2026-11-19T12:34:00+00:00",
+      "title": "Why Walmart is making a bigger bet on fast-food delivery",
+      "link": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
+      "summary": "The retail giant says around 90% of spending at fast-food chains occurs within a few miles from a Walmart.",
+      "published": "2026-11-19T21:13:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Here’s the precise moment when cyberattacks started increasing exponentially",
-      "link": "https://www.marketwatch.com/story/heres-the-precise-moment-when-cyberattacks-started-increasing-exponentially-244a4294?mod=mw_rss_topstories",
-      "summary": "One of the world’s top hedge funds is linking the surge to the release of one AI large language model.",
-      "published": "2026-11-19T12:30:00+00:00",
+      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+      "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
+      "published": "2026-11-19T21:06:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Sandisk’s stock split is almost here. This is what investors need to know.",
-      "link": "https://www.marketwatch.com/story/sandisks-stock-split-is-almost-here-this-is-what-investors-need-to-know-e0a18461?mod=mw_rss_topstories",
-      "summary": "Sandisk is due to split its stock after Thursday’s close, and while the move has gotten some buzz, it won’t alter the fundamental picture for shareholders of the memory-chip company.",
-      "published": "2026-11-19T12:14:00+00:00",
+      "title": "Rising healthcare costs push Medicare Part B premiums higher",
+      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+      "summary": "The premiums will increase by $6.50, to $209.40 a month.",
+      "published": "2026-11-19T21:05:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "I have two children. How can I turn them into millionaires by the time they retire?",
-      "link": "https://www.marketwatch.com/story/i-have-two-children-how-can-i-turn-them-into-millionaires-by-the-time-they-retire-547444eb?mod=mw_rss_topstories",
-      "summary": "Planning for your children’s future is important, but don’t forget your own along the way",
-      "published": "2026-11-19T12:00:00+00:00",
+      "title": "TD Cowen destaca catalizadores de una acción favorita para 2027",
+      "link": "https://es.investing.com/news/stock-market-news/td-cowen-destaca-catalizadores-de-una-accion-favorita-para-2027-3936986",
+      "summary": "",
+      "published": "2026-11-19T21:02:52+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "BMO destaca su principal valor del sector materiales",
+      "link": "https://es.investing.com/news/stock-market-news/bmo-destaca-su-principal-valor-del-sector-materiales-3936973",
+      "summary": "",
+      "published": "2026-11-19T20:44:00+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de BCE Inc?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-bce-inc-93CH-3936970",
+      "summary": "",
+      "published": "2026-11-19T20:34:10+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Canadian Natural Resources?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-canadian-natural-resources-93CH-3936968",
+      "summary": "",
+      "published": "2026-11-19T20:32:29+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+      "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+      "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+      "published": "2026-11-19T20:28:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
-      "summary": "Tech stocks are looking cheap, while defensive sectors like consumer staples are screening as expensive.",
-      "published": "2026-11-19T11:54:00+00:00",
+      "title": "Bank of Montreal reactiva la banca de inversión en petróleo y gas en EE.UU.",
+      "link": "https://es.investing.com/news/stock-market-news/bank-of-montreal-reactiva-la-banca-de-inversion-en-petroleo-y-gas-en-eeuu-93CH-3936962",
+      "summary": "",
+      "published": "2026-11-19T20:24:06+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Noviembre de miedo: Bolsas en EE.UU. caen, el mercado rota y los astutos ganan 74%",
+      "link": "https://es.investing.com/news/stock-market-news/noviembre-de-miedo-bolsas-en-eeuu-caen-el-mercado-rota-y-los-astutos-ganan-74-3936957",
+      "summary": "",
+      "published": "2026-11-19T20:20:09+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+      "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+      "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+      "published": "2026-11-19T20:18:47+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "published": "2026-11-19T19:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Peso mexicano profundiza pérdidas y rebasa MXN$19 por dólar ante postura dividida de Banxico",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-profundiza-perdidas-y-rebasa-mxn19-por-dolar-ante-postura-dividida-de-banxico/",
+      "summary": "La divisa mexicana cayó hasta los MXN$19,05 por cada billete verde.",
+      "published": "2026-11-19T18:34:27+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Minuta de Banxico exhibe choques por posición frente a la Fed y dólar se dispara a MXN$19",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/minuta-de-banxico-exhibe-choques-por-posicion-frente-a-la-fed-y-dolar-se-dispara-a-mxn19/",
+      "summary": "Los subgobernadores disidentes Galia Borja y Jonathan Heath advierten retraso en convergencia de la inflación.",
+      "published": "2026-11-19T17:31:10+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "¿Qué pasará con el dólar en México si la Fed vuelve a subir las tasas de interés?",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/que-pasara-con-el-dolar-en-mexico-si-la-fed-vuelve-a-subir-las-tasas-de-interes/",
+      "summary": "Tras el recorte de tasa de Banxico, el diferencial de tasas con la Reserva Federal se redujo a un mínimo histórico de 225 puntos base.",
+      "published": "2026-11-19T15:01:35+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -896,15 +932,6 @@
       "tickers": []
     },
     {
-      "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-      "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-      "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
-      "published": "2026-11-17T15:35:13+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
       "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
       "summary": "The forecast represents one of the most hawkish views among policymakers.",
@@ -972,33 +999,6 @@
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aprueba-permisos-para-proyectos-solares-de-us750-millones-a-cox-invex-y-viva-el-sol/",
       "summary": "Las autoridades energéticas recibieron 57 solicitudes de permisos para proyectos de energía solar fotovoltaica en la segunda convocatoria del Gobierno.",
       "published": "2026-11-07T10:00:00+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "¿Qué esperan de Banxico cuatro analistas que acertaron al recorte de la tasa de interés?",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/que-esperan-de-banxico-cuatro-analistas-que-acertaron-al-recorte-de-la-tasa-de-interes/",
-      "summary": "El banco central aplicó un “ajuste puntual” a la tasa de interés y decidió recortar en 25 puntos base el referencial para dejarlo en 6,25%.",
-      "published": "2026-11-06T11:54:34+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Cox cambia de CEO y reorganiza su estructura de negocios",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cox-cambia-de-ceo-y-reorganiza-su-estructura-de-negocios/",
-      "summary": "Ignacio Moreno fue nombrado consejero dominical del Grupo y dirigirá Riquelme Capital.",
-      "published": "2026-11-06T00:51:06+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Sheinbaum se reunirá con Xi Jinping y buscará encuentro con Trump en APEC",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-se-reunira-con-xi-jinping-y-buscara-encuentro-con-trump-en-apec/",
-      "summary": "La presidenta de México recibirá la estafeta para organizar la cumbre de APEC en 2028.",
-      "published": "2026-11-05T18:23:29+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
