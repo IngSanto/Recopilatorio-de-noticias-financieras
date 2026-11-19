@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:31:43.544966+00:00",
+  "generated_at": "2026-11-19T02:43:22.683923+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 2.4,
+      "ventana_horas": 3.5,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.0,
+      "ventana_horas": 3.7,
       "ok": true
     }
   ],
@@ -76,27 +76,35 @@
       "sector": "Semiconductores",
       "news": [
         {
+          "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+          "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+          "published": "2026-11-19T00:30:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Moody’s rebaja la perspectiva crediticia de Nvidia a estable tras la salida del director ejecutivo Jensen Huang",
+          "link": "https://es.investing.com/news/stock-market-news/moodys-rebaja-la-perspectiva-crediticia-de-nvidia-a-estable-tras-la-salida-del-director-ejecutivo-jensen-huang-3935180",
+          "summary": "",
+          "published": "2026-11-18T22:44:05+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
+          "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+          "summary": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
+          "published": "2026-11-18T22:31:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
           "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
           "summary": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
           "published": "2026-11-18T21:19:00+00:00",
           "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-          "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
-          "published": "2026-11-18T21:00:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia supuestamente contacta al director ejecutivo de Arm para suceder a Jensen Huang",
-          "link": "https://es.investing.com/news/stock-market-news/nvidia-se-acerca-al-director-ejecutivo-de-arm-rene-haas-para-suceder-a-jensen-huang-3934959",
-          "summary": "",
-          "published": "2026-11-18T19:10:27+00:00",
-          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
@@ -146,14 +154,6 @@
           "published": "2026-11-12T07:28:48+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        },
-        {
-          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-          "published": "2026-11-11T07:47:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -164,35 +164,11 @@
       "sector": "Retail",
       "news": [
         {
-          "title": "Mizuho eleva el precio objetivo de Costco pero lo retira de su lista de mejores valores",
-          "link": "https://es.investing.com/news/stock-market-news/mizuho-eleva-el-precio-objetivo-de-costco-pero-lo-retira-de-su-lista-de-mejores-valores-3934990",
-          "summary": "",
-          "published": "2026-11-18T20:03:49+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
           "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
           "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
           "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
           "published": "2026-11-18T16:33:14+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet (Google)",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
-          "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
-          "summary": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
-          "published": "2026-11-18T21:01:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -688,10 +664,109 @@
   ],
   "sin_accion": [
     {
+      "title": "Acciones de Sunrise Energy Metals caen 10% a mínimo de siete meses",
+      "link": "https://es.investing.com/news/stock-market-news/acciones-de-sunrise-energy-metals-caen-10-a-minimo-de-siete-meses-3935290",
+      "summary": "",
+      "published": "2026-11-19T02:13:38+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae el Dólar australiano Dólar hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-el-dolar-australiano-dolar-hoy-93CH-3935286",
+      "summary": "",
+      "published": "2026-11-19T02:08:28+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Datasection de Japón se desploma tras recortar drásticamente sus previsiones",
+      "link": "https://es.investing.com/news/stock-market-news/datasection-de-japon-se-desploma-tras-recortar-drasticamente-sus-previsiones-3935282",
+      "summary": "",
+      "published": "2026-11-19T01:53:20+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los futuros de Wall Street suben antes de la mega OPV de Anthropic",
+      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-wall-street-suben-antes-de-la-mega-opv-de-anthropic-3935273",
+      "summary": "",
+      "published": "2026-11-19T01:37:29+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+      "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
+      "published": "2026-11-19T01:02:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
       "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
       "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-      "published": "2026-11-18T21:30:00+00:00",
+      "published": "2026-11-19T01:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Corte en la NSA afecta a instalación en Georgia vinculada a Oriente Próximo",
+      "link": "https://es.investing.com/news/stock-market-news/corte-en-la-nsa-afecta-a-instalacion-en-georgia-vinculada-a-oriente-proximo-93CH-3935242",
+      "summary": "",
+      "published": "2026-11-19T00:40:57+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Sunrise Energy Metals?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-sunrise-energy-metals-93CH-3935240",
+      "summary": "",
+      "published": "2026-11-19T00:37:25+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
+      "link": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
+      "summary": "The negative chart pattern confirms weakness in the Russell 2000 and in overall market breadth.",
+      "published": "2026-11-18T23:12:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "How copper’s plunge could hurt the AI buildout",
+      "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+      "summary": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
+      "published": "2026-11-18T23:02:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+      "summary": "Tech stocks are looking cheap, while defensive sectors like consumer staples are screening as expensive.",
+      "published": "2026-11-18T22:53:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+      "published": "2026-11-18T22:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -703,78 +778,6 @@
       "published": "2026-11-18T20:56:13+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "Anthropic estudia fijar el precio de su OPV entre 80 y 85 dólares por acción",
-      "link": "https://es.investing.com/news/stock-market-news/anthropic-estudia-fijar-el-precio-de-su-opv-entre-80-y-85-dolares-por-accion-3935022",
-      "summary": "",
-      "published": "2026-11-18T20:55:30+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "+43%: Esta acción arrasa en la BMV tras reciente caída de los precios del petróleo",
-      "link": "https://es.investing.com/news/stock-market-news/43-esta-accion-arrasa-en-la-bmv-tras-reciente-caida-de-los-precios-del-petroleo-3935004",
-      "summary": "",
-      "published": "2026-11-18T20:52:09+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Fed minutes show growing unease about the outlook for inflation",
-      "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-      "summary": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
-      "published": "2026-11-18T20:51:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Starboard Value ve potencial en Flowserve Corporation y Riot Platforms",
-      "link": "https://es.investing.com/news/stock-market-news/starboard-value-ve-potencial-en-flowserve-corporation-y-riot-platforms-93CH-3935000",
-      "summary": "",
-      "published": "2026-11-18T20:32:48+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work to play — and some companies are making the game’s release a holiday",
-      "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-      "summary": "After waiting 13 years for this videogame, almost one-fifth of workers are said to be taking Thursday off to play ‘Grand Theft Auto VI’ when it drops",
-      "published": "2026-11-18T20:29:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Viajar sin esperar a nadie: la tendencia que impulsa nuevas experiencias para mujeres mayores de 40 años",
-      "link": "https://es.investing.com/news/stock-market-news/viajar-sin-esperar-a-nadie-la-tendencia-que-impulsa-nuevas-experiencias-para-mujeres-mayores-de-40-anos-3934988",
-      "summary": "",
-      "published": "2026-11-18T20:03:36+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "CEO5 Opiniones: qué hay detrás del programa de MyContent Academy, qué propone y para quién está pensado",
-      "link": "https://es.investing.com/news/stock-market-news/ceo5-opiniones-que-hay-detras-del-programa-de-mycontent-academy-que-propone-y-para-quien-esta-pensado-3934987",
-      "summary": "",
-      "published": "2026-11-18T20:03:23+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "La mejor acción farmacéutica según TD Cowen",
-      "link": "https://es.investing.com/news/stock-market-news/la-mejor-accion-farmaceutica-segun-td-cowen-3934980",
-      "summary": "",
-      "published": "2026-11-18T19:50:24+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -792,33 +795,6 @@
       "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
       "published": "2026-11-18T19:41:59+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Washington is scrambling to get to the bottom of the growing number of tech outages across America",
-      "link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
-      "summary": "The Trump administration and Congress have been rushing to address the series of technology failures that have hit the U.S. over the past week, with Vice President J.D. Vance withdrawing from an event Wednesday in order to take part in meetings on the issue.",
-      "published": "2026-11-18T19:39:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-      "published": "2026-11-18T19:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-      "published": "2026-11-18T18:30:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1014,7 +990,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 24,
+    "acciones_con_noticias": 23,
     "sin_accion": 36
   }
 }
