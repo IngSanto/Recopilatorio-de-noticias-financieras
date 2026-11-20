@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:43:37.700043+00:00",
+  "generated_at": "2026-11-20T02:28:59.618747+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 2849.1,
+      "ventana_horas": 2855.2,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.3,
+      "ventana_horas": 3.5,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 489.1,
+      "ventana_horas": 427.8,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 2.2,
+      "ventana_horas": 4.0,
       "ok": true
     }
   ],
@@ -76,18 +76,18 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-          "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
-          "published": "2026-11-19T20:50:00+00:00",
-          "source_short": "MarketW",
+          "title": "El fiscal general de California investiga a Nvidia por riesgos de filtración a China",
+          "link": "https://es.investing.com/news/stock-market-news/el-fiscal-general-de-california-investiga-a-nvidia-por-riesgos-de-filtracion-a-china-3937186",
+          "summary": "",
+          "published": "2026-11-19T22:53:52+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "Nvidia’s stock falls further. It has lost $611 billion in six trading days.",
+          "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
           "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-          "summary": "There are only 23 companies in the world with a market capitalization of $611 billion or higher",
-          "published": "2026-11-19T20:33:00+00:00",
+          "summary": "There are only 20 companies in the world with a market capitalization of $669 billion or higher",
+          "published": "2026-11-19T21:45:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
@@ -153,6 +153,38 @@
           "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
           "published": "2026-11-09T18:46:01+00:00",
           "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup / Banamex",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Citigroup Inc registró mal operaciones en Europa y subestimó el riesgo en 35.000 millones de dólares",
+          "link": "https://es.investing.com/news/stock-market-news/citigroup-inc-registro-mal-operaciones-en-europa-y-subestimo-el-riesgo-en-35000-millones-de-dolares-93CH-3937233",
+          "summary": "",
+          "published": "2026-11-20T00:21:27+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Legisladores de Nueva York estudian un compromiso sobre la ley de repartidores de Amazon",
+          "link": "https://es.investing.com/news/stock-market-news/legisladores-de-nueva-york-estudian-un-compromiso-sobre-la-ley-de-repartidores-de-amazon-3937206",
+          "summary": "",
+          "published": "2026-11-19T23:17:13+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -680,74 +712,119 @@
   ],
   "sin_accion": [
     {
-      "title": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
-      "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-      "summary": "UnitedHealth Group’s stock fell again on Thursday amid a tough week in which the government pledged to crack down on Medicare Advantage fraud and lawmakers renewed calls for Medicare for All.",
-      "published": "2026-11-19T21:22:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Why Walmart is making a bigger bet on fast-food delivery",
-      "link": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
-      "summary": "The retail giant says around 90% of spending at fast-food chains occurs within a few miles from a Walmart.",
-      "published": "2026-11-19T21:13:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-      "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
-      "published": "2026-11-19T21:06:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Rising healthcare costs push Medicare Part B premiums higher",
-      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-      "summary": "The premiums will increase by $6.50, to $209.40 a month.",
-      "published": "2026-11-19T21:05:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "TD Cowen destaca catalizadores de una acción favorita para 2027",
-      "link": "https://es.investing.com/news/stock-market-news/td-cowen-destaca-catalizadores-de-una-accion-favorita-para-2027-3936986",
+      "title": "+82% desde la entrada: una empresa de software en la nube elegida por nuestros modelos sigue subiendo",
+      "link": "https://es.investing.com/news/stock-market-news/82-desde-la-entrada-una-empresa-de-software-en-la-nube-elegida-por-nuestros-modelos-sigue-subiendo-3937273",
       "summary": "",
-      "published": "2026-11-19T21:02:52+00:00",
+      "published": "2026-11-20T02:01:35+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "BMO destaca su principal valor del sector materiales",
-      "link": "https://es.investing.com/news/stock-market-news/bmo-destaca-su-principal-valor-del-sector-materiales-3936973",
+      "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+      "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+      "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+      "published": "2026-11-20T01:49:03+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "published": "2026-11-20T01:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "summary": "“Hotel rooms can cost as much as $400 per night.”",
+      "published": "2026-11-20T01:22:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los futuros de Wall Street caen tras el debut de Anthropic en bolsa",
+      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-wall-street-caen-tras-el-debut-de-anthropic-en-bolsa-3937247",
       "summary": "",
-      "published": "2026-11-19T20:44:00+00:00",
+      "published": "2026-11-20T01:11:53+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué cae hoy la acción de BCE Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-bce-inc-93CH-3936970",
+      "title": "Sheinbaum espera cerrar acuerdo arancelario con Trump en diciembre mientras comienza nueva era con China",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-cerrar-acuerdo-arancelario-con-trump-en-diciembre-mientras-comienza-nueva-era-con-china/",
+      "summary": "La presidenta de México declaró al concluir su agenda en APEC 2026 que su Gobierno firmó Memorándums de Entendimiento con China y acordó reunión para temas comerciales.",
+      "published": "2026-11-20T00:39:29+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "El director de ciberseguridad de Trump, Sean Cairncross, abandona su cargo",
+      "link": "https://es.investing.com/news/stock-market-news/el-director-de-ciberseguridad-de-trump-sean-cairncross-abandona-su-cargo-93CH-3937231",
       "summary": "",
-      "published": "2026-11-19T20:34:10+00:00",
+      "published": "2026-11-20T00:21:23+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué cae hoy la acción de Canadian Natural Resources?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-canadian-natural-resources-93CH-3936968",
+      "title": "El Senado republicano rechaza legislación para poner fin a la guerra en Irán",
+      "link": "https://es.investing.com/news/stock-market-news/el-senado-republicano-rechaza-legislacion-para-poner-fin-a-la-guerra-en-iran-93CH-3937226",
       "summary": "",
-      "published": "2026-11-19T20:32:29+00:00",
+      "published": "2026-11-20T00:12:07+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+      "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+      "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
+      "published": "2026-11-19T23:56:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+      "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+      "summary": "All 11 sectors of the S&P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness.",
+      "published": "2026-11-19T23:11:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "BILL Holdings será privatizada por TPG y Corpay en un acuerdo de 6.000 millones de dólares",
+      "link": "https://es.investing.com/news/stock-market-news/bill-holdings-sera-privatizada-por-tpg-y-corpay-en-un-acuerdo-de-6000-millones-de-dolares-3937196",
+      "summary": "",
+      "published": "2026-11-19T23:08:44+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Bausch + Lomb caen tras fracasar ensayo de fármaco ocular",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-bausch--lomb-caen-tras-fracasar-ensayo-de-farmaco-ocular-3937192",
+      "summary": "",
+      "published": "2026-11-19T22:57:53+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+      "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+      "summary": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
+      "published": "2026-11-19T22:53:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -755,26 +832,8 @@
       "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
       "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
       "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
-      "published": "2026-11-19T20:28:00+00:00",
+      "published": "2026-11-19T22:41:00+00:00",
       "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Bank of Montreal reactiva la banca de inversión en petróleo y gas en EE.UU.",
-      "link": "https://es.investing.com/news/stock-market-news/bank-of-montreal-reactiva-la-banca-de-inversion-en-petroleo-y-gas-en-eeuu-93CH-3936962",
-      "summary": "",
-      "published": "2026-11-19T20:24:06+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Noviembre de miedo: Bolsas en EE.UU. caen, el mercado rota y los astutos ganan 74%",
-      "link": "https://es.investing.com/news/stock-market-news/noviembre-de-miedo-bolsas-en-eeuu-caen-el-mercado-rota-y-los-astutos-ganan-74-3936957",
-      "summary": "",
-      "published": "2026-11-19T20:20:09+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -784,15 +843,6 @@
       "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
       "published": "2026-11-19T20:18:47+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-      "published": "2026-11-19T19:15:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -941,15 +991,6 @@
       "tickers": []
     },
     {
-      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-      "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-      "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
-      "published": "2026-11-16T02:56:24+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Farmacias del Ahorro compra a rival Farmacias Benavides de Sycamore Partners y Stefano Pessina",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/farmacias-del-ahorro-compra-a-rival-farmacias-benavides-de-sycamore-partners-y-stefano-pessina/",
       "summary": "La venta, por un monto no revelado, unirá bajo una misma estructura a los dos proveedores de servicios farmacéuticos y de salud, ampliando la presencia total de la compañía combinada a más de 3.000 sucursales en México.",
@@ -993,20 +1034,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "México aprueba permisos para proyectos solares de US$750 millones a Cox, Invex y Viva el Sol",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aprueba-permisos-para-proyectos-solares-de-us750-millones-a-cox-invex-y-viva-el-sol/",
-      "summary": "Las autoridades energéticas recibieron 57 solicitudes de permisos para proyectos de energía solar fotovoltaica en la segunda convocatoria del Gobierno.",
-      "published": "2026-11-07T10:00:00+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 24,
+    "acciones_con_noticias": 26,
     "sin_accion": 36
   }
 }
