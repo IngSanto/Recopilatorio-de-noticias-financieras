@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:28:59.618747+00:00",
+  "generated_at": "2026-11-20T13:29:37.690775+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 2855.2,
+      "ventana_horas": 2860.5,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 3.5,
+      "ventana_horas": 1.1,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 4.0,
+      "ventana_horas": 1.4,
       "ok": true
     }
   ],
@@ -76,18 +76,18 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "El fiscal general de California investiga a Nvidia por riesgos de filtración a China",
-          "link": "https://es.investing.com/news/stock-market-news/el-fiscal-general-de-california-investiga-a-nvidia-por-riesgos-de-filtracion-a-china-3937186",
+          "title": "+82%, +66%, +65%: Nvidia cumple y Anthropic debuta mientras Wall Street cae",
+          "link": "https://es.investing.com/news/stock-market-news/82-66-65-nvidia-cumple-y-anthropic-debuta-mientras-wall-street-cae-3938054",
           "summary": "",
-          "published": "2026-11-19T22:53:52+00:00",
+          "published": "2026-11-20T12:31:18+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
-          "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-          "summary": "There are only 20 companies in the world with a market capitalization of $669 billion or higher",
-          "published": "2026-11-19T21:45:00+00:00",
+          "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+          "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+          "published": "2026-11-20T12:00:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
@@ -158,80 +158,24 @@
       ]
     },
     {
-      "ticker": "C",
-      "name": "Citigroup / Banamex",
+      "ticker": "BAC",
+      "name": "Bank of America",
       "exchange": "NYSE",
       "sector": "Banca",
       "news": [
         {
-          "title": "Citigroup Inc registró mal operaciones en Europa y subestimó el riesgo en 35.000 millones de dólares",
-          "link": "https://es.investing.com/news/stock-market-news/citigroup-inc-registro-mal-operaciones-en-europa-y-subestimo-el-riesgo-en-35000-millones-de-dolares-93CH-3937233",
-          "summary": "",
-          "published": "2026-11-20T00:21:27+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Legisladores de Nueva York estudian un compromiso sobre la ley de repartidores de Amazon",
-          "link": "https://es.investing.com/news/stock-market-news/legisladores-de-nueva-york-estudian-un-compromiso-sobre-la-ley-de-repartidores-de-amazon-3937206",
-          "summary": "",
-          "published": "2026-11-19T23:17:13+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-          "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
-          "summary": "The Anthropic enthusiasm has faded while China concerns have intensified.",
-          "published": "2026-11-19T21:27:00+00:00",
+          "title": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
+          "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
+          "summary": "The S&P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.",
+          "published": "2026-11-20T12:43:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
+        },
         {
-          "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-          "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
-          "summary": "The Anthropic enthusiasm has faded while China concerns have intensified.",
-          "published": "2026-11-19T21:27:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco",
-      "exchange": "NASDAQ",
-      "sector": "Retail",
-      "news": [
-        {
-          "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-          "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-          "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
-          "published": "2026-11-18T16:33:14+00:00",
+          "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+          "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+          "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+          "published": "2026-11-16T23:01:19+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -286,16 +230,16 @@
       ]
     },
     {
-      "ticker": "BAC",
-      "name": "Bank of America",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "COST",
+      "name": "Costco",
+      "exchange": "NASDAQ",
+      "sector": "Retail",
       "news": [
         {
-          "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-          "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-          "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-          "published": "2026-11-16T23:01:19+00:00",
+          "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+          "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+          "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
+          "published": "2026-11-18T16:33:14+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -712,12 +656,120 @@
   ],
   "sin_accion": [
     {
-      "title": "+82% desde la entrada: una empresa de software en la nube elegida por nuestros modelos sigue subiendo",
-      "link": "https://es.investing.com/news/stock-market-news/82-desde-la-entrada-una-empresa-de-software-en-la-nube-elegida-por-nuestros-modelos-sigue-subiendo-3937273",
+      "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+      "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
+      "published": "2026-11-20T13:25:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+      "published": "2026-11-20T13:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+      "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+      "summary": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
+      "published": "2026-11-20T12:59:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Worldline caen un 15% tras informe sobre retrasos en pagos a proveedores",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-worldline-caen-un-15-tras-informe-sobre-retrasos-en-pagos-a-proveedores-3938079",
       "summary": "",
-      "published": "2026-11-20T02:01:35+00:00",
+      "published": "2026-11-20T12:57:44+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Erasca cae un 5% tras datos preliminares sobre el cáncer RAS",
+      "link": "https://es.investing.com/news/stock-market-news/erasca-cae-un-5-tras-datos-preliminares-sobre-el-cancer-ras-3938074",
+      "summary": "",
+      "published": "2026-11-20T12:46:20+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027",
+      "link": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
+      "summary": "U.S. defense spending is projected to be around $1.15 trillion next year, boosting business for companies that make missiles, drones, aircraft and more",
+      "published": "2026-11-20T12:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Auto1 Group SE?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-auto1-group-se-93CH-3938063",
+      "summary": "",
+      "published": "2026-11-20T12:42:07+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los grandes bancos de Wall St fijan objetivos del S&P 500 para 2027",
+      "link": "https://es.investing.com/news/stock-market-news/los-grandes-bancos-de-wall-st-fijan-objetivos-del-sp-500-para-2027-3938051",
+      "summary": "",
+      "published": "2026-11-20T12:36:11+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Berenberg mejora AUTO1 tras caída bursátil desproporcionada",
+      "link": "https://es.investing.com/news/stock-market-news/berenberg-mejora-auto1-tras-caida-bursatil-desproporcionada-3938048",
+      "summary": "",
+      "published": "2026-11-20T12:33:48+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "’Una empresa generacional’: William Blair inicia cobertura de Anthropic con compra",
+      "link": "https://es.investing.com/news/stock-market-news/una-empresa-generacional-william-blair-inicia-cobertura-de-anthropic-con-compra-3938062",
+      "summary": "",
+      "published": "2026-11-20T12:33:04+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+      "summary": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
+      "published": "2026-11-20T12:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "GameStop has transformed from a meme stock into a ‘real company,’ analysts say",
+      "link": "https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories",
+      "summary": "Roaring Kitty’s return had minimal impact on GameStop’s stock, which has started to gain more sophisticated appeal for its “new and improved story.”",
+      "published": "2026-11-20T12:24:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Política de salario mínimo es una barrera para romper persistencia de la inflación en servicios: Jonathan Heath",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/politica-de-salario-minimo-es-una-barrera-para-romper-persistencia-de-la-inflacion-en-servicios-jonathan-heath/",
+      "summary": "El subgobernador de Banxico anotó que un punto clave para que la inflación general converja a la meta de 3% a finales de 2027 es romper la persistencia de la inflación en servicios.",
+      "published": "2026-11-20T05:55:44+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -730,111 +782,12 @@
       "tickers": []
     },
     {
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-      "published": "2026-11-20T01:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-      "summary": "“Hotel rooms can cost as much as $400 per night.”",
-      "published": "2026-11-20T01:22:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Los futuros de Wall Street caen tras el debut de Anthropic en bolsa",
-      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-wall-street-caen-tras-el-debut-de-anthropic-en-bolsa-3937247",
-      "summary": "",
-      "published": "2026-11-20T01:11:53+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Sheinbaum espera cerrar acuerdo arancelario con Trump en diciembre mientras comienza nueva era con China",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-cerrar-acuerdo-arancelario-con-trump-en-diciembre-mientras-comienza-nueva-era-con-china/",
       "summary": "La presidenta de México declaró al concluir su agenda en APEC 2026 que su Gobierno firmó Memorándums de Entendimiento con China y acordó reunión para temas comerciales.",
       "published": "2026-11-20T00:39:29+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "El director de ciberseguridad de Trump, Sean Cairncross, abandona su cargo",
-      "link": "https://es.investing.com/news/stock-market-news/el-director-de-ciberseguridad-de-trump-sean-cairncross-abandona-su-cargo-93CH-3937231",
-      "summary": "",
-      "published": "2026-11-20T00:21:23+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El Senado republicano rechaza legislación para poner fin a la guerra en Irán",
-      "link": "https://es.investing.com/news/stock-market-news/el-senado-republicano-rechaza-legislacion-para-poner-fin-a-la-guerra-en-iran-93CH-3937226",
-      "summary": "",
-      "published": "2026-11-20T00:12:07+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
-      "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
-      "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
-      "published": "2026-11-19T23:56:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
-      "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
-      "summary": "All 11 sectors of the S&P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness.",
-      "published": "2026-11-19T23:11:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "BILL Holdings será privatizada por TPG y Corpay en un acuerdo de 6.000 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/bill-holdings-sera-privatizada-por-tpg-y-corpay-en-un-acuerdo-de-6000-millones-de-dolares-3937196",
-      "summary": "",
-      "published": "2026-11-19T23:08:44+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Bausch + Lomb caen tras fracasar ensayo de fármaco ocular",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-bausch--lomb-caen-tras-fracasar-ensayo-de-farmaco-ocular-3937192",
-      "summary": "",
-      "published": "2026-11-19T22:57:53+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
-      "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
-      "summary": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
-      "published": "2026-11-19T22:53:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-      "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-      "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
-      "published": "2026-11-19T22:41:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1025,20 +978,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Subsecretaria de Hacienda ve condiciones para una recuperación económica gradual de México",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/subsecretaria-de-hacienda-ve-condiciones-para-una-recuperacion-economica-gradual-de-mexico/",
-      "summary": "El consumo, la inversión y la integración con América del Norte serán impulsores de crecimiento el próximo año.",
-      "published": "2026-11-11T19:28:08+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 26,
+    "acciones_con_noticias": 22,
     "sin_accion": 36
   }
 }
