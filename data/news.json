@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:27:06.678419+00:00",
+  "generated_at": "2026-11-21T02:40:36.657482+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 2869.8,
+      "ventana_horas": 2878.5,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.3,
+      "ventana_horas": 4.6,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.5,
+      "ventana_horas": 1.8,
       "ok": true
     }
   ],
@@ -76,19 +76,27 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
+          "title": "5 acciones de tecnología para invertir en plena tormenta y con Nvidia en picada",
+          "link": "https://es.investing.com/news/stock-market-news/5-acciones-de-tecnologia-para-invertir-en-plena-tormenta-y-con-nvidia-en-picada-3938893",
+          "summary": "",
+          "published": "2026-11-20T22:36:11+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
           "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-          "summary": "One fund manager says the continued uncertainty makes Nvidia ‘vulnerable’ to more selling, even as the stock has erased over $900 billion in market value in the past seven trading sessions",
-          "published": "2026-11-20T20:08:00+00:00",
+          "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+          "published": "2026-11-20T21:58:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "Spooked by Nvidia’s turmoil? Play Grand Theft Auto VI instead of peeking at your 401(k).",
-          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-          "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-          "published": "2026-11-20T19:53:00+00:00",
-          "source_short": "MarketW",
+          "title": "Fuerte desplome de Nvidia lleva al S&P 500 a corrección; Nasdaq borra alza de 2026",
+          "link": "https://es.investing.com/news/stock-market-news/fuerte-desplome-de-nvidia-lleva-al-sp-500-a-correccion-nasdaq-borra-alza-de-2026-3938848",
+          "summary": "",
+          "published": "2026-11-20T21:40:11+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
@@ -150,81 +158,49 @@
       ]
     },
     {
-      "ticker": "SONY",
-      "name": "Sony",
+      "ticker": "UBS",
+      "name": "UBS",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "UBS ve oportunidades en materias primas pese a menor prima de riesgo en el petróleo",
+          "link": "https://es.investing.com/news/stock-market-news/ubs-ve-oportunidades-en-materias-primas-pese-a-menor-prima-de-riesgo-en-el-petroleo-3938960",
+          "summary": "",
+          "published": "2026-11-21T01:28:01+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
       "exchange": "NYSE",
       "sector": "Tecnología",
       "news": [
         {
-          "title": "La retirada de Sony deja a Tishman sin ancla para su torre en Nueva York",
-          "link": "https://es.investing.com/news/stock-market-news/la-retirada-de-sony-deja-a-tishman-sin-ancla-para-su-torre-en-nueva-york-93CH-3938788",
+          "title": "Oracle afirma que su contrato con OpenAI está completamente financiado",
+          "link": "https://es.investing.com/news/stock-market-news/oracle-afirma-que-su-contrato-con-openai-esta-completamente-financiado-3938874",
           "summary": "",
-          "published": "2026-11-20T20:45:15+00:00",
+          "published": "2026-11-20T22:13:06+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "F",
-      "name": "Ford Motor Company",
-      "exchange": "NYSE",
-      "sector": "Automotriz",
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
       "news": [
         {
-          "title": "Ford, Honda, Stellantis y Volkswagen demandan a New Jersey por una ley",
-          "link": "https://es.investing.com/news/stock-market-news/ford-honda-stellantis-y-volkswagen-demandan-a-new-jersey-por-una-ley-93CH-3938769",
-          "summary": "",
-          "published": "2026-11-20T20:21:50+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "STLA",
-      "name": "Stellantis",
-      "exchange": "NYSE",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Ford, Honda, Stellantis y Volkswagen demandan a New Jersey por una ley",
-          "link": "https://es.investing.com/news/stock-market-news/ford-honda-stellantis-y-volkswagen-demandan-a-new-jersey-por-una-ley-93CH-3938769",
-          "summary": "",
-          "published": "2026-11-20T20:21:50+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "VOW3",
-      "name": "Volkswagen",
-      "exchange": "XETRA",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Ford, Honda, Stellantis y Volkswagen demandan a New Jersey por una ley",
-          "link": "https://es.investing.com/news/stock-market-news/ford-honda-stellantis-y-volkswagen-demandan-a-new-jersey-por-una-ley-93CH-3938769",
-          "summary": "",
-          "published": "2026-11-20T20:21:50+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "HMC",
-      "name": "Honda",
-      "exchange": "NYSE",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "Ford, Honda, Stellantis y Volkswagen demandan a New Jersey por una ley",
-          "link": "https://es.investing.com/news/stock-market-news/ford-honda-stellantis-y-volkswagen-demandan-a-new-jersey-por-una-ley-93CH-3938769",
-          "summary": "",
-          "published": "2026-11-20T20:21:50+00:00",
-          "source_short": "Investing",
+          "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+          "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+          "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
+          "published": "2026-11-20T21:36:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -304,38 +280,6 @@
           "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
           "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
           "published": "2026-11-18T16:33:14+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BAC",
-      "name": "Bank of America",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-          "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-          "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-          "published": "2026-11-16T23:01:19+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "BRK.B",
-      "name": "Berkshire Hathaway",
-      "exchange": "NYSE",
-      "sector": "Finanzas",
-      "news": [
-        {
-          "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-          "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-          "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-          "published": "2026-11-16T23:01:19+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
         }
@@ -558,6 +502,38 @@
       ]
     },
     {
+      "ticker": "BAC",
+      "name": "Bank of America",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+          "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+          "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+          "published": "2026-11-16T23:01:19+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway",
+      "exchange": "NYSE",
+      "sector": "Finanzas",
+      "news": [
+        {
+          "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+          "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+          "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+          "published": "2026-11-16T23:01:19+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "VOLARA.MX",
       "name": "Volaris",
       "exchange": "BMV",
@@ -736,11 +712,101 @@
   ],
   "sin_accion": [
     {
-      "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-      "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
-      "published": "2026-11-20T21:25:00+00:00",
+      "title": "El peso mexicano pierde 3,5% en la semana y toca los MXN$19,19, su peor nivel desde junio de 2025",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-peso-mexicano-pierde-35-en-la-semana-y-toca-los-mxn1919-su-peor-nivel-desde-junio-de-2025/",
+      "summary": "La moneda mexicana cotiza en MXN$19,19 por cada billete verde, una depreciación de 0,5% frente al cierre del jueves",
+      "published": "2026-11-20T23:53:51+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "+26% de Bimbo vs +3% de BMV: ¿Cómo te pudiste adelantar a esta ganancia usando IA?",
+      "link": "https://es.investing.com/news/stock-market-news/26-de-bimbo-vs-3-de-bmv-como-te-pudiste-adelantar-a-esta-ganancia-usando-ia-3938906",
+      "summary": "",
+      "published": "2026-11-20T23:08:08+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+      "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+      "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+      "published": "2026-11-20T22:46:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+      "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+      "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+      "published": "2026-11-20T22:44:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+      "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+      "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
+      "published": "2026-11-20T22:44:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "S&P sube la calificación de Snap a ’BB’ por expansión de márgenes y mejor monetización publicitaria",
+      "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-snap-a-bb-por-expansion-de-margenes-y-mejor-monetizacion-publicitaria-3938859",
+      "summary": "",
+      "published": "2026-11-20T21:51:15+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "La junta de GM evalúa la sucesión del director ejecutivo con Sterling Anderson en la atención",
+      "link": "https://es.investing.com/news/stock-market-news/la-junta-de-gm-evalua-la-sucesion-del-director-ejecutivo-con-sterling-anderson-en-la-atencion-3938853",
+      "summary": "",
+      "published": "2026-11-20T21:44:12+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+      "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+      "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
+      "published": "2026-11-20T21:39:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+      "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+      "summary": "A looming oversupply problem could weigh on the stock over the next year",
+      "published": "2026-11-20T21:39:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+      "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+      "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
+      "published": "2026-11-20T21:34:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "CrowdStrike estudia la compra de Zscaler en una posible megaoperación de ciberseguridad",
+      "link": "https://es.investing.com/news/stock-market-news/crowdstrike-estudia-comprar-zscaler-en-un-acuerdo-de-265000-millones-3938835",
+      "summary": "",
+      "published": "2026-11-20T21:23:16+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -763,29 +829,11 @@
       "tickers": []
     },
     {
-      "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
-      "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
-      "summary": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
-      "published": "2026-11-20T21:01:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "S&P revisa perspectiva de Lucky Strike a negativa por caída de ventas",
       "link": "https://es.investing.com/news/stock-market-news/sp-revisa-perspectiva-de-lucky-strike-a-negativa-por-caida-de-ventas-3938799",
       "summary": "",
       "published": "2026-11-20T20:55:11+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
-      "link": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
-      "summary": "The president threatened to penalize companies that build data centers outside U.S. — but the stock market kept falling.",
-      "published": "2026-11-20T20:52:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -799,74 +847,11 @@
       "tickers": []
     },
     {
-      "title": "TD Cowen nombra a UnitedHealth su mejor idea para 2027",
-      "link": "https://es.investing.com/news/stock-market-news/td-cowen-nombra-a-unitedhealth-su-mejor-idea-para-2027-3938784",
-      "summary": "",
-      "published": "2026-11-20T20:38:35+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?",
-      "link": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
-      "summary": "Also in Weekend Reads: Full coverage of the Anthropic IPO, the “death cross” for small-cap stocks and advice from The Moneyist.",
-      "published": "2026-11-20T20:32:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-      "summary": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
-      "published": "2026-11-20T20:31:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-      "published": "2026-11-20T20:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El consejo de Christian Dior SE aprueba los términos de la fusión con Agache",
-      "link": "https://es.investing.com/news/stock-market-news/el-consejo-de-christian-dior-se-aprueba-los-terminos-de-la-fusion-con-agache-93CH-3938773",
-      "summary": "",
-      "published": "2026-11-20T20:28:36+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "La debilidad del Nasdaq impulsa a los inversores hacia bonos y valores defensivos",
-      "link": "https://es.investing.com/news/stock-market-news/la-debilidad-del-nasdaq-impulsa-a-los-inversores-hacia-bonos-y-valores-defensivos-93CH-3938768",
-      "summary": "",
-      "published": "2026-11-20T20:20:44+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
       "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
       "summary": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
       "published": "2026-11-20T19:59:03+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Grand Theft Auto VI debuta con 3.790 millones de dólares en ventas",
-      "link": "https://es.investing.com/news/stock-market-news/grand-theft-auto-vi-debuta-con-3790-millones-de-dolares-en-ventas-3938754",
-      "summary": "",
-      "published": "2026-11-20T19:49:45+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -1049,20 +1034,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Galia Borja: las razones de la subgobernadora de Banxico para votar en contra del recorte de tasa",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/galia-borja-las-razones-de-la-subgobernadora-de-banxico-para-votar-en-contra-del-recorte-de-tasa/",
-      "summary": "La subgobernadora del banco central considera que es probable que la tasa de interés se mantenga en 6,25% en la decisión monetaria de diciembre.",
-      "published": "2026-11-12T01:55:31+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 28,
+    "acciones_con_noticias": 26,
     "sin_accion": 36
   }
 }
