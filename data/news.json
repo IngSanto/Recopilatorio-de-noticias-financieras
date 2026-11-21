@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T02:40:36.657482+00:00",
+  "generated_at": "2026-11-21T12:56:00.318267+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 4.6,
+      "ventana_horas": 12.0,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 244.7,
+      "ventana_horas": 238.2,
       "ok": true
     },
     {
@@ -64,11 +64,35 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.8,
+      "ventana_horas": 14.9,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "UBS",
+      "name": "UBS",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "UBS evalúa el impacto del cierre aéreo en EE.UU. sobre las aerolíneas en el 4T",
+          "link": "https://es.investing.com/news/stock-market-news/ubs-evalua-el-impacto-del-cierre-aereo-en-eeuu-sobre-las-aerolineas-en-el-4t-3939052",
+          "summary": "",
+          "published": "2026-11-21T09:46:58+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "UBS ve oportunidades en materias primas pese a menor prima de riesgo en el petróleo",
+          "link": "https://es.investing.com/news/stock-market-news/ubs-ve-oportunidades-en-materias-primas-pese-a-menor-prima-de-riesgo-en-el-petroleo-3938960",
+          "summary": "",
+          "published": "2026-11-21T01:28:01+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "NVDA",
       "name": "Nvidia",
@@ -89,14 +113,6 @@
           "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
           "published": "2026-11-20T21:58:00+00:00",
           "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Fuerte desplome de Nvidia lleva al S&P 500 a corrección; Nasdaq borra alza de 2026",
-          "link": "https://es.investing.com/news/stock-market-news/fuerte-desplome-de-nvidia-lleva-al-sp-500-a-correccion-nasdaq-borra-alza-de-2026-3938848",
-          "summary": "",
-          "published": "2026-11-20T21:40:11+00:00",
-          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
@@ -153,22 +169,6 @@
           "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
           "published": "2026-11-11T07:47:54+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "UBS",
-      "name": "UBS",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "UBS ve oportunidades en materias primas pese a menor prima de riesgo en el petróleo",
-          "link": "https://es.investing.com/news/stock-market-news/ubs-ve-oportunidades-en-materias-primas-pese-a-menor-prima-de-riesgo-en-el-petroleo-3938960",
-          "summary": "",
-          "published": "2026-11-21T01:28:01+00:00",
-          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -242,30 +242,6 @@
           "published": "2026-11-16T22:14:47+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-          "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-          "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-          "published": "2026-11-17T08:52:45+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
         }
       ]
     },
@@ -424,6 +400,30 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-proyectos-de-redes-electricas-y-centrales-a-la-industria-privada/",
           "summary": "La empresa hizo pública la reunión con la industria cuatro días después de presentarlo en un roadshow en Ciudad de México.",
           "published": "2026-10-28T00:47:15+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+          "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+          "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
+          "published": "2026-11-17T08:52:45+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -712,6 +712,69 @@
   ],
   "sin_accion": [
     {
+      "title": "Larry McDonald survived Lehman’s collapse. Now he warns the credit market is signaling a growth shock for stocks.",
+      "link": "https://www.marketwatch.com/story/larry-mcdonald-survived-lehmans-collapse-now-he-warns-the-credit-market-is-signaling-a-growth-shock-for-stocks-5c3a62ef?mod=mw_rss_topstories",
+      "summary": "Bear Traps Report founder explains why he sees stagflation coming, how much artificial-intelligence risk sits in S&P 500 index funds and why he favors hard assets",
+      "published": "2026-11-21T12:31:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
+      "link": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
+      "summary": "Investors are now more focused on protecting their portfolios than looking for bargains",
+      "published": "2026-11-21T12:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Intesa Sanpaolo lanza una OPA de 34.500 millones de euros sobre Monte dei Paschi",
+      "link": "https://es.investing.com/news/stock-market-news/intesa-sanpaolo-lanza-una-opa-de-34500-millones-de-euros-sobre-monte-dei-paschi-3939046",
+      "summary": "",
+      "published": "2026-11-21T08:56:23+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Cómo están los chips de IA redefiniendo el dominio del dólar?",
+      "link": "https://es.investing.com/news/stock-market-news/como-estan-los-chips-de-ia-redefiniendo-el-dominio-del-dolar-3939034",
+      "summary": "",
+      "published": "2026-11-21T06:58:35+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "How China is using summits to expand its global influence",
+      "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+      "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+      "published": "2026-11-21T06:00:02+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Cómo invertir en innovación transformacional",
+      "link": "https://es.investing.com/news/stock-market-news/como-invertir-en-innovacion-transformacional-3939008",
+      "summary": "",
+      "published": "2026-11-21T04:52:37+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+      "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
+      "published": "2026-11-21T03:20:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "El peso mexicano pierde 3,5% en la semana y toca los MXN$19,19, su peor nivel desde junio de 2025",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-peso-mexicano-pierde-35-en-la-semana-y-toca-los-mxn1919-su-peor-nivel-desde-junio-de-2025/",
       "summary": "La moneda mexicana cotiza en MXN$19,19 por cada billete verde, una depreciación de 0,5% frente al cierre del jueves",
@@ -775,42 +838,6 @@
       "tickers": []
     },
     {
-      "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
-      "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-      "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
-      "published": "2026-11-20T21:39:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
-      "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-      "summary": "A looming oversupply problem could weigh on the stock over the next year",
-      "published": "2026-11-20T21:39:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
-      "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-      "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
-      "published": "2026-11-20T21:34:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "CrowdStrike estudia la compra de Zscaler en una posible megaoperación de ciberseguridad",
-      "link": "https://es.investing.com/news/stock-market-news/crowdstrike-estudia-comprar-zscaler-en-un-acuerdo-de-265000-millones-3938835",
-      "summary": "",
-      "published": "2026-11-20T21:23:16+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
       "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
       "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
@@ -825,24 +852,6 @@
       "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
       "published": "2026-11-20T21:07:08+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "S&P revisa perspectiva de Lucky Strike a negativa por caída de ventas",
-      "link": "https://es.investing.com/news/stock-market-news/sp-revisa-perspectiva-de-lucky-strike-a-negativa-por-caida-de-ventas-3938799",
-      "summary": "",
-      "published": "2026-11-20T20:55:11+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Moody’s mejora la perspectiva de Victoria’s Secret a positiva",
-      "link": "https://es.investing.com/news/stock-market-news/moodys-mejora-la-perspectiva-de-victorias-secret-a-positiva-3938792",
-      "summary": "",
-      "published": "2026-11-20T20:50:52+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -943,15 +952,6 @@
       "published": "2026-11-18T20:56:13+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-      "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
-      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
-      "published": "2026-11-18T19:47:05+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
