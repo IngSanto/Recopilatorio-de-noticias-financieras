@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:56:00.318267+00:00",
+  "generated_at": "2026-11-21T20:12:46.239798+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 2878.5,
+      "ventana_horas": 2895.1,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 12.0,
+      "ventana_horas": 21.0,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 447.1,
+      "ventana_horas": 443.3,
       "ok": true
     },
     {
@@ -64,35 +64,11 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 14.9,
+      "ventana_horas": 4.5,
       "ok": true
     }
   ],
   "tickers": [
-    {
-      "ticker": "UBS",
-      "name": "UBS",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "UBS evalúa el impacto del cierre aéreo en EE.UU. sobre las aerolíneas en el 4T",
-          "link": "https://es.investing.com/news/stock-market-news/ubs-evalua-el-impacto-del-cierre-aereo-en-eeuu-sobre-las-aerolineas-en-el-4t-3939052",
-          "summary": "",
-          "published": "2026-11-21T09:46:58+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "UBS ve oportunidades en materias primas pese a menor prima de riesgo en el petróleo",
-          "link": "https://es.investing.com/news/stock-market-news/ubs-ve-oportunidades-en-materias-primas-pese-a-menor-prima-de-riesgo-en-el-petroleo-3938960",
-          "summary": "",
-          "published": "2026-11-21T01:28:01+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
     {
       "ticker": "NVDA",
       "name": "Nvidia",
@@ -100,19 +76,19 @@
       "sector": "Semiconductores",
       "news": [
         {
+          "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
+          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+          "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
+          "published": "2026-11-21T15:15:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "5 acciones de tecnología para invertir en plena tormenta y con Nvidia en picada",
           "link": "https://es.investing.com/news/stock-market-news/5-acciones-de-tecnologia-para-invertir-en-plena-tormenta-y-con-nvidia-en-picada-3938893",
           "summary": "",
           "published": "2026-11-20T22:36:11+00:00",
           "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
-          "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-          "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
-          "published": "2026-11-20T21:58:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
@@ -174,16 +150,24 @@
       ]
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle",
+      "ticker": "UBS",
+      "name": "UBS",
       "exchange": "NYSE",
-      "sector": "Tecnología",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Oracle afirma que su contrato con OpenAI está completamente financiado",
-          "link": "https://es.investing.com/news/stock-market-news/oracle-afirma-que-su-contrato-con-openai-esta-completamente-financiado-3938874",
+          "title": "UBS evalúa el impacto del cierre aéreo en EE.UU. sobre las aerolíneas en el 4T",
+          "link": "https://es.investing.com/news/stock-market-news/ubs-evalua-el-impacto-del-cierre-aereo-en-eeuu-sobre-las-aerolineas-en-el-4t-3939052",
           "summary": "",
-          "published": "2026-11-20T22:13:06+00:00",
+          "published": "2026-11-21T09:46:58+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "UBS ve oportunidades en materias primas pese a menor prima de riesgo en el petróleo",
+          "link": "https://es.investing.com/news/stock-market-news/ubs-ve-oportunidades-en-materias-primas-pese-a-menor-prima-de-riesgo-en-el-petroleo-3938960",
+          "summary": "",
+          "published": "2026-11-21T01:28:01+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
@@ -199,8 +183,24 @@
           "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
           "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
           "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
-          "published": "2026-11-20T21:36:00+00:00",
+          "published": "2026-11-21T15:35:00+00:00",
           "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "Oracle afirma que su contrato con OpenAI está completamente financiado",
+          "link": "https://es.investing.com/news/stock-market-news/oracle-afirma-que-su-contrato-con-openai-esta-completamente-financiado-3938874",
+          "summary": "",
+          "published": "2026-11-20T22:13:06+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -712,20 +712,83 @@
   ],
   "sin_accion": [
     {
-      "title": "Larry McDonald survived Lehman’s collapse. Now he warns the credit market is signaling a growth shock for stocks.",
-      "link": "https://www.marketwatch.com/story/larry-mcdonald-survived-lehmans-collapse-now-he-warns-the-credit-market-is-signaling-a-growth-shock-for-stocks-5c3a62ef?mod=mw_rss_topstories",
-      "summary": "Bear Traps Report founder explains why he sees stagflation coming, how much artificial-intelligence risk sits in S&P 500 index funds and why he favors hard assets",
-      "published": "2026-11-21T12:31:00+00:00",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "published": "2026-11-21T19:45:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
-      "link": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
-      "summary": "Investors are now more focused on protecting their portfolios than looking for bargains",
-      "published": "2026-11-21T12:00:00+00:00",
+      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+      "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+      "published": "2026-11-21T19:45:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "published": "2026-11-21T19:23:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Quién gana realmente con la inteligencia artificial?",
+      "link": "https://es.investing.com/news/stock-market-news/quien-gana-realmente-con-la-inteligencia-artificial-3939105",
+      "summary": "",
+      "published": "2026-11-21T18:51:31+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+      "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+      "summary": "This one, simple, low-pain tax solves all the problems.",
+      "published": "2026-11-21T18:20:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+      "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+      "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
+      "published": "2026-11-21T18:19:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+      "published": "2026-11-21T16:50:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "México captura a capo de los más buscados por el FBI mientras Sheinbaum y Trump avanzan en acuerdo comercial",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-captura-a-capo-buscado-por-el-fbi-mientras-sheinbaum-y-trump-avanzan-en-acuerdo-comercial/",
+      "summary": "El Gabinete de Seguridad indicó que la detención fue resultado de la cooperación bilateral con EE.UU. y dijo que “Chapo Isidro” cuenta con una orden de extradición a ese país.",
+      "published": "2026-11-21T16:34:06+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "Tech outages are fueling a new doomsday economy",
+      "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+      "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+      "published": "2026-11-21T15:04:56+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -766,15 +829,6 @@
       "tickers": []
     },
     {
-      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-      "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
-      "published": "2026-11-21T03:20:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "El peso mexicano pierde 3,5% en la semana y toca los MXN$19,19, su peor nivel desde junio de 2025",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-peso-mexicano-pierde-35-en-la-semana-y-toca-los-mxn1919-su-peor-nivel-desde-junio-de-2025/",
       "summary": "La moneda mexicana cotiza en MXN$19,19 por cada billete verde, una depreciación de 0,5% frente al cierre del jueves",
@@ -793,46 +847,10 @@
       "tickers": []
     },
     {
-      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-      "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-      "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
-      "published": "2026-11-20T22:46:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-      "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-      "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
-      "published": "2026-11-20T22:44:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-      "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-      "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
-      "published": "2026-11-20T22:44:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "S&P sube la calificación de Snap a ’BB’ por expansión de márgenes y mejor monetización publicitaria",
       "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-snap-a-bb-por-expansion-de-margenes-y-mejor-monetizacion-publicitaria-3938859",
       "summary": "",
       "published": "2026-11-20T21:51:15+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "La junta de GM evalúa la sucesión del director ejecutivo con Sterling Anderson en la atención",
-      "link": "https://es.investing.com/news/stock-market-news/la-junta-de-gm-evalua-la-sucesion-del-director-ejecutivo-con-sterling-anderson-en-la-atencion-3938853",
-      "summary": "",
-      "published": "2026-11-20T21:44:12+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -1000,15 +1018,6 @@
       "tickers": []
     },
     {
-      "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
-      "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
-      "summary": "The forecast represents one of the most hawkish views among policymakers.",
-      "published": "2026-11-17T13:40:54+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Farmacias del Ahorro compra a rival Farmacias Benavides de Sycamore Partners y Stefano Pessina",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/farmacias-del-ahorro-compra-a-rival-farmacias-benavides-de-sycamore-partners-y-stefano-pessina/",
       "summary": "La venta, por un monto no revelado, unirá bajo una misma estructura a los dos proveedores de servicios farmacéuticos y de salud, ampliando la presencia total de la compañía combinada a más de 3.000 sucursales en México.",
@@ -1022,15 +1031,6 @@
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/se-dice-mucho-de-la-triangulacion-pero-no-es-tanto-sheinbaum-en-vispera-de-viaje-a-china/",
       "summary": "La presidenta de México viajará al país asiático a la reunión anual de APEC, en donde sostendrá una reunión bilateral con su homólogo Xi Jinping.",
       "published": "2026-11-13T21:05:36+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "FMI ratifica Línea de Crédito Flexible a México con reducción en monto de financiamiento",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fmi-ratifica-linea-de-credito-flexible-a-mexico-con-reduccion-en-monto-de-financiamiento/",
-      "summary": "La Comisión de Cambios decidió mantener el acceso a este instrumento por un monto de US$18.000 millones.",
-      "published": "2026-11-13T00:07:51+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
