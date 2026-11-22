@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:47:50.879488+00:00",
+  "generated_at": "2026-11-22T20:26:54.242965+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 23.4,
+      "ventana_horas": 16.0,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 238.2,
+      "ventana_horas": 266.1,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 19.7,
+      "ventana_horas": 4.4,
       "ok": true
     }
   ],
@@ -76,10 +76,18 @@
       "sector": "Semiconductores",
       "news": [
         {
+          "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
+          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+          "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
+          "published": "2026-11-22T17:00:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "5 grandes movimientos de analistas en IA: bajada de Nvidia y Anthropic como \"empresa generacional\"",
           "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-bajada-de-nvidia-y-anthropic-como-empresa-generacional-3939170",
           "summary": "",
-          "published": "2026-11-22T07:52:33+00:00",
+          "published": "2026-11-22T09:00:00+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
@@ -130,14 +138,6 @@
           "published": "2026-11-12T07:28:48+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        },
-        {
-          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-          "published": "2026-11-11T07:47:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -152,14 +152,6 @@
           "link": "https://es.investing.com/news/stock-market-news/deberia-comprar-la-caida-del-cobre-por-que-ubs-apuesta-por-posiciones-largas-3939184",
           "summary": "",
           "published": "2026-11-22T09:09:20+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "UBS evalúa el impacto del cierre aéreo en EE.UU. sobre las aerolíneas en el 4T",
-          "link": "https://es.investing.com/news/stock-market-news/ubs-evalua-el-impacto-del-cierre-aereo-en-eeuu-sobre-las-aerolineas-en-el-4t-3939052",
-          "summary": "",
-          "published": "2026-11-21T09:46:58+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
@@ -178,22 +170,6 @@
           "published": "2026-11-20T15:11:46+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco",
-      "exchange": "NASDAQ",
-      "sector": "Retail",
-      "news": [
-        {
-          "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-          "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-          "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
-          "published": "2026-11-18T16:33:14+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -462,6 +438,22 @@
       ]
     },
     {
+      "ticker": "COST",
+      "name": "Costco",
+      "exchange": "NASDAQ",
+      "sector": "Retail",
+      "news": [
+        {
+          "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+          "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+          "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
+          "published": "2026-11-18T16:33:14+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
       "ticker": "BAC",
       "name": "Bank of America",
       "exchange": "NYSE",
@@ -522,22 +514,6 @@
           "published": "2026-11-13T13:49:12+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "BABA",
-      "name": "Alibaba",
-      "exchange": "NYSE",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-          "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-          "published": "2026-11-11T07:47:54+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -672,11 +648,83 @@
   ],
   "sin_accion": [
     {
-      "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
-      "link": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
-      "summary": "Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks",
-      "published": "2026-11-22T12:30:00+00:00",
+      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+      "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
+      "published": "2026-11-22T19:24:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "published": "2026-11-22T18:55:05+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "These little-known investments could be among the best bargains in a crash",
+      "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+      "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
+      "published": "2026-11-22T18:23:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Private equity has been buying up hospice centers — with striking consequences",
+      "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+      "summary": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
+      "published": "2026-11-22T17:22:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "published": "2026-11-22T16:32:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+      "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
+      "published": "2026-11-22T16:18:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+      "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+      "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
+      "published": "2026-11-22T16:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Qué significan las elecciones de mitad de mandato en EE.UU. para los inversores?",
+      "link": "https://es.investing.com/news/stock-market-news/que-significan-las-elecciones-de-mitad-de-mandato-en-eeuu-para-los-inversores-3939221",
+      "summary": "",
+      "published": "2026-11-22T15:56:18+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Países asiáticos toman medidas para apoyar sus mercados tras la caída de la IA",
+      "link": "https://es.investing.com/news/stock-market-news/paises-asiaticos-toman-medidas-para-apoyar-sus-mercados-tras-la-caida-de-la-ia-3939219",
+      "summary": "",
+      "published": "2026-11-22T15:12:43+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -713,69 +761,6 @@
       "summary": "",
       "published": "2026-11-22T01:48:54+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-      "published": "2026-11-22T01:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de IA de China pierden 1,7 billones de dólares en la caída tecnológica",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-ia-de-china-pierden-17-billones-de-dolares-en-la-caida-tecnologica-3939137",
-      "summary": "",
-      "published": "2026-11-22T01:09:28+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-      "summary": "“Hotel rooms can cost as much as $400 per night.”",
-      "published": "2026-11-22T00:03:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Qué esperar de las elecciones anticipadas en España",
-      "link": "https://es.investing.com/news/stock-market-news/que-esperar-de-las-elecciones-anticipadas-en-espana-3939125",
-      "summary": "",
-      "published": "2026-11-21T23:57:24+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-      "published": "2026-11-21T23:05:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
-      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-      "published": "2026-11-21T20:15:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-      "published": "2026-11-21T19:45:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -915,15 +900,6 @@
       "tickers": []
     },
     {
-      "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
-      "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
-      "summary": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
-      "published": "2026-11-19T09:02:00+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Dólar en México: peso se deprecia hasta MXN$18,88 ante posibles alzas de la Fed",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/dolar-en-mexico-peso-se-deprecia-hasta-mxn1888-ante-posibles-alzas-de-la-fed/",
       "summary": "La moneda mexicana registró una depreciación diaria de 2,5%.",
@@ -998,7 +974,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 24,
+    "acciones_con_noticias": 23,
     "sin_accion": 36
   }
 }
