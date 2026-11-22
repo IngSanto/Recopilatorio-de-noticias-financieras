@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:29:09.699651+00:00",
+  "generated_at": "2026-11-22T12:47:50.879488+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 25.7,
+      "ventana_horas": 23.4,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 8.4,
+      "ventana_horas": 19.7,
       "ok": true
     }
   ],
@@ -76,10 +76,10 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "5 acciones de tecnología para invertir en plena tormenta y con Nvidia en picada",
-          "link": "https://es.investing.com/news/stock-market-news/5-acciones-de-tecnologia-para-invertir-en-plena-tormenta-y-con-nvidia-en-picada-3938893",
+          "title": "5 grandes movimientos de analistas en IA: bajada de Nvidia y Anthropic como \"empresa generacional\"",
+          "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-bajada-de-nvidia-y-anthropic-como-empresa-generacional-3939170",
           "summary": "",
-          "published": "2026-11-20T22:36:11+00:00",
+          "published": "2026-11-22T07:52:33+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
@@ -148,34 +148,18 @@
       "sector": "Banca",
       "news": [
         {
-          "title": "UBS evalúa el impacto del cierre aéreo en EE.UU. sobre las aerolíneas en el 4T",
-          "link": "https://es.investing.com/news/stock-market-news/ubs-evalua-el-impacto-del-cierre-aereo-en-eeuu-sobre-las-aerolineas-en-el-4t-3939052",
+          "title": "¿Debería comprar la caída del cobre? Por qué UBS apuesta por posiciones largas",
+          "link": "https://es.investing.com/news/stock-market-news/deberia-comprar-la-caida-del-cobre-por-que-ubs-apuesta-por-posiciones-largas-3939184",
           "summary": "",
-          "published": "2026-11-21T09:46:58+00:00",
+          "published": "2026-11-22T09:09:20+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "UBS ve oportunidades en materias primas pese a menor prima de riesgo en el petróleo",
-          "link": "https://es.investing.com/news/stock-market-news/ubs-ve-oportunidades-en-materias-primas-pese-a-menor-prima-de-riesgo-en-el-petroleo-3938960",
+          "title": "UBS evalúa el impacto del cierre aéreo en EE.UU. sobre las aerolíneas en el 4T",
+          "link": "https://es.investing.com/news/stock-market-news/ubs-evalua-el-impacto-del-cierre-aereo-en-eeuu-sobre-las-aerolineas-en-el-4t-3939052",
           "summary": "",
-          "published": "2026-11-21T01:28:01+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Oracle afirma que su contrato con OpenAI está completamente financiado",
-          "link": "https://es.investing.com/news/stock-market-news/oracle-afirma-que-su-contrato-con-openai-esta-completamente-financiado-3938874",
-          "summary": "",
-          "published": "2026-11-20T22:13:06+00:00",
+          "published": "2026-11-21T09:46:58+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
@@ -194,30 +178,6 @@
           "published": "2026-11-20T15:11:46+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-          "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-          "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
-          "published": "2026-11-18T06:18:11+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-          "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-          "published": "2026-11-16T22:14:47+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -378,6 +338,30 @@
           "published": "2026-10-28T00:47:15+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+          "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+          "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+          "published": "2026-11-18T06:18:11+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+          "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+          "published": "2026-11-16T22:14:47+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -688,11 +672,65 @@
   ],
   "sin_accion": [
     {
+      "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
+      "link": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
+      "summary": "Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks",
+      "published": "2026-11-22T12:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "La inflación suiza se acelera y el BNS alerta sobre presiones generalizadas",
+      "link": "https://es.investing.com/news/stock-market-news/la-inflacion-suiza-se-acelera-y-el-bns-alerta-sobre-presiones-generalizadas-3939177",
+      "summary": "",
+      "published": "2026-11-22T08:51:37+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Seguirá la economía superando a la geopolítica?",
+      "link": "https://es.investing.com/news/stock-market-news/seguira-la-economia-superando-a-la-geopolitica-3939164",
+      "summary": "",
+      "published": "2026-11-22T06:57:01+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Está perdiendo fuerza el auge de la IA en los mercados emergentes?",
+      "link": "https://es.investing.com/news/stock-market-news/esta-perdiendo-fuerza-el-auge-de-la-ia-en-los-mercados-emergentes-3939158",
+      "summary": "",
+      "published": "2026-11-22T06:04:20+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las huelgas industriales en Alemania se amplían: IG Metall convoca a 23.000 trabajadores",
+      "link": "https://es.investing.com/news/stock-market-news/las-huelgas-industriales-en-alemania-se-amplian-con-23000-trabajadores-convocados-por-ig-metall-3939143",
+      "summary": "",
+      "published": "2026-11-22T01:48:54+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
       "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
       "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
       "published": "2026-11-22T01:15:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de IA de China pierden 1,7 billones de dólares en la caída tecnológica",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-ia-de-china-pierden-17-billones-de-dolares-en-la-caida-tecnologica-3939137",
+      "summary": "",
+      "published": "2026-11-22T01:09:28+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -742,24 +780,6 @@
       "tickers": []
     },
     {
-      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-      "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
-      "published": "2026-11-21T19:45:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Quién gana realmente con la inteligencia artificial?",
-      "link": "https://es.investing.com/news/stock-market-news/quien-gana-realmente-con-la-inteligencia-artificial-3939105",
-      "summary": "",
-      "published": "2026-11-21T18:51:31+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "México captura a capo de los más buscados por el FBI mientras Sheinbaum y Trump avanzan en acuerdo comercial",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-captura-a-capo-buscado-por-el-fbi-mientras-sheinbaum-y-trump-avanzan-en-acuerdo-comercial/",
       "summary": "El Gabinete de Seguridad indicó que la detención fue resultado de la cooperación bilateral con EE.UU. y dijo que “Chapo Isidro” cuenta con una orden de extradición a ese país.",
@@ -778,38 +798,11 @@
       "tickers": []
     },
     {
-      "title": "Intesa Sanpaolo lanza una OPA de 34.500 millones de euros sobre Monte dei Paschi",
-      "link": "https://es.investing.com/news/stock-market-news/intesa-sanpaolo-lanza-una-opa-de-34500-millones-de-euros-sobre-monte-dei-paschi-3939046",
-      "summary": "",
-      "published": "2026-11-21T08:56:23+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Cómo están los chips de IA redefiniendo el dominio del dólar?",
-      "link": "https://es.investing.com/news/stock-market-news/como-estan-los-chips-de-ia-redefiniendo-el-dominio-del-dolar-3939034",
-      "summary": "",
-      "published": "2026-11-21T06:58:35+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "How China is using summits to expand its global influence",
       "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
       "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
       "published": "2026-11-21T06:00:02+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Cómo invertir en innovación transformacional",
-      "link": "https://es.investing.com/news/stock-market-news/como-invertir-en-innovacion-transformacional-3939008",
-      "summary": "",
-      "published": "2026-11-21T04:52:37+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -820,15 +813,6 @@
       "published": "2026-11-20T23:53:51+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "+26% de Bimbo vs +3% de BMV: ¿Cómo te pudiste adelantar a esta ganancia usando IA?",
-      "link": "https://es.investing.com/news/stock-market-news/26-de-bimbo-vs-3-de-bmv-como-te-pudiste-adelantar-a-esta-ganancia-usando-ia-3938906",
-      "summary": "",
-      "published": "2026-11-20T23:08:08+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -1014,7 +998,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 25,
+    "acciones_con_noticias": 24,
     "sin_accion": 36
   }
 }
