@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:12:46.239798+00:00",
+  "generated_at": "2026-11-22T01:29:09.699651+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 21.0,
+      "ventana_horas": 25.7,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 4.5,
+      "ventana_horas": 8.4,
       "ok": true
     }
   ],
@@ -75,14 +75,6 @@
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
-        {
-          "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
-          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-          "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-          "published": "2026-11-21T15:15:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
         {
           "title": "5 acciones de tecnología para invertir en plena tormenta y con Nvidia en picada",
           "link": "https://es.investing.com/news/stock-market-news/5-acciones-de-tecnologia-para-invertir-en-plena-tormenta-y-con-nvidia-en-picada-3938893",
@@ -169,22 +161,6 @@
           "summary": "",
           "published": "2026-11-21T01:28:01+00:00",
           "source_short": "Investing",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-          "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-          "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
-          "published": "2026-11-21T15:35:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -712,6 +688,51 @@
   ],
   "sin_accion": [
     {
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "published": "2026-11-22T01:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "summary": "“Hotel rooms can cost as much as $400 per night.”",
+      "published": "2026-11-22T00:03:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Qué esperar de las elecciones anticipadas en España",
+      "link": "https://es.investing.com/news/stock-market-news/que-esperar-de-las-elecciones-anticipadas-en-espana-3939125",
+      "summary": "",
+      "published": "2026-11-21T23:57:24+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+      "published": "2026-11-21T23:05:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+      "published": "2026-11-21T20:15:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
       "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
       "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
@@ -730,47 +751,11 @@
       "tickers": []
     },
     {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-      "published": "2026-11-21T19:23:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "¿Quién gana realmente con la inteligencia artificial?",
       "link": "https://es.investing.com/news/stock-market-news/quien-gana-realmente-con-la-inteligencia-artificial-3939105",
       "summary": "",
       "published": "2026-11-21T18:51:31+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
-      "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
-      "summary": "This one, simple, low-pain tax solves all the problems.",
-      "published": "2026-11-21T18:20:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
-      "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-      "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
-      "published": "2026-11-21T18:19:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-      "published": "2026-11-21T16:50:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -842,15 +827,6 @@
       "link": "https://es.investing.com/news/stock-market-news/26-de-bimbo-vs-3-de-bmv-como-te-pudiste-adelantar-a-esta-ganancia-usando-ia-3938906",
       "summary": "",
       "published": "2026-11-20T23:08:08+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "S&P sube la calificación de Snap a ’BB’ por expansión de márgenes y mejor monetización publicitaria",
-      "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-snap-a-bb-por-expansion-de-margenes-y-mejor-monetizacion-publicitaria-3938859",
-      "summary": "",
-      "published": "2026-11-20T21:51:15+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -1038,7 +1014,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 26,
+    "acciones_con_noticias": 25,
     "sin_accion": 36
   }
 }
