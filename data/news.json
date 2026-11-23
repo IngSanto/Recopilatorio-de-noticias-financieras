@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T01:53:44.766798+00:00",
+  "generated_at": "2026-11-23T15:13:00.965328+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 20.6,
+      "ventana_horas": 0.4,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 266.1,
+      "ventana_horas": 277.3,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 5.6,
+      "ventana_horas": 4.6,
       "ok": true
     }
   ],
@@ -76,18 +76,34 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
-          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-          "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-          "published": "2026-11-22T17:00:00+00:00",
+          "title": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?",
+          "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
+          "summary": "What to watch in AI earnings this Thanksgiving week. Plus, why memory stocks look so cheap, how much less you’ll pay at the pump and a $100,000 pottery-studio dilemma.",
+          "published": "2026-11-23T14:37:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "5 grandes movimientos de analistas en IA: bajada de Nvidia y Anthropic como \"empresa generacional\"",
-          "link": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-bajada-de-nvidia-y-anthropic-como-empresa-generacional-3939170",
+          "title": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO",
+          "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+          "summary": "Donald Trump’s was among the voices pushing for ousted co-founder Huang’s resumption of the AI chip giant’s reins.",
+          "published": "2026-11-23T14:33:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "La Administración Trump apoya el regreso de Jensen Huang a Nvidia",
+          "link": "https://es.investing.com/news/stock-market-news/la-administracion-trump-apoya-el-regreso-de-jensen-huang-a-nvidia-3940411",
           "summary": "",
-          "published": "2026-11-22T09:00:00+00:00",
+          "published": "2026-11-23T13:30:26+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Marlowe recauda 277 millones de dólares para alternativas a los chips de Nvidia",
+          "link": "https://es.investing.com/news/stock-market-news/marlowe-recauda-277-millones-de-dolares-para-alternativas-a-los-chips-de-nvidia-93CH-3940366",
+          "summary": "",
+          "published": "2026-11-23T13:25:17+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
@@ -142,32 +158,56 @@
       ]
     },
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
       "exchange": "NYSE",
       "sector": "Banca",
       "news": [
         {
-          "title": "Perspectivas económicas de Goldman Sachs para 2027",
-          "link": "https://es.investing.com/news/stock-market-news/perspectivas-economicas-de-goldman-sachs-para-2027-3939244",
-          "summary": "",
-          "published": "2026-11-22T22:24:42+00:00",
-          "source_short": "Investing",
+          "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+          "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+          "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+          "published": "2026-11-23T06:06:55+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+          "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+          "published": "2026-11-16T22:14:47+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "UBS",
-      "name": "UBS",
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
+        {
+          "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet",
+          "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+          "summary": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
+          "published": "2026-11-23T14:14:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "DB",
+      "name": "Deutsche Bank",
       "exchange": "NYSE",
       "sector": "Banca",
       "news": [
         {
-          "title": "¿Debería comprar la caída del cobre? Por qué UBS apuesta por posiciones largas",
-          "link": "https://es.investing.com/news/stock-market-news/deberia-comprar-la-caida-del-cobre-por-que-ubs-apuesta-por-posiciones-largas-3939184",
+          "title": "Deutsche Bank prevé que el S&P 500 alcance los 9.000 puntos en 2027",
+          "link": "https://es.investing.com/news/stock-market-news/deutsche-bank-preve-que-el-sp-500-alcance-los-9000-puntos-en-2027-3940465",
           "summary": "",
-          "published": "2026-11-22T09:09:20+00:00",
+          "published": "2026-11-23T13:51:38+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         }
@@ -330,30 +370,6 @@
           "published": "2026-10-28T00:47:15+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-          "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-          "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
-          "published": "2026-11-18T06:18:11+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-          "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-          "published": "2026-11-16T22:14:47+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -664,46 +680,109 @@
   ],
   "sin_accion": [
     {
-      "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
-      "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
-      "summary": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
-      "published": "2026-11-22T21:51:00+00:00",
+      "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
+      "link": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
+      "summary": "The health insurers are facing scrutiny over their business practices and potential changes to the private Medicare program.",
+      "published": "2026-11-23T14:39:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Ron Johnson’s Social Security gaffe buried important news",
-      "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
-      "summary": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
-      "published": "2026-11-22T21:28:00+00:00",
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "summary": "“My wife stopped working outside the home in 1970.”",
+      "published": "2026-11-23T14:15:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Cuánto riesgo tiene el S&P 500 ante una caída del comercio de IA?",
-      "link": "https://es.investing.com/news/stock-market-news/cuanto-riesgo-tiene-el-sp-500-ante-una-caida-del-sector-ia-3939235",
+      "title": "The number of 401(k) millionaires drops amid stock-market swings",
+      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+      "published": "2026-11-23T14:10:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
+      "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
+      "summary": "CrowdStrike on Monday said it will acquire Zscaler in an all-stock transaction that values the company at approximately $43.9 billion.",
+      "published": "2026-11-23T13:47:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A 66-year-old nurse faces retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "published": "2026-11-23T13:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Universal Technical Institute Inc?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-universal-technical-institute-inc-93CH-3940450",
       "summary": "",
-      "published": "2026-11-22T20:42:53+00:00",
+      "published": "2026-11-23T13:41:15+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Social Security should be shut down, this Republican senator says",
-      "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-      "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
-      "published": "2026-11-22T20:26:00+00:00",
-      "source_short": "MarketW",
+      "title": "Las acciones de Monro caen tras suspender el pago de dividendos",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-monro-caen-tras-suspender-el-pago-de-dividendos-3940449",
+      "summary": "",
+      "published": "2026-11-23T13:39:37+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-      "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
-      "published": "2026-11-22T19:24:00+00:00",
+      "title": "¿Por qué sube hoy la acción de Real Brokerage Inc?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-real-brokerage-inc-93CH-3940422",
+      "summary": "",
+      "published": "2026-11-23T13:37:13+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de EagleRock y Texas Pacific Land suben por fusión de 3.000 millones",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-eaglerock-y-texas-pacific-land-suben-por-fusion-de-3000-millones-3940437",
+      "summary": "",
+      "published": "2026-11-23T13:36:03+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Applied Digital Corp?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-applied-digital-corp-93CH-3940377",
+      "summary": "",
+      "published": "2026-11-23T13:30:20+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Z.ai presenta el modelo GLM-5.4 con diseño Loop Transformer",
+      "link": "https://es.investing.com/news/stock-market-news/zai-presenta-el-modelo-glm54-con-diseno-loop-transformer-93CH-3940376",
+      "summary": "",
+      "published": "2026-11-23T13:30:10+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says",
+      "link": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
+      "summary": "The Pershing Square Capital Management CEO wrote in a post on X that he thinks financial conditions have already considerably tightened.",
+      "published": "2026-11-23T10:57:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -714,69 +793,6 @@
       "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
       "published": "2026-11-22T18:55:05+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "These little-known investments could be among the best bargains in a crash",
-      "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
-      "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
-      "published": "2026-11-22T18:23:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Private equity has been buying up hospice centers — with striking consequences",
-      "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
-      "summary": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
-      "published": "2026-11-22T17:22:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Qué significan las elecciones de mitad de mandato en EE.UU. para los inversores?",
-      "link": "https://es.investing.com/news/stock-market-news/que-significan-las-elecciones-de-mitad-de-mandato-en-eeuu-para-los-inversores-3939221",
-      "summary": "",
-      "published": "2026-11-22T15:56:18+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Países asiáticos toman medidas para apoyar sus mercados tras la caída de la IA",
-      "link": "https://es.investing.com/news/stock-market-news/paises-asiaticos-toman-medidas-para-apoyar-sus-mercados-tras-la-caida-de-la-ia-3939219",
-      "summary": "",
-      "published": "2026-11-22T15:12:43+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "La inflación suiza se acelera y el BNS alerta sobre presiones generalizadas",
-      "link": "https://es.investing.com/news/stock-market-news/la-inflacion-suiza-se-acelera-y-el-bns-alerta-sobre-presiones-generalizadas-3939177",
-      "summary": "",
-      "published": "2026-11-22T08:51:37+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Seguirá la economía superando a la geopolítica?",
-      "link": "https://es.investing.com/news/stock-market-news/seguira-la-economia-superando-a-la-geopolitica-3939164",
-      "summary": "",
-      "published": "2026-11-22T06:57:01+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Está perdiendo fuerza el auge de la IA en los mercados emergentes?",
-      "link": "https://es.investing.com/news/stock-market-news/esta-perdiendo-fuerza-el-auge-de-la-ia-en-los-mercados-emergentes-3939158",
-      "summary": "",
-      "published": "2026-11-22T06:04:20+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
