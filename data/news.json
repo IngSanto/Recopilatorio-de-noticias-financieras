@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T01:09:05.749861+00:00",
+  "generated_at": "2026-11-24T05:25:25.851980+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.7,
+      "ventana_horas": 0.9,
       "ok": true
     },
     {
@@ -75,14 +75,6 @@
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
-        {
-          "title": "Los futuros de las acciones en EE.UU. se mantienen estables tras el rally de Wall Street liderado por Nvidia",
-          "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-en-eeuu-se-mantienen-estables-tras-el-rally-de-wall-street-liderado-por-nvidia-3941045",
-          "summary": "",
-          "published": "2026-11-24T00:18:36+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
         {
           "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
           "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
@@ -154,21 +146,13 @@
           "published": "2026-11-19T20:21:10+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
+        },
         {
-          "title": "AMD registra hasta 337 millones de acciones para reventa vinculadas a warrants de OpenAI y Meta",
-          "link": "https://es.investing.com/news/stock-market-news/amd-registra-hasta-337-millones-de-acciones-para-reventa-vinculadas-a-warrants-de-openai-y-meta-3941007",
-          "summary": "",
-          "published": "2026-11-23T22:52:24+00:00",
-          "source_short": "Investing",
+          "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+          "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+          "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
+          "published": "2026-11-17T08:52:45+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -696,6 +680,60 @@
   ],
   "sin_accion": [
     {
+      "title": "Starhub Ltd adquirirá M1 en una operación en acciones de 5.000 millones de dólares de Singapur",
+      "link": "https://es.investing.com/news/stock-market-news/starhub-ltd-adquirira-m1-en-una-operacion-en-acciones-de-5000-millones-de-dolares-de-singapur-93CH-3941136",
+      "summary": "",
+      "published": "2026-11-24T05:08:01+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de EROAD Ltd?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-eroad-ltd-93CH-3941135",
+      "summary": "",
+      "published": "2026-11-24T05:07:52+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "BofA nombra sus valores favoritos del sector restauración en EE.UU.",
+      "link": "https://es.investing.com/news/stock-market-news/bofa-nombra-sus-valores-favoritos-del-sector-restauracion-en-eeuu-3941126",
+      "summary": "",
+      "published": "2026-11-24T04:48:15+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Cathay Airways?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-cathay-airways-93CH-3941121",
+      "summary": "",
+      "published": "2026-11-24T04:38:25+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Swire Pacific?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-swire-pacific-93CH-3941120",
+      "summary": "",
+      "published": "2026-11-24T04:38:22+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Acciones de Kumyang Green Power suben 9% a máximo de seis meses por contrato de centro de datos de IA",
+      "link": "https://es.investing.com/news/stock-market-news/acciones-de-kumyang-green-power-suben-9-a-maximo-de-seis-meses-por-contrato-de-centro-de-datos-de-ia-3941118",
+      "summary": "",
+      "published": "2026-11-24T04:29:51+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
       "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
       "summary": "“My wife stopped working outside the home in 1970.”",
@@ -714,42 +752,6 @@
       "tickers": []
     },
     {
-      "title": "ANZ adelanta su previsión de recorte de tipos del RBA a junio de 2027",
-      "link": "https://es.investing.com/news/stock-market-news/anz-adelanta-su-prevision-de-recorte-de-tipos-del-rba-a-junio-de-2027-3941054",
-      "summary": "",
-      "published": "2026-11-24T00:34:12+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Reliance Worldwide suben tras el apoyo de su mayor accionista a la OPA de Brookfield",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-reliance-worldwide-suben-tras-el-apoyo-de-su-mayor-accionista-a-la-opa-de-brookfield-3941052",
-      "summary": "",
-      "published": "2026-11-24T00:30:45+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Williams (Fed de NY) advierte que la alta inflación exige más subidas de tipos",
-      "link": "https://es.investing.com/news/stock-market-news/williams-fed-de-ny-advierte-que-la-alta-inflacion-exige-mas-subidas-de-tipos-93CH-3941038",
-      "summary": "",
-      "published": "2026-11-24T00:05:58+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de Reliance Worldwide se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-reliance-worldwide-se-disparan-hoy-93CH-3941033",
-      "summary": "",
-      "published": "2026-11-24T00:01:06+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
       "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
       "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
@@ -764,24 +766,6 @@
       "summary": "SharkNinja will join the S&P 500, replacing AES.",
       "published": "2026-11-23T23:18:00+00:00",
       "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Agilent Technologies?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-agilent-technologies-93CH-3941019",
-      "summary": "",
-      "published": "2026-11-23T23:11:32+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Central Garden & Pet Company?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-central-garden--pet-company-93CH-3941018",
-      "summary": "",
-      "published": "2026-11-23T23:11:29+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -995,7 +979,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 25,
+    "acciones_con_noticias": 24,
     "sin_accion": 33
   }
 }
