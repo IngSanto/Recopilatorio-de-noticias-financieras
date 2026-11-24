@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T05:25:25.851980+00:00",
+  "generated_at": "2026-11-24T15:10:26.535440+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 2947.1,
+      "ventana_horas": 2965.5,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.9,
+      "ventana_horas": 0.2,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 481.8,
+      "ventana_horas": 480.5,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 280.0,
+      "ventana_horas": 294.1,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.7,
+      "ventana_horas": 1.3,
       "ok": true
     }
   ],
@@ -76,51 +76,19 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
-          "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
-          "summary": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
-          "published": "2026-11-23T22:04:00+00:00",
+          "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
+          "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+          "summary": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
+          "published": "2026-11-24T14:59:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
-          "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
-          "summary": "Jensen Huang’s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade.",
-          "published": "2026-11-23T21:51:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
-          "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-          "summary": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher",
-          "published": "2026-11-23T21:45:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
-          "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
-          "summary": "Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
-          "published": "2026-11-23T21:36:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
-          "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
-          "summary": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
-          "published": "2026-11-23T21:24:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
-          "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
-          "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
-          "published": "2026-11-23T21:19:00+00:00",
-          "source_short": "MarketW",
+          "title": "Las acciones de Nvidia caen un 6% tras el rally por el regreso de Huang",
+          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-nvidia-caen-un-6-tras-el-rally-por-el-regreso-de-huang-3942339",
+          "summary": "",
+          "published": "2026-11-24T14:39:38+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
@@ -154,37 +122,37 @@
           "published": "2026-11-17T08:52:45+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
+        },
         {
-          "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
-          "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
-          "summary": "Amazon’s deal for Decart’s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst.",
-          "published": "2026-11-23T21:33:00+00:00",
-          "source_short": "MarketW",
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+          "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+          "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+          "published": "2026-11-16T12:14:46+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "exchange": "NYSE",
-      "sector": "Tecnología",
-      "news": [
+        },
         {
-          "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
-          "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
-          "summary": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
-          "published": "2026-11-23T21:24:00+00:00",
-          "source_short": "MarketW",
+          "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+          "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+          "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+          "published": "2026-11-16T12:13:23+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+          "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+          "summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
+          "published": "2026-11-13T17:06:57+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+          "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+          "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
+          "published": "2026-11-12T07:28:48+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -680,83 +648,101 @@
   ],
   "sin_accion": [
     {
-      "title": "Starhub Ltd adquirirá M1 en una operación en acciones de 5.000 millones de dólares de Singapur",
-      "link": "https://es.investing.com/news/stock-market-news/starhub-ltd-adquirira-m1-en-una-operacion-en-acciones-de-5000-millones-de-dolares-de-singapur-93CH-3941136",
-      "summary": "",
-      "published": "2026-11-24T05:08:01+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de EROAD Ltd?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-eroad-ltd-93CH-3941135",
-      "summary": "",
-      "published": "2026-11-24T05:07:52+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "BofA nombra sus valores favoritos del sector restauración en EE.UU.",
-      "link": "https://es.investing.com/news/stock-market-news/bofa-nombra-sus-valores-favoritos-del-sector-restauracion-en-eeuu-3941126",
-      "summary": "",
-      "published": "2026-11-24T04:48:15+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Cathay Airways?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-cathay-airways-93CH-3941121",
-      "summary": "",
-      "published": "2026-11-24T04:38:25+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Swire Pacific?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-swire-pacific-93CH-3941120",
-      "summary": "",
-      "published": "2026-11-24T04:38:22+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Acciones de Kumyang Green Power suben 9% a máximo de seis meses por contrato de centro de datos de IA",
-      "link": "https://es.investing.com/news/stock-market-news/acciones-de-kumyang-green-power-suben-9-a-maximo-de-seis-meses-por-contrato-de-centro-de-datos-de-ia-3941118",
-      "summary": "",
-      "published": "2026-11-24T04:29:51+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
       "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
       "summary": "“My wife stopped working outside the home in 1970.”",
-      "published": "2026-11-24T01:01:00+00:00",
+      "published": "2026-11-24T15:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-      "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-      "published": "2026-11-24T01:01:00+00:00",
+      "title": "The number of 401(k) millionaires drops as the stock market swings",
+      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+      "published": "2026-11-24T14:59:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-      "published": "2026-11-23T23:28:19+00:00",
-      "source_short": "CNBC",
+      "title": "Peso mexicano se debilita hasta MXN$19,30 por dólar tras dato quincenal de inflación",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-se-debilita-hasta-mxn1930-por-dolar-tras-dato-quincenal-de-inflacion/",
+      "summary": "La moneda mexicana cotiza en MXN$19,30 por cada billete verde en el mercado spot, una depreciación de 0,69%.",
+      "published": "2026-11-24T14:58:01+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
+      "tickers": []
+    },
+    {
+      "title": "What to do if your Thanksgiving flight gets delayed — especially with a nor’easter brewing",
+      "link": "https://www.marketwatch.com/story/what-to-do-if-your-thanksgiving-flight-gets-delayed-especially-with-a-noreaster-brewing-566fe933?mod=mw_rss_topstories",
+      "summary": "Plus some advice on cutting your Thanksgiving grocery tab.",
+      "published": "2026-11-24T14:56:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "summary": "Shares traded below their IPO price of $83 on Tuesday morning, less than a week after they first started trading on the Nasdaq.",
+      "published": "2026-11-24T14:55:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen hoy las acciones de Nebius NV?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-nebius-nv-93CH-3942365",
+      "summary": "",
+      "published": "2026-11-24T14:54:26+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de CoreWeave Inc?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-coreweave-inc-93CH-3942364",
+      "summary": "",
+      "published": "2026-11-24T14:52:15+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen hoy las acciones de Lumentum Holdings Inc?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-lumentum-holdings-inc-93CH-3942357",
+      "summary": "",
+      "published": "2026-11-24T14:49:28+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Acciones de Fossil Group suben por extensión de licencia con Michael Kors",
+      "link": "https://es.investing.com/news/stock-market-news/acciones-de-fossil-group-suben-por-extension-de-licencia-con-michael-kors-3942361",
+      "summary": "",
+      "published": "2026-11-24T14:49:26+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de SanDisk Corporation?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-sandisk-corporation-93CH-3942353",
+      "summary": "",
+      "published": "2026-11-24T14:47:16+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Dollar General Corporation?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-dollar-general-corporation-93CH-3942347",
+      "summary": "",
+      "published": "2026-11-24T14:42:41+00:00",
+      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -764,7 +750,16 @@
       "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
       "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
       "summary": "SharkNinja will join the S&P 500, replacing AES.",
-      "published": "2026-11-23T23:18:00+00:00",
+      "published": "2026-11-24T14:28:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "published": "2026-11-24T14:17:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -773,7 +768,25 @@
       "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
       "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
       "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
-      "published": "2026-11-23T21:02:17+00:00",
+      "published": "2026-11-24T13:33:26+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why France is at risk of recession — and what could keep it out of one",
+      "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+      "summary": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
+      "published": "2026-11-24T11:15:30+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "published": "2026-11-23T23:28:19+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -950,15 +963,6 @@
       "tickers": []
     },
     {
-      "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
-      "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
-      "summary": "Semiconductor shipments spiked almost 50% year on year.",
-      "published": "2026-11-18T00:35:31+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Más de 500 empresas de Gas LP piden actualizar precios ante pérdidas operativas en México",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mas-de-500-empresas-de-gas-lp-piden-actualizar-precios-ante-perdidas-operativas-en-mexico/",
       "summary": "Las compañías pidieron una actualización del margen operativo por la venta de Gas LP por inflación, además de transparentar los parámetros.",
@@ -966,20 +970,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Farmacias del Ahorro compra a rival Farmacias Benavides de Sycamore Partners y Stefano Pessina",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/farmacias-del-ahorro-compra-a-rival-farmacias-benavides-de-sycamore-partners-y-stefano-pessina/",
-      "summary": "La venta, por un monto no revelado, unirá bajo una misma estructura a los dos proveedores de servicios farmacéuticos y de salud, ampliando la presencia total de la compañía combinada a más de 3.000 sucursales en México.",
-      "published": "2026-11-13T22:21:53+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 24,
-    "sin_accion": 33
+    "acciones_con_noticias": 22,
+    "sin_accion": 36
   }
 }
