@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:10:26.535440+00:00",
+  "generated_at": "2026-11-24T23:13:15.717291+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 2965.5,
+      "ventana_horas": 2967.4,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.2,
+      "ventana_horas": 1.8,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 480.5,
+      "ventana_horas": 484.7,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 294.1,
+      "ventana_horas": 292.0,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.3,
+      "ventana_horas": 1.9,
       "ok": true
     }
   ],
@@ -79,16 +79,8 @@
           "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
           "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
           "summary": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
-          "published": "2026-11-24T14:59:00+00:00",
+          "published": "2026-11-24T21:14:00+00:00",
           "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Las acciones de Nvidia caen un 6% tras el rally por el regreso de Huang",
-          "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-nvidia-caen-un-6-tras-el-rally-por-el-regreso-de-huang-3942339",
-          "summary": "",
-          "published": "2026-11-24T14:39:38+00:00",
-          "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
@@ -146,13 +138,45 @@
           "published": "2026-11-13T17:06:57+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+          "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+          "summary": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
+          "published": "2026-11-24T23:11:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
         },
         {
-          "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-          "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-          "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-          "published": "2026-11-12T07:28:48+00:00",
-          "source_short": "CNBC",
+          "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+          "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+          "summary": "A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
+          "published": "2026-11-24T21:22:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "CP",
+      "name": "Canadian Pacific Kansas City",
+      "exchange": "NYSE",
+      "sector": "Transporte y logística",
+      "news": [
+        {
+          "title": "S&P sube la calificación de Canadian Pacific Kansas City a A- por su crecimiento transfronterizo",
+          "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-canadian-pacific-kansas-city-a-a-por-su-crecimiento-transfronterizo-3942771",
+          "summary": "",
+          "published": "2026-11-24T22:36:01+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -178,22 +202,6 @@
           "published": "2026-11-16T22:14:47+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "MA",
-      "name": "Mastercard",
-      "exchange": "NYSE",
-      "sector": "Pagos",
-      "news": [
-        {
-          "title": "Competencia en redes de pagos con tarjeta dependerá de regulación: Mastercard",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/competencia-en-redes-de-pagos-con-tarjeta-dependera-de-regulacion-mastercard/",
-          "summary": "De acuerdo con la compañía, el 40% de todas las transacciones que se hacen con tarjetas Mastercard en el país ya pasan por su red y buscan crecer con este enfoque.",
-          "published": "2026-11-20T15:11:46+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
         }
       ]
     },
@@ -438,6 +446,22 @@
       ]
     },
     {
+      "ticker": "MA",
+      "name": "Mastercard",
+      "exchange": "NYSE",
+      "sector": "Pagos",
+      "news": [
+        {
+          "title": "Competencia en redes de pagos con tarjeta dependerá de regulación: Mastercard",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/competencia-en-redes-de-pagos-con-tarjeta-dependera-de-regulacion-mastercard/",
+          "summary": "De acuerdo con la compañía, el 40% de todas las transacciones que se hacen con tarjetas Mastercard en el país ya pasan por su red y buscan crecer con este enfoque.",
+          "published": "2026-11-20T15:11:46+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "COST",
       "name": "Costco",
       "exchange": "NASDAQ",
@@ -648,21 +672,147 @@
   ],
   "sin_accion": [
     {
-      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "summary": "“My wife stopped working outside the home in 1970.”",
-      "published": "2026-11-24T15:00:00+00:00",
+      "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+      "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+      "summary": "The product, the first one beyond event contracts, was introduced in May.",
+      "published": "2026-11-24T23:03:24+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Workday Inc?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-workday-inc-93CH-3942789",
+      "summary": "",
+      "published": "2026-11-24T22:59:08+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué caen hoy las acciones de Nutanix Inc?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-nutanix-inc-93CH-3942786",
+      "summary": "",
+      "published": "2026-11-24T22:57:40+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Autodesk Inc?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-autodesk-inc-93CH-3942784",
+      "summary": "",
+      "published": "2026-11-24T22:54:53+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de HP Inc?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-hp-inc-93CH-3942782",
+      "summary": "",
+      "published": "2026-11-24T22:53:03+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué las acciones de Dell Technologies suben hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-dell-technologies-suben-hoy-93CH-3942779",
+      "summary": "",
+      "published": "2026-11-24T22:48:04+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de Centuri Holdings suben tras su inclusión en el S&P SmallCap 600",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-centuri-holdings-suben-tras-su-inclusion-en-el-sp-smallcap-600-3942764",
+      "summary": "",
+      "published": "2026-11-24T22:29:43+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+      "published": "2026-11-24T21:53:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "The number of 401(k) millionaires drops as the stock market swings",
-      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
-      "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
-      "published": "2026-11-24T14:59:00+00:00",
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "summary": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
+      "published": "2026-11-24T21:46:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+      "published": "2026-11-24T21:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
+      "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+      "summary": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
+      "published": "2026-11-24T21:31:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "published": "2026-11-24T21:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The stock market is hardly cheap, even taking recent declines into account",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-hardly-cheap-even-taking-recent-declines-into-account-fe0a7989?mod=mw_rss_topstories",
+      "summary": "Equities are still extremely overvalued, notwithstanding the stock market’s steep declines over the past several weeks.",
+      "published": "2026-11-24T21:22:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+      "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+      "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
+      "published": "2026-11-24T20:45:57+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+      "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+      "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
+      "published": "2026-11-24T18:34:43+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "México reporta cifra récord de Inversión Extranjera Directa: 9% es nueva",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-reporta-cifra-record-de-inversion-extranjera-directa-9-es-nueva/",
+      "summary": "La Secretaría de Economía destacó el desempeño de la industria manufacturera sobre las nuevas inversiones.",
+      "published": "2026-11-24T16:51:15+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -672,96 +822,6 @@
       "published": "2026-11-24T14:58:01+00:00",
       "source_short": "BB Línea",
       "source_scope": "México",
-      "tickers": []
-    },
-    {
-      "title": "What to do if your Thanksgiving flight gets delayed — especially with a nor’easter brewing",
-      "link": "https://www.marketwatch.com/story/what-to-do-if-your-thanksgiving-flight-gets-delayed-especially-with-a-noreaster-brewing-566fe933?mod=mw_rss_topstories",
-      "summary": "Plus some advice on cutting your Thanksgiving grocery tab.",
-      "published": "2026-11-24T14:56:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Anthropic’s stock just broke below its IPO price for the first time",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "summary": "Shares traded below their IPO price of $83 on Tuesday morning, less than a week after they first started trading on the Nasdaq.",
-      "published": "2026-11-24T14:55:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de Nebius NV?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-nebius-nv-93CH-3942365",
-      "summary": "",
-      "published": "2026-11-24T14:54:26+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de CoreWeave Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-coreweave-inc-93CH-3942364",
-      "summary": "",
-      "published": "2026-11-24T14:52:15+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de Lumentum Holdings Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-lumentum-holdings-inc-93CH-3942357",
-      "summary": "",
-      "published": "2026-11-24T14:49:28+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Acciones de Fossil Group suben por extensión de licencia con Michael Kors",
-      "link": "https://es.investing.com/news/stock-market-news/acciones-de-fossil-group-suben-por-extension-de-licencia-con-michael-kors-3942361",
-      "summary": "",
-      "published": "2026-11-24T14:49:26+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de SanDisk Corporation?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-sandisk-corporation-93CH-3942353",
-      "summary": "",
-      "published": "2026-11-24T14:47:16+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Dollar General Corporation?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-dollar-general-corporation-93CH-3942347",
-      "summary": "",
-      "published": "2026-11-24T14:42:41+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
-      "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
-      "summary": "SharkNinja will join the S&P 500, replacing AES.",
-      "published": "2026-11-24T14:28:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-      "published": "2026-11-24T14:17:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
       "tickers": []
     },
     {
@@ -855,24 +915,6 @@
       "tickers": []
     },
     {
-      "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-      "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-      "summary": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
-      "published": "2026-11-20T19:59:03+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The bull market has a new problem. The 'smart money' is selling",
-      "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-      "summary": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
-      "published": "2026-11-20T14:15:29+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Política de salario mínimo es una barrera para romper persistencia de la inflación en servicios: Jonathan Heath",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/politica-de-salario-minimo-es-una-barrera-para-romper-persistencia-de-la-inflacion-en-servicios-jonathan-heath/",
       "summary": "El subgobernador de Banxico anotó que un punto clave para que la inflación general converja a la meta de 3% a finales de 2027 es romper la persistencia de la inflación en servicios.",
@@ -945,15 +987,6 @@
       "tickers": []
     },
     {
-      "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
-      "link": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
-      "summary": "It put the U.K.'s annual inflation rate at a 1-year high.",
-      "published": "2026-11-18T07:57:37+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Salinas Pliego anuncia planta de motocicletas Italika en Colombia",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/salinas-pliego-anuncia-planta-de-motocicletas-italika-en-colombia/",
       "summary": "El anuncio ocurrió durante una reunión con el presidente colombiano Abelardo De la Espriella en la ciudad de Barranquilla",
@@ -961,20 +994,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "Más de 500 empresas de Gas LP piden actualizar precios ante pérdidas operativas en México",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mas-de-500-empresas-de-gas-lp-piden-actualizar-precios-ante-perdidas-operativas-en-mexico/",
-      "summary": "Las compañías pidieron una actualización del margen operativo por la venta de Gas LP por inflación, además de transparentar los parámetros.",
-      "published": "2026-11-17T23:50:49+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 22,
+    "acciones_con_noticias": 24,
     "sin_accion": 36
   }
 }
