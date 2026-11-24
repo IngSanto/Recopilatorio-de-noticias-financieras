@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T15:13:00.965328+00:00",
+  "generated_at": "2026-11-24T01:09:05.749861+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 2895.1,
+      "ventana_horas": 2947.1,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.4,
+      "ventana_horas": 1.7,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 443.3,
+      "ventana_horas": 481.8,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 277.3,
+      "ventana_horas": 280.0,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 4.6,
+      "ventana_horas": 3.7,
       "ok": true
     }
   ],
@@ -76,35 +76,75 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?",
-          "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
-          "summary": "What to watch in AI earnings this Thanksgiving week. Plus, why memory stocks look so cheap, how much less you’ll pay at the pump and a $100,000 pottery-studio dilemma.",
-          "published": "2026-11-23T14:37:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO",
-          "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-          "summary": "Donald Trump’s was among the voices pushing for ousted co-founder Huang’s resumption of the AI chip giant’s reins.",
-          "published": "2026-11-23T14:33:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "La Administración Trump apoya el regreso de Jensen Huang a Nvidia",
-          "link": "https://es.investing.com/news/stock-market-news/la-administracion-trump-apoya-el-regreso-de-jensen-huang-a-nvidia-3940411",
+          "title": "Los futuros de las acciones en EE.UU. se mantienen estables tras el rally de Wall Street liderado por Nvidia",
+          "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-en-eeuu-se-mantienen-estables-tras-el-rally-de-wall-street-liderado-por-nvidia-3941045",
           "summary": "",
-          "published": "2026-11-23T13:30:26+00:00",
+          "published": "2026-11-24T00:18:36+00:00",
           "source_short": "Investing",
           "source_scope": "Internacional"
         },
         {
-          "title": "Marlowe recauda 277 millones de dólares para alternativas a los chips de Nvidia",
-          "link": "https://es.investing.com/news/stock-market-news/marlowe-recauda-277-millones-de-dolares-para-alternativas-a-los-chips-de-nvidia-93CH-3940366",
-          "summary": "",
-          "published": "2026-11-23T13:25:17+00:00",
-          "source_short": "Investing",
+          "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
+          "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+          "summary": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
+          "published": "2026-11-23T22:04:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+          "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+          "summary": "Jensen Huang’s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade.",
+          "published": "2026-11-23T21:51:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
+          "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+          "summary": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher",
+          "published": "2026-11-23T21:45:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
+          "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+          "summary": "Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
+          "published": "2026-11-23T21:36:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+          "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+          "summary": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
+          "published": "2026-11-23T21:24:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+          "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+          "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
+          "published": "2026-11-23T21:19:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
+          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+          "summary": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
+          "published": "2026-11-23T21:00:59+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+          "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+          "published": "2026-11-23T18:00:47+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
@@ -114,45 +154,53 @@
           "published": "2026-11-19T20:21:10+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        },
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
         {
-          "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-          "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-          "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-          "published": "2026-11-17T08:52:45+00:00",
-          "source_short": "CNBC",
+          "title": "AMD registra hasta 337 millones de acciones para reventa vinculadas a warrants de OpenAI y Meta",
+          "link": "https://es.investing.com/news/stock-market-news/amd-registra-hasta-337-millones-de-acciones-para-reventa-vinculadas-a-warrants-de-openai-y-meta-3941007",
+          "summary": "",
+          "published": "2026-11-23T22:52:24+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
-        },
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "exchange": "NASDAQ",
+      "sector": "Retail / Nube",
+      "news": [
         {
-          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-          "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-          "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-          "published": "2026-11-16T12:14:46+00:00",
-          "source_short": "CNBC",
+          "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
+          "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+          "summary": "Amazon’s deal for Decart’s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst.",
+          "published": "2026-11-23T21:33:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
-        },
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
         {
-          "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-          "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-          "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-          "published": "2026-11-16T12:13:23+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-          "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-          "summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
-          "published": "2026-11-13T17:06:57+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-          "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-          "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-          "published": "2026-11-12T07:28:48+00:00",
-          "source_short": "CNBC",
+          "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+          "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+          "summary": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
+          "published": "2026-11-23T21:24:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -177,38 +225,6 @@
           "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
           "published": "2026-11-16T22:14:47+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "exchange": "NASDAQ",
-      "sector": "Retail / Nube",
-      "news": [
-        {
-          "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet",
-          "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
-          "summary": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
-          "published": "2026-11-23T14:14:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "DB",
-      "name": "Deutsche Bank",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Deutsche Bank prevé que el S&P 500 alcance los 9.000 puntos en 2027",
-          "link": "https://es.investing.com/news/stock-market-news/deutsche-bank-preve-que-el-sp-500-alcance-los-9000-puntos-en-2027-3940465",
-          "summary": "",
-          "published": "2026-11-23T13:51:38+00:00",
-          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -680,110 +696,56 @@
   ],
   "sin_accion": [
     {
-      "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
-      "link": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
-      "summary": "The health insurers are facing scrutiny over their business practices and potential changes to the private Medicare program.",
-      "published": "2026-11-23T14:39:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
       "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
       "summary": "“My wife stopped working outside the home in 1970.”",
-      "published": "2026-11-23T14:15:00+00:00",
+      "published": "2026-11-24T01:01:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "The number of 401(k) millionaires drops amid stock-market swings",
-      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
-      "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
-      "published": "2026-11-23T14:10:00+00:00",
+      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+      "published": "2026-11-24T01:01:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
-      "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
-      "summary": "CrowdStrike on Monday said it will acquire Zscaler in an all-stock transaction that values the company at approximately $43.9 billion.",
-      "published": "2026-11-23T13:47:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A 66-year-old nurse faces retirement with just $500 saved. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "summary": "“Retirement is a financial status, not an age.”",
-      "published": "2026-11-23T13:45:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Universal Technical Institute Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-universal-technical-institute-inc-93CH-3940450",
+      "title": "ANZ adelanta su previsión de recorte de tipos del RBA a junio de 2027",
+      "link": "https://es.investing.com/news/stock-market-news/anz-adelanta-su-prevision-de-recorte-de-tipos-del-rba-a-junio-de-2027-3941054",
       "summary": "",
-      "published": "2026-11-23T13:41:15+00:00",
+      "published": "2026-11-24T00:34:12+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de Monro caen tras suspender el pago de dividendos",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-monro-caen-tras-suspender-el-pago-de-dividendos-3940449",
+      "title": "Las acciones de Reliance Worldwide suben tras el apoyo de su mayor accionista a la OPA de Brookfield",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-reliance-worldwide-suben-tras-el-apoyo-de-su-mayor-accionista-a-la-opa-de-brookfield-3941052",
       "summary": "",
-      "published": "2026-11-23T13:39:37+00:00",
+      "published": "2026-11-24T00:30:45+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy la acción de Real Brokerage Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-real-brokerage-inc-93CH-3940422",
+      "title": "Williams (Fed de NY) advierte que la alta inflación exige más subidas de tipos",
+      "link": "https://es.investing.com/news/stock-market-news/williams-fed-de-ny-advierte-que-la-alta-inflacion-exige-mas-subidas-de-tipos-93CH-3941038",
       "summary": "",
-      "published": "2026-11-23T13:37:13+00:00",
+      "published": "2026-11-24T00:05:58+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de EagleRock y Texas Pacific Land suben por fusión de 3.000 millones",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-eaglerock-y-texas-pacific-land-suben-por-fusion-de-3000-millones-3940437",
+      "title": "¿Por qué las acciones de Reliance Worldwide se disparan hoy?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-reliance-worldwide-se-disparan-hoy-93CH-3941033",
       "summary": "",
-      "published": "2026-11-23T13:36:03+00:00",
+      "published": "2026-11-24T00:01:06+00:00",
       "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Applied Digital Corp?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-applied-digital-corp-93CH-3940377",
-      "summary": "",
-      "published": "2026-11-23T13:30:20+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Z.ai presenta el modelo GLM-5.4 con diseño Loop Transformer",
-      "link": "https://es.investing.com/news/stock-market-news/zai-presenta-el-modelo-glm54-con-diseno-loop-transformer-93CH-3940376",
-      "summary": "",
-      "published": "2026-11-23T13:30:10+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says",
-      "link": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
-      "summary": "The Pershing Square Capital Management CEO wrote in a post on X that he thinks financial conditions have already considerably tightened.",
-      "published": "2026-11-23T10:57:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -791,9 +753,54 @@
       "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
       "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
       "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-      "published": "2026-11-22T18:55:05+00:00",
+      "published": "2026-11-23T23:28:19+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+      "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+      "summary": "SharkNinja will join the S&P 500, replacing AES.",
+      "published": "2026-11-23T23:18:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué se dispara hoy la acción de Agilent Technologies?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-agilent-technologies-93CH-3941019",
+      "summary": "",
+      "published": "2026-11-23T23:11:32+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Central Garden & Pet Company?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-central-garden--pet-company-93CH-3941018",
+      "summary": "",
+      "published": "2026-11-23T23:11:29+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+      "published": "2026-11-23T21:02:17+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "México niega que operativo contra ‘Chapo Isidro’ implique una guerra contra el narco",
+      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-niega-que-operativo-contra-chapo-isidro-implique-una-guerra-contra-el-narco/",
+      "summary": "El Ejército mexicano dijo que en la “Operación Centella” participaron centenas de militares, helicópteros artillados y murieron miembros de las Fuerzas Armadas y presuntos delincuentes.",
+      "published": "2026-11-23T20:30:03+00:00",
+      "source_short": "BB Línea",
+      "source_scope": "México",
       "tickers": []
     },
     {
@@ -864,15 +871,6 @@
       "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
       "summary": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
       "published": "2026-11-20T14:15:29+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-      "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-      "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
-      "published": "2026-11-20T13:29:50+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -993,20 +991,11 @@
       "source_short": "BB Línea",
       "source_scope": "México",
       "tickers": []
-    },
-    {
-      "title": "“Se dice mucho de la triangulación, pero no es tanto”: Sheinbaum en víspera de viaje a China",
-      "link": "https://www.bloomberglinea.com/latinoamerica/mexico/se-dice-mucho-de-la-triangulacion-pero-no-es-tanto-sheinbaum-en-vispera-de-viaje-a-china/",
-      "summary": "La presidenta de México viajará al país asiático a la reunión anual de APEC, en donde sostendrá una reunión bilateral con su homólogo Xi Jinping.",
-      "published": "2026-11-13T21:05:36+00:00",
-      "source_short": "BB Línea",
-      "source_scope": "México",
-      "tickers": []
     }
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 24,
-    "sin_accion": 36
+    "acciones_con_noticias": 25,
+    "sin_accion": 33
   }
 }
