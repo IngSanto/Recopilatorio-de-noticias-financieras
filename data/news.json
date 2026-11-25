@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:13:15.717291+00:00",
+  "generated_at": "2026-11-25T04:27:58.052214+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 1.8,
+      "ventana_horas": 5.3,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 484.7,
+      "ventana_horas": 485.3,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 292.0,
+      "ventana_horas": 286.3,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.9,
+      "ventana_horas": 4.6,
       "ok": true
     }
   ],
@@ -76,11 +76,27 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
-          "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
-          "summary": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
-          "published": "2026-11-24T21:14:00+00:00",
-          "source_short": "MarketW",
+          "title": "Le Monde detalla una red de desvío de chips de Nvidia en el Sudeste Asiático",
+          "link": "https://es.investing.com/news/stock-market-news/le-monde-detalla-una-red-de-desvio-de-chips-de-nvidia-en-el-sudeste-asiatico-3942900",
+          "summary": "",
+          "published": "2026-11-25T03:52:39+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Trump dice que podría indultar a Jensen Huang y plantea una participación del Gobierno en Nvidia",
+          "link": "https://es.investing.com/news/stock-market-news/trump-dice-que-podria-indultar-a-jensen-huang-y-plantea-participacion-del-gobierno-en-nvidia-3942860",
+          "summary": "",
+          "published": "2026-11-25T01:59:47+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+          "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+          "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+          "published": "2026-11-25T01:13:56+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         },
         {
@@ -142,6 +158,30 @@
       ]
     },
     {
+      "ticker": "BLK",
+      "name": "BlackRock",
+      "exchange": "NYSE",
+      "sector": "Finanzas",
+      "news": [
+        {
+          "title": "Consorcio liderado por BlackRock estudia reducir oferta por Stack Infrastructure Asia",
+          "link": "https://es.investing.com/news/stock-market-news/consorcio-liderado-por-blackrock-estudia-reducir-oferta-por-stack-infrastructure-asia-3942908",
+          "summary": "",
+          "published": "2026-11-25T04:13:11+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Bolsa Mexicana espera nuevas emisiones de acciones en 2027: qué falta para atraer capital",
+          "link": "https://www.bloomberglinea.com/mercados/bolsa-mexicana-espera-nuevas-emisiones-de-acciones-en-2027-que-falta-para-atraer-capital/",
+          "summary": "Representantes de BlackRock, Vanguard, la BMV y Bitso analizaron los desafíos de liquidez, regulación y acceso a la inversión durante el Bloomberg Línea Summit México 2026.",
+          "published": "2026-11-10T17:55:44+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "MU",
       "name": "Micron",
       "exchange": "NASDAQ",
@@ -166,17 +206,49 @@
       ]
     },
     {
-      "ticker": "CP",
-      "name": "Canadian Pacific Kansas City",
+      "ticker": "BABA",
+      "name": "Alibaba",
       "exchange": "NYSE",
-      "sector": "Transporte y logística",
+      "sector": "Retail / Nube",
       "news": [
         {
-          "title": "S&P sube la calificación de Canadian Pacific Kansas City a A- por su crecimiento transfronterizo",
-          "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-canadian-pacific-kansas-city-a-a-por-su-crecimiento-transfronterizo-3942771",
+          "title": "Alibaba estudia emitir bonos en el extranjero en 2025 para financiar su IA",
+          "link": "https://es.investing.com/news/stock-market-news/alibaba-estudia-emitir-bonos-en-el-extranjero-en-2025-para-financiar-su-ia-3942899",
           "summary": "",
-          "published": "2026-11-24T22:36:01+00:00",
+          "published": "2026-11-25T03:51:59+00:00",
           "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "SBUX",
+      "name": "Starbucks",
+      "exchange": "NASDAQ",
+      "sector": "Consumo",
+      "news": [
+        {
+          "title": "Starbucks estudia la venta de su negocio en Japón por varios miles de millones",
+          "link": "https://es.investing.com/news/stock-market-news/starbucks-estudia-la-venta-de-su-negocio-en-japon-por-varios-miles-de-millones-3942894",
+          "summary": "",
+          "published": "2026-11-25T03:37:18+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BMW",
+      "name": "BMW",
+      "exchange": "XETRA",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+          "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+          "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+          "published": "2026-11-25T02:00:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -542,22 +614,6 @@
       ]
     },
     {
-      "ticker": "BLK",
-      "name": "BlackRock",
-      "exchange": "NYSE",
-      "sector": "Finanzas",
-      "news": [
-        {
-          "title": "Bolsa Mexicana espera nuevas emisiones de acciones en 2027: qué falta para atraer capital",
-          "link": "https://www.bloomberglinea.com/mercados/bolsa-mexicana-espera-nuevas-emisiones-de-acciones-en-2027-que-falta-para-atraer-capital/",
-          "summary": "Representantes de BlackRock, Vanguard, la BMV y Bitso analizaron los desafíos de liquidez, regulación y acceso a la inversión durante el Bloomberg Línea Summit México 2026.",
-          "published": "2026-11-10T17:55:44+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
       "ticker": "BP",
       "name": "BP",
       "exchange": "NYSE",
@@ -672,6 +728,60 @@
   ],
   "sin_accion": [
     {
+      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+      "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+      "summary": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+      "published": "2026-11-25T04:06:01+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las bolsas asiáticas caen por la venta masiva en IA y las amenazas arancelarias de EE.UU.",
+      "link": "https://es.investing.com/news/stock-market-news/las-bolsas-asiaticas-caen-por-la-venta-masiva-en-ia-y-las-amenazas-arancelarias-de-eeuu-3942892",
+      "summary": "",
+      "published": "2026-11-25T03:35:25+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Mientras los chips caen, las acciones tecnológicas elegidas por IA suben entre un 27% y un 88%",
+      "link": "https://es.investing.com/news/stock-market-news/mientras-los-chips-caen-las-acciones-tecnologicas-elegidas-por-ia-suben-entre-un-27-y-un-88-3942865",
+      "summary": "",
+      "published": "2026-11-25T02:00:38+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los futuros de Wall St caen tras el retroceso del S&P 500 y el Nasdaq",
+      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-wall-st-caen-tras-el-retroceso-del-sp-500-y-el-nasdaq-3942834",
+      "summary": "",
+      "published": "2026-11-25T01:12:27+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Dell’s stock rises as the AI boom helps sales more than double",
+      "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+      "published": "2026-11-25T01:11:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "published": "2026-11-25T00:05:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
       "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
       "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
       "summary": "The product, the first one beyond event contracts, was introduced in May.",
@@ -694,42 +804,6 @@
       "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-nutanix-inc-93CH-3942786",
       "summary": "",
       "published": "2026-11-24T22:57:40+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Autodesk Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-autodesk-inc-93CH-3942784",
-      "summary": "",
-      "published": "2026-11-24T22:54:53+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de HP Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-hp-inc-93CH-3942782",
-      "summary": "",
-      "published": "2026-11-24T22:53:03+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de Dell Technologies suben hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-dell-technologies-suben-hoy-93CH-3942779",
-      "summary": "",
-      "published": "2026-11-24T22:48:04+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las acciones de Centuri Holdings suben tras su inclusión en el S&P SmallCap 600",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-centuri-holdings-suben-tras-su-inclusion-en-el-sp-smallcap-600-3942764",
-      "summary": "",
-      "published": "2026-11-24T22:29:43+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -766,24 +840,6 @@
       "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
       "summary": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
       "published": "2026-11-24T21:31:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "summary": "“Retirement is a financial status, not an age.”",
-      "published": "2026-11-24T21:30:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The stock market is hardly cheap, even taking recent declines into account",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-hardly-cheap-even-taking-recent-declines-into-account-fe0a7989?mod=mw_rss_topstories",
-      "summary": "Equities are still extremely overvalued, notwithstanding the stock market’s steep declines over the past several weeks.",
-      "published": "2026-11-24T21:22:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -978,15 +1034,6 @@
       "tickers": []
     },
     {
-      "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
-      "summary": "The rules require data centers in Southeast Asia to seek U.S. approval to buy advanced AI chips, threatening to slow a build-out fueled heavily on Chinese demand.",
-      "published": "2026-11-18T14:09:26+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Salinas Pliego anuncia planta de motocicletas Italika en Colombia",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/salinas-pliego-anuncia-planta-de-motocicletas-italika-en-colombia/",
       "summary": "El anuncio ocurrió durante una reunión con el presidente colombiano Abelardo De la Espriella en la ciudad de Barranquilla",
@@ -998,7 +1045,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 24,
-    "sin_accion": 36
+    "acciones_con_noticias": 26,
+    "sin_accion": 35
   }
 }
