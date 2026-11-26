@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:16:11.111918+00:00",
+  "generated_at": "2026-11-26T22:30:39.634855+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -9,7 +9,7 @@
       "lang": "es",
       "site_url": "https://www.bloomberglinea.com/latinoamerica/mexico/",
       "article_count": 100,
-      "ventana_horas": 3010.5,
+      "ventana_horas": 3016.7,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 2.8,
+      "ventana_horas": 8.5,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 495.2,
+      "ventana_horas": 479.4,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 249.4,
+      "ventana_horas": 239.1,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 14.5,
+      "ventana_horas": 8.0,
       "ok": true
     }
   ],
@@ -76,18 +76,34 @@
       "sector": "Semiconductores",
       "news": [
         {
-          "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
-          "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
-          "summary": "The ‘Bank of AI’ faces a host of troubles ahead.",
-          "published": "2026-11-26T14:00:00+00:00",
+          "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+          "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+          "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+          "published": "2026-11-26T21:30:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
-          "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+          "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+          "link": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+          "summary": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's sharp losses and latest comeback.",
+          "published": "2026-11-26T16:00:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
           "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
           "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-          "published": "2026-11-26T01:15:00+00:00",
+          "published": "2026-11-26T15:30:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+          "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+          "summary": "The ‘Bank of AI’ faces a host of troubles ahead.",
+          "published": "2026-11-26T14:00:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
@@ -138,142 +154,6 @@
           "published": "2026-11-17T08:52:45+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        },
-        {
-          "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-          "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-          "summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
-          "published": "2026-11-13T17:06:57+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "CFE",
-      "name": "Comisión Federal de Electricidad",
-      "exchange": "Estatal (deuda)",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "NADBank prepara línea de crédito para CFE destinada a fondear múltiples proyectos de energía",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/nadbank-prepara-linea-de-credito-para-cfe-destinada-a-fondear-multiples-proyectos-de-energia/",
-          "summary": "John Beckham, director general de NADBank, dijo que el mercado se está adaptando al nuevo marco regulatorio normativo de México para invertir en energía.",
-          "published": "2026-11-26T11:58:41+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE Fibra E inicia reuniones con inversionistas por nueva emisión de hasta US$867 millones",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-fibra-e-inicia-reuniones-con-inversionistas-por-nueva-emision-de-hasta-us867-millones/",
-          "summary": "El director de finanzas de CFE estimó previamente un monto de colocación por US$1.000 millones aproximadamente.",
-          "published": "2026-11-10T21:08:02+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Exclusiva: CFE evalúa emisión por US$2.000 millones para Fibra con activos de generación eléctrica",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/exclusiva-cfe-evalua-emision-por-us2000-millones-para-fibra-con-activos-de-generacion-electrica/",
-          "summary": "Los activos de generación eléctrica que planea fibrar CFE están valuados en más de US$4.000 millones.",
-          "published": "2026-11-09T21:23:28+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE reduce apagones de energía en 36%, asegura su directora general, Emilia Calleja",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-reduce-apagones-de-energia-en-36-asegura-su-directora-general-emilia-calleja/",
-          "summary": "El tiempo promedio de restablecimiento del servicio eléctrico de CFE se redujo 72%.",
-          "published": "2026-11-05T23:04:26+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Banca de México trabaja en financiar proyectos mixtos de CFE con empresas privadas",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banca-de-mexico-trabaja-en-financiar-proyectos-mixtos-de-cfe-con-empresas-privadas/",
-          "summary": "La banca múltiple, de desarrollo, fondos privados y el sistema de pensiones son los interesados en financiar los proyectos de energía renovable en México.",
-          "published": "2026-10-29T15:48:36+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE todavía analiza proyectos mixtos de generación eléctrica con empresas privadas",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-todavia-analiza-proyectos-mixtos-de-generacion-electrica-con-empresas-privadas/",
-          "summary": "La empresa mexicana recibió 200 proyectos de generación eléctrica en la segunda convocatoria de esquemas de desarrollo mixto, de los cuales, 64 están en probable etapa de evaluación.",
-          "published": "2026-10-29T04:06:12+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "CFE presenta proyectos de redes eléctricas y centrales a la industria privada",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-proyectos-de-redes-electricas-y-centrales-a-la-industria-privada/",
-          "summary": "La empresa hizo pública la reunión con la industria cuatro días después de presentarlo en un roadshow en Ciudad de México.",
-          "published": "2026-10-28T00:47:15+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "DB",
-      "name": "Deutsche Bank",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Deutsche Bank ve aumentar el riesgo de deuda de Eutelsat por la renovación de satélites",
-          "link": "https://es.investing.com/news/stock-market-news/deutsche-bank-ve-aumentar-el-riesgo-de-deuda-de-eutelsat-por-la-renovacion-de-satelites-3944787",
-          "summary": "",
-          "published": "2026-11-26T12:15:15+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
-          "link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
-          "summary": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
-          "published": "2026-11-26T10:11:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GS",
-      "name": "Goldman Sachs",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
-          "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
-          "summary": "After a strong first half, performance for the hedge fund sector has dipped in the second half, and Goldman Sachs expects the investor class to try and hold onto what they have for now.",
-          "published": "2026-11-26T12:37:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-          "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-          "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
-          "published": "2026-11-23T06:06:55+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-          "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-          "published": "2026-11-16T22:14:47+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -283,6 +163,14 @@
       "exchange": "Estatal (deuda)",
       "sector": "Energía",
       "news": [
+        {
+          "title": "Sheinbaum busca inversión mixta de Pemex con Petrobras en aguas profundas de México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-busca-inversion-mixta-de-pemex-con-petrobras-en-aguas-profundas-de-mexico/",
+          "summary": "La mandataria comentó en su conferencia de prensa matutina que gente de Petrobras estuvo en México esta semana.",
+          "published": "2026-11-26T18:05:49+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
         {
           "title": "México apostará “al máximo” por producir gas mediante fracking para reducir dependencia con EE.UU.",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-apostara-al-maximo-por-producir-gas-mediante-fracking-para-reducir-dependencia-con-eeuu/",
@@ -354,14 +242,158 @@
           "published": "2026-10-14T18:59:44+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        },
+        }
+      ]
+    },
+    {
+      "ticker": "CFE",
+      "name": "Comisión Federal de Electricidad",
+      "exchange": "Estatal (deuda)",
+      "sector": "Energía",
+      "news": [
         {
-          "title": "Subsecretaria de Hacienda afirma que riesgo país de México vinculado a Pemex se comprimió",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/subsecretaria-de-hacienda-afirma-que-riesgo-pais-de-mexico-vinculado-a-pemex-se-comprimio/",
-          "summary": "María del Carmen Bonilla, subsecretaria de la dependencia federal, dijo que hay evidencia de que la economía mexicana crecerá con impulso de la inversión pública y privada.",
-          "published": "2026-10-09T03:08:40+00:00",
+          "title": "NADBank prepara línea de crédito para CFE destinada a fondear múltiples proyectos de energía",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/nadbank-prepara-linea-de-credito-para-cfe-destinada-a-fondear-multiples-proyectos-de-energia/",
+          "summary": "John Beckham, director general de NADBank, dijo que el mercado se está adaptando al nuevo marco regulatorio normativo de México para invertir en energía.",
+          "published": "2026-11-26T11:58:41+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
+        },
+        {
+          "title": "CFE Fibra E inicia reuniones con inversionistas por nueva emisión de hasta US$867 millones",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-fibra-e-inicia-reuniones-con-inversionistas-por-nueva-emision-de-hasta-us867-millones/",
+          "summary": "El director de finanzas de CFE estimó previamente un monto de colocación por US$1.000 millones aproximadamente.",
+          "published": "2026-11-10T21:08:02+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Exclusiva: CFE evalúa emisión por US$2.000 millones para Fibra con activos de generación eléctrica",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/exclusiva-cfe-evalua-emision-por-us2000-millones-para-fibra-con-activos-de-generacion-electrica/",
+          "summary": "Los activos de generación eléctrica que planea fibrar CFE están valuados en más de US$4.000 millones.",
+          "published": "2026-11-09T21:23:28+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "CFE reduce apagones de energía en 36%, asegura su directora general, Emilia Calleja",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-reduce-apagones-de-energia-en-36-asegura-su-directora-general-emilia-calleja/",
+          "summary": "El tiempo promedio de restablecimiento del servicio eléctrico de CFE se redujo 72%.",
+          "published": "2026-11-05T23:04:26+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Banca de México trabaja en financiar proyectos mixtos de CFE con empresas privadas",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banca-de-mexico-trabaja-en-financiar-proyectos-mixtos-de-cfe-con-empresas-privadas/",
+          "summary": "La banca múltiple, de desarrollo, fondos privados y el sistema de pensiones son los interesados en financiar los proyectos de energía renovable en México.",
+          "published": "2026-10-29T15:48:36+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "CFE todavía analiza proyectos mixtos de generación eléctrica con empresas privadas",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-todavia-analiza-proyectos-mixtos-de-generacion-electrica-con-empresas-privadas/",
+          "summary": "La empresa mexicana recibió 200 proyectos de generación eléctrica en la segunda convocatoria de esquemas de desarrollo mixto, de los cuales, 64 están en probable etapa de evaluación.",
+          "published": "2026-10-29T04:06:12+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "CFE presenta proyectos de redes eléctricas y centrales a la industria privada",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-proyectos-de-redes-electricas-y-centrales-a-la-industria-privada/",
+          "summary": "La empresa hizo pública la reunión con la industria cuatro días después de presentarlo en un roadshow en Ciudad de México.",
+          "published": "2026-10-28T00:47:15+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "PBR",
+      "name": "Petrobras",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Sheinbaum busca inversión mixta de Pemex con Petrobras en aguas profundas de México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-busca-inversion-mixta-de-pemex-con-petrobras-en-aguas-profundas-de-mexico/",
+          "summary": "La mandataria comentó en su conferencia de prensa matutina que gente de Petrobras estuvo en México esta semana.",
+          "published": "2026-11-26T18:05:49+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
+          "summary": "La presidenta mexicana evitó responder si viajará a Brasil, pero detalló que retomará la aliaza estratégica entre ambas petroleras nacionales.",
+          "published": "2026-10-26T15:34:09+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
+          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
+          "published": "2026-10-21T19:04:25+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "BMW",
+      "name": "BMW",
+      "exchange": "XETRA",
+      "sector": "Automotriz",
+      "news": [
+        {
+          "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+          "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+          "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+          "published": "2026-11-26T16:00:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "BBVA",
+      "name": "BBVA",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "Dólar en México: proyección de BBVA ve margen para superar los MXN$20 antes de la decisión de la Fed",
+          "link": "https://www.bloomberglinea.com/mercados/dolar-en-mexico-proyeccion-de-bbva-ve-margen-para-superar-los-mxn20-antes-de-la-decision-de-la-fed/",
+          "summary": "El menor atractivo del carry trade, las divergencias monetarias entre la Fed y Banxico y la creciente aversión al riesgo amenazan con profundizar las pérdidas del peso mexicano.",
+          "published": "2026-11-26T15:14:07+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+          "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+          "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+          "published": "2026-11-23T06:06:55+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+          "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+          "published": "2026-11-16T22:14:47+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -432,30 +464,6 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/division-petrolera-de-carlos-slim-reactiva-produccion-en-campos-marinos-con-rusa-lukoil/",
           "summary": "Zamajal, subsidiaria petrolera de Grupo Carso, alista un plan de inversión “agresivo” a partir de 2027.",
           "published": "2026-10-27T19:20:55+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "PBR",
-      "name": "Petrobras",
-      "exchange": "NYSE",
-      "sector": "Energía",
-      "news": [
-        {
-          "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
-          "summary": "La presidenta mexicana evitó responder si viajará a Brasil, pero detalló que retomará la aliaza estratégica entre ambas petroleras nacionales.",
-          "published": "2026-10-26T15:34:09+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
-          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
-          "published": "2026-10-21T19:04:25+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -688,19 +696,55 @@
   ],
   "sin_accion": [
     {
-      "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
-      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-      "summary": "A rebound off lows for the S&P 500 on Wednesday calms bourses after AI wash out",
-      "published": "2026-11-26T13:41:00+00:00",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "published": "2026-11-26T22:00:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
-      "link": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
-      "summary": "Do it poorly, and you trigger taxes you didn’t even know existed.",
-      "published": "2026-11-26T13:24:00+00:00",
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "published": "2026-11-26T21:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los bonos canadienses extienden su rally en medio de la incertidumbre por la IA",
+      "link": "https://es.investing.com/news/stock-market-news/los-bonos-canadienses-extienden-su-rally-en-medio-de-la-incertidumbre-por-la-ia-3944878",
+      "summary": "",
+      "published": "2026-11-26T21:41:16+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "published": "2026-11-26T19:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¡Prepárate! 3 portafolios por si ocurre (o no) un rally de Navidad en Wall Street",
+      "link": "https://es.investing.com/news/stock-market-news/preparate-3-portafolios-por-si-ocurre-o-no-un-rally-de-navidad-en-wall-street-3944856",
+      "summary": "",
+      "published": "2026-11-26T18:36:12+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "summary": "“My wife stopped working outside the home in 1970.”",
+      "published": "2026-11-26T18:30:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -709,53 +753,71 @@
       "title": "Semiconductor chips are the new oil. Here's why",
       "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
       "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
-      "published": "2026-11-26T13:19:25+00:00",
+      "published": "2026-11-26T17:52:15+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué se dispara hoy la acción de Imperial Brands PLC?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-imperial-brands-plc-93CH-3944800",
+      "title": "Cuando el cliente es una inteligencia artificial: NeuronUs prepara a las empresas para una nueva realidad",
+      "link": "https://es.investing.com/news/stock-market-news/cuando-el-cliente-es-una-inteligencia-artificial-neuronus-prepara-a-las-empresas-para-una-nueva-realidad-3944851",
       "summary": "",
-      "published": "2026-11-26T13:09:25+00:00",
+      "published": "2026-11-26T17:49:23+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Fiebre IA: 6 apuestas tech para ganar y cómo invertir",
-      "link": "https://es.investing.com/news/stock-market-news/fiebre-ia-6-apuestas-tech-para-ganar-y-como-invertir-3944799",
+      "title": "Asgard Global amplía su presencia en la industria internacional del fondeo",
+      "link": "https://es.investing.com/news/stock-market-news/asgard-global-amplia-su-presencia-en-la-industria-internacional-del-fondeo-3944849",
       "summary": "",
-      "published": "2026-11-26T13:08:12+00:00",
+      "published": "2026-11-26T17:49:23+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Las acciones de Imperial Brands alcanzan máximos desde 2017 por posible acuerdo con Japan Tobacco",
-      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-imperial-brands-alcanzan-maximos-desde-2017-por-posible-acuerdo-con-japan-tobacco-3944798",
+      "title": "El patrimonio que muchos extranjeros desconocen que tienen en México y que pueden recuperar",
+      "link": "https://es.investing.com/news/stock-market-news/el-patrimonio-que-muchos-extranjeros-desconocen-que-tienen-en-mexico-y-que-pueden-recuperar-3944850",
       "summary": "",
-      "published": "2026-11-26T13:06:09+00:00",
+      "published": "2026-11-26T17:49:20+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-      "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
-      "published": "2026-11-26T13:06:00+00:00",
+      "title": "Rappel vuelve a San Lorenzo de El Escorial: esta vez no predice, pero compra muchísimo",
+      "link": "https://es.investing.com/news/stock-market-news/rappel-vuelve-a-san-lorenzo-de-el-escorial-esta-vez-no-predice-pero-compra-muchisimo-3944846",
+      "summary": "",
+      "published": "2026-11-26T17:19:52+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+      "published": "2026-11-26T15:28:26+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "published": "2026-11-26T15:13:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "VIERNES NEGRO: Consigue InvestingPro con un 60% de descuento",
-      "link": "https://es.investing.com/news/stock-market-news/viernes-negro-accede-a-las-mejores-ofertas-del-mercado-con-un-60-de-descuento-en-investingpro-3944811",
-      "summary": "",
-      "published": "2026-11-26T13:04:10+00:00",
-      "source_short": "Investing",
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+      "published": "2026-11-26T14:35:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -769,24 +831,6 @@
       "tickers": []
     },
     {
-      "title": "Los futuros del TSX de Canadá, planos en un festivo con advertencia de Macklem",
-      "link": "https://es.investing.com/news/stock-market-news/los-futuros-del-tsx-de-canada-planos-en-un-festivo-con-advertencia-de-macklem-3944785",
-      "summary": "",
-      "published": "2026-11-26T12:10:54+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Todas las formas en que InvestingPro puede ayudarte por menos de 6,50 euros al mes",
-      "link": "https://es.investing.com/news/stock-market-news/todas-las-formas-en-que-investingpro-puede-ayudarte-por-menos-de-750-dolares-al-mes-3944772",
-      "summary": "",
-      "published": "2026-11-26T11:47:14+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
       "link": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
       "summary": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.",
@@ -796,38 +840,11 @@
       "tickers": []
     },
     {
-      "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
-      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
-      "summary": "The answer to the question of whether the stock market is open on Thanksgiving isn’t a simple yes or no, as the major exchanges are closed, but trading of equity futures is open for part of the day.",
-      "published": "2026-11-26T07:16:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
       "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
       "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
       "published": "2026-11-26T05:36:01+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
-      "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
-      "published": "2026-11-26T00:33:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "summary": "“Retirement is a financial status, not an age.”",
-      "published": "2026-11-25T23:30:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -890,15 +907,6 @@
       "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
       "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
       "published": "2026-11-24T20:45:57+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-      "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-      "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
-      "published": "2026-11-24T18:34:43+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
