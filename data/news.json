@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:40:37.335568+00:00",
+  "generated_at": "2026-11-26T03:41:41.896532+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.9,
+      "ventana_horas": 4.6,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 229.2,
+      "ventana_horas": 237.7,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 3.2,
+      "ventana_horas": 3.6,
       "ok": true
     }
   ],
@@ -76,10 +76,34 @@
       "sector": "Semiconductores",
       "news": [
         {
+          "title": "La Administración Trump valoró usar una ley de la Guerra Fría para restablecer a Jensen Huang en Nvidia",
+          "link": "https://es.investing.com/news/stock-market-news/la-administracion-trump-valoro-usar-una-ley-de-la-guerra-fria-para-restablecer-a-jensen-huang-en-nvidia-3944435",
+          "summary": "",
+          "published": "2026-11-26T02:52:47+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Chips de Nvidia llegan a empresas chinas en EE.UU. pese a restricciones",
+          "link": "https://es.investing.com/news/stock-market-news/chips-de-nvidia-llegan-a-empresas-chinas-en-eeuu-pese-a-restricciones-3944430",
+          "summary": "",
+          "published": "2026-11-26T02:41:46+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
           "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
           "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-          "published": "2026-11-25T22:31:00+00:00",
+          "published": "2026-11-26T01:15:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+          "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+          "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+          "published": "2026-11-25T22:45:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
@@ -88,14 +112,6 @@
           "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
           "summary": "Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research.",
           "published": "2026-11-25T22:11:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
-          "link": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
-          "summary": "This tape has not been kind to Nvidia.",
-          "published": "2026-11-25T19:43:00+00:00",
           "source_short": "MarketW",
           "source_scope": "Internacional"
         },
@@ -138,53 +154,21 @@
           "published": "2026-11-19T20:21:10+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
-        },
-        {
-          "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-          "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-          "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-          "published": "2026-11-17T08:52:45+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-          "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-          "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-          "published": "2026-11-16T12:14:46+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
         }
       ]
     },
     {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "exchange": "NYSE",
-      "sector": "Banca",
+      "ticker": "BMW",
+      "name": "BMW",
+      "exchange": "XETRA",
+      "sector": "Automotriz",
       "news": [
         {
-          "title": "JPMorgan prevé 450.000 millones de dólares en emisión de bonos para IA en 2027",
-          "link": "https://es.investing.com/news/stock-market-news/jpmorgan-preve-450000-millones-de-dolares-en-emision-de-bonos-de-ia-en-2027-3944265",
-          "summary": "",
-          "published": "2026-11-25T21:28:24+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-          "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-          "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
-          "published": "2026-11-23T06:06:55+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-          "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-          "published": "2026-11-16T22:14:47+00:00",
-          "source_short": "CNBC",
+          "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+          "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+          "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+          "published": "2026-11-25T23:30:00+00:00",
+          "source_short": "MarketW",
           "source_scope": "Internacional"
         }
       ]
@@ -201,6 +185,30 @@
           "summary": "Oracle, CoreWeave and other technology stocks bounced back from early losses on Wednesday, after what appeared to be a major selloff eased ahead of the market’s close.",
           "published": "2026-11-25T22:16:00+00:00",
           "source_short": "MarketW",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "sector": "Banca",
+      "news": [
+        {
+          "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+          "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+          "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+          "published": "2026-11-23T06:06:55+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+          "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+          "published": "2026-11-16T22:14:47+00:00",
+          "source_short": "CNBC",
           "source_scope": "Internacional"
         }
       ]
@@ -672,11 +680,92 @@
   ],
   "sin_accion": [
     {
-      "title": "El gestor de contraseñas 1Password sufre una brecha en sus sistemas",
-      "link": "https://es.investing.com/news/stock-market-news/el-gestor-de-contrasenas-1password-sufre-una-brecha-en-sus-sistemas-3944316",
+      "title": "Un juez bloquea a la FCC para que no revoque las licencias de ABC",
+      "link": "https://es.investing.com/news/stock-market-news/un-juez-bloquea-a-la-fcc-para-que-no-revoque-las-licencias-de-abc-3944431",
       "summary": "",
-      "published": "2026-11-25T22:15:22+00:00",
+      "published": "2026-11-26T02:45:06+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones tecnológicas asiáticas repuntan gracias a las compras de oportunidad",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-tecnologicas-asiaticas-repuntan-gracias-a-las-compras-de-oportunidad-3944428",
+      "summary": "",
+      "published": "2026-11-26T02:33:16+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Black Friday: desbloquea las selecciones de IA con ganancias de hasta el 93% desde su entrada",
+      "link": "https://es.investing.com/news/stock-market-news/black-friday-desbloquea-las-selecciones-de-ia-con-ganancias-de-hasta-el-93-desde-su-entrada-3944418",
+      "summary": "",
+      "published": "2026-11-26T02:05:06+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Flight Centre Ltd?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-flight-centre-ltd-93CH-3944414",
+      "summary": "",
+      "published": "2026-11-26T01:40:55+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+      "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+      "published": "2026-11-26T01:34:58+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Flight Centre investiga una brecha de datos en su sistema de reservas",
+      "link": "https://es.investing.com/news/stock-market-news/flight-centre-investiga-una-brecha-de-datos-en-su-sistema-de-reservas-3944393",
+      "summary": "",
+      "published": "2026-11-26T00:57:33+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "published": "2026-11-26T00:33:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Los futuros de EE.UU. se estabilizan tras una sesión volátil en Wall Street",
+      "link": "https://es.investing.com/news/stock-market-news/los-futuros-de-eeuu-se-estabilizan-tras-una-sesion-volatil-en-wall-street-3944366",
+      "summary": "",
+      "published": "2026-11-25T23:43:43+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "published": "2026-11-25T23:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "summary": "“My wife stopped working outside the home in 1970.”",
+      "published": "2026-11-25T23:00:00+00:00",
+      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -686,51 +775,6 @@
       "summary": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
       "published": "2026-11-25T21:56:43+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de Vertex Pharmaceuticals?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-vertex-pharmaceuticals-93CH-3944298",
-      "summary": "",
-      "published": "2026-11-25T21:56:32+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué se dispara hoy la acción de Vera Therapeutics?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-vera-therapeutics-93CH-3944297",
-      "summary": "",
-      "published": "2026-11-25T21:56:18+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué cae hoy la acción de Palo Alto Networks Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-palo-alto-networks-inc-93CH-3944296",
-      "summary": "",
-      "published": "2026-11-25T21:54:50+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué caen hoy las acciones de Targa Resources Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-targa-resources-inc-93CH-3944294",
-      "summary": "",
-      "published": "2026-11-25T21:52:54+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué las acciones de Kinetik Holdings se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-kinetik-holdings-se-disparan-hoy-93CH-3944293",
-      "summary": "",
-      "published": "2026-11-25T21:52:27+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -748,42 +792,6 @@
       "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
       "summary": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout.",
       "published": "2026-11-25T21:36:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "How to spot ‘bogus boutiques’ and other Black Friday shopping scams",
-      "link": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
-      "summary": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.",
-      "published": "2026-11-25T21:29:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
-      "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
-      "summary": "Just ahead of pivotal December vote to raise U.S. interest rates, the Federal Reserve on Wednesday said stubborn inflation remains a thorn in the side of an expanding economy.",
-      "published": "2026-11-25T19:39:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
-      "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
-      "summary": "Sales of newly built homes surged to the highest level of the year in October, as home builders offered aggressive discounts to buyers.",
-      "published": "2026-11-25T19:20:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
-      "link": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories",
-      "summary": "Real Vision CEO Raoul Pal explains how liquidity moves stocks and crypto, why he does not expect a recession in 2027 and how emotion cost him in 2009",
-      "published": "2026-11-25T19:16:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -915,15 +923,6 @@
       "tickers": []
     },
     {
-      "title": "How China is using summits to expand its global influence",
-      "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
-      "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
-      "published": "2026-11-21T06:00:02+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "El peso mexicano pierde 3,5% en la semana y toca los MXN$19,19, su peor nivel desde junio de 2025",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-peso-mexicano-pierde-35-en-la-semana-y-toca-los-mxn1919-su-peor-nivel-desde-junio-de-2025/",
       "summary": "La moneda mexicana cotiza en MXN$19,19 por cada billete verde, una depreciación de 0,5% frente al cierre del jueves",
@@ -998,7 +997,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 23,
-    "sin_accion": 36
+    "acciones_con_noticias": 24,
+    "sin_accion": 35
   }
 }
