@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:12:01.001851+00:00",
+  "generated_at": "2026-11-27T22:15:39.994450+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 0.8,
+      "ventana_horas": 4.7,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 492.6,
+      "ventana_horas": 505.6,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 1.7,
+      "ventana_horas": 5.2,
       "ok": true
     }
   ],
@@ -76,27 +76,27 @@
       "sector": "Semiconductores",
       "news": [
         {
+          "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+          "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+          "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+          "published": "2026-11-27T20:16:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "S&P 500, Dow Jones, IPC: Caída del petróleo; Bolsas suben por la IA (menos Nvidia)",
+          "link": "https://es.investing.com/news/stock-market-news/sp-500-dow-jones-ipc-caida-del-petroleo-bolsas-suben-por-la-ia-menos-nvidia-3945475",
+          "summary": "",
+          "published": "2026-11-27T16:52:08+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
+        {
           "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
           "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
           "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
           "published": "2026-11-27T13:29:43+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-          "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-          "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-          "published": "2026-11-27T13:15:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
-          "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
-          "summary": "Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, one analyst says.",
-          "published": "2026-11-27T12:29:00+00:00",
-          "source_short": "MarketW",
           "source_scope": "Internacional"
         },
         {
@@ -153,6 +153,38 @@
           "summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
           "published": "2026-11-13T17:06:57+00:00",
           "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": "NYSE",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "¿Por qué las acciones de Oracle Corporation suben hoy?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-oracle-corporation-suben-hoy-93CH-3945476",
+          "summary": "",
+          "published": "2026-11-27T16:54:48+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "¿Por qué sube hoy la acción de Meta Platforms Inc?",
+          "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-meta-platforms-inc-93CH-3945473",
+          "summary": "",
+          "published": "2026-11-27T16:49:46+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -242,22 +274,6 @@
           "published": "2026-10-15T23:06:23+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "UBS",
-      "name": "UBS",
-      "exchange": "NYSE",
-      "sector": "Banca",
-      "news": [
-        {
-          "title": "3 acciones de lujo castigadas para comprar ahora, según UBS",
-          "link": "https://es.investing.com/news/stock-market-news/3-acciones-de-lujo-castigadas-para-comprar-ahora-segun-ubs-3945370",
-          "summary": "",
-          "published": "2026-11-27T13:30:01+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
         }
       ]
     },
@@ -696,10 +712,73 @@
   ],
   "sin_accion": [
     {
-      "title": "El Black Friday termina pronto: solo quedan horas para conseguir un 60% de descuento en InvestingPro",
-      "link": "https://es.investing.com/news/stock-market-news/el-black-friday-termina-pronto-solo-quedan-horas-para-conseguir-un-60-de-descuento-en-investingpro-3945385",
+      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+      "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+      "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
+      "published": "2026-11-27T21:45:41+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué suben hoy las acciones de Strategy Inc?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-suben-hoy-las-acciones-de-strategy-inc-93CH-3945548",
       "summary": "",
-      "published": "2026-11-27T13:56:45+00:00",
+      "published": "2026-11-27T21:32:58+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "OpenKM: la gestión documental inteligente y la automatización de procesos, claves para rentabilizar la inversión empresarial en IA",
+      "link": "https://es.investing.com/news/stock-market-news/openkm-la-gestion-documental-inteligente-y-la-automatizacion-de-procesos-claves-para-rentabilizar-la-inversion-empresarial-en-ia-3945529",
+      "summary": "",
+      "published": "2026-11-27T20:19:17+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "EROS, la inmobiliaria de un joven de 21 años que supera los 70 millones en volumen de comercialización",
+      "link": "https://es.investing.com/news/stock-market-news/eros-la-inmobiliaria-de-un-joven-de-21-anos-que-supera-los-70-millones-en-volumen-de-comercializacion-3945530",
+      "summary": "",
+      "published": "2026-11-27T20:19:17+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+      "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+      "published": "2026-11-27T19:55:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "50.87% vs. 15.22%: Obtén las acciones que hasta triplican rendimiento de los Cetes",
+      "link": "https://es.investing.com/news/stock-market-news/5087-vs-1522-obten-las-acciones-que-hasta-triplican-rendimiento-de-los-cetes-3945523",
+      "summary": "",
+      "published": "2026-11-27T19:38:09+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The warnings behind this week’s stock-market rally",
+      "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+      "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
+      "published": "2026-11-27T18:40:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Las acciones de la semana según Investing.com",
+      "link": "https://es.investing.com/news/stock-market-news/las-acciones-de-la-semana-segun-investingcom-3945504",
+      "summary": "",
+      "published": "2026-11-27T17:59:10+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -708,70 +787,43 @@
       "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
       "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
       "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
-      "published": "2026-11-27T13:45:00+00:00",
+      "published": "2026-11-27T17:31:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¿Por qué sube hoy la acción de Glencore PLC?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-glencore-plc-93CH-3945379",
-      "summary": "",
-      "published": "2026-11-27T13:43:07+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Antofagasta PLC?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-antofagasta-plc-93CH-3945378",
-      "summary": "",
-      "published": "2026-11-27T13:42:31+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué sube hoy la acción de Fresnillo PLC?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-fresnillo-plc-93CH-3945375",
-      "summary": "",
-      "published": "2026-11-27T13:38:07+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué está subiendo hoy la acción de Entain PLC?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-esta-subiendo-hoy-la-accion-de-entain-plc-93CH-3945374",
-      "summary": "",
-      "published": "2026-11-27T13:37:43+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Renters are now a national political constituency that can influence elections",
-      "link": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
-      "summary": "Renters backed Democrats 61% to 31% in the midterms, a 30-point margin, according to YouGov.",
-      "published": "2026-11-27T13:30:00+00:00",
+      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+      "published": "2026-11-27T17:04:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "¡AHORA O NUNCA! Por qué no puedes perderte InvestingPro al mejor precio del año",
-      "link": "https://es.investing.com/news/stock-market-news/ahora-o-nunca-por-que-no-puedes-perderte-investingpro-al-mejor-precio-del-ano-3945348",
+      "title": "El interés corto en Anthropic aumenta ante el vencimiento del periodo de bloqueo de la OPV",
+      "link": "https://es.investing.com/news/stock-market-news/el-interes-corto-en-anthropic-aumenta-ante-el-vencimiento-del-periodo-de-bloqueo-de-la-opv-3945480",
       "summary": "",
-      "published": "2026-11-27T13:22:39+00:00",
+      "published": "2026-11-27T16:59:07+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
-      "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
-      "summary": "Sales of newly built homes surged to the highest level of the year in October, as home builders offered aggressive discounts to buyers.",
-      "published": "2026-11-27T13:22:00+00:00",
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "published": "2026-11-27T16:00:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "summary": "“My wife stopped working outside the home in 1970.”",
+      "published": "2026-11-27T15:45:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -782,33 +834,6 @@
       "summary": "The November sell-off has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
       "published": "2026-11-27T13:21:56+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
-      "link": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
-      "summary": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.",
-      "published": "2026-11-27T12:42:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
-      "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
-      "summary": "As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards.",
-      "published": "2026-11-27T12:29:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
-      "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
-      "summary": "Consumers are adapting their year-end spending plans amid a shaky stock market.",
-      "published": "2026-11-27T12:22:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -907,15 +932,6 @@
       "link": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
       "summary": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened.",
       "published": "2026-11-25T17:08:03+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
-      "published": "2026-11-25T16:17:13+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1022,7 +1038,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 24,
+    "acciones_con_noticias": 25,
     "sin_accion": 36
   }
 }
