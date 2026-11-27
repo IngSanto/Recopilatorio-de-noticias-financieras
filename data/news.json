@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T03:42:41.504972+00:00",
+  "generated_at": "2026-11-27T14:12:01.001851+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -20,7 +20,7 @@
       "lang": "es",
       "site_url": "https://es.investing.com/news/stock-market-news",
       "article_count": 10,
-      "ventana_horas": 2.6,
+      "ventana_horas": 0.8,
       "ok": true
     },
     {
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 485.9,
+      "ventana_horas": 492.6,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/finance/",
       "article_count": 30,
-      "ventana_horas": 239.1,
+      "ventana_horas": 258.7,
       "ok": true
     },
     {
@@ -64,11 +64,99 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 11.2,
+      "ventana_horas": 1.7,
       "ok": true
     }
   ],
   "tickers": [
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "NASDAQ",
+      "sector": "Semiconductores",
+      "news": [
+        {
+          "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+          "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+          "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
+          "published": "2026-11-27T13:29:43+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+          "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+          "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+          "published": "2026-11-27T13:15:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
+          "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+          "summary": "Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, one analyst says.",
+          "published": "2026-11-27T12:29:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+          "link": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+          "summary": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's sharp losses and latest comeback.",
+          "published": "2026-11-26T16:00:01+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+          "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+          "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+          "published": "2026-11-25T14:29:00+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
+          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+          "summary": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
+          "published": "2026-11-23T21:00:59+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+          "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+          "published": "2026-11-23T18:00:47+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+          "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+          "published": "2026-11-19T20:21:10+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+          "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+          "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
+          "published": "2026-11-17T08:52:45+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+          "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+          "summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
+          "published": "2026-11-13T17:06:57+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        }
+      ]
+    },
     {
       "ticker": "PEMEX",
       "name": "Pemex",
@@ -76,9 +164,9 @@
       "sector": "Energía",
       "news": [
         {
-          "title": "Pemex registra fuerte explosión en ducto de Nuevo León",
+          "title": "Pemex registra fuerte incendio sobre paso de ducto de Nuevo León",
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-registra-fuerte-explosion-en-ducto-de-nuevo-leon/",
-          "summary": "La compañía mexicana señaló que personal especializado atiende la explosión sin detalles sobre personas heridas.",
+          "summary": "La compañía mexicana dijo que el fuego fue superficial, se limitó a los pastizales cercanos al derecho de vía y negó explosión alguna o afectación en la integridad del ducto",
           "published": "2026-11-27T02:18:06+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
@@ -158,137 +246,17 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "name": "Nvidia",
-      "exchange": "NASDAQ",
-      "sector": "Semiconductores",
-      "news": [
-        {
-          "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-          "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-          "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-          "published": "2026-11-27T01:15:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-          "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-          "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-          "published": "2026-11-27T00:31:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
-          "link": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
-          "summary": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's sharp losses and latest comeback.",
-          "published": "2026-11-26T16:00:01+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
-          "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
-          "summary": "The ‘Bank of AI’ faces a host of troubles ahead.",
-          "published": "2026-11-26T14:00:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-          "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-          "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-          "published": "2026-11-25T14:29:00+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-          "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-          "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
-          "published": "2026-11-25T12:26:41+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
-          "summary": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
-          "published": "2026-11-23T21:00:59+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
-          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-          "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
-          "published": "2026-11-23T18:00:47+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-          "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-          "published": "2026-11-19T20:21:10+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-          "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-          "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-          "published": "2026-11-17T08:52:45+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "PBR",
-      "name": "Petrobras",
+      "ticker": "UBS",
+      "name": "UBS",
       "exchange": "NYSE",
-      "sector": "Energía",
+      "sector": "Banca",
       "news": [
         {
-          "title": "Sheinbaum busca inversión mixta de Pemex con Petrobras en aguas profundas de México",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-busca-inversion-mixta-de-pemex-con-petrobras-en-aguas-profundas-de-mexico/",
-          "summary": "La mandataria comentó en su conferencia de prensa matutina que gente de Petrobras estuvo en México esta semana.",
-          "published": "2026-11-26T18:05:49+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
-          "summary": "La presidenta mexicana evitó responder si viajará a Brasil, pero detalló que retomará la aliaza estratégica entre ambas petroleras nacionales.",
-          "published": "2026-10-26T15:34:09+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
-          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
-          "published": "2026-10-21T19:04:25+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "BMW",
-      "name": "BMW",
-      "exchange": "XETRA",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-          "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-          "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-          "published": "2026-11-26T16:00:00+00:00",
-          "source_short": "MarketW",
+          "title": "3 acciones de lujo castigadas para comprar ahora, según UBS",
+          "link": "https://es.investing.com/news/stock-market-news/3-acciones-de-lujo-castigadas-para-comprar-ahora-segun-ubs-3945370",
+          "summary": "",
+          "published": "2026-11-27T13:30:01+00:00",
+          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -352,6 +320,38 @@
           "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-presenta-proyectos-de-redes-electricas-y-centrales-a-la-industria-privada/",
           "summary": "La empresa hizo pública la reunión con la industria cuatro días después de presentarlo en un roadshow en Ciudad de México.",
           "published": "2026-10-28T00:47:15+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
+      "ticker": "PBR",
+      "name": "Petrobras",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Sheinbaum busca inversión mixta de Pemex con Petrobras en aguas profundas de México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-busca-inversion-mixta-de-pemex-con-petrobras-en-aguas-profundas-de-mexico/",
+          "summary": "La mandataria comentó en su conferencia de prensa matutina que gente de Petrobras estuvo en México esta semana.",
+          "published": "2026-11-26T18:05:49+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
+          "summary": "La presidenta mexicana evitó responder si viajará a Brasil, pero detalló que retomará la aliaza estratégica entre ambas petroleras nacionales.",
+          "published": "2026-10-26T15:34:09+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
+          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
+          "published": "2026-10-21T19:04:25+00:00",
           "source_short": "BB Línea",
           "source_scope": "México"
         }
@@ -696,20 +696,146 @@
   ],
   "sin_accion": [
     {
-      "title": "¿Por qué sube hoy la acción de Hansoh Pharmaceutical?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-hansoh-pharmaceutical-93CH-3944919",
+      "title": "El Black Friday termina pronto: solo quedan horas para conseguir un 60% de descuento en InvestingPro",
+      "link": "https://es.investing.com/news/stock-market-news/el-black-friday-termina-pronto-solo-quedan-horas-para-conseguir-un-60-de-descuento-en-investingpro-3945385",
       "summary": "",
-      "published": "2026-11-27T03:09:14+00:00",
+      "published": "2026-11-27T13:56:45+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
     {
-      "title": "Elecciones en Nueva Zelanda resultan en un Parlamento sin mayoría",
-      "link": "https://es.investing.com/news/stock-market-news/elecciones-en-nueva-zelanda-resultan-en-un-parlamento-sin-mayoria-93CH-3944918",
+      "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+      "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+      "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+      "published": "2026-11-27T13:45:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Glencore PLC?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-glencore-plc-93CH-3945379",
       "summary": "",
-      "published": "2026-11-27T03:09:10+00:00",
+      "published": "2026-11-27T13:43:07+00:00",
       "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Antofagasta PLC?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-antofagasta-plc-93CH-3945378",
+      "summary": "",
+      "published": "2026-11-27T13:42:31+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Fresnillo PLC?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-fresnillo-plc-93CH-3945375",
+      "summary": "",
+      "published": "2026-11-27T13:38:07+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¿Por qué está subiendo hoy la acción de Entain PLC?",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-esta-subiendo-hoy-la-accion-de-entain-plc-93CH-3945374",
+      "summary": "",
+      "published": "2026-11-27T13:37:43+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Renters are now a national political constituency that can influence elections",
+      "link": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
+      "summary": "Renters backed Democrats 61% to 31% in the midterms, a 30-point margin, according to YouGov.",
+      "published": "2026-11-27T13:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¡AHORA O NUNCA! Por qué no puedes perderte InvestingPro al mejor precio del año",
+      "link": "https://es.investing.com/news/stock-market-news/ahora-o-nunca-por-que-no-puedes-perderte-investingpro-al-mejor-precio-del-ano-3945348",
+      "summary": "",
+      "published": "2026-11-27T13:22:39+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
+      "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
+      "summary": "Sales of newly built homes surged to the highest level of the year in October, as home builders offered aggressive discounts to buyers.",
+      "published": "2026-11-27T13:22:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+      "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+      "summary": "The November sell-off has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+      "published": "2026-11-27T13:21:56+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
+      "link": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
+      "summary": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.",
+      "published": "2026-11-27T12:42:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
+      "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+      "summary": "As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards.",
+      "published": "2026-11-27T12:29:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
+      "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
+      "summary": "Consumers are adapting their year-end spending plans amid a shaky stock market.",
+      "published": "2026-11-27T12:22:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+      "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+      "summary": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+      "published": "2026-11-27T08:47:36+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+      "published": "2026-11-27T06:50:38+00:00",
+      "source_short": "CNBC",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+      "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+      "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
+      "published": "2026-11-27T06:09:51+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -723,60 +849,6 @@
       "tickers": []
     },
     {
-      "title": "¿Por qué las acciones de Japan Tobacco Inc se disparan hoy?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-japan-tobacco-inc-se-disparan-hoy-93CH-3944913",
-      "summary": "",
-      "published": "2026-11-27T02:37:06+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Restricciones de chips de IA en EE.UU. frenan miles de millones en centros de datos en Asia",
-      "link": "https://es.investing.com/news/stock-market-news/restricciones-de-chips-de-ia-en-eeuu-frenan-miles-de-millones-en-centros-de-datos-en-asia-3944914",
-      "summary": "",
-      "published": "2026-11-27T02:35:54+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Acciones de Japan Tobacco se disparan por posible OPA sobre Imperial Brands",
-      "link": "https://es.investing.com/news/stock-market-news/acciones-de-japan-tobacco-se-disparan-por-posible-opa-sobre-imperial-brands-3944909",
-      "summary": "",
-      "published": "2026-11-27T02:22:49+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "El Black Friday llega a InvestingPro: hasta un 60% de descuento",
-      "link": "https://es.investing.com/news/stock-market-news/el-black-friday-de-investingpro-hasta-un-60-de-descuento-en-seleccion-de-acciones-con-ia-3944911",
-      "summary": "",
-      "published": "2026-11-27T02:20:58+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-      "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-      "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
-      "published": "2026-11-27T02:04:09+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "summary": "“My wife stopped working outside the home in 1970.”",
-      "published": "2026-11-27T01:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Gobernadora de Banxico afirma que sería “reducido y limitado” el traspaso cambiario sobre la inflación",
       "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gobernadora-de-banxico-afirma-que-seria-reducido-y-limitado-traspaso-cambiario-sobre-inflacion/",
       "summary": "La gobernadora Victoria Rodríguez Ceja aseguró que el recorte de la tasa fue un “ajuste puntual” y no representa una flexibilización de la postura monetaria.",
@@ -786,65 +858,11 @@
       "tickers": []
     },
     {
-      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-      "published": "2026-11-26T22:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-      "published": "2026-11-26T21:45:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "summary": "“Retirement is a financial status, not an age.”",
-      "published": "2026-11-26T19:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Semiconductor chips are the new oil. Here's why",
       "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
       "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
       "published": "2026-11-26T17:52:15+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-      "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
-      "published": "2026-11-26T15:28:26+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-      "published": "2026-11-26T15:13:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-      "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
-      "published": "2026-11-26T14:35:00+00:00",
-      "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -903,28 +921,10 @@
       "tickers": []
     },
     {
-      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-      "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "summary": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
-      "published": "2026-11-25T14:18:45+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
       "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
       "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
       "summary": "The product, the first one beyond event contracts, was introduced in May.",
       "published": "2026-11-24T23:03:24+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
-      "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
-      "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
-      "published": "2026-11-24T20:45:57+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
