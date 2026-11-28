@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T03:26:09.620332+00:00",
+  "generated_at": "2026-11-28T13:29:17.757588+00:00",
   "sources": [
     {
       "id": "bloomberglinea-mexico",
@@ -31,7 +31,7 @@
       "lang": "en",
       "site_url": "https://www.cnbc.com/markets/",
       "article_count": 30,
-      "ventana_horas": 505.6,
+      "ventana_horas": 459.2,
       "ok": true
     },
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "site_url": "https://www.marketwatch.com/",
       "article_count": 10,
-      "ventana_horas": 8.5,
+      "ventana_horas": 21.2,
       "ok": true
     }
   ],
@@ -75,6 +75,14 @@
       "exchange": "NASDAQ",
       "sector": "Semiconductores",
       "news": [
+        {
+          "title": "¿Perdiste el tren de Nvidia? Estas tech son las más rentables de ProPicks en 2026",
+          "link": "https://es.investing.com/news/stock-market-news/perdiste-el-tren-de-nvidia-estas-tech-son-las-mas-rentables-de-propicks-en-2026-3945643",
+          "summary": "",
+          "published": "2026-11-28T06:46:43+00:00",
+          "source_short": "Investing",
+          "source_scope": "Internacional"
+        },
         {
           "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
           "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
@@ -145,78 +153,6 @@
           "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
           "published": "2026-11-17T08:52:45+00:00",
           "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-          "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-          "summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
-          "published": "2026-11-13T17:06:57+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "exchange": "NASDAQ",
-      "sector": "Tecnología",
-      "news": [
-        {
-          "title": "Perspectivas del mercado de smartphones en 2027: Apple superará al sector pese a caída del 5%",
-          "link": "https://es.investing.com/news/stock-market-news/perspectivas-del-mercado-de-smartphones-en-2027-apple-superara-al-sector-3945595",
-          "summary": "",
-          "published": "2026-11-28T00:03:22+00:00",
-          "source_short": "Investing",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-          "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-          "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-          "published": "2026-11-17T08:52:45+00:00",
-          "source_short": "CNBC",
-          "source_scope": "Internacional"
-        },
-        {
-          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
-          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
-          "published": "2026-10-27T21:07:21+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        }
-      ]
-    },
-    {
-      "ticker": "BMW",
-      "name": "BMW",
-      "exchange": "XETRA",
-      "sector": "Automotriz",
-      "news": [
-        {
-          "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-          "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-          "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-          "published": "2026-11-28T00:00:00+00:00",
-          "source_short": "MarketW",
-          "source_scope": "Internacional"
-        }
-      ]
-    },
-    {
-      "ticker": "GAPB.MX",
-      "name": "Grupo Aeroportuario del Pacífico",
-      "exchange": "BMV",
-      "sector": "Aeropuertos",
-      "news": [
-        {
-          "title": "Grupo Aeroportuario del Pacífico completa la OPI de FIBRA GAP por 7.820 millones de pesos",
-          "link": "https://es.investing.com/news/stock-market-news/grupo-aeroportuario-del-pacifico-completa-la-opi-de-fibra-gap-por-7820-millones-de-pesos-432SI-3945593",
-          "summary": "",
-          "published": "2026-11-27T23:58:01+00:00",
-          "source_short": "Investing",
           "source_scope": "Internacional"
         }
       ]
@@ -310,34 +246,18 @@
       ]
     },
     {
-      "ticker": "PBR",
-      "name": "Petrobras",
-      "exchange": "NYSE",
-      "sector": "Energía",
+      "ticker": "BMW",
+      "name": "BMW",
+      "exchange": "XETRA",
+      "sector": "Automotriz",
       "news": [
         {
-          "title": "Sheinbaum busca inversión mixta de Pemex con Petrobras en aguas profundas de México",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-busca-inversion-mixta-de-pemex-con-petrobras-en-aguas-profundas-de-mexico/",
-          "summary": "La mandataria comentó en su conferencia de prensa matutina que gente de Petrobras estuvo en México esta semana.",
-          "published": "2026-11-26T18:05:49+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
-          "summary": "La presidenta mexicana evitó responder si viajará a Brasil, pero detalló que retomará la aliaza estratégica entre ambas petroleras nacionales.",
-          "published": "2026-10-26T15:34:09+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
-        },
-        {
-          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
-          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
-          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
-          "published": "2026-10-21T19:04:25+00:00",
-          "source_short": "BB Línea",
-          "source_scope": "México"
+          "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+          "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+          "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+          "published": "2026-11-28T00:00:00+00:00",
+          "source_short": "MarketW",
+          "source_scope": "Internacional"
         }
       ]
     },
@@ -406,6 +326,38 @@
       ]
     },
     {
+      "ticker": "PBR",
+      "name": "Petrobras",
+      "exchange": "NYSE",
+      "sector": "Energía",
+      "news": [
+        {
+          "title": "Sheinbaum busca inversión mixta de Pemex con Petrobras en aguas profundas de México",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-busca-inversion-mixta-de-pemex-con-petrobras-en-aguas-profundas-de-mexico/",
+          "summary": "La mandataria comentó en su conferencia de prensa matutina que gente de Petrobras estuvo en México esta semana.",
+          "published": "2026-11-26T18:05:49+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum hablará con Lula para felicitarlo y retomará relación de Pemex con Petrobras",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-hablara-con-lula-para-felicitarlo-y-retomara-relacion-de-pemex-con-petrobras/",
+          "summary": "La presidenta mexicana evitó responder si viajará a Brasil, pero detalló que retomará la aliaza estratégica entre ambas petroleras nacionales.",
+          "published": "2026-10-26T15:34:09+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        },
+        {
+          "title": "Sheinbaum espera que avance la colaboración de Pemex y Petrobras tras elecciones en Brasil",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-espera-que-avance-la-colaboracion-de-pemex-y-petrobras-tras-elecciones-en-brasil/",
+          "summary": "El objetivo es que Petrobras ayude a Pemex principalmente en la exploración de activos petroleros.",
+          "published": "2026-10-21T19:04:25+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
+        }
+      ]
+    },
+    {
       "ticker": "BBVA",
       "name": "BBVA",
       "exchange": "NYSE",
@@ -442,6 +394,30 @@
           "published": "2026-11-16T22:14:47+00:00",
           "source_short": "CNBC",
           "source_scope": "Internacional"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "sector": "Tecnología",
+      "news": [
+        {
+          "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+          "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+          "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
+          "published": "2026-11-17T08:52:45+00:00",
+          "source_short": "CNBC",
+          "source_scope": "Internacional"
+        },
+        {
+          "title": "Grupo Sanborns se beneficia de ventas de iPhone, e-commerce y festival del mollete",
+          "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-sanborns-se-beneficia-de-ventas-de-iphone-e-commerce-y-festival-del-mollete/",
+          "summary": "La división comercial de Grupo Carso ve espacio para seguir expandiendo el margen EBITDA.",
+          "published": "2026-10-27T21:07:21+00:00",
+          "source_short": "BB Línea",
+          "source_scope": "México"
         }
       ]
     },
@@ -720,37 +696,10 @@
   ],
   "sin_accion": [
     {
-      "title": "Acciones de IA repuntan: aprovecha el próximo movimiento con un 60% de descuento",
-      "link": "https://es.investing.com/news/stock-market-news/acciones-de-ia-repuntan-aprovecha-el-proximo-movimiento-con-un-60-de-descuento-3945618",
+      "title": "¿Dónde se sitúa la caída de la semana pasada en la historia?",
+      "link": "https://es.investing.com/news/stock-market-news/donde-se-situa-la-caida-de-la-semana-pasada-en-la-historia-3945680",
       "summary": "",
-      "published": "2026-11-28T02:34:55+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¡Los ahorros increíbles están terminando! InvestingPro por menos de 1,90 dólares a la semana",
-      "link": "https://es.investing.com/news/stock-market-news/los-ahorros-increibles-estan-terminando-investingpro-por-menos-de-190-dolares-a-la-semana-3945615",
-      "summary": "",
-      "published": "2026-11-28T02:17:58+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Funcionarios del BCE señalan nuevas subidas de tipos ante la elevada inflación",
-      "link": "https://es.investing.com/news/stock-market-news/funcionarios-del-bce-senalan-nuevas-subidas-de-tipos-ante-la-elevada-inflacion-3945610",
-      "summary": "",
-      "published": "2026-11-28T01:40:11+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Las ventas online del Black Friday en EE.UU. superarán los 13.000 millones de dólares",
-      "link": "https://es.investing.com/news/stock-market-news/las-ventas-online-del-black-friday-en-eeuu-superaran-los-13000-millones-de-dolares-3945600",
-      "summary": "",
-      "published": "2026-11-28T00:56:46+00:00",
+      "published": "2026-11-28T13:13:15+00:00",
       "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
@@ -759,8 +708,71 @@
       "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
       "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
       "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
-      "published": "2026-11-27T23:15:00+00:00",
+      "published": "2026-11-28T13:00:00+00:00",
       "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "These tech stocks may let you play defense without giving up on AI",
+      "link": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
+      "summary": "Amphenol, CDW, Sensata Technologies and TE Connectivity stood out when an Evercore analyst did a stress test of the hardware-related stocks he covers.",
+      "published": "2026-11-28T12:30:00+00:00",
+      "source_short": "MarketW",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "+157%: Las acciones elegidas por nuestra IA para diciembre llegarán pronto, ahora con 60% de descuento",
+      "link": "https://es.investing.com/news/stock-market-news/157-las-acciones-elegidas-por-nuestra-ia-para-diciembre-llegaran-muy-pronto-ahora-con-un-60-de-descuento-3945676",
+      "summary": "",
+      "published": "2026-11-28T11:53:08+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "¡ÚLTIMA OPORTUNIDAD! Cyber Monday: el precio más bajo del año en InvestingPro",
+      "link": "https://es.investing.com/news/stock-market-news/ultima-oportunidad-cyber-monday-el-precio-mas-bajo-del-ano-en-investingpro-3945662",
+      "summary": "",
+      "published": "2026-11-28T09:32:53+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Por qué te interesa Pro+: 88 estrategias y 1.200 métricas al menor precio del año",
+      "link": "https://es.investing.com/news/stock-market-news/por-que-te-interesa-pro-88-estrategias-y-1200-metricas-al-menor-precio-del-ano-3945657",
+      "summary": "",
+      "published": "2026-11-28T08:53:16+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "CYBER MONDAY EN DIRECTO: Todo esto con InvestingPro por menos de 6,50 euros al mes",
+      "link": "https://es.investing.com/news/stock-market-news/cyber-monday-en-directo-todo-lo-que-puedes-obtener-con-investingpro-por-menos-de-750-dolares-al-mes-3945656",
+      "summary": "",
+      "published": "2026-11-28T08:48:08+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Ibex 35 y el 29-N: ganadores y perdedores en bolsa según el resultado",
+      "link": "https://es.investing.com/news/stock-market-news/ibex-35-y-el-29n-ganadores-y-perdedores-segun-quien-gane-3945649",
+      "summary": "",
+      "published": "2026-11-28T07:31:07+00:00",
+      "source_short": "Investing",
+      "source_scope": "Internacional",
+      "tickers": []
+    },
+    {
+      "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+      "link": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+      "summary": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+      "published": "2026-11-28T06:00:01+00:00",
+      "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -770,24 +782,6 @@
       "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
       "published": "2026-11-27T21:45:41+00:00",
       "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "¿Por qué suben hoy las acciones de Strategy Inc?",
-      "link": "https://es.investing.com/news/stock-market-news/por-que-suben-hoy-las-acciones-de-strategy-inc-93CH-3945548",
-      "summary": "",
-      "published": "2026-11-27T21:32:58+00:00",
-      "source_short": "Investing",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "OpenKM: la gestión documental inteligente y la automatización de procesos, claves para rentabilizar la inversión empresarial en IA",
-      "link": "https://es.investing.com/news/stock-market-news/openkm-la-gestion-documental-inteligente-y-la-automatizacion-de-procesos-claves-para-rentabilizar-la-inversion-empresarial-en-ia-3945529",
-      "summary": "",
-      "published": "2026-11-27T20:19:17+00:00",
-      "source_short": "Investing",
       "source_scope": "Internacional",
       "tickers": []
     },
@@ -823,15 +817,6 @@
       "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
       "summary": "“Retirement is a financial status, not an age.”",
       "published": "2026-11-27T16:00:00+00:00",
-      "source_short": "MarketW",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "summary": "“My wife stopped working outside the home in 1970.”",
-      "published": "2026-11-27T15:45:00+00:00",
       "source_short": "MarketW",
       "source_scope": "Internacional",
       "tickers": []
@@ -922,15 +907,6 @@
       "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
       "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
       "published": "2026-11-26T05:36:01+00:00",
-      "source_short": "CNBC",
-      "source_scope": "Internacional",
-      "tickers": []
-    },
-    {
-      "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-      "link": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-      "summary": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
-      "published": "2026-11-25T21:56:43+00:00",
       "source_short": "CNBC",
       "source_scope": "Internacional",
       "tickers": []
@@ -1046,7 +1022,7 @@
   ],
   "totales": {
     "articulos": 180,
-    "acciones_con_noticias": 25,
+    "acciones_con_noticias": 24,
     "sin_accion": 36
   }
 }
